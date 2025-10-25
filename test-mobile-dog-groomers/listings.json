@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Paws & Play Mobile Grooming",
+    "phone": "(555) 123-4567",
+    "email": "info@pawsplaygrooming.com",
+    "website": "https://pawsplaygrooming.com",
+    "address": "123 Mobile Ave, Anywhere, USA",
+    "services": [
+      "Dog Grooming",
+      "Mobile Service",
+      "Pet Care"
+    ],
+    "rating": 4.8,
+    "reviews": 45
+  },
+  {
+    "name": "Wag & Wash Mobile Pet Spa",
+    "phone": "(555) 987-6543",
+    "email": "contact@wagandwash.com",
+    "website": "https://wagandwash.com",
+    "address": "456 Service St, Everywhere, USA",
+    "services": [
+      "Cat Grooming",
+      "Dog Bathing",
+      "Mobile Grooming"
+    ],
+    "rating": 4.6,
+    "reviews": 32
+  }
+]
