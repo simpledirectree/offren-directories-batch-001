@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Plumbing Services Business 1",
+    "address": "123 Main St #1, Local",
+    "phone": "555-011-0000",
+    "rating": 4.0,
+    "reviews": 10,
+    "website": "https://business1.example.com",
+    "category": "plumbing services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "description": "Professional plumbing services services in local",
+    "logo_url": "https://via.placeholder.com/200x100?text=Plumbing S",
+    "images": [
+      "https://via.placeholder.com/400x300?text=Plumbing Services Business 1"
+    ],
+    "services": [
+      "plumbing services consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Plumbing Services Business 2",
+    "address": "123 Main St #2, Local",
+    "phone": "555-012-0000",
+    "rating": 4.2,
+    "reviews": 15,
+    "website": "https://business2.example.com",
+    "category": "plumbing services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "description": "Professional plumbing services services in local",
+    "logo_url": "https://via.placeholder.com/200x100?text=Plumbing S",
+    "images": [
+      "https://via.placeholder.com/400x300?text=Plumbing Services Business 2"
+    ],
+    "services": [
+      "plumbing services consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Plumbing Services Business 3",
+    "address": "123 Main St #3, Local",
+    "phone": "555-013-0000",
+    "rating": 4.4,
+    "reviews": 20,
+    "website": "https://business3.example.com",
+    "category": "plumbing services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "description": "Professional plumbing services services in local",
+    "logo_url": "https://via.placeholder.com/200x100?text=Plumbing S",
+    "images": [
+      "https://via.placeholder.com/400x300?text=Plumbing Services Business 3"
+    ],
+    "services": [
+      "plumbing services consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Plumbing Services Business 4",
+    "address": "123 Main St #4, Local",
+    "phone": "555-014-0000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://business4.example.com",
+    "category": "plumbing services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "description": "Professional plumbing services services in local",
+    "logo_url": "https://via.placeholder.com/200x100?text=Plumbing S",
+    "images": [
+      "https://via.placeholder.com/400x300?text=Plumbing Services Business 4"
+    ],
+    "services": [
+      "plumbing services consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Plumbing Services Business 5",
+    "address": "123 Main St #5, Local",
+    "phone": "555-015-0000",
+    "rating": 4.8,
+    "reviews": 30,
+    "website": "https://business5.example.com",
+    "category": "plumbing services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "description": "Professional plumbing services services in local",
+    "logo_url": "https://via.placeholder.com/200x100?text=Plumbing S",
+    "images": [
+      "https://via.placeholder.com/400x300?text=Plumbing Services Business 5"
+    ],
+    "services": [
+      "plumbing services consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
