@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Grove",
+    "address": "1700 Post Oak Blvd, Houston, TX 77056",
+    "phone": "(713) 804-0440",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.thegrovehouston.com/",
+    "category": "wedding venues",
+    "description": "A unique, two-story venue situated in a 12-acre downtown park, offering scenic city skyline views",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "wedding venues consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Duce",
+    "address": "450 S Hewitt St, Los Angeles, CA 90013",
+    "phone": "(213) 620-0400",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.theduce.com/",
+    "category": "wedding venues",
+    "description": "An industrial-chic venue with an outdoor patio and rooftop, offering a versatile space for events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "wedding venues consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Salvatore's",
+    "address": "5253 W Devon Ave, Chicago, IL 60630",
+    "phone": "(773) 774-0100",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://salvatoreschicago.com/",
+    "category": "wedding venues",
+    "description": "A classic Chicago wedding venue located in Lincoln Park, known for its serene atmosphere and timeless elegance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "wedding venues consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Room on Main",
+    "address": "1304 Main St, Dallas, TX 75202",
+    "phone": "(214) 742-1777",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.theroomonmain.com/",
+    "category": "wedding venues",
+    "description": "A premier wedding venue in downtown Dallas, offering a convenient location, timeless elements, and fantastic photo opportunities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "wedding venues consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The View at Battery Park",
+    "address": "17 State St, New York, NY 10004",
+    "phone": "(212) 809-8800",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.theviewatbatterypark.com/",
+    "category": "wedding venues",
+    "description": "A waterfront property on the southern tip of Manhattan with sweeping harbor views, suitable for intimate or grand celebrations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "wedding venues consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clayton House by Wedgewood Weddings",
+    "address": "7425 E. First Ave, Scottsdale, AZ 85251",
+    "phone": "(480) 946-7500",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.wedgewoodweddings.com/clayton-house",
+    "category": "wedding venues",
+    "description": "A premier wedding and event venue in downtown Scottsdale with indoor/outdoor spaces, in-house catering, and bar services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "wedding venues consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blanco Urban Venue",
+    "address": "118 S. Montgomery St, San Jose, CA 95110",
+    "phone": "(408) 297-2622",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://blancourbanvenue.com/",
+    "category": "wedding venues",
+    "description": "A unique, modern wedding space in downtown San Jose's historic district, featuring original brick walls and a stylish, old-world appeal",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "wedding venues consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arts Ballroom",
+    "address": "1331 Locust St, Philadelphia, PA 19107",
+    "phone": "(215) 735-0350",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.artsballroom.com/",
+    "category": "wedding venues",
+    "description": "An elegant wedding and events venue in the heart of Center City Philadelphia, known for its classic ballroom and customizable catering packages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "wedding venues consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Omni La Mansi\u00f3n del Rio",
+    "address": "112 College St, San Antonio, TX 78205",
+    "phone": "(210) 518-1000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.omnihotels.com/hotels/san-antonio-la-mansion-del-rio",
+    "category": "wedding venues",
+    "description": "An elegant hotel wedding venue located in downtown San Antonio, offering a beautiful destination for ceremonies and receptions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "wedding venues consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Harbor View Loft",
+    "address": "200 W Harbor Dr, San Diego, CA 92101",
+    "phone": "(619) 234-0000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.harborviewloft.com/",
+    "category": "wedding venues",
+    "description": "A picturesque waterfront wedding venue on Harbor Island, offering panoramic views of the marina and city skyline, with expert coordination and catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "wedding venues consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
