@@ -1,0 +1,172 @@
+[
+  {
+    "name": "ECG Carpentry Services",
+    "address": "Pennsburg, PA",
+    "phone": "267-347-2228",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/ECG+Carpentry+Services",
+    "category": "test carpenter",
+    "description": "Offers a range of carpentry services including roofing, siding, windows, doors, decks, and sunrooms, with a focus on quality craftsmanship and durability",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "test carpenter consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Carpenters on Call",
+    "address": "Austin, TX",
+    "phone": "",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Carpenters+on+Call",
+    "category": "test carpenter",
+    "description": "Provides finish carpentry and handyman services, specializing in trim work, custom shelving, and storage solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "test carpenter consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TruSquare Construction LLC",
+    "address": "Atlanta, GA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/TruSquare+Construction+LLC",
+    "category": "test carpenter",
+    "description": "A general contractor with carpentry experience since 2010, handling projects like outdoor living areas, light remodels, new installations, and repairs, including drywall, painting, doors, trim, and cabinetry",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "test carpenter consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Garner Millwork & Cabinets",
+    "address": "Tupelo, MS",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Garner+Millwork+&+Cabinets",
+    "category": "test carpenter",
+    "description": "A custom woodworking company specializing in high-quality cabinets, doors, and other millwork for residential and commercial clients, with over 20 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "test carpenter consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gingy's General Construction Inc.",
+    "address": "Not explicitly stated in the search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Gingy's+General+Construction+Inc.",
+    "category": "test carpenter",
+    "description": "Offers general construction and carpentry services, emphasizing quality work and client satisfaction, with over 18 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "test carpenter consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CPR Home Solutions, Inc.",
+    "address": "Not explicitly stated in the search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/CPR+Home+Solutions,+Inc.",
+    "category": "test carpenter",
+    "description": "A locally owned company with over 10 years of experience, specializing in handyman and carpentry work, home improvement services, and related repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "test carpenter consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Northgate Development",
+    "address": "Bay area",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Northgate+Development",
+    "category": "test carpenter",
+    "description": "Provides quality craftsmanship at affordable prices, with a division for handyman services specializing in deck work",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "test carpenter consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Duke Dumont Construction",
+    "address": "Phoenix, AZ",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Duke+Dumont+Construction",
+    "category": "test carpenter",
+    "description": "Offers construction services with a focus on planning, oversight, and execution of projects",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "test carpenter consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fierro Carpentry",
+    "address": "Phoenix, AZ",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Fierro+Carpentry",
+    "category": "test carpenter",
+    "description": "Provides carpentry services, with a focus on professional and efficient work for various projects",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "test carpenter consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Crown Element Carpentry and Remodeling",
+    "address": "Not explicitly stated in the search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Crown+Element+Carpentry+and+Remodeling",
+    "category": "test carpenter",
+    "description": "A small business contractor specializing in residential carpentry and remodeling, including custom decks, kitchen and bath remodels, finish carpentry, custom built-ins, and handyman services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "test carpenter consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
