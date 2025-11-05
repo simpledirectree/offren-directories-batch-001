@@ -1,6 +1,6 @@
 [
   {
-    "name": "Here are 10 coffee shops with their collective ratings:",
+    "name": "Rating:",
     "address": "",
     "phone": "",
     "rating": 0,
@@ -11,7 +11,7 @@
     "source": "pollinations_ai"
   },
   {
-    "name": "Yaw Farm Coffee Roaster**",
+    "name": "Description:",
     "address": "",
     "phone": "",
     "rating": 0,
@@ -22,7 +22,7 @@
     "source": "pollinations_ai"
   },
   {
-    "name": "Rating:** 4.8/5 (based on 95% five-star reviews)",
+    "name": "Rating:",
     "address": "",
     "phone": "",
     "rating": 0,
@@ -33,7 +33,7 @@
     "source": "pollinations_ai"
   },
   {
-    "name": "Description:** This Las Vegas-based roastery focuses on careful sourcing, expert pour-over techniques, and house-made syrups. It's known for its quality coffee and personalized service, even without seating or Wi-Fi.",
+    "name": "Description:",
     "address": "",
     "phone": "",
     "rating": 0,
@@ -44,7 +44,7 @@
     "source": "pollinations_ai"
   },
   {
-    "name": "Neki Cafe**",
+    "name": "Rating:",
     "address": "",
     "phone": "",
     "rating": 0,
@@ -55,7 +55,7 @@
     "source": "pollinations_ai"
   },
   {
-    "name": "Rating:** 4.9/5 (from 195 reviews)",
+    "name": "Description:",
     "address": "",
     "phone": "",
     "rating": 0,
@@ -66,7 +66,7 @@
     "source": "pollinations_ai"
   },
   {
-    "name": "Description:** An independent, family-run artisan caf\u00e9 in Knutsford, Neki Cafe received a Tripadvisor Traveller's Choice Award for 2025. They serve breakfasts, brunches, paninis, and sweet treats, complemented by their own brand of coffee.",
+    "name": "Rating:",
     "address": "",
     "phone": "",
     "rating": 0,
@@ -77,7 +77,7 @@
     "source": "pollinations_ai"
   },
   {
-    "name": "Hot Cocoa**",
+    "name": "Description:",
     "address": "",
     "phone": "",
     "rating": 0,
@@ -88,7 +88,7 @@
     "source": "pollinations_ai"
   },
   {
-    "name": "Rating:** 4.9/5 (from 28 reviews)",
+    "name": "Rating:",
     "address": "",
     "phone": "",
     "rating": 0,
@@ -99,7 +99,7 @@
     "source": "pollinations_ai"
   },
   {
-    "name": "Description:** Located in Knutsford, this artisan chocolatier and coffee shop offers hot and cold drinks, handmade chocolates, and chocolatey cakes. It's particularly noted for its divine hot chocolate.",
+    "name": "Description:",
     "address": "",
     "phone": "",
     "rating": 0,
