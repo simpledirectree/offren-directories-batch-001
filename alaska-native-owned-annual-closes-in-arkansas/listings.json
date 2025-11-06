@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Native Skies Gallery",
+    "address": "(Currently closed, seeking new location)",
+    "phone": "1 (479) 879-4444",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nativeskiesgallery.com/",
+    "category": "Alaska-Native-owned Annual closes in Arkansas",
+    "description": "Specializes in Native American Art, Pueblo Pottery, and Turquoise Jewelry. They are a family-owned business dedicated to showcasing and preserving Native arts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Annual closes in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Museum of Native American History (MONAH) Shop",
+    "address": "202 SW \"A\" Street, Bentonville, AR 72712",
+    "phone": "(479) 273-2456",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.monah.org/shop",
+    "category": "Alaska-Native-owned Annual closes in Arkansas",
+    "description": "The MONAH Shop supports Indigenous-owned businesses by offering Native American artwork and crafts, including textiles and home goods. They collaborate with local Native artists",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Annual closes in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "American Indian Center of Arkansas (AICA)",
+    "address": "400 W. Capitol Ave., Ste. 1391, Little Rock, AR, 72201",
+    "phone": "(501) 374-5445",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://aica.org/",
+    "category": "Alaska-Native-owned Annual closes in Arkansas",
+    "description": "A non-profit organization led by a Native American/Alaska Native board of directors, dedicated to improving the quality of life for Native American/Alaska Native individuals in Arkansas through various programs and services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Annual closes in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
