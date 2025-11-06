@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Boston Family Acupuncture",
+    "address": "7 Whittier Place, Suite 201, Boston, MA 02114",
+    "phone": "(617) 901-7077",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bostonfamilyacupuncture.com/",
+    "category": "Chinese-speaking Integrative medicine in Massachusetts",
+    "description": "Offers acupuncture, Chinese herbal medicine, acupressure, cupping, and moxibustion, specializing in fertility, women's health, and pain management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Integrative medicine in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Flying Turtle Healing Arts",
+    "address": "303 Somerville Ave, Somerville, MA 02143",
+    "phone": "(617) 776-0500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.flyingturtlehealingarts.com/",
+    "category": "Chinese-speaking Integrative medicine in Massachusetts",
+    "description": "Specializes in acupuncture and Chinese herbal medicine, offering services like cupping and trigger point dry needling",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Integrative medicine in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chinese Natural Health",
+    "address": "133 Brookline Ave, F6, Boston, MA 02215 and 464 Commonwealth Ave, Suite 16, Boston, MA 02215",
+    "phone": "(617) 859-5995",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chinesenaturalhealth.com/",
+    "category": "Chinese-speaking Integrative medicine in Massachusetts",
+    "description": "Provides acupuncture services for pain management, cancer after-effects, and various other conditions, emphasizing natural healing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Integrative medicine in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Turning Leaf Acupuncture",
+    "address": "1372 Beacon St, Brookline, MA 02446",
+    "phone": "(617) 566-0600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.turningleafacu.com/",
+    "category": "Chinese-speaking Integrative medicine in Massachusetts",
+    "description": "Offers acupuncture and Chinese herbal medicine, focusing on maintaining balance in the body and treating the root cause of health concerns",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Integrative medicine in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New England Integrated Health (NEIH)",
+    "address": "1633 Cambridge St, Cambridge, MA 02138",
+    "phone": "(617) 864-2200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.neih.com/",
+    "category": "Chinese-speaking Integrative medicine in Massachusetts",
+    "description": "Provides Traditional Chinese Medicine, including acupuncture, Chinese herbs, gua sha, and cupping, with partnerships with MIT Health, Tufts University Student Health Services, and Wayfair",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Integrative medicine in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Springfield Family Acupuncture Clinic",
+    "address": "1441 Main St, Suite 301, Springfield, MA 01103",
+    "phone": "(413) 781-7000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.springfieldfamilyacupuncture.com/",
+    "category": "Chinese-speaking Integrative medicine in Massachusetts",
+    "description": "Integrates acupuncture, herbal medicine, and other holistic practices for optimal health and well-being, offering personalized care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Integrative medicine in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North End Acupuncture",
+    "address": "145 Commercial St, Boston, MA 02109",
+    "phone": "(617) 720-2228",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.northendacupuncture.com/",
+    "category": "Chinese-speaking Integrative medicine in Massachusetts",
+    "description": "Blends traditional treatments like acupuncture and herbal medicine with modern methods for an integrative approach to health, serving the Boston community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Integrative medicine in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mindful Acupuncture and Herbs",
+    "address": "67 Union St, #202, Natick, MA 01760 and 2464 Massachusetts Ave, #312, Cambridge, MA 02143",
+    "phone": "(617) 309-8925",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mindfulacuherbs.com/",
+    "category": "Chinese-speaking Integrative medicine in Massachusetts",
+    "description": "A natural health clinic specializing in acupuncture and Chinese herbal medicine, addressing a wide range of health conditions with a focus on root causes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Integrative medicine in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Boston Chinese Acupuncture",
+    "address": "144 South St, Needham, MA 02492",
+    "phone": "(781) 444-3366",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bostonchineseacupuncture.com/",
+    "category": "Chinese-speaking Integrative medicine in Massachusetts",
+    "description": "Founded by licensed acupuncturists and herbalists trained in China, offering over 60 years of combined experience in treating various conditions with acupuncture and Chinese herbs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Integrative medicine in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Middle Path Acupuncture & Chinese Herbal Medicine",
+    "address": "1633 Cambridge St, Cambridge, MA 02138",
+    "phone": "(617) 547-3300",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.middlepathacu.com/",
+    "category": "Chinese-speaking Integrative medicine in Massachusetts",
+    "description": "Awarded Best of Cambridge, this clinic offers Traditional Chinese Medicine, including acupuncture and Chinese herbal medicine, serving Cambridge and surrounding areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Integrative medicine in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
