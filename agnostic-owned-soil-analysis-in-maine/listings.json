@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Woods End Laboratories",
+    "address": "207 Whitten Rd, Augusta, ME 04330",
+    "phone": "(207) 622-9700",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://woodsend.com/",
+    "category": "Agnostic-owned Soil analysis in Maine",
+    "description": "Woods End Laboratories offers a comprehensive range of soil testing services, including fertility management programs, compost analysis, and biodegradability testing. They emphasize fast and reliable service with advanced testing methods",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Soil analysis in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maine Soil Testing Service (University of Maine Cooperative Extension)",
+    "address": "Deering Hall, University of Maine, Orono, ME 04469",
+    "phone": "(207) 581-3591",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://extension.umaine.edu/anlab/soil-testing/",
+    "category": "Agnostic-owned Soil analysis in Maine",
+    "description": "This service provides comprehensive soil analysis for nutrient content, organic matter, and lead. They offer services at reasonable prices and provide guidance for farmers and gardeners",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Soil analysis in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aroostook Testing & Consulting Laboratory, Inc.",
+    "address": "16 Industrial St, Presque Isle, ME 04769",
+    "phone": "(207) 764-1100",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.curriechemical.com/aroostook-testing-consulting-lab",
+    "category": "Agnostic-owned Soil analysis in Maine",
+    "description": "Aroostook Testing and Consulting Laboratory offers microbiological, environmental, agricultural, and natural resource laboratory services, including soil analysis and crop consulting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Soil analysis in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
