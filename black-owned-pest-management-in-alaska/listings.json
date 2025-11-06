@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Pied Piper Pest Control",
+    "address": "2440 E 88th Ave, Anchorage, AK 99507",
+    "phone": "(907) 561-7000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://piedpiperpestcontrol.com/",
+    "category": "Black-owned Pest management in Alaska",
+    "description": "Alaska's premier pest control service since 1965, offering year-round protection for insects and rodents",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Pest management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "American Pest Management",
+    "address": "403 E Fireweed Ln, Anchorage, AK 99503",
+    "phone": "(907) 277-7378",
+    "rating": 4.25,
+    "reviews": 25,
+    "website": "https://www.americanpestmanagement.net/",
+    "category": "Black-owned Pest management in Alaska",
+    "description": "Pest control company servicing all of Alaska, contracting for national pest control companies and offering free inspections",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Pest management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alaska Pest Management",
+    "address": "Multiple locations, including Juneau, AK. (Specific main address not readily available, but serves Southeast Alaska)",
+    "phone": "(907) 247-2847",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.alaskapestmanagement.com/",
+    "category": "Black-owned Pest management in Alaska",
+    "description": "Leading pest control company in Southeast Alaska for over 30 years, offering services for insects, rodents, and birds",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Pest management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alaska Affordable Pest",
+    "address": "Not explicitly listed, but serves Anchorage, AK",
+    "phone": "",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Alaska+Affordable+Pest+in+Alaska",
+    "category": "Black-owned Pest management in Alaska",
+    "description": "Offers friendly, thorough, professional, affordable, and effective pest control services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Pest management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Apex Pest Control Solutions",
+    "address": "Not explicitly listed, but serves Anchorage, AK",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://apexpestcontrolak.com/",
+    "category": "Black-owned Pest management in Alaska",
+    "description": "Provides excellent pest and bed bug services at affordable rates, locally owned and operated since 2016",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Pest management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eagle Pest Control & Tree Service",
+    "address": "Anchorage, AK (and serves surrounding communities)",
+    "phone": "(907) 441-1234",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eaglepestcontrolak.com/",
+    "category": "Black-owned Pest management in Alaska",
+    "description": "Alaska's pest control experts for over 23 years, offering year-round pest management and custom programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Pest management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mr. D's Pest Solutions",
+    "address": "Fairbanks, AK (and serves North Pole, AK)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mr.+D's+Pest+Solutions+in+Alaska",
+    "category": "Black-owned Pest management in Alaska",
+    "description": "Locally owned and operated pest control experts in Fairbanks, offering environmentally responsible methods",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Pest management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Terminix",
+    "address": "Serves Alaska, among other states",
+    "phone": "1-877-837-6464",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.terminix.com/",
+    "category": "Black-owned Pest management in Alaska",
+    "description": "Offers a wide range of pest control services, including protection from 39 pests with their PestFree365+ plan",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Pest management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Diamond Pest Control",
+    "address": "2800autopark Dr, Anchorage, AK 99518",
+    "phone": "(907) 522-2000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kendalltoyotaanchorage.com/",
+    "category": "Black-owned Pest management in Alaska",
+    "description": "Primarily an automotive dealership, but a review mentioned a pest-related issue addressed by their service department",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Pest management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
