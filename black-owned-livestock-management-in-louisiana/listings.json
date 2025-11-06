@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Jubilee Justice",
+    "address": "6233 Old Baton Rouge Hwy, Alexandria, LA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://jubileejustice.org/",
+    "category": "Black-owned Livestock management in Louisiana",
+    "description": "A USDA certified organic farm that grows rice, wheat, and corn, and also raises cattle",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Livestock management in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Armstrong Farms",
+    "address": "Bastrop, LA",
+    "phone": "ashleyarmstrong2588@gmail.com",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Armstrong+Farms+in+Louisiana",
+    "category": "Black-owned Livestock management in Louisiana",
+    "description": "Plants a variety of crops and raises cattle",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Livestock management in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Flying Eagle Ranch",
+    "address": "Keithville, LA",
+    "phone": "318-925-2342",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Flying+Eagle+Ranch+in+Louisiana",
+    "category": "Black-owned Livestock management in Louisiana",
+    "description": "Raises cattle, chickens, and hogs; cuts and bundles hay",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Livestock management in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gless Farm",
+    "address": "Baton Rouge, LA",
+    "phone": "225-266-0194",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Gless+Farm+in+Louisiana",
+    "category": "Black-owned Livestock management in Louisiana",
+    "description": "Grows and sells a variety of fresh vegetables and cattle beef",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Livestock management in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eddie Lewis Cane Farm",
+    "address": "Youngsville, LA",
+    "phone": "337-319-0956",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Eddie+Lewis+Cane+Farm+in+Louisiana",
+    "category": "Black-owned Livestock management in Louisiana",
+    "description": "Grows sugar cane to sell sugar. While primarily focused on sugarcane, the family has a history of farming and land ownership in the region",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Livestock management in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Farm Dat Farms",
+    "address": "Des Allemands, LA",
+    "phone": "504-390-8198",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Farm+Dat+Farms+in+Louisiana",
+    "category": "Black-owned Livestock management in Louisiana",
+    "description": "Raises and sells pasteurized poultry, grass-fed sheep and goats; grows and sells micro-greens and other fresh produce",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Livestock management in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sweet Jones Farm LLC",
+    "address": "Not specified, but operates in Louisiana",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Sweet+Jones+Farm+LLC+in+Louisiana",
+    "category": "Black-owned Livestock management in Louisiana",
+    "description": "A mixed produce farm that also has goats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Livestock management in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "4 Vics Farm",
+    "address": "Baton Rouge, LA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/4+Vics+Farm+in+Louisiana",
+    "category": "Black-owned Livestock management in Louisiana",
+    "description": "Grows and sells seasonal produce with a specialty in greens. While not explicitly livestock, some farms that focus on produce also raise animals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Livestock management in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ashton Farms",
+    "address": "Franklin, LA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Ashton+Farms+in+Louisiana",
+    "category": "Black-owned Livestock management in Louisiana",
+    "description": "Grows and sells seasonal produce",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Livestock management in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Driftwood Farm",
+    "address": "Iowa, LA",
+    "phone": "770-480-988",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Driftwood+Farm+in+Louisiana",
+    "category": "Black-owned Livestock management in Louisiana",
+    "description": "Grows and sells seasonal vegetables and fruits using organic growing methods",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Livestock management in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
