@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Root Branch Media Group",
+    "address": "2220 Boston Street, Baltimore, Maryland 21231",
+    "phone": "410.637.3530",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.rootbranchmediagroup.com/",
+    "category": "African-American-owned 3D animation in Maryland",
+    "description": "A 100% African-American owned, certified woman-owned full-service media production firm specializing in animation, video production, and motion graphics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 3D animation in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
