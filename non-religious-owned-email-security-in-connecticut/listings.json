@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Mr. Computer",
+    "address": "1249 S Broad St, Meriden, CT 06450",
+    "phone": "(203) 269-1739",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mrcomputer.com/",
+    "category": "Non-Religious-owned Email security in Connecticut",
+    "description": "Offers targeted email security solutions against spam, phishing, and malware, including hosted Microsoft Exchange Server and Microsoft 365 integration",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Non-Religious-owned Email security in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NETiMAGE, Inc.",
+    "address": "100 Corporate Dr, Shelton, CT 06484",
+    "phone": "(203) 925-1000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.netimage.com/",
+    "category": "Non-Religious-owned Email security in Connecticut",
+    "description": "Provides multi-layer corporate email security and filtering for premise email servers, protecting against spam, viruses, phishing, and other email attacks for Microsoft Exchange and Office 365",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Non-Religious-owned Email security in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Advanced Computer Technologies",
+    "address": "1000 New London Tpke, Suite 20, Glastonbury, CT 06033",
+    "phone": "(860) 561-6400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.act-llc.com/",
+    "category": "Non-Religious-owned Email security in Connecticut",
+    "description": "Offers managed IT services including inbound email spam/virus protection, email encryption, and two-factor authentication as part of their security solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Non-Religious-owned Email security in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Netsurit",
+    "address": "100 Great Pond Rd, Windsor, CT 06095",
+    "phone": "(860) 687-1100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.netsurit.com/",
+    "category": "Non-Religious-owned Email security in Connecticut",
+    "description": "Provides managed IT services and cybersecurity solutions, including protection against online threats and managed security operations for Microsoft Office 365",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Non-Religious-owned Email security in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "VTC Tech",
+    "address": "147 State St, New Haven, CT 06510",
+    "phone": "(203) 867-1000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://vtc.tech/",
+    "category": "Non-Religious-owned Email security in Connecticut",
+    "description": "Offers advanced email security services in New Haven, including anti-spam, anti-phishing, and email encryption, to protect businesses from various email threats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Non-Religious-owned Email security in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ASG Information Technologies",
+    "address": "100 Great Pond Rd, Windsor, CT 06095",
+    "phone": "(860) 687-1100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.asg.tech/",
+    "category": "Non-Religious-owned Email security in Connecticut",
+    "description": "Provides email and cloud platform services, including advanced spam and intrusion prevention measures, and phishing prevention strategies for Office 365, G Suite, and Microsoft Exchange",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Non-Religious-owned Email security in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CoopSys",
+    "address": "50 Digital Dr, Suite 100, Nashua, NH 03062 (Serves CT)",
+    "phone": "(800) 674-0006",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.coopsys.com/",
+    "category": "Non-Religious-owned Email security in Connecticut",
+    "description": "Offers managed IT services and robust cybersecurity programs for small to medium-sized businesses, including solutions that protect against evolving threats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Non-Religious-owned Email security in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kelser Corporation",
+    "address": "40 Glastonbury Hills Rd, Glastonbury, CT 06033",
+    "phone": "(860) 657-3500",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.kelsercorp.com/",
+    "category": "Non-Religious-owned Email security in Connecticut",
+    "description": "Provides IT consulting and cybersecurity services, focusing on reliability, efficiency, and innovation to protect businesses and their data",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Non-Religious-owned Email security in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Millennium Technology Solutions, Inc.",
+    "address": "100 Corporate Dr, Suite 10, Shelton, CT 06484",
+    "phone": "(203) 734-5400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mts-inc.com/",
+    "category": "Non-Religious-owned Email security in Connecticut",
+    "description": "Offers robust email protection services, including monitoring, anti-spam, and encryption solutions, utilizing cloud-based security to protect against phishing, malware, and spam",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Non-Religious-owned Email security in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Founders Technology Group, LLC",
+    "address": "100 Great Pond Rd, Windsor, CT 06095",
+    "phone": "(860) 256-8197",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.founderstech.com/",
+    "category": "Non-Religious-owned Email security in Connecticut",
+    "description": "Provides email security and spam protection solutions, including spam filtering, around-the-clock monitoring, and password management to defend businesses from cyber threats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Non-Religious-owned Email security in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
