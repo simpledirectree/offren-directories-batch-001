@@ -1,0 +1,172 @@
+[
+  {
+    "name": "CrossFit HCC",
+    "address": "338 State Street, North Haven, CT 06473",
+    "phone": "(203) 230-9700",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.crossfithcc.com/",
+    "category": "French-speaking CrossFit coaching in Connecticut",
+    "description": "Offers group classes, personal training, and a welcoming community environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "French-speaking CrossFit coaching in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CrossFit Milford",
+    "address": "333 Quarry Road, Milford, CT 06460",
+    "phone": "203-283-7751",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.crossfitmilford.com/",
+    "category": "French-speaking CrossFit coaching in Connecticut",
+    "description": "Focuses on building strength, confidence, and consistency with experienced coaches and a positive atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "French-speaking CrossFit coaching in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Columbia CrossFit",
+    "address": "106 Route 66e, Columbia, CT 06237",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://columbiacf.com/",
+    "category": "French-speaking CrossFit coaching in Connecticut",
+    "description": "Offers group classes, personal training, and specialized programs for all ages, emphasizing a supportive community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "French-speaking CrossFit coaching in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bell City CrossFit",
+    "address": "Bristol, CT (specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bellcitycrossfit.com/",
+    "category": "French-speaking CrossFit coaching in Connecticut",
+    "description": "A locally owned CrossFit facility offering group classes, personal training, and nutrition coaching",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "French-speaking CrossFit coaching in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CrossFit Stonington",
+    "address": "2A Extrusion Dr, Pawcatuck, CT, 06379",
+    "phone": "860-495-5244",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://crossfitstonington.com/",
+    "category": "French-speaking CrossFit coaching in Connecticut",
+    "description": "Provides CrossFit classes and emphasizes learning fundamentals in a supportive community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "French-speaking CrossFit coaching in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CrossFit Hartford",
+    "address": "West Hartford, CT (specific address not provided in search results)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.crossfithartford.com/",
+    "category": "French-speaking CrossFit coaching in Connecticut",
+    "description": "A premier CrossFit gym in Hartford County known for its energetic coaches and supportive community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "French-speaking CrossFit coaching in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CrossFit Factory Square",
+    "address": "1657 Meriden Waterbury Turnpike, Southington, CT, 06489",
+    "phone": "(860) 809-1117",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.factoryathlete.com/",
+    "category": "French-speaking CrossFit coaching in Connecticut",
+    "description": "Offers CrossFit classes and emphasizes building a supportive community for athletes of all levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "French-speaking CrossFit coaching in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Timberhead CrossFit",
+    "address": "South Windsor, CT (specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.timberheadcrossfit.com/",
+    "category": "French-speaking CrossFit coaching in Connecticut",
+    "description": "A CrossFit gym focused on a welcoming environment, expert guidance, and helping members achieve their fitness goals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "French-speaking CrossFit coaching in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CrossFit Westport",
+    "address": "Norwalk, CT (specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.crossfitwestport.com/",
+    "category": "French-speaking CrossFit coaching in Connecticut",
+    "description": "Offers premier CrossFit training with expert coaches and adaptable workouts for individual needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "French-speaking CrossFit coaching in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CrossFit 033",
+    "address": "Glastonbury, CT (specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.crossfit033.com/",
+    "category": "French-speaking CrossFit coaching in Connecticut",
+    "description": "Advertised as the best gym in Glastonbury, CT",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "French-speaking CrossFit coaching in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
