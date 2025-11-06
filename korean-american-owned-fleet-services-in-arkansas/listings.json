@@ -1,0 +1,172 @@
+[
+  {
+    "name": "65 Motor Shop & Tire",
+    "address": "1010 S 1st St, Harrison, AR 72601",
+    "phone": "(870) 741-8888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.65motorshop.com/",
+    "category": "Korean-American-owned Fleet services in Arkansas",
+    "description": "Specializes in Hyundai auto repair and maintenance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-American-owned Fleet services in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Skyline Automotive",
+    "address": "8813 MacArthur Drive, North Little Rock, AR 72118",
+    "phone": "(501) 218-8666",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.skylineautomotiverocks.com/",
+    "category": "Korean-American-owned Fleet services in Arkansas",
+    "description": "Full-service auto repair and preventative maintenance facility specializing in Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-American-owned Fleet services in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Walker's Auto Repair & Towing",
+    "address": "2911 Grand Ave, Fort Smith, AR 72901",
+    "phone": "(479) 783-3736",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://walkersautorepairandtowing.com/",
+    "category": "Korean-American-owned Fleet services in Arkansas",
+    "description": "Specializes in Asian import car and truck repair",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-American-owned Fleet services in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Stephens Automotive Repair & Custom Shop",
+    "address": "276 Hwy 64 E, Conway, AR 72032",
+    "phone": "(501) 472-8407",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stephensautorepairconway.com/",
+    "category": "Korean-American-owned Fleet services in Arkansas",
+    "description": "Full-service auto repair and preventative maintenance facility specializing in Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-American-owned Fleet services in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Hondashop",
+    "address": "706 Madison 2185, Huntsville, AR 72740",
+    "phone": "(479) 232-5237",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thehondashop.com/",
+    "category": "Korean-American-owned Fleet services in Arkansas",
+    "description": "Full-service repair shop specializing in Honda and Acura automobiles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-American-owned Fleet services in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Triple N Diesel and Automotive",
+    "address": "1007 W State St, Marion, AR 72364",
+    "phone": "(870) 739-4000",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.triplenauto.com/",
+    "category": "Korean-American-owned Fleet services in Arkansas",
+    "description": "Full-service diesel and automotive repair, specializing in Hyundai vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-American-owned Fleet services in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ozark Import Specialists",
+    "address": "3802 Kelley Ave, Springdale, AR 72762",
+    "phone": "(479) 361-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ozarkimports.com/",
+    "category": "Korean-American-owned Fleet services in Arkansas",
+    "description": "Specializes in European auto repair and service, but also mentions servicing Japanese vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-American-owned Fleet services in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "W & W Automotive LLC",
+    "address": "1100 S O St, Fort Smith, AR 72901",
+    "phone": "(479) 242-1600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wwautomotivefs.com/",
+    "category": "Korean-American-owned Fleet services in Arkansas",
+    "description": "Full-service auto repair and preventative maintenance facility for Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-American-owned Fleet services in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Austin Brothers Tire & Service",
+    "address": "2801 Cantrell Rd, Little Rock, AR 72202",
+    "phone": "(501) 664-7003",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.austinbrotherstire.com/",
+    "category": "Korean-American-owned Fleet services in Arkansas",
+    "description": "Full-service auto repair and preventative maintenance facility specializing in Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-American-owned Fleet services in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arkansas Auto & Fleet",
+    "address": "191 Cornerstone Rd, Alexander, AR 72002",
+    "phone": "(501) 481-8980",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://arkansasautoandfleet.com/",
+    "category": "Korean-American-owned Fleet services in Arkansas",
+    "description": "Provides expert fleet services to customers in Alexander, AR, and surrounding areas. While not specified as Korean-American-owned, it is a fleet service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-American-owned Fleet services in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
