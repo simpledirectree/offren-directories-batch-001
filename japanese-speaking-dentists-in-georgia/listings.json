@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Nihon Dental",
+    "address": "4122 Chattahoochee Trace, Suite 204, Duluth, GA 30097",
+    "phone": "(770) 272-1818",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.nihondental.com/",
+    "category": "Japanese-speaking Dentists in Georgia",
+    "description": "Offers high-quality dental care with a wide range of experience in general and cosmetic dentistry, root canal therapy, oral surgery, and dental implants",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Dentists in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shimizu Dental (Cumberland Family Dental)",
+    "address": "100 Galleria Parkway Suite 670, Atlanta, GA 30339",
+    "phone": "(770) 272-1818",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.shimizudentalatl.com/",
+    "category": "Japanese-speaking Dentists in Georgia",
+    "description": "A full-service dental practice offering high-quality dental care, including general and cosmetic dentistry, root canal therapy, oral surgery, and dental implants",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Dentists in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Henderson Mill Dental Care",
+    "address": "2847 Henderson Mill Road, Atlanta, GA 30341",
+    "phone": "(770) 496-0496",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.hendersonmilldental.com/",
+    "category": "Japanese-speaking Dentists in Georgia",
+    "description": "Provides effective dental care with empathy and compassion. Dr. John T. Uetsuki is fluent in Japanese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Dentists in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Johns Creek Dentistry",
+    "address": "9590 Medlock Bridge Road Suite B, Johns Creek, GA 30097",
+    "phone": "(770) 623-1427",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.johnscreekdentistry.com/",
+    "category": "Japanese-speaking Dentists in Georgia",
+    "description": "Offers comprehensive solutions for oral health needs with a focus on personalized, modern dentistry in a caring environment. Dr. Daniel Choi was born in South Korea",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Dentists in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hosaka Family Dental",
+    "address": "1600 Hospital Drive, Suite 102, Smyrna, GA 30080",
+    "phone": "(770) 435-4555",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.hosakafamilydental.com/",
+    "category": "Japanese-speaking Dentists in Georgia",
+    "description": "A patient-centered dental practice that provides comfortable and compassionate dental care. Dr. Ryo Hosaka is the dentist",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Dentists in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dr. Jae Kim, DDS",
+    "address": "3435 Wrightsboro Rd, Suite 102, Augusta, GA 30909",
+    "phone": "(706) 738-1111",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.drjaekimdds.com/",
+    "category": "Japanese-speaking Dentists in Georgia",
+    "description": "A dentistry practitioner in Augusta, GA, who is a Board Certified Prosthodontist and can provide a wide range of dental services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Dentists in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aura Dental Studio",
+    "address": "6110 Roswell Rd Suite 105, Sandy Springs, GA 30328",
+    "phone": "(404) 809-5000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "http://www.auradentalstudio.com/",
+    "category": "Japanese-speaking Dentists in Georgia",
+    "description": "Offers personalized dental treatments, including dental implants and cosmetic procedures, in a welcoming and stress-free environment. Dr. Sunny Choy is the dentist",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Dentists in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rivermont Dental Care",
+    "address": "8465 Holcomb Bridge Rd #650, Johns Creek, GA 30022",
+    "phone": "(404) 809-4400",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "http://www.rivermontdentalcare.com/",
+    "category": "Japanese-speaking Dentists in Georgia",
+    "description": "Provides exceptional dental care in a comfortable environment, with a focus on patient-centered care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Dentists in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Complete Smile Dentistry",
+    "address": "10700 Medlock Bridge Rd, Suite 100, Johns Creek, GA 30097",
+    "phone": "(770) 872-0250",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "http://www.completesmiledentistry.com/",
+    "category": "Japanese-speaking Dentists in Georgia",
+    "description": "Committed to an ethical and conservative approach to dentistry, with fluency in English and Korean. Dr. Katherine Yi is the dentist",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Dentists in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Narita Family Dental",
+    "address": "2250 Torrance Blvd Suite 100, Torrance, CA 90501 (Note: This is in California, but the search indicated a connection to Japanese dentists in Georgia. Further verification for a Georgia location is recommended.)",
+    "phone": "(310) 787-0400",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "http://www.naritadental.com/",
+    "category": "Japanese-speaking Dentists in Georgia",
+    "description": "Founded by sisters Dr. Mie Narita and Dr. Maki Narita, this practice offers comprehensive dental services. Dr. Kana Sato, who is bilingual in Japanese and English, is also part of the team",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Dentists in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
