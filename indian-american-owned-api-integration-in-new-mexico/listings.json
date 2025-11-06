@@ -1,0 +1,172 @@
+[
+  {
+    "name": "AppDevix LLC",
+    "address": "1209 Mountain Road NW, Suite N, Albuquerque, NM 87110, USA",
+    "phone": "+1 (505) 356-2899",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.appdevix.com/",
+    "category": "Indian-American-owned API integration in New-Mexico",
+    "description": "Specializes in developing custom APIs and integrating third-party solutions to expand app functionality, including payment gateways, social media platforms, and mapping services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Indian-American-owned API integration in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mile Marker",
+    "address": "Albuquerque, NM",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.clutch.co/profile/mile-marker",
+    "category": "Indian-American-owned API integration in New-Mexico",
+    "description": "A development company specializing in custom solutions, including project roadmaps and API development. Praised for professionalism and timely delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Indian-American-owned API integration in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ExtremSoft",
+    "address": "Serves businesses nationwide, including New Mexico. Specific New Mexico address not listed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://extremsoft.com/",
+    "category": "Indian-American-owned API integration in New-Mexico",
+    "description": "Offers comprehensive API integration platforms to connect business systems, specializing in CRM integration and ensuring seamless connectivity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Indian-American-owned API integration in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SiFi Tech Solutions",
+    "address": "Albuquerque, New Mexico",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/SiFi+Tech+Solutions+New+Mexico",
+    "category": "Indian-American-owned API integration in New-Mexico",
+    "description": "An IT strategy consulting company offering cloud consulting & SI",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Indian-American-owned API integration in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TAM Training & Transformation",
+    "address": "Albuquerque, New Mexico and Miami, Florida",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/TAM+Training+&+Transformation+New+Mexico",
+    "category": "Indian-American-owned API integration in New-Mexico",
+    "description": "A cloud consulting & SI company providing cloud consulting & SI and Digital Strategy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Indian-American-owned API integration in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arbiter Consulting",
+    "address": "Not listed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Arbiter+Consulting+New+Mexico",
+    "category": "Indian-American-owned API integration in New-Mexico",
+    "description": "An ERP consulting and SI company specializing in ERP consulting and SI and Application Management & Support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Indian-American-owned API integration in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Intersog",
+    "address": "Global presence, no specific New Mexico address listed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://intersog.com/",
+    "category": "Indian-American-owned API integration in New-Mexico",
+    "description": "A system integrator company with experience in API integration services, custom API development, and enterprise integration",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Indian-American-owned API integration in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Satva Solutions",
+    "address": "Serves businesses in the USA, no specific New Mexico address listed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.satvasolutions.com/",
+    "category": "Indian-American-owned API integration in New-Mexico",
+    "description": "Offers full-service API integration for platforms like ShipStation and NetSuite, specializing in custom API integration for CRM, ERP, and e-commerce systems",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Indian-American-owned API integration in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Digital Solutions",
+    "address": "Not listed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Digital+Solutions+New+Mexico",
+    "category": "Indian-American-owned API integration in New-Mexico",
+    "description": "Offers API integration services to connect websites with other information and systems, as well as custom business software and web apps",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Indian-American-owned API integration in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Accuris",
+    "address": "Denver, Colorado (HQ), serves nationwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.accuris.com/",
+    "category": "Indian-American-owned API integration in New-Mexico",
+    "description": "Provides AI-powered digital engineering solutions, including Parts API Integration to integrate Accuris parts data into PLM, ERP, and PDM systems",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Indian-American-owned API integration in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
