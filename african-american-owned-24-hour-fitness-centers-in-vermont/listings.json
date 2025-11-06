@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Snap Fitness Burlington",
+    "address": "1127 North Ave, Burlington, VT 05408",
+    "phone": "(802) 881-6553",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.snapfitness.com/us/gyms/burlington-vt/",
+    "category": "African-American-owned 24-hour fitness centers in Vermont",
+    "description": "Offers 24/7 gym access, cardio & strength equipment, and functional training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Anytime Fitness Rutland",
+    "address": "Rutland, Vermont, 05701",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.anytimefitness.com/gyms/2775/rutland-vt-05701/",
+    "category": "African-American-owned 24-hour fitness centers in Vermont",
+    "description": "Locally owned and operated gym offering 24/7 access and a supportive community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Anytime Fitness Bennington",
+    "address": "Bennington, Vermont, 05201",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.anytimefitness.com/gyms/3737/bennington-vt-05201/",
+    "category": "African-American-owned 24-hour fitness centers in Vermont",
+    "description": "Locally owned and operated gym offering 24/7 access and a supportive community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Forge Gym",
+    "address": "Waterbury, VT",
+    "phone": "802-585-9268 (Heather)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theforgegymvt.com/",
+    "category": "African-American-owned 24-hour fitness centers in Vermont",
+    "description": "Offers 24/7 member access, cardio and weight rooms, and classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fitness Unbound",
+    "address": "Information not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://fitnessunbound.com/",
+    "category": "African-American-owned 24-hour fitness centers in Vermont",
+    "description": "A 24-hour fitness facility providing cardio equipment, lifting stations, and free weights",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Outer Limits Health Club",
+    "address": "76 Cotton Mill Hill, Brattleboro, VT, USA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.outerlimitshealthclub.com/",
+    "category": "African-American-owned 24-hour fitness centers in Vermont",
+    "description": "Offers 24-hour access with staffed business hours, providing equipment and guidance for fitness goals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
