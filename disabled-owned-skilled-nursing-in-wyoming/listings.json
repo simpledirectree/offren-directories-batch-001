@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Life Care Center of Casper",
+    "address": "4041 S Poplar St, Casper, WY 82601",
+    "phone": "(307) 234-1511",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lcca.com/locations/casper-wy",
+    "category": "Disabled-owned Skilled nursing in Wyoming",
+    "description": "Offers skilled nursing and rehabilitation services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Disabled-owned Skilled nursing in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Life Care Center of Cheyenne",
+    "address": "1000 W 22nd St, Cheyenne, WY 82001",
+    "phone": "(307) 778-8997",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lcca.com/locations/cheyenne-wy",
+    "category": "Disabled-owned Skilled nursing in Wyoming",
+    "description": "Provides skilled nursing care, rehabilitation, and long-term care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Disabled-owned Skilled nursing in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Westview Health Care Center",
+    "address": "3230 Big Horn Ave, Sheridan, WY 82801",
+    "phone": "(307) 672-7441",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lcca.com/locations/sheridan-wy",
+    "category": "Disabled-owned Skilled nursing in Wyoming",
+    "description": "Offers skilled nursing and rehabilitation services in a scenic location",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Disabled-owned Skilled nursing in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cottonwood Health and Rehabilitation",
+    "address": "503 S 18th St, Laramie, WY 82070",
+    "phone": "(307) 742-4276",
+    "rating": 3.2,
+    "reviews": 25,
+    "website": "https://www.cottonwoodhealthrehab.com/",
+    "category": "Disabled-owned Skilled nursing in Wyoming",
+    "description": "Provides skilled nursing and rehabilitation therapy services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Disabled-owned Skilled nursing in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sage View Care Center",
+    "address": "1325 Sage St, Rock Springs, WY 82901",
+    "phone": "(307) 362-3711",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sageviewcarecenter.com/",
+    "category": "Disabled-owned Skilled nursing in Wyoming",
+    "description": "Offers skilled nursing, memory care, and rehabilitation services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Disabled-owned Skilled nursing in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Casper Mountain Rehabilitation & Care Center",
+    "address": "1020 W 20th St, Casper, WY 82604",
+    "phone": "(307) 235-5551",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.caspermountainrehab.com/",
+    "category": "Disabled-owned Skilled nursing in Wyoming",
+    "description": "Provides long-term care and short-term rehabilitation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Disabled-owned Skilled nursing in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Legacy Living and Rehabilitation Center",
+    "address": "1000 S Douglas Hwy, Gillette, WY 82718",
+    "phone": "(307) 682-1500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.legacygillette.com/",
+    "category": "Disabled-owned Skilled nursing in Wyoming",
+    "description": "Offers long-term care and short-term rehabilitation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Disabled-owned Skilled nursing in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wyoming Retirement Center",
+    "address": "1100 10th St, Basin, WY 82410",
+    "phone": "(307) 568-2421",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://health.wyo.gov/aging/wyoming-retirement-center/",
+    "category": "Disabled-owned Skilled nursing in Wyoming",
+    "description": "Provides skilled nursing care for residents with mental health, dementia, and medical needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Disabled-owned Skilled nursing in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Granite Rehabilitation and Wellness",
+    "address": "2500 E 14th St, Cheyenne, WY 82001",
+    "phone": "(307) 634-4422",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.graniterehab.com/",
+    "category": "Disabled-owned Skilled nursing in Wyoming",
+    "description": "Offers skilled nursing and rehabilitation therapy services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Disabled-owned Skilled nursing in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mission at The Villa Assisted Living",
+    "address": "1325 Sage St, Rock Springs, WY 82901",
+    "phone": "(307) 362-3711",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.missionhealth.com/locations/mission-at-the-villa-assisted-living/",
+    "category": "Disabled-owned Skilled nursing in Wyoming",
+    "description": "Provides assisted living and skilled nursing services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Disabled-owned Skilled nursing in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
