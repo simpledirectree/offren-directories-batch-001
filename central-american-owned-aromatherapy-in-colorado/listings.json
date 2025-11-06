@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Ananda Apothecary",
+    "address": "2555 49th St, Boulder, CO 80301",
+    "phone": "(303) 444-3034",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.anandaapothecary.com/",
+    "category": "Central-American-owned Aromatherapy in Colorado",
+    "description": "Offers a full selection of essential oils, diffusers, sprays, and blended oils. They also have an online store",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Aromatherapy in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Herbs and Arts",
+    "address": "2015 E Colfax Ave, Denver, CO 80206",
+    "phone": "(303) 388-2502",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Herbs+and+Arts+in+Colorado",
+    "category": "Central-American-owned Aromatherapy in Colorado",
+    "description": "Provides 100% pure essential oils, as well as classes and events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Aromatherapy in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rebecca's Herbal Apothecary",
+    "address": "1227 Spruce St, Boulder, CO 80302",
+    "phone": "(303) 444-0247",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.rebeccasherbs.com/",
+    "category": "Central-American-owned Aromatherapy in Colorado",
+    "description": "Offers essential oils, body products, custom tea blends, and hosts classes and workshops",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Aromatherapy in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Apothecary Tinctura",
+    "address": "2900 E 6th Ave, Denver, CO 80206",
+    "phone": "(303) 733-4121",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.apothecarytinctura.com/",
+    "category": "Central-American-owned Aromatherapy in Colorado",
+    "description": "Sells essential oils and other products, and offers massages and workshops",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Aromatherapy in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mile High Soap",
+    "address": "300 W 53rd Pl Unit E, Denver, CO 80216",
+    "phone": "(720) 515-5647",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.milehighsoap.com/",
+    "category": "Central-American-owned Aromatherapy in Colorado",
+    "description": "Offers a wide variety of essential oils and soap-making ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Aromatherapy in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Golden Poppy Herbal Apothecary",
+    "address": "223 N College Ave, Fort Collins, CO 80524",
+    "phone": "(970) 682-4373",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.goldenpoppyherbal.com/",
+    "category": "Central-American-owned Aromatherapy in Colorado",
+    "description": "Offers organic herbs, essential oils, and natural skincare products. They also offer herbal consultations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Aromatherapy in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Denver Village Apothecary",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.denvervillage.org/apothecary",
+    "category": "Central-American-owned Aromatherapy in Colorado",
+    "description": "Provides personalized essential oils and wellness blends",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Aromatherapy in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "YAO Clinic",
+    "address": "Information not available (Denver, CO)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.yaoclinic.com/",
+    "category": "Central-American-owned Aromatherapy in Colorado",
+    "description": "Offers essential oils for aromatherapy and healing, including single oils and blends",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Aromatherapy in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Debbi's Aromatherapy & Essential Oils",
+    "address": "5729 Constitution Ave, Colorado Springs, CO 80915",
+    "phone": "(719) 444-0708",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.debbisaromatherapy.com/",
+    "category": "Central-American-owned Aromatherapy in Colorado",
+    "description": "A retail center for aromatherapy learning and products",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Aromatherapy in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mayan's Secret Essential Oils",
+    "address": "Multiple locations including Colorado Springs and Denver",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mayanssecret.com/",
+    "category": "Central-American-owned Aromatherapy in Colorado",
+    "description": "Offers organic and pure essential oils, wholesale and bulk options available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Aromatherapy in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
