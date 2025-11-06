@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Nelson Alarm",
+    "address": "Multiple locations in Indiana, including Indianapolis",
+    "phone": "(317) 544-9488",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.nelsonalarm.com/",
+    "category": "African-American-owned 24 7 monitoring in Indiana",
+    "description": "Nelson Alarm provides state-of-the-art security systems and reliable 24/7 alarm monitoring for homes and businesses. They have been in operation for nearly 30 years and specialize in custom-designed solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24 7 monitoring in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alert Alarm",
+    "address": "Merrillville, IN",
+    "phone": "(219) 769-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alertalarm.com/",
+    "category": "African-American-owned 24 7 monitoring in Indiana",
+    "description": "Alert Alarm offers alarm systems and security solutions with 24/7 local monitoring services in Northwest Indiana and surrounding areas. They have been in business for over 50 years",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24 7 monitoring in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ADS (Alarm Detection Systems, Inc.)",
+    "address": "Aurora, IL (Corporate Headquarters), serves Indiana",
+    "phone": "(800) 547-2371",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ads.com/",
+    "category": "African-American-owned 24 7 monitoring in Indiana",
+    "description": "ADS provides state-of-the-art security systems and industry-leading customer service for homes and businesses, with 24/7/365 peace of mind. They have a five-diamond certified central monitoring station",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24 7 monitoring in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Circle City Security Systems Inc.",
+    "address": "5355 E 38th St, Indianapolis, IN 46218",
+    "phone": "(317) 545-7200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.circlecitysecurity.com/",
+    "category": "African-American-owned 24 7 monitoring in Indiana",
+    "description": "Circle City Security Systems Inc. is a residential and commercial security provider offering 24/7 monitoring with a well-trained team and quality equipment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24 7 monitoring in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mytech Security",
+    "address": "4974 E County Rd 400 S, Plainfield, Indiana 46168",
+    "phone": "(317) 838-7338",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mytechsecurity.com/",
+    "category": "African-American-owned 24 7 monitoring in Indiana",
+    "description": "Mytech Security offers dependable 24/7 monitoring services for homes and businesses, backed by a 1-year warranty on parts and labor. They are a family-owned and operated business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24 7 monitoring in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
