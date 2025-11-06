@@ -1,0 +1,172 @@
+[
+  {
+    "name": "DOCS Medical Group - Danbury",
+    "address": "2 Main Street, Danbury, CT 06810",
+    "phone": "(203) 826-2140",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.docsmgmt.com/danbury-ct/",
+    "category": "Hebrew-speaking Urgent care centers in Connecticut",
+    "description": "Offers walk-in urgent care for non-life-threatening illnesses and minor injuries with board-certified physicians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Urgent care centers in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AFC Urgent Care - Danbury",
+    "address": "76 Newtown Road, Danbury, CT 06810",
+    "phone": "(203) 826-8434",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.afcurgentcare.com/danbury-east/",
+    "category": "Hebrew-speaking Urgent care centers in Connecticut",
+    "description": "Provides a range of services including urgent care, lab testing, and vaccinations with extended hours",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Urgent care centers in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hartford HealthCare-GoHealth Urgent Care - Waterbury",
+    "address": "174 Chase Ave, Waterbury, CT 06704",
+    "phone": "(203) 575-0470",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.hartfordhealthcare.org/locations/urgent-care-chase-ave-waterbury",
+    "category": "Hebrew-speaking Urgent care centers in Connecticut",
+    "description": "Offers walk-in care for non-life-threatening conditions, illnesses, and injuries, with services like X-rays and lab work",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Urgent care centers in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Concentra - Waterbury",
+    "address": "8 S Commons Road, Waterbury, CT 06704",
+    "phone": "(203) 759-1229",
+    "rating": 3.8,
+    "reviews": 25,
+    "website": "https://www.concentra.com/locations/waterbury-ct-8-s-commons-road",
+    "category": "Hebrew-speaking Urgent care centers in Connecticut",
+    "description": "A leader in occupational health and urgent care, also offering physical therapy and wellness services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Urgent care centers in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DOCS Medical Group - Bridgeport",
+    "address": "1677 E Main St, Bridgeport, CT 06605",
+    "phone": "(475) 549-1822",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.docsmgmt.com/bridgeport-ct/",
+    "category": "Hebrew-speaking Urgent care centers in Connecticut",
+    "description": "Provides prompt, high-quality care for urgent medical issues that need attention within 24 hours but aren't life-threatening",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Urgent care centers in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AFC Urgent Care - Bridgeport",
+    "address": "161 Boston Avenue, Bridgeport, CT 06610",
+    "phone": "(203) 333-4400",
+    "rating": 4.1,
+    "reviews": 25,
+    "website": "https://www.afcurgentcare.com/bridgeport/",
+    "category": "Hebrew-speaking Urgent care centers in Connecticut",
+    "description": "Offers walk-in urgent care, lab testing, and vaccinations with extended hours",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Urgent care centers in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DOCS Medical Group - New Haven",
+    "address": "527 Elm St, New Haven, CT 06510",
+    "phone": "(475) 321-5150",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.docsmgmt.com/new-haven-ct/",
+    "category": "Hebrew-speaking Urgent care centers in Connecticut",
+    "description": "Provides expert medical treatment for non-life-threatening illnesses and minor injuries with no appointments needed",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Urgent care centers in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yale New Haven Health Urgent Care - Waterbury",
+    "address": "920 Wolcott St, Waterbury, CT 06705",
+    "phone": "(203) 575-0470",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.ynhh.org/urgent-care/waterbury",
+    "category": "Hebrew-speaking Urgent care centers in Connecticut",
+    "description": "Offers high-quality urgent care backed by Yale New Haven Health, with extended hours and no appointments required",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Urgent care centers in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PhysicianOne Urgent Care - Norwalk",
+    "address": "346 Main Ave, Norwalk, CT 06851",
+    "phone": "(860) 650-3848",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.physicianoneurgentcare.com/locations/norwalk-ct/",
+    "category": "Hebrew-speaking Urgent care centers in Connecticut",
+    "description": "Provides walk-in care for minor injuries, illnesses, and routine medical needs with friendly and professional staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Urgent care centers in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AFC Urgent Care - Norwalk",
+    "address": "607 Main Ave, Norwalk, CT 06851",
+    "phone": "(203) 845-9100",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.afcurgentcare.com/norwalk/",
+    "category": "Hebrew-speaking Urgent care centers in Connecticut",
+    "description": "Offers walk-in options for urgent care, lab testing, and vaccinations with extended hours",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Urgent care centers in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
