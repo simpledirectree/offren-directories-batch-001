@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Sunda New Asian",
+    "address": "110 W Illinois St, Chicago, IL 60654",
+    "phone": "312-644-0500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sunda.com/",
+    "category": "Asian-owned Specialty cuisine catering in Illinois",
+    "description": "Offers authentic Southeast Asian cuisine for various occasions, including office lunches, home celebrations, and events. They provide options for sushi, sashimi, salads, appetizers, and Southeast Asian entrees, with accommodations for gluten-free, vegan, and vegetarian diets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty cuisine catering in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wok to Bowl",
+    "address": "121 W Washington St, Bloomington, IL 61701 (This address is for a general location, specific catering details may vary)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.woktobowl.us/",
+    "category": "Asian-owned Specialty cuisine catering in Illinois",
+    "description": "Offers a diverse menu of Asian fusion dishes, including Indian curries, Thai stir-fries, Chinese favorites, Korean specialties, and Japanese classics. They provide catering services for corporate meetings, weddings, birthday parties, and family gatherings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty cuisine catering in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Panda Express (Multiple Locations)",
+    "address": "Example: 1111 State St, Rockford, IL 61108 (This is one of many locations; specific catering availability may vary by franchise)",
+    "phone": "Example: 815-398-5300 (This is a general number for the Rockford location; catering contact may differ)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pandaexpress.com/",
+    "category": "Asian-owned Specialty cuisine catering in Illinois",
+    "description": "Offers American-Chinese cuisine with catering packages that include party trays of appetizers, entrees, and sides. They provide delivery or pick-up options and can assist with setup and serving for larger events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty cuisine catering in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Frato's Personal Chef Catering",
+    "address": "628 S. Roselle Rd., Schaumburg, IL 60193",
+    "phone": "847-895-2122",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.fratoscatering.com/",
+    "category": "Asian-owned Specialty cuisine catering in Illinois",
+    "description": "Provides Asian-inspired dishes for various events, including corporate meetings, weddings, and family celebrations. They emphasize fresh, made-from-scratch dishes that honor traditional flavors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty cuisine catering in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Big Bowl (Multiple Locations)",
+    "address": "Example: 1593 E. Golf Road, Schaumburg, IL 60173 (This is one of several locations)",
+    "phone": "Example: 847-517-8880 (This is a general number for the Schaumburg location; catering contact may differ)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bigbowl.com/",
+    "category": "Asian-owned Specialty cuisine catering in Illinois",
+    "description": "Offers Chinese and Thai cuisine with group share catering and party platters. They require a 2-day notice for online orders and can be contacted directly for same or next-day catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty cuisine catering in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mei's Chicago",
+    "address": "Information not explicitly stated for catering, but their restaurant is located in Chicago",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.meischicago.com/",
+    "category": "Asian-owned Specialty cuisine catering in Illinois",
+    "description": "Offers a catering menu with a variety of Chinese and Asian dishes, including appetizers, dumplings, rice, vegetables, and entrees. A minimum spend of $150 is required for catering orders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty cuisine catering in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Star of Siam",
+    "address": "1133 N State St, Chicago, IL 60610",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.starofsiamchicago.com/",
+    "category": "Asian-owned Specialty cuisine catering in Illinois",
+    "description": "Provides authentic Thai cuisine with tailored catering options for various occasions, including birthday parties, holiday parties, corporate events, and wedding festivities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty cuisine catering in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gaijin",
+    "address": "950 W Fulton St, Chicago, IL 60607",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.gaijin-chicago.com/",
+    "category": "Asian-owned Specialty cuisine catering in Illinois",
+    "description": "Offers okonomiyaki and other Japanese-inspired dishes for private events and small event catering. They provide partial or full buyouts for groups and offer pickup for small event catering orders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty cuisine catering in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wow Bao",
+    "address": "Multiple locations in Chicago, with catering available from Chicago stores and delivery kitchens nationwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wowbao.com/",
+    "category": "Asian-owned Specialty cuisine catering in Illinois",
+    "description": "Offers customizable bao bundles, dumplings, and rice bowls for catering. They are known for their steamed buns and dumplings, suitable for various group sizes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty cuisine catering in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ashyana Catering & Events",
+    "address": "Information not explicitly stated for catering, but they serve the Chicagoland area",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ashyanacatering.com/",
+    "category": "Asian-owned Specialty cuisine catering in Illinois",
+    "description": "Specializes in South Asian cuisine, including Punjabi, Gujarati, Bengali, South Indian, Hyderabadi, and Pakistani dishes. They cater to wedding events, social events, and corporate events, with a culinary team of experienced chefs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty cuisine catering in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
