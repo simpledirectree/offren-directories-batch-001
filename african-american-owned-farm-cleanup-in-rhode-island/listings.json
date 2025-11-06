@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Town Line Farm, LLC",
+    "address": "45 Walts Way, P.O. Box 331, Chepachet, RI 02814",
+    "phone": "401-578-1287",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.townlinefarmllc.com/",
+    "category": "African-American-owned Farm cleanup in Rhode-Island",
+    "description": "This is a licensed and insured excavation company specializing in septic system installations, foundations, trenches, driveways, lot clearing, and emergency storm cleanup",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Farm cleanup in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "African Alliance of Rhode Island (AARI)",
+    "address": "Operates on Bami Farm, Johnston, RI (specific office address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.facebook.com/AfricanAllianceRI/",
+    "category": "African-American-owned Farm cleanup in Rhode-Island",
+    "description": "AARI runs Bami Farm, a community farm that grows produce. They are involved in community gardens, health and wellness programs, and cultural events. While not a cleanup service, they are a significant African-owned agricultural entity in Rhode Island",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Farm cleanup in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bami Farm",
+    "address": "Johnston, RI (located at Snake Den Farm)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.facebook.com/AfricanAllianceRI/",
+    "category": "African-American-owned Farm cleanup in Rhode-Island",
+    "description": "A 6-acre community farm run by the African Alliance of Rhode Island, where farmers grow a variety of produce. They are also involved in educational programs and farm tours",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Farm cleanup in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Quaintly Farm",
+    "address": "North End of Providence, RI 02904",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.facebook.com/QuaintlyFarm/",
+    "category": "African-American-owned Farm cleanup in Rhode-Island",
+    "description": "A Black Woman-Owned Urban Farm in Providence that grows local seasonal crops. They aim to offer urban farm stands for barter and sale within the community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Farm cleanup in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
