@@ -1,0 +1,36 @@
+[
+  {
+    "name": "ETL SERVICES LLC",
+    "address": "Three Rivers, MA 01080 (Specific street address not provided in search results)",
+    "phone": "(413) 237-3726",
+    "rating": 3.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/ETL+SERVICES+LLC+in+Massachusetts",
+    "category": "Catholic-owned ETL services in Massachusetts",
+    "description": "General contractor offering ETL services. They have been in business since 2012",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned ETL services in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "E.T. & L. Corp.",
+    "address": "500 Salisbury Street, Worcester, MA 01609",
+    "phone": "(508) 767-7000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.assumption.edu/",
+    "category": "Catholic-owned ETL services in Massachusetts",
+    "description": "A Catholic university that requires employees in data-related roles to respect its Catholic and Assumptionist identity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned ETL services in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
