@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Black Pearl Fitness",
+    "address": "35 Cedar Rd, North Hampton, New Hampshire, 03862, USA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackpearlfitness.com/",
+    "category": "Black-owned Group fitness classes in New-Hampshire",
+    "description": "Black Pearl Fitness offers a variety of options including group classes and personal training, with a focus on motivating clients and fostering a supportive community. They offer classes such as \"Breathe\" (cardio), \"Flex\" (combination), and \"Grow\" (weightlifting)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Group fitness classes in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
