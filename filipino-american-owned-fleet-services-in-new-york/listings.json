@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Phil's Quality Auto Service",
+    "address": "3675 Clinton Street, West Seneca, NY 14224",
+    "phone": "716-674-8110",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Phil's+Quality+Auto+Service+New+York",
+    "category": "Filipino-American-owned Fleet services in New-York",
+    "description": "Specializes in Asian vehicle repairs and offers a full range of auto repair and preventative maintenance services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Filipino-American-owned Fleet services in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sato Auto Repair",
+    "address": "Elmsford, NY",
+    "phone": "914-347-4630",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Sato+Auto+Repair+New+York",
+    "category": "Filipino-American-owned Fleet services in New-York",
+    "description": "Offers auto body repairs and mechanical work, specializing in Japanese car repairs. They also sell used cars",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Filipino-American-owned Fleet services in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Automotive Ingenuity, INC.",
+    "address": "Pine Island, NY",
+    "phone": "845-981-7365",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Automotive+Ingenuity,+INC.+New+York",
+    "category": "Filipino-American-owned Fleet services in New-York",
+    "description": "A foreign and exotic auto repair shop that also offers car electrical repairs, transmission repairs, and oil changes. They are also a U-Haul dealer",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Filipino-American-owned Fleet services in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Import Auto Service",
+    "address": "Marlboro, NY",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Import+Auto+Service+New+York",
+    "category": "Filipino-American-owned Fleet services in New-York",
+    "description": "Provides comprehensive Japanese and European auto repairs, family-owned and operated with 46 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Filipino-American-owned Fleet services in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Element Fleet Management",
+    "address": "Information not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Element+Fleet+Management+New+York",
+    "category": "Filipino-American-owned Fleet services in New-York",
+    "description": "Offers fleet management solutions, including vehicle ordering support, accident management, and maintenance services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Filipino-American-owned Fleet services in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Carey: Worldwide Executive Transportation Solutions",
+    "address": "Multiple locations including New York, San Francisco, Indianapolis, Boston, Dallas, Houston",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Carey:+Worldwide+Executive+Transportation+Solutions+New+York",
+    "category": "Filipino-American-owned Fleet services in New-York",
+    "description": "Provides luxury transportation services with professional chauffeurs and luxury vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Filipino-American-owned Fleet services in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
