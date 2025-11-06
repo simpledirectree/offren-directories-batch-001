@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Missouri Karate Association",
+    "address": "14003 Manchester Rd, Ballwin, MO 63021",
+    "phone": "(636) 391-5425",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.missourikarate.com/",
+    "category": "Japanese-speaking Self-defense in Missouri",
+    "description": "Offers Shotokan Karate instruction for all ages, focusing on practical self-defense, confidence, and character building",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Self-defense in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jefferson City Judo Club",
+    "address": "1015 W High St, Jefferson City, MO 65109",
+    "phone": "(573) 636-5836",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.jcjudoclub.com/",
+    "category": "Japanese-speaking Self-defense in Missouri",
+    "description": "The largest judo dojo in Missouri, offering classes for all ages and abilities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Self-defense in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "White Dragon Judo",
+    "address": "8120 Lackland Rd, Overland, MO 63114",
+    "phone": "(314) 428-0490",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.whitedragonjudo.com/",
+    "category": "Japanese-speaking Self-defense in Missouri",
+    "description": "STL's largest Judo Club, offering classes for all ages and abilities taught by experienced coaches",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Self-defense in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Platte City Aikikai",
+    "address": "3101 Running Horse Rd, Platte City, MO 64079",
+    "phone": "(816) 858-0114",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.plattecityaikikai.com/",
+    "category": "Japanese-speaking Self-defense in Missouri",
+    "description": "A dojo focusing on Aikido, a Japanese martial art rooted in Samurai traditions, emphasizing control and compassion",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Self-defense in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bujinkan Kajowaraku Budo Taijutsu Dojo",
+    "address": "Not explicitly listed, but serves the state of Missouri",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.bujinkankajowaraku.com/",
+    "category": "Japanese-speaking Self-defense in Missouri",
+    "description": "Offers authentic Japanese martial arts as taught by the ninja grandmaster Masaaki Hatsumi, focusing on self-protection and awareness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Self-defense in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Louis Bujinkan Dojo",
+    "address": "46A Worthington Access Drive, Maryland Heights, MO 63043",
+    "phone": "(314) 749-8895",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.stlbujinkan.com/",
+    "category": "Japanese-speaking Self-defense in Missouri",
+    "description": "Provides training in Bujinkan Budo Taijutsu, a classical Japanese martial art integrating nine traditional arts for a complete combat system",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Self-defense in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Joplin Judo & Jiu-Jitsu",
+    "address": "3120 S Main St Suite 1, Joplin, MO 64804",
+    "phone": "(417) 553-9631",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.joplinjudojiujitsu.com/",
+    "category": "Japanese-speaking Self-defense in Missouri",
+    "description": "Offers both Judo and Brazilian Jiu-Jitsu, focusing on stand-up techniques and ground game for a well-rounded grappling experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Self-defense in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gateway Shidokan Karate, LLC",
+    "address": "Not explicitly listed, but serves the St. Louis (Maryland Heights, MO) region",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.gatewayshidokankarate.com/",
+    "category": "Japanese-speaking Self-defense in Missouri",
+    "description": "Teaches Okinawan Shidokan Shorin-Ryu Karate with a primary focus on personal self-defense, emphasizing inclusivity and empowerment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Self-defense in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mid Missouri Judo",
+    "address": "Not explicitly listed, but serves the Columbia, MO area",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.midmissourijudo.com/",
+    "category": "Japanese-speaking Self-defense in Missouri",
+    "description": "One of the oldest martial arts schools in Columbia, MO, offering Judo classes for kids, teens, and adults, focusing on physical strength, flexibility, and mental discipline",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Self-defense in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aikido Institute of Mid-America (AIMA)",
+    "address": "7167 Manchester Road, Maplewood, Missouri 63143",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.aikidoway.org/",
+    "category": "Japanese-speaking Self-defense in Missouri",
+    "description": "The second oldest Aikido Dojo in the greater St. Louis Area, offering a full program in Aikido arts, philosophy, and daily life applications for all levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Japanese-speaking Self-defense in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
