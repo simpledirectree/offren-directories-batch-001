@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Star Village Coffee",
+    "address": "560 Mill Street, Reno, Nevada 89502",
+    "phone": "1 775-287-9883",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Star+Village+Coffee+in+Nevada",
+    "category": "Alaska-Native-owned Brand positioning in Nevada",
+    "description": "A Native American-owned and family-operated coffee company serving custom-built drinks made with local ingredients. They aim to preserve history and culture through their coffee",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Brand positioning in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
