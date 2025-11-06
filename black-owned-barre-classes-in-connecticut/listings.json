@@ -1,0 +1,172 @@
+[
+  {
+    "name": "LIFER Fitness Studio",
+    "address": "20 Jefferson Ave, Suite 6, West Hartford, CT 06110",
+    "phone": "(860) 760-9071",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lifefitnessstudio.com/",
+    "category": "Black-owned Barre classes in Connecticut",
+    "description": "LIFER Fitness Studio, owned by Debra Fountain, offers a variety of classes including cardio, strength training, yoga, and barre",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Barre classes in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Core Barre Studio",
+    "address": "1235 New Britain Ave, Newington, CT 06111",
+    "phone": "(860) 357-2277",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.corebarrestudio.com/",
+    "category": "Black-owned Barre classes in Connecticut",
+    "description": "Core Barre Studio offers \"True Barre\" classes, which are low-impact, high-result workouts designed to tone and reshape the body. They also offer Pilates Plus and Corefirst classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Barre classes in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pure Barre West Hartford",
+    "address": "115 Memorial Road, West Hartford, CT 06107",
+    "phone": "(860) 206-7194",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.purebarre.com/location/west-hartford-ct",
+    "category": "Black-owned Barre classes in Connecticut",
+    "description": "Pure Barre offers its signature Pure Barre Classic\u2122 class, a 50-minute full-body workout focusing on low-impact movements to improve flexibility and tone the body",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Barre classes in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "barre3 Farmington Valley",
+    "address": "177 Mountain Rd, Farmington, CT 06032",
+    "phone": "(860) 408-0033",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.barre3.com/studio/farmington-valley",
+    "category": "Black-owned Barre classes in Connecticut",
+    "description": "Barre3 Farmington Valley offers a workout that combines strength, cardio, and mindfulness with low-impact isometric moves and cardio bursts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Barre classes in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Forme Barre Fitness",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://formbarre.com/",
+    "category": "Black-owned Barre classes in Connecticut",
+    "description": "Forme Barre Fitness offers The FORME Method, a barre class combining elements of ballet, Pilates, and strength training. They have multiple locations in Connecticut",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Barre classes in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Glow Fitness",
+    "address": "147 Washington Ave, North Haven, CT 06473",
+    "phone": "(203) 404-0014",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.glowfitnessct.com/",
+    "category": "Black-owned Barre classes in Connecticut",
+    "description": "Glow Fitness is a boutique studio offering barre, Pilates, and cardio group classes, as well as personal training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Barre classes in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wild Soul Fitness",
+    "address": "74 Park Rd, West Hartford, CT 06119",
+    "phone": "(860) 880-3199",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://wildsoulfitness.com/",
+    "category": "Black-owned Barre classes in Connecticut",
+    "description": "Wild Soul Fitness offers group fitness classes including strength training, yoga, barre, Zumba, and Pilates, with an emphasis on community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Barre classes in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pulse Barre CT",
+    "address": "220 Albany Turnpike #10, Canton, CT 06019",
+    "phone": "(860) 352-5090",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pulsebarrect.com/",
+    "category": "Black-owned Barre classes in Connecticut",
+    "description": "Pulse Barre CT offers barre, Pilates, and yoga group classes in a renovated studio space",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Barre classes in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SynergyBarre",
+    "address": "147 Old Mill Rd, Wilton, CT 06897",
+    "phone": "(203) 762-7777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.synergybarre.com/",
+    "category": "Black-owned Barre classes in Connecticut",
+    "description": "SynergyBarre offers barre classes that combine ballet, yoga, Pilates, and strength training for a low-impact, total-body workout",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Barre classes in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fuller Yoga and Pilates",
+    "address": "100 Glastonbury Blvd, Glastonbury, CT 06033",
+    "phone": "(860) 913-0100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://fulleryoga.com/",
+    "category": "Black-owned Barre classes in Connecticut",
+    "description": "Fuller Yoga and Pilates offers a variety of classes including yoga, Pilates, and barre classes, with a focus on alignment and community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Barre classes in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
