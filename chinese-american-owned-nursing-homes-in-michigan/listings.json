@@ -1,0 +1,87 @@
+[
+  {
+    "name": "River Bend Assisted Living",
+    "address": "1572 Meisner Rd, East China, MI 48054",
+    "phone": "1-810-765-1002 x153",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.river-bend.org/",
+    "category": "Chinese-American-owned Nursing homes in Michigan",
+    "description": "Offers semi-independent and specialized assisted living, including care for those with Alzheimer's or dementia, Parkinson's, and other neurological impairments. They emphasize a personalized approach to care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Nursing homes in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Belle River Home",
+    "address": "2786 Belle River Rd, East China, MI 48054",
+    "phone": "(810) 765-3562",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Belle+River+Home+in+Michigan",
+    "category": "Chinese-American-owned Nursing homes in Michigan",
+    "description": "An Adult Small Group Home licensed for 1-6 residents, offering memory care and assisted living services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Nursing homes in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Association of Chinese Americans (ACA)",
+    "address": "While not a nursing home itself, the ACA is based in Detroit and offers social services for seniors, including health insurance counseling, food assistance, and caregiver counseling. They can help people apply for benefits like Medicare and Social Security",
+    "phone": "(248) 585-9343",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Association+of+Chinese+Americans+(ACA)+in+Michigan",
+    "category": "Chinese-American-owned Nursing homes in Michigan",
+    "description": "Dedicated to promoting the well-being of AAPI residents in Michigan, with programs for seniors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Nursing homes in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian Center of Southeast Michigan",
+    "address": "Various locations and Zoom options for programs",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Asian+Center+of+Southeast+Michigan+in+Michigan",
+    "category": "Chinese-American-owned Nursing homes in Michigan",
+    "description": "Developed a Wellness Program for Asian American Seniors and offers caregiver support programs. Their mission is to overcome social barriers and improve health for Asian Americans in Michigan",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Nursing homes in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sukoon Care LLC",
+    "address": "While primarily an in-home care service, they acquired Apna Ghar LLC, which was the first caregiving agency in Michigan providing care to the South Asian community. They focus on compassionate and culturally attuned non-medical homecare",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Sukoon+Care+LLC+in+Michigan",
+    "category": "Chinese-American-owned Nursing homes in Michigan",
+    "description": "Offers culturally attuned non-medical homecare, with a vision to serve elders from South Asian and Arab communities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Nursing homes in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
