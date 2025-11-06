@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Alejo Vet Clinic",
+    "address": "14001 SW 124th Ave, Miami, FL 33186",
+    "phone": "(305) 378-8888",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://alejovetclinic.com/",
+    "category": "Hispanic-owned Specialty veterinary in Florida",
+    "description": "Offers a range of veterinary services including internal surgery, dental care, and preventive care for pets in the Miami area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Specialty veterinary in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Garbizo Animal Clinic",
+    "address": "5550 W Sample Rd, Coconut Creek, FL 33073",
+    "phone": "(954) 972-4555",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://garbizoanimalclinic.com/",
+    "category": "Hispanic-owned Specialty veterinary in Florida",
+    "description": "Provides high-quality veterinary care in Coconut Creek, serving areas like Parkland, Coral Springs, and Boca Raton. They offer same-day appointments and walk-ins",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Specialty veterinary in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Veterinary Dental Services",
+    "address": "8040 W Sunrise Blvd, Plantation, FL 33322",
+    "phone": "(954) 475-0200",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.vetdentalservices.com/",
+    "category": "Hispanic-owned Specialty veterinary in Florida",
+    "description": "Specializes in veterinary dentistry, oral surgery, and exotic animal medicine, serving South Florida pets with complex dental needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Specialty veterinary in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Exotic Animal Hospital of Orlando",
+    "address": "1717 E Michigan St, Orlando, FL 32806",
+    "phone": "(407) 286-3484",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.orlandoexoticveterinarian.com/",
+    "category": "Hispanic-owned Specialty veterinary in Florida",
+    "description": "Offers expert medical and surgical care for exotic pets, including mammals, birds, reptiles, amphibians, and fish in the Orlando area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Specialty veterinary in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Southwest Florida Veterinary Specialists",
+    "address": "27600 Tamiami Trail N, Bonita Springs, FL 34135",
+    "phone": "(239) 992-8387",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.swflvs.com/",
+    "category": "Hispanic-owned Specialty veterinary in Florida",
+    "description": "Provides advanced specialty veterinary services, including cardiology, surgery, and 24/7 emergency care, with board-certified specialists",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Specialty veterinary in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Veterinary Specialists Incorporated",
+    "address": "3040 Stirling Rd, Fort Lauderdale, FL 33312",
+    "phone": "(954) 370-8440",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.vetspecialists.com/",
+    "category": "Hispanic-owned Specialty veterinary in Florida",
+    "description": "Offers specialized veterinary care with advanced training, focusing on ophthalmology for both small and large animals, as well as exotics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Specialty veterinary in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Welleby Veterinary Hospital",
+    "address": "7301 W Sunrise Blvd, Sunrise, FL 33322",
+    "phone": "(954) 748-2002",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.wellebyvet.com/",
+    "category": "Hispanic-owned Specialty veterinary in Florida",
+    "description": "Specializes in exotic pet care, including birds, reptiles, and small mammals, and also provides care for other exotic species",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Specialty veterinary in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Southeast Veterinary Oncology & Internal Medicine (SEVO-Med)",
+    "address": "1515 US-17, Orange Park, FL 32073",
+    "phone": "(904) 278-1555",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://sevomd.com/",
+    "category": "Hispanic-owned Specialty veterinary in Florida",
+    "description": "Dedicated to providing high-quality veterinary oncology and internal medicine services for pets in the Orange Park and Jacksonville areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Specialty veterinary in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TLC Animal Hospital",
+    "address": "3106 Tampa Rd, Palm Harbor, FL 34684",
+    "phone": "(727) 787-3110",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://tlcanimalhospital.com/",
+    "category": "Hispanic-owned Specialty veterinary in Florida",
+    "description": "Offers top-rated veterinary care in Palm Harbor, including wellness exams, advanced surgeries, and 24/7 pet services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Specialty veterinary in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Santa Cruz Animal Clinic",
+    "address": "1105 Brandon Blvd, Brandon, FL 33511",
+    "phone": "(813) 685-7751",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://santacruzanimalclinic.com/",
+    "category": "Hispanic-owned Specialty veterinary in Florida",
+    "description": "Provides exceptional veterinary care in Brandon, focusing on preventative health and modern medical procedures since 1971, with 24/7 availability",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Specialty veterinary in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
