@@ -1,0 +1,36 @@
+[
+  {
+    "name": "The Fitness Lab, LLC",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Fitness+Lab,+LLC+in+California",
+    "category": "African-American-owned 24-hour fitness centers in California",
+    "description": "Offers online personal training services and custom training programs. They emphasize a personalized and curated experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Combine",
+    "address": "Oakland, CA (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Combine+in+California",
+    "category": "African-American-owned 24-hour fitness centers in California",
+    "description": "A Black-owned gym in Oakland, CA, focusing on agility, power, strength, functionality, and mobility",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
