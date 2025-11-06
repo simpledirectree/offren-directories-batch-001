@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Mike's Machine & Welding",
+    "address": "4801 Commerce Rd, Richmond, VA 23234",
+    "phone": "(804) 232-9353",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.mikesmachineandwelding.com/",
+    "category": "Black-owned Welding in Virginia",
+    "description": "Offers full-service welding and machine shop services, including steel fabrication, mobile, and in-shop welding. They specialize in industrial, commercial, and residential projects",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Welding in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Outlaw Welding",
+    "address": "1019 Old Farm Rd, Monroe, VA 24574",
+    "phone": "(434) 941-7030",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.outlawwelding.com/",
+    "category": "Black-owned Welding in Virginia",
+    "description": "Provides 24/7 welding services for automotive, home, construction, and commercial restaurant repair needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Welding in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "JB Custom Welding",
+    "address": "43018 John Bowman Dr, South Riding, VA 20152",
+    "phone": "(571) 338-0208",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.jbcw.us/",
+    "category": "Black-owned Welding in Virginia",
+    "description": "A family-owned company offering custom welding, repair, shop fabrication, and mobile welding services in Northern Virginia, specializing in steel and aluminum for commercial and residential clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Welding in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pro-Weld Fabricators",
+    "address": "1013 E. Main Street, Richmond, VA 23219",
+    "phone": "(804) 408-WELD",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.proweldfabricators.com/",
+    "category": "Black-owned Welding in Virginia",
+    "description": "Offers welding and custom metal fabrication services in Richmond, VA, with mobile fabrication capabilities. They handle industrial, commercial, and custom projects",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Welding in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "West End Machine & Welding",
+    "address": "711 S Meadow St, Richmond, VA 23220",
+    "phone": "(804) 266-9631",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.westendmachine.com/",
+    "category": "Black-owned Welding in Virginia",
+    "description": "Provides welding and metal fabrication services for commercial, industrial, and residential customers in Richmond, VA, with over 50 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Welding in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Coleman Welding Services",
+    "address": "Chesapeake, VA (Specific address not provided, mobile service)",
+    "phone": "(757) 472-2008",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Coleman+Welding+Services+in+Virginia",
+    "category": "Black-owned Welding in Virginia",
+    "description": "A fully mobile welding service with nine years of experience in welding and fabrication for industrial companies, shipyards, homeowners, and businesses. They work with various metals including aluminum, stainless steel, and carbon steel",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Welding in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "A D & G MOBILE WELDING",
+    "address": "4987 Cleveland St, Virginia Beach, VA 23462",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/A+D+&+G+MOBILE+WELDING+in+Virginia",
+    "category": "Black-owned Welding in Virginia",
+    "description": "Offers mobile welding services in Virginia Beach, VA, with a focus on customer service and efficient repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Welding in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "William Welding LLC",
+    "address": "Fairfax, VA (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/William+Welding+LLC+in+Virginia",
+    "category": "Black-owned Welding in Virginia",
+    "description": "Provides welding services, including the ability to weld aluminum, for repairs and custom projects. They offer pickup and delivery services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Welding in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HP Welding Products LLC",
+    "address": "Fairfax, VA (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/HP+Welding+Products+LLC+in+Virginia",
+    "category": "Black-owned Welding in Virginia",
+    "description": "Specializes in iron work, structural projects, and fabrication of stairs, rails, and handrails for residential and commercial clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Welding in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mid Atlantic Metals LLC",
+    "address": "Hampton, VA (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.midatlanticmetalsllc.com/",
+    "category": "Black-owned Welding in Virginia",
+    "description": "Offers metal fabrication, boat repairs, and on-site welding services for commercial and residential clients, providing free estimates and a one-year warranty",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Welding in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
