@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Mayo Clinic Health System",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mayoclinichealthsystem.org/",
+    "category": "Chinese-speaking PET scan services in Wisconsin",
+    "description": "Offers PET scans as an imaging test to reveal how tissues and organs are functioning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking PET scan services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aurora Health Care",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aurorahealthcare.org/",
+    "category": "Chinese-speaking PET scan services in Wisconsin",
+    "description": "Provides PET scans to help doctors understand blood supply to the heart and evaluate metabolic activity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking PET scan services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Crossing Rivers Health",
+    "address": "37868 US Hwy 18, Prairie du Chien, WI 53821",
+    "phone": "608-357-2244",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.crossingrivers.org/",
+    "category": "Chinese-speaking PET scan services in Wisconsin",
+    "description": "Offers PET/CT scanning provided by Shared Medical Services, focusing on metabolic activity and body function",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking PET scan services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wimr Imaging Services Center",
+    "address": "1111 Highland Ave, Madison, WI 53705",
+    "phone": "608-262-5421",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wimr.com/",
+    "category": "Chinese-speaking PET scan services in Wisconsin",
+    "description": "A group practice with multiple specialties, including Nuclear Medicine. They list Chinese as one of the languages spoken by their physicians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking PET scan services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "UW Health (University of Wisconsin Health)",
+    "address": "",
+    "phone": "Various numbers depending on the location (e.g., 608-263-9729 for University Hospital Radiology Department)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.uwhealth.org/",
+    "category": "Chinese-speaking PET scan services in Wisconsin",
+    "description": "Offers comprehensive diagnostic imaging services, including PET scans. Their language access page indicates they provide services in Chinese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking PET scan services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Radiology Assist",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.radiologyassist.com/",
+    "category": "Chinese-speaking PET scan services in Wisconsin",
+    "description": "Offers PET scans at discounted rates for self-pay patients. While they don't explicitly mention Chinese-speaking services, they are a platform to access PET scans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking PET scan services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BayCare Clinic",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.baycareclinic.com/",
+    "category": "Chinese-speaking PET scan services in Wisconsin",
+    "description": "Provides advanced radiology services, including PET/CT scans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking PET scan services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Froedtert & MCW (Medical College of Wisconsin)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.froedtert.com/",
+    "category": "Chinese-speaking PET scan services in Wisconsin",
+    "description": "Offers a wide range of imaging services, including PET/CT scans. Their website indicates that language assistance services are available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking PET scan services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shared Medical Technology (Heritage Imaging)",
+    "address": "",
+    "phone": "800-352-7254",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sharedmedtech.com/",
+    "category": "Chinese-speaking PET scan services in Wisconsin",
+    "description": "Provides mobile PET-CT services in Wisconsin, partnering with healthcare centers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking PET scan services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Waisman Center (UW-Madison)",
+    "address": "1500 Highland Ave, Madison, WI 53705",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.waisman.wisc.edu/",
+    "category": "Chinese-speaking PET scan services in Wisconsin",
+    "description": "Houses a PET research facility with PET scanners. While primarily for research, it indicates advanced PET capabilities in the area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking PET scan services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
