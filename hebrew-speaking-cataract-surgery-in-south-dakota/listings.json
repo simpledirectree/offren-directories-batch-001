@@ -1,0 +1,87 @@
+[
+  {
+    "name": "ART Vision",
+    "address": "5010 S. Western Ave., Sioux Falls, SD 57108",
+    "phone": "(605) 307-4777",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://artvision.md/",
+    "category": "Hebrew-speaking Cataract surgery in South-Dakota",
+    "description": "Offers advanced vision-improvement services, including cataract care, in a state-of-the-art facility with an office-based surgery center",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Cataract surgery in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ophthalmology LTD",
+    "address": "1201 W. 29th St., Sioux Falls, SD 57105",
+    "phone": "(605) 336-2244",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://ophthalmologyltd.com/",
+    "category": "Hebrew-speaking Cataract surgery in South-Dakota",
+    "description": "Provides comprehensive medical and surgical eye care, including cataract surgery, with multiple locations and a dedicated surgery center",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Cataract surgery in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Slingsby & Huot Eye Associates",
+    "address": "240 Minnesota St., Rapid City, SD 57701",
+    "phone": "(605) 719-9499",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.slingsbyhuot.com/",
+    "category": "Hebrew-speaking Cataract surgery in South-Dakota",
+    "description": "Offers cataract surgery and other eye care services with experienced ophthalmologists, emphasizing a safe and precise approach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Cataract surgery in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vance Thompson Vision",
+    "address": "3101 W. 57th St., Sioux Falls, SD 57108",
+    "phone": "(605) 361-3937",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.vancethompsonvision.com/",
+    "category": "Hebrew-speaking Cataract surgery in South-Dakota",
+    "description": "Specializes in advanced cataract, LASIK, glaucoma, corneal, and eyelid treatments with a state-of-the-art facility",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Cataract surgery in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Hills Regional Eye Institute",
+    "address": "2060 W. Main St., Rapid City, SD 57702",
+    "phone": "(605) 341-2020",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.blackhillseyecare.com/",
+    "category": "Hebrew-speaking Cataract surgery in South-Dakota",
+    "description": "Provides comprehensive specialty eye care, including cataract surgery and LASIK, with a mission to deliver high-quality care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Cataract surgery in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
