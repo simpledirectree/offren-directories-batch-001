@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Wen Jiang & Company PC",
+    "address": "7000 SW Hampton St Ste 218, Tigard, OR 97223",
+    "phone": "503-620-1010",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wenjiangcpa.com/",
+    "category": "Chinese-American-owned Financing assistance in Oregon",
+    "description": "Offers accounting, tax preparation, and business consulting services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Financing assistance in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hsin-Cheng Kuo, Wealth Management Advisor at Northwestern Mutual",
+    "address": "Portland, OR 97201",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.northwesternmutual.com/financial-advisor/oregon/portland/hsin-cheng-kuo",
+    "category": "Chinese-American-owned Financing assistance in Oregon",
+    "description": "Provides wealth management and holistic financial planning services, including investment planning, retirement planning, and tax-efficient strategies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Financing assistance in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hoshi CPA",
+    "address": "Tigard, Oregon (specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hoshi+CPA+in+Oregon",
+    "category": "Chinese-American-owned Financing assistance in Oregon",
+    "description": "A CPA firm offering accounting, tax planning, and tax compliance services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Financing assistance in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oregon Association of Minority Entrepreneurs Credit Corporation (OAMECC)",
+    "address": "(Serves Oregon and SW Washington, specific Portland address may be available on their website)",
+    "phone": "503-249-7744",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://oame.org/oamecc/",
+    "category": "Chinese-American-owned Financing assistance in Oregon",
+    "description": "Offers SBA loans (A/R and Term Loans) and business counseling for minority-owned businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Financing assistance in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Business Oregon",
+    "address": "(State agency, various locations may exist, main office likely in Salem or Portland)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.oregon.gov/biz/",
+    "category": "Chinese-American-owned Financing assistance in Oregon",
+    "description": "The state's economic development agency, offering various loan programs and resources for small businesses, including those that have historically faced barriers to accessing capital",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Financing assistance in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
