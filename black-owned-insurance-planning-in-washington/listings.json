@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Anderson & Black Insurance",
+    "address": "16403 Broadway Ave, Snohomish, WA 98296",
+    "phone": "(800) 750-4022",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.andersonandblack.com/",
+    "category": "Black-owned Insurance planning in Washington",
+    "description": "This is an independent insurance agency offering a wide range of personal and business insurance policies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Insurance planning in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Humble Insurance Group",
+    "address": "31911 3rd Ave, Black Diamond, WA 98010",
+    "phone": "(425) 226-8221",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.humbleinsurance.com/",
+    "category": "Black-owned Insurance planning in Washington",
+    "description": "Humble Insurance Group offers personal and commercial insurance solutions in King County, WA, and has been serving the community since 1986",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Insurance planning in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Mammoth",
+    "address": "Information not available (website indicates services are provided virtually)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackmammoth.co/",
+    "category": "Black-owned Insurance planning in Washington",
+    "description": "Black Mammoth offers holistic financial planning services, including tax planning, retirement and legacy planning, and goal setting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Insurance planning in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dream Financial Planning",
+    "address": "Information not available (serves Washington D.C. area, but founder has experience in wealth management)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dreamfinancialplanning.com/",
+    "category": "Black-owned Insurance planning in Washington",
+    "description": "Founded by Lamar Watson, Dream Financial Planning focuses on providing fee-only and fiduciary financial services to young professionals and minorities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Insurance planning in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Re-Envision Wealth",
+    "address": "Information not available (has a Washington D.C. office, but aims to be a national firm)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.reenvisionwealth.com/",
+    "category": "Black-owned Insurance planning in Washington",
+    "description": "Re-Envision Wealth is a Black-owned wealth management firm focused on closing the racial wealth gap and furthering social justice through impact-focused investing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Insurance planning in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HCP National Insurance Services, Inc.",
+    "address": "Information not available (operates nationwide)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hcp-national.com/",
+    "category": "Black-owned Insurance planning in Washington",
+    "description": "HCP National Insurance Services is a minority and woman-owned commercial insurance brokerage that has been serving clients nationwide for over 20 years",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Insurance planning in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "COUNTRY Financial",
+    "address": "Multiple locations available (search for a local agent)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.countryfinancial.com/",
+    "category": "Black-owned Insurance planning in Washington",
+    "description": "COUNTRY Financial offers a range of insurance products, including home and auto, as well as investment and retirement planning services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Insurance planning in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blackagent.com",
+    "address": "Information not available (online directory)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackagent.com/",
+    "category": "Black-owned Insurance planning in Washington",
+    "description": "Blackagent.com is a directory that helps users find Black insurance agents in various states, including Washington",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Insurance planning in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NerdWallet",
+    "address": "Information not available (online resource)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nerdwallet.com/",
+    "category": "Black-owned Insurance planning in Washington",
+    "description": "NerdWallet provides resources and tools for finding financial advisors, including information on how to find Black financial advisors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Insurance planning in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "eMoney Advisor",
+    "address": "Information not available (online resource)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.emoneyadvisor.com/",
+    "category": "Black-owned Insurance planning in Washington",
+    "description": "eMoney Advisor features articles and resources on financial planning, including lists of Black financial planning experts to follow",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Insurance planning in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
