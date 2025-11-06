@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Havana Central",
+    "address": "Multiple locations, including Times Square and Hell's Kitchen. (Specific addresses vary by location)",
+    "phone": "(212) 354-2200 (Times Square location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.havanacentral.com/",
+    "category": "Cuban-American-owned Ghost kitchen delivery in New-York",
+    "description": "A popular Cuban restaurant and rum bar with a 1950s vintage Cuba-inspired ambiance, offering dine-in, takeout, and delivery of classic Cuban dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Cuban-American-owned Ghost kitchen delivery in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cuba Restaurant & Rum Bar",
+    "address": "212 Thompson St, New York, NY 10012",
+    "phone": "(212) 420-7878",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.cubarestaurant-nyc.com/",
+    "category": "Cuban-American-owned Ghost kitchen delivery in New-York",
+    "description": "Located in Greenwich Village, this restaurant aims to transport diners to Old Havana with its authentic Cuban cuisine, music, and signature mojitos and sangrias. They offer dine-in and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Cuban-American-owned Ghost kitchen delivery in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
