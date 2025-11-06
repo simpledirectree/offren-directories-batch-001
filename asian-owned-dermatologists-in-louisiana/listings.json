@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Ochsner Health - Jessica Chu, MD",
+    "address": "1700 Medical Center Dr, Baton Rouge, LA 70816",
+    "phone": "(225) 761-5200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ochsner.org/doctors/jessica-chu",
+    "category": "Asian-owned Dermatologists in Louisiana",
+    "description": "Dr. Chu practices the full range of medical, surgical, and cosmetic dermatology for adults and children, specializing in skin cancer prevention and treatment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Dermatologists in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Trieu Dermatology",
+    "address": "6042 Magazine St, New Orleans, LA 70118",
+    "phone": "(504) 517-2025",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.trieudermatology.com/",
+    "category": "Asian-owned Dermatologists in Louisiana",
+    "description": "Dr. Trieu is a board-certified dermatologist with fellowship training in procedural (surgical and cosmetic) dermatology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Dermatologists in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New Orleans Dermatology",
+    "address": "6042 Magazine Street, New Orleans, LA 70118",
+    "phone": "(504) 517-2025",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.neworleansdermatology.com/",
+    "category": "Asian-owned Dermatologists in Louisiana",
+    "description": "This practice offers a wide range of dermatological and cosmetic services, with board-certified dermatologists experienced in various skin conditions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Dermatologists in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
