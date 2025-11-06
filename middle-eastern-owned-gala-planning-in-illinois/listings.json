@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Chicago Event Planners",
+    "address": "Oak Lawn, IL",
+    "phone": "+17088901121",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chicago+Event+Planners+in+Illinois",
+    "category": "Middle-Eastern-owned Gala planning in Illinois",
+    "description": "This business offers event decor, event planning, day-of coordinating, and other services. They also mention services like Zaffa, Debka, DJ, cold spark/fog, 360 camera photobooth, and grand entrances",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Middle-Eastern-owned Gala planning in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
