@@ -1,0 +1,172 @@
+[
+  {
+    "name": "613 Restaurant",
+    "address": "108 Prospect Street, Stamford, CT 06901",
+    "phone": "(203) 614-8777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://613restaurant.com/",
+    "category": "Hebrew-speaking Pop-up restaurants in Connecticut",
+    "description": "A kosher restaurant offering contemporary New American cuisine and sushi",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Pop-up restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rein's New York Style Deli",
+    "address": "439 Hartford Turnpike, Vernon, CT 06066",
+    "phone": "(860) 875-1527",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.reinsdeli.com/",
+    "category": "Hebrew-speaking Pop-up restaurants in Connecticut",
+    "description": "A New York-style Jewish deli serving classic deli specialties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Pop-up restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Blondinit",
+    "address": "125 Main Street, Westport, CT 06880",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theblondinit.com/",
+    "category": "Hebrew-speaking Pop-up restaurants in Connecticut",
+    "description": "An Israeli soul food eatery offering authentic Israeli cuisine with indoor and outdoor dining",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Pop-up restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gveenah",
+    "address": "968 Farmington Ave, West Hartford, CT 06107",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Gveenah+in+Connecticut",
+    "category": "Hebrew-speaking Pop-up restaurants in Connecticut",
+    "description": "A modern kosher Mediterranean fusion restaurant with vegetarian and vegan options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Pop-up restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Greenwich & Delancey Delicatessen",
+    "address": "59 E Putnam Ave, Cos Cob, CT 06807",
+    "phone": "(203) 340-2733",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.greenwichanddelancey.com/",
+    "category": "Hebrew-speaking Pop-up restaurants in Connecticut",
+    "description": "A kosher delicatessen with an Eastern European flair",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Pop-up restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Claire's Corner Copia",
+    "address": "1000 Chapel St, New Haven, CT 06510",
+    "phone": "(203) 562-3888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.clairescornercopia.com/",
+    "category": "Hebrew-speaking Pop-up restaurants in Connecticut",
+    "description": "A kosher vegetarian restaurant",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Pop-up restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Edge of the Woods Market",
+    "address": "397 Whalley Ave, New Haven, CT 06511",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://eotwm.com/",
+    "category": "Hebrew-speaking Pop-up restaurants in Connecticut",
+    "description": "A market with a kosher hot bar and dining tables",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Pop-up restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ladle and Loaf",
+    "address": "357 Whalley Avenue, New Haven, CT 06511",
+    "phone": "(203) 553-5553",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://ladle-loaf.square.site/",
+    "category": "Hebrew-speaking Pop-up restaurants in Connecticut",
+    "description": "A kosher meat restaurant offering Middle Eastern fusion cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Pop-up restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fin and Scale",
+    "address": "920 Whalley Ave, New Haven, CT 06515",
+    "phone": "(203) 553-7905",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://finandscalect.com/",
+    "category": "Hebrew-speaking Pop-up restaurants in Connecticut",
+    "description": "A kosher sushi restaurant",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Pop-up restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Waterbury Kosher World",
+    "address": "701 Cooke St, Waterbury, CT 06704",
+    "phone": "(203) 757-4992",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://waterburykosherworld.com/",
+    "category": "Hebrew-speaking Pop-up restaurants in Connecticut",
+    "description": "Offers pizza, deli items, and groceries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hebrew-speaking Pop-up restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
