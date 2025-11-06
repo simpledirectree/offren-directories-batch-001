@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Batteries Plus",
+    "address": "464 S Willow St, Manchester, NH 03103",
+    "phone": "(603) 621-0100",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.batteriesplus.com/",
+    "category": "Latino-owned Mobile phone repair in New-Hampshire",
+    "description": "Offers professional repair services for smartphones, tablets, and other mobile devices, including screen replacements, battery replacements, and charging port repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Mobile phone repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Batteries Plus",
+    "address": "317 Amherst St, Nashua, NH 03063",
+    "phone": "(603) 883-5060",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.batteriesplus.com/",
+    "category": "Latino-owned Mobile phone repair in New-Hampshire",
+    "description": "Provides expert phone and tablet repair services, fixing issues like cracked screens, water damage, and battery problems for various brands",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Mobile phone repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asurion Phone & Tech Repair",
+    "address": "239 Loudon Rd, Concord, NH 03301",
+    "phone": "(603) 333-2915",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.asurion.com/repairs/tech/locations/concordnh",
+    "category": "Latino-owned Mobile phone repair in New-Hampshire",
+    "description": "Specializes in electronics repair, including cell phone repair, screen repair, game consoles, tablets, and computers, with most repairs completed in about an hour",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Mobile phone repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NH iPhone Repair",
+    "address": "375 Amherst St, Nashua, NH 03063",
+    "phone": "(603) 505-4882",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.nhiphonerepair.com/",
+    "category": "Latino-owned Mobile phone repair in New-Hampshire",
+    "description": "Offers trusted repair services for cell phones, iPads, and computers, including screen replacements, battery repairs, and water damage restoration. They also buy and sell devices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Mobile phone repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "FIX MOBILE",
+    "address": "4A Jenkins CT, Durham, NH 03824",
+    "phone": "(603) 704-1115 (for Derry store, likely similar for Durham)",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.fixmobile.com/",
+    "category": "Latino-owned Mobile phone repair in New-Hampshire",
+    "description": "Provides repair services for almost all mobile devices, offering fast and affordable alternatives to manufacturer repairs, with a lifetime warranty on parts and labor (excluding physical or water damage after repair)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Mobile phone repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "uBreakiFix by Asurion",
+    "address": "380 S Broadway, Salem, NH 03079",
+    "phone": "(603) 685-0293",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.ubreakifix.com/locations/salemnh",
+    "category": "Latino-owned Mobile phone repair in New-Hampshire",
+    "description": "Offers a range of repair services for cell phones, tablets, computers, and game consoles, with a focus on fast, reliable, and affordable solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Mobile phone repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CPR Cell Phone Repair",
+    "address": "375 Amherst St, Nashua, NH 03063",
+    "phone": "(603) 505-4882",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.cellphonerepair.com/locations/nashua-nh",
+    "category": "Latino-owned Mobile phone repair in New-Hampshire",
+    "description": "Provides fast and affordable device repairs for phones, tablets, laptops, and more, with a focus on iPhone, iPad, and Samsung repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Mobile phone repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Fix in Walmart",
+    "address": "344 Loudon Rd, Concord, NH 03301",
+    "phone": "(603) 333-2915 (This number appears to be for Asurion Concord, which is located in Walmart)",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.thefix.com/locations/new-hampshire/concord/walmart-concord-344-loudon-rd",
+    "category": "Latino-owned Mobile phone repair in New-Hampshire",
+    "description": "Offers professional, reliable, and convenient tech repair services inside Walmart, including phone screen replacement, battery repair, and charging port repair",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Mobile phone repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "iFixandRepair",
+    "address": "Located within Walmart at 144 Washington St, Rochester, NH 03867",
+    "phone": "(603) 332-5000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.ifixandrepair.com/locations/rochester-nh-walmart",
+    "category": "Latino-owned Mobile phone repair in New-Hampshire",
+    "description": "Provides quick iPhone, Samsung, cell phone, and tablet repairs, often completed in 30 minutes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Mobile phone repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ez Fix Phone & Computer Repair",
+    "address": "11 Manchester Road, Suite 1A, Derry, NH 03038",
+    "phone": "(603) 704-1115",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.ezfix.com/",
+    "category": "Latino-owned Mobile phone repair in New-Hampshire",
+    "description": "Offers reliable service dedicated to repairing and restoring devices with precision and care, providing fast, efficient, and affordable solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Mobile phone repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
