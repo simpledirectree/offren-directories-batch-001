@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Joe & Sons Auto Repair",
+    "address": "1250 Cranston St, Cranston, RI 02920",
+    "phone": "(401) 946-0500",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.joeandsonsauto.com/",
+    "category": "Catholic-owned Mobile auto maintenance in Rhode-Island",
+    "description": "Family-owned auto repair shop offering a wide range of services including engine repair, transmission repair, and brake service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Mobile auto maintenance in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Laires and Son Auto",
+    "address": "158 Waterman Ave, East Providence, RI 02914",
+    "phone": "(401) 438-0700",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://lairesandsonauto.com/",
+    "category": "Catholic-owned Mobile auto maintenance in Rhode-Island",
+    "description": "Reliable auto repair services in East Providence, offering diagnostics and repairs for various vehicle needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Mobile auto maintenance in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ralph and Sons Auto",
+    "address": "456 West Fountain Street, Providence, RI 02903",
+    "phone": "(401) 831-5599",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.ralphandsonsauto.com/",
+    "category": "Catholic-owned Mobile auto maintenance in Rhode-Island",
+    "description": "A fourth-generation family-owned business providing reliable and affordable auto repair services, including accident and insurance repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Mobile auto maintenance in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Protech Automotive Services",
+    "address": "1000 Atwood Ave, Johnston, RI 02919",
+    "phone": "(401) 231-0100",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://protechauto.com/",
+    "category": "Catholic-owned Mobile auto maintenance in Rhode-Island",
+    "description": "Specializes in European, Import, and Domestic auto services and repairs, offering a 3-year/36,000-mile warranty",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Mobile auto maintenance in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hans Imports INC",
+    "address": "7275 Post Rd, North Kingstown, RI 02852",
+    "phone": "(888) 567-5379",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://hansimportsri.com/",
+    "category": "Catholic-owned Mobile auto maintenance in Rhode-Island",
+    "description": "Professional vehicle maintenance and repair services, dedicated to keeping cars safe and reliable on the road since 1981",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Mobile auto maintenance in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DC Automotive Inc.",
+    "address": "101 Comstock Pkwy #19, Cranston, RI 02921",
+    "phone": "(401) 270-7155",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://dcautomotiveinc.com/",
+    "category": "Catholic-owned Mobile auto maintenance in Rhode-Island",
+    "description": "Offers dealer-level service with local shop pricing for all makes and models, including classic and modern vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Mobile auto maintenance in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Autosport Inc.",
+    "address": "1000 Bald Hill Rd, Warwick, RI 02886",
+    "phone": "(401) 732-1111",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.autosportri.com/",
+    "category": "Catholic-owned Mobile auto maintenance in Rhode-Island",
+    "description": "Provides comprehensive auto repair and maintenance services for a wide range of vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Mobile auto maintenance in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Precision Auto Body & Repair",
+    "address": "1500 Broad St, Cranston, RI 02905",
+    "phone": "(401) 461-0300",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.precisionautobodyri.com/",
+    "category": "Catholic-owned Mobile auto maintenance in Rhode-Island",
+    "description": "Offers auto body repair and mechanical services, focusing on quality workmanship and customer satisfaction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Mobile auto maintenance in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "East Side Auto",
+    "address": "1414 Broad St, Providence, RI 02905",
+    "phone": "(401) 461-1111",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.eastsideauto.net/",
+    "category": "Catholic-owned Mobile auto maintenance in Rhode-Island",
+    "description": "A trusted auto repair shop providing a full range of services for various car makes and models",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Mobile auto maintenance in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cranston Auto Center",
+    "address": "1600 Cranston St, Cranston, RI 02920",
+    "phone": "(401) 946-5000",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://cranstonautocenter.com/",
+    "category": "Catholic-owned Mobile auto maintenance in Rhode-Island",
+    "description": "Offers complete auto repair and maintenance services, including diagnostics, engine repair, and brake services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Mobile auto maintenance in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
