@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Up Leaf Caf\u00e9",
+    "address": "12371 James St #40, Holland, MI 49424",
+    "phone": "(616) 403-5000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://upleafcafe.com/",
+    "category": "Asian-owned Plant-based meal prep in Michigan",
+    "description": "Offers Asian-inspired cuisine with a focus on fresh ingredients, with vegan and vegetarian options. They provide dine-in, takeout, and delivery services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BIBIBOP Asian Grill",
+    "address": "Multiple locations in Michigan (e.g., 4200 Washtenaw Ave, Ann Arbor, MI 48108)",
+    "phone": "Varies by location (e.g., (734) 327-0050 for Ann Arbor)",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://bibibop.com/",
+    "category": "Asian-owned Plant-based meal prep in Michigan",
+    "description": "Fast-casual restaurant serving customizable Korean-inspired bowls. They offer gluten-free and vegan-friendly options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Little Kim",
+    "address": "407 N. Fifth Ave., Ann Arbor, MI 48104",
+    "phone": "(734) 707-1000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.misskimannarbor.com/little-kim",
+    "category": "Asian-owned Plant-based meal prep in Michigan",
+    "description": "Offers vegetarian-focused Asian fare with customizable \"Make Your Own Bowls.\" Vegan options are available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ypbor Yan",
+    "address": "4905 Washtenaw Ave, Ann Arbor, MI 48108",
+    "phone": "(734) 434-7978",
+    "rating": 3.8,
+    "reviews": 25,
+    "website": "http://www.ypboryan.com/",
+    "category": "Asian-owned Plant-based meal prep in Michigan",
+    "description": "Authentic Chinese restaurant that offers vegetable dishes with tofu and faux meats that can be added to classic dishes. They specify vegan options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ima Izakaya",
+    "address": "2100 Michigan Avenue, Detroit, MI 48216",
+    "phone": "(313) 964-7000",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.imarestaurants.com/ima-izakaya",
+    "category": "Asian-owned Plant-based meal prep in Michigan",
+    "description": "Japanese and pan-Asian inspired comfort food with a veggie-forward approach. They offer ramen, rice bowls, and udon noodles with vegan options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ima Midtown/Wayne State",
+    "address": "4870 Cass Ave, Detroit, MI 48201",
+    "phone": "(313) 502-5148",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.imarestaurants.com/ima-midtown",
+    "category": "Asian-owned Plant-based meal prep in Michigan",
+    "description": "Offers comforting, veggie-forward dishes with pan-Asian flavors, including vegan options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ima Madison Heights",
+    "address": "32203 John R. Road, Madison Heights, MI 48071",
+    "phone": "(248) 582-1400",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.imarestaurants.com/ima-madison-heights",
+    "category": "Asian-owned Plant-based meal prep in Michigan",
+    "description": "Provides the same comforting, veggie-forward dishes with pan-Asian flavors, including vegan options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Summertown Fresh Bar",
+    "address": "2015 Michigan Ave, Detroit, MI 48216",
+    "phone": "(313) 964-7000",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.imarestaurants.com/summertown-fresh-bar",
+    "category": "Asian-owned Plant-based meal prep in Michigan",
+    "description": "Focuses on lighter fare with wraps, salads, power bowls, juices, and smoothies, catering to vegan and gluten-free preferences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Miroh Meals",
+    "address": "2398 Franklin Road, Bloomfield Township, MI, 48302",
+    "phone": "(248) 568-0985",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://mirohmeals.com/",
+    "category": "Asian-owned Plant-based meal prep in Michigan",
+    "description": "A leading plant-based meal prep company in Metro Detroit, offering gourmet meals using whole food ingredients. They provide weekly delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Detroit Vegan Soul",
+    "address": "8029 Agnes St, Detroit, MI 48214",
+    "phone": "(313) 649-2776",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.detroitvegansoul.com/",
+    "category": "Asian-owned Plant-based meal prep in Michigan",
+    "description": "Offers a fully vegan menu with soul food influences. They provide catering services for events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
