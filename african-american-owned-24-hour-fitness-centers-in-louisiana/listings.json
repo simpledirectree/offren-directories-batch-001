@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Magnolia Yoga Studio",
+    "address": "1233 Royal St, New Orleans, LA 70116",
+    "phone": "(504) 218-4747",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.magnoliayoga.com/",
+    "category": "African-American-owned 24-hour fitness centers in Louisiana",
+    "description": "New Orleans' first Black-owned yoga studio, offering heated and beginner-friendly classes 7 days a week",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
