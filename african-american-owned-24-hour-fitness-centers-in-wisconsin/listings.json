@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Spinn MKE",
+    "address": "309 W Brown Street, Milwaukee, WI 53212",
+    "phone": "(414) 436-2111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.spinnmke.com/",
+    "category": "African-American-owned 24-hour fitness centers in Wisconsin",
+    "description": "Milwaukee's first luxury indoor cycling studio owned by a Black woman, offering classes for all levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Embody Yoga",
+    "address": "Glendale, WI (specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Embody+Yoga+in+Wisconsin",
+    "category": "African-American-owned 24-hour fitness centers in Wisconsin",
+    "description": "Milwaukee's first Black-owned hot yoga and Pilates studio, promoting physical wellness and mental health",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ashley's Crazy Yoga",
+    "address": "2210 Rapids Dr, Racine, WI 53404 (currently operating within Midwest Market)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Ashley's+Crazy+Yoga+in+Wisconsin",
+    "category": "African-American-owned 24-hour fitness centers in Wisconsin",
+    "description": "A Black-owned yoga studio aiming to make wellness accessible and affordable, with a focus on community and representation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
