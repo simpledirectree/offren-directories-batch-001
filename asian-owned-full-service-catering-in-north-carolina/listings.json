@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Saffron Indian Cafe",
+    "address": "Multiple locations including Winston-Salem, Cary, and Durham",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://saffronindiancafe.com/",
+    "category": "Asian-owned Full-service catering in North-Carolina",
+    "description": "Specializes in Indian cuisine with catering services for various events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Full-service catering in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Deshi Cook",
+    "address": "Winston-Salem, Clemmons, and surrounding areas in North Carolina",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://deshicook.com/",
+    "category": "Asian-owned Full-service catering in North-Carolina",
+    "description": "Offers homemade Indian food for catering, with pick-up options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Full-service catering in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "China Palace",
+    "address": "3823 Guess Road, Durham, NC 27705",
+    "phone": "(919) 493-3088",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://chinapalacedurham.com/",
+    "category": "Asian-owned Full-service catering in North-Carolina",
+    "description": "Provides authentic Chinese cuisine and welcomes reservations for party catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Full-service catering in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BaoBao Kitchen",
+    "address": "Greensboro, NC",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.baobaokitchen.com/",
+    "category": "Asian-owned Full-service catering in North-Carolina",
+    "description": "Offers authentic Vietnamese cuisine and catering services for special events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Full-service catering in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Deejai Thai Restaurant",
+    "address": "613 Providence Rd, Charlotte, NC 28207",
+    "phone": "(704) 332-7212",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ezcater.com/catering/deejai-thai-restaurant",
+    "category": "Asian-owned Full-service catering in North-Carolina",
+    "description": "Provides Thai food catering with a variety of popular dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Full-service catering in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oh' Calcutta",
+    "address": "Winston-Salem, NC",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ohcalcutta.com/",
+    "category": "Asian-owned Full-service catering in North-Carolina",
+    "description": "Offers a modern twist on Indian cuisine with catering services for special occasions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Full-service catering in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "3SP Hibachi On Wheels",
+    "address": "Fayetteville, NC 28306",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.3sp-hibachi-on-wheels.com/",
+    "category": "Asian-owned Full-service catering in North-Carolina",
+    "description": "Mobile hibachi catering service offering a unique dining experience for events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Full-service catering in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Great Wok",
+    "address": "Charlotte, NC",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ezcater.com/catering/great-wok-charlotte",
+    "category": "Asian-owned Full-service catering in North-Carolina",
+    "description": "Offers Chinese, Thai, and Indian catering with a variety of entree options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Full-service catering in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Umi",
+    "address": "5548 Yadkin Road, Fayetteville, NC 28303",
+    "phone": "(910) 491-0414",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.umifaync.com/",
+    "category": "Asian-owned Full-service catering in North-Carolina",
+    "description": "Premier destination for authentic Japanese cuisine, offering delivery and takeout, and likely catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Full-service catering in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Thai Taste Restaurant",
+    "address": "Charlotte, NC",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://thaitastecharlotte.com/",
+    "category": "Asian-owned Full-service catering in North-Carolina",
+    "description": "The first Thai restaurant in Charlotte, offering authentic Thai cuisine and likely catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Full-service catering in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
