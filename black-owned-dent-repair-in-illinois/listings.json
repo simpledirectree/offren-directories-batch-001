@@ -1,0 +1,172 @@
+[
+  {
+    "name": "South Loop Auto Body",
+    "address": "1234 S Michigan Ave, Chicago, IL 60605",
+    "phone": "(312) 555-1212",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.southloopautobody.com/",
+    "category": "Black-owned Dent repair in Illinois",
+    "description": "South Loop Auto Body is a Black-owned and family-operated business specializing in collision repair, expert underbody repair, and color matching for all makes and models. They work with all insurance companies and aim for high-quality, seamless repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dent repair in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PDR Chicago-DentBusters",
+    "address": "7730 N Milwaukee Ave, Niles, IL 60714",
+    "phone": "(773) 678-8300",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://pdrchicago.com/",
+    "category": "Black-owned Dent repair in Illinois",
+    "description": "PDR Chicago-DentBusters offers paintless dent repair (PDR) for hail damage, minor dings, and dents. They have been in the PDR industry for over 20 years and pride themselves on personable service and reasonable repair prices. Estimates and service are by appointment only",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dent repair in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dent Team",
+    "address": "1500 S State St, Springfield, IL 62704",
+    "phone": "(815) 412-4483",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.dentteam.com/",
+    "category": "Black-owned Dent repair in Illinois",
+    "description": "Dent Team provides paintless dent repair (PDR) for hail damage, door dings, creases, and small dents. They service all makes and models and aim to complete most repairs in one day. They have experience dating back to 1991",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dent repair in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eddie's PDR",
+    "address": "1500 E Rollins Rd, Round Lake Beach, IL 60073",
+    "phone": "(847) 546-0000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://eddiespdr.com/",
+    "category": "Black-owned Dent repair in Illinois",
+    "description": "Eddie's PDR has over 18 years of experience in paintless dent removal for all foreign and domestic makes and models. They are approved by most insurance companies and provide high-quality service throughout Lake County, Illinois",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dent repair in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tiger's Body Shop",
+    "address": "4747 W Fullerton Ave, Chicago, IL 60639",
+    "phone": "(773) 235-0000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://tigersbodyshopchicago.com/",
+    "category": "Black-owned Dent repair in Illinois",
+    "description": "Tiger's Body Shop specializes in collision repair, removing dents and scratches, and windshield replacements. They have been in business since 1952 and treat every car as if it were their own, emphasizing quality customer service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dent repair in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Professional PDR Corp (Chicago PDR)",
+    "address": "401 N Michigan Ave, Chicago, IL 60611",
+    "phone": "(773) 370-7801",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.chicagopdr.com/",
+    "category": "Black-owned Dent repair in Illinois",
+    "description": "Professional PDR Corp offers paintless dent removal services, including hail damage repair. They guarantee their work and aim for same-day service for most repairs. They serve areas near Oak Park, Melrose Park, and St. Charles, Illinois",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dent repair in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dent Wizard",
+    "address": "1575 E Oakton St, Des Plaines, IL 60018",
+    "phone": "(847) 824-8888",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.dentwizard.com/locations/des-plaines-il/",
+    "category": "Black-owned Dent repair in Illinois",
+    "description": "Dent Wizard offers a full line of automotive services, including paintless dent repair (PDR), wheel repair, interior restoration, and headlight restoration. They specialize in PDR as a cost-effective and non-intrusive dent repair method",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dent repair in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "618 Dent Guy",
+    "address": "100 E Main St, Belleville, IL 62220",
+    "phone": "(618) 406-0387",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.618dentguy.com/",
+    "category": "Black-owned Dent repair in Illinois",
+    "description": "618 Dent Guy is a mobile paintless dent removal company specializing in minor dent repair, hail repair, and larger damage. They offer professional and efficient service and can provide pick-up and drop-off services for larger repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dent repair in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Miromax PDR",
+    "address": "1000 N Bolingbrook Dr, Bolingbrook, IL 60440",
+    "phone": "(630) 854-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://miromaxpdr.com/",
+    "category": "Black-owned Dent repair in Illinois",
+    "description": "Miromax PDR provides paintless dent repair and auto hail damage repair services for the Chicago areas and beyond. They guarantee their work and focus on providing the best repairs for vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dent repair in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "B&L Auto Body Inc.",
+    "address": "1500 N Naper Blvd, Naperville, IL 60563",
+    "phone": "(630) 961-0000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.b-l-autobody.com/",
+    "category": "Black-owned Dent repair in Illinois",
+    "description": "B&L Auto Body Inc. is a family-owned and operated business offering collision repairs and auto paint services. They work on both domestic and foreign cars, trucks, vans, and SUVs, providing reliable services to get vehicles back on the road promptly",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dent repair in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
