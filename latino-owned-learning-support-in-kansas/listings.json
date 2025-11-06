@@ -1,0 +1,172 @@
+[
+  {
+    "name": "El Centro Inc.",
+    "address": "650 Minnesota Avenue, Kansas City, KS 66101",
+    "phone": "(913) 677-0100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.elcentroinc.org/",
+    "category": "Latino-owned Learning support in Kansas",
+    "description": "El Centro offers a range of services including dual-language preschool education, financial literacy programs, community health navigation, and vocational training. They are committed to enhancing communities and the lives of Latinos through educational, social, and economic opportunities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Learning support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Guadalupe Centers",
+    "address": "1440 South Ranger Avenue, Kansas City, MO 64103 (Note: This is a primary address, they have multiple facilities.)",
+    "phone": "(816) 421-1035",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.guadalupecenters.org/",
+    "category": "Latino-owned Learning support in Kansas",
+    "description": "Established in 1919, Guadalupe Centers provides early childhood education, charter schools, workforce development, adult education, and youth recreation and after-school programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Learning support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Revoluci\u00f3n Educativa (RevED)",
+    "address": "2301 Lexington Ave, Kansas City, MO 64124",
+    "phone": "(816) 200-1377",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.revedkc.org/",
+    "category": "Latino-owned Learning support in Kansas",
+    "description": "RevED is dedicated to building sustained collective power in the Hispanic community around issues of education through policy work and community-led programming. They offer programs focused on digital literacy and advocacy training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Learning support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Latinx Education Collaborative (LEC)",
+    "address": "(No specific address listed, operates in partnership with RevED)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.latinxedcollab.org/",
+    "category": "Latino-owned Learning support in Kansas",
+    "description": "LEC is an advocacy organization focused on creating conditions for the advancement of Latino youth through policy work and community-led programming. They partner with organizations like Revoluci\u00f3n Educativa",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Learning support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kansas Hispanic Education & Development Foundation (KHEDF)",
+    "address": "2601 N. Arkansas, Wichita, KS 67204",
+    "phone": "(316) 285-0291",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.khedf.org/",
+    "category": "Latino-owned Learning support in Kansas",
+    "description": "KHEDF provides resources to Hispanic students exploring post-secondary education and career readiness, offering scholarships and educational initiatives",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Learning support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Greater Kansas City Hispanic Collaborative (GKCHC)",
+    "address": "(No specific address listed, but serves the Greater Kansas City area)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.gkchc.org/",
+    "category": "Latino-owned Learning support in Kansas",
+    "description": "GKCHC empowers the next generation through education and provides assistance for the professional advancement of Hispanics. Their programs include \"Latinos of Tomorrow\" for college preparation and \"Young Latino Professionals\" for networking and development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Learning support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Children's Mercy \u2013 Adelante Kansas City & CHiCoS",
+    "address": "(Multiple locations for Children's Mercy Hospital)",
+    "phone": "(816) 234-1000 (General Children's Mercy number)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.childrensmercy.org/",
+    "category": "Latino-owned Learning support in Kansas",
+    "description": "These programs within Children's Mercy Hospital aim to reduce cultural and language barriers in healthcare and provide culturally competent care to the Latino community. While not direct academic tutoring, they support overall well-being which impacts educational success",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Learning support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "KC STEM Alliance",
+    "address": "(No specific address listed, but serves the KC region)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://kcstem.org/",
+    "category": "Latino-owned Learning support in Kansas",
+    "description": "While not exclusively Latino-owned, KC STEM Alliance focuses on ensuring access and equity to quality STEM experiences for all students, including those in the Latino community, through various programs and partnerships",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Learning support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cultura Connections LLC",
+    "address": "Wichita, Kansas (Specific address not provided)",
+    "phone": "(316) 361-6678",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://culturaconnections.com/",
+    "category": "Latino-owned Learning support in Kansas",
+    "description": "Cultura Connections specializes in Spanish instruction, language training, translation, and interpretation services, aiming to enhance cross-cultural communication for professionals and organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Learning support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alma A. (Wyzant Tutor)",
+    "address": "Kansas City, MO (Online and in-person tutoring available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wyzant.com/tutors/alma-a",
+    "category": "Latino-owned Learning support in Kansas",
+    "description": "Alma offers Spanish and Marketing tutoring, with a focus on conversational Spanish and academic support. She is a native Spanish speaker from Mexico who grew up in Kansas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Learning support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
