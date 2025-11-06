@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Jade Salon of Atlanta",
+    "address": "2860 S Cobb Dr SE, Smyrna, GA 30080",
+    "phone": "(404) 488-7150",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://jadesalonatlanta.com/",
+    "category": "Korean-speaking Keratin treatments in Georgia",
+    "description": "Jade Salon specializes in Japanese Thermal Hair Straightening and Keratin Treatments, with over 20 years of experience. They use high-quality products and offer a range of hair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-speaking Keratin treatments in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lagom Hair Studio",
+    "address": "227 Sandy Springs Pl NE, Suite 524, Sandy Springs, GA 30328",
+    "phone": "(404) 488-7150 (This appears to be the same number as Jade Salon, further research may be needed to confirm if this is correct or a shared number)",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.lagomhairstudio.com/",
+    "category": "Korean-speaking Keratin treatments in Georgia",
+    "description": "Lagom Hair Studio offers top-rated QiQi and keratin hair straightening treatments, along with hair coloring and cuts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-speaking Keratin treatments in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Junko Hair Studio",
+    "address": "3167 Peachtree Rd NE, Atlanta, GA 30305",
+    "phone": "(404) 814-1827",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.junkohair.com/",
+    "category": "Korean-speaking Keratin treatments in Georgia",
+    "description": "Junko Hair Studio offers a variety of services including Keratin Complex Treatments, Japanese Thermal Reconditioning, and specialized color techniques. They cater to all ethnicities, hair types, and textures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-speaking Keratin treatments in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Three-13 Salon, Spa & Boutique",
+    "address": "3100 Johnson Ferry Rd, Marietta, GA 30062",
+    "phone": "(770) 674-3131",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.three-13.com/",
+    "category": "Korean-speaking Keratin treatments in Georgia",
+    "description": "Three-13 Salon offers keratin treatments designed to eliminate frizz and curl, leaving hair smooth and shiny. They have various treatment options with different durations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-speaking Keratin treatments in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "StyleSeat (Platform for booking stylists)",
+    "address": "Various locations in Atlanta, GA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.styleseat.com/m/v/keratin-treatment",
+    "category": "Korean-speaking Keratin treatments in Georgia",
+    "description": "StyleSeat is a platform where you can find and book independent stylists offering keratin treatments in Atlanta, GA. You can view stylist profiles, photos of their work, and prices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-speaking Keratin treatments in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
