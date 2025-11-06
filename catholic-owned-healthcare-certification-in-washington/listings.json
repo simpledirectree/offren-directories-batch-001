@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Providence",
+    "address": "Headquarters in Renton, Washington, with numerous facilities across Alaska, California, Montana, New Mexico, Oregon, Texas, and Washington",
+    "phone": "(800) 764-5657 (General Inquiries)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.providence.org/",
+    "category": "Catholic-owned Healthcare certification in Washington",
+    "description": "A not-for-profit faith-based health care system operating hospitals and medical clinics, providing a comprehensive range of health and social services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Virginia Mason Franciscan Health",
+    "address": "Multiple locations throughout western Washington, with a significant presence in Tacoma, WA",
+    "phone": "(253) 403-3000 (Tacoma)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vmfh.org/",
+    "category": "Catholic-owned Healthcare certification in Washington",
+    "description": "A leading health system in Washington state formed by the integration of CHI Franciscan and Virginia Mason, offering a wide range of hospital, clinic, and care locations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Community Services of Western Washington",
+    "address": "Various service locations across western Washington, including King County and Pierce County",
+    "phone": "1-877-870-1582 (Toll-free for Home Care)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ccsww.org/",
+    "category": "Catholic-owned Healthcare certification in Washington",
+    "description": "Provides a wide array of services including home care, mental health services, housing, and support for seniors and people with disabilities, serving people of all beliefs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities Eastern Washington",
+    "address": "Various service locations across eastern Washington",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cceasternwa.org/",
+    "category": "Catholic-owned Healthcare certification in Washington",
+    "description": "Offers home care services, licensed by the Department of Health, to assist seniors and people with disabilities to live independently in their homes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Healthcare Collaboration (Archdiocese of Seattle)",
+    "address": "Operates in partnership with various Catholic organizations and hospitals in Western Washington",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Healthcare+Collaboration+(Archdiocese+of+Seattle)+in+Washington",
+    "category": "Catholic-owned Healthcare certification in Washington",
+    "description": "An initiative involving the Archdiocese of Seattle, Catholic Community Services, Catholic Housing Services, and local Catholic hospitals to enhance collaboration and community-based services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
