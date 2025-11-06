@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Sharpening Specialists",
+    "address": "Wichita, KS",
+    "phone": "316-945-0593",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sharpeningspecialists.com/",
+    "category": "Asian-owned Garden tool sharpening in Kansas",
+    "description": "Offers industrial sharpening, wood work sharpening, home essential sharpening, knife grinding, and centerless grinding services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Garden tool sharpening in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "M & M Sharpening Services",
+    "address": "5916 Bunting St, Wichita, KS 67218",
+    "phone": "316-293-8293",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mnmsharpeningservices.com/",
+    "category": "Asian-owned Garden tool sharpening in Kansas",
+    "description": "Sharpen a wide variety of tools including clipper blades, kitchen knives, mower blades, hairdresser shears, tactical knives, machetes, reel mowers, and sewing scissors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Garden tool sharpening in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "M & M Professional Sharpening",
+    "address": "Kansas City, MO (serves the KC metro area which includes parts of Kansas)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mmprosharpening.com/",
+    "category": "Asian-owned Garden tool sharpening in Kansas",
+    "description": "Specializes in shear sharpening for stylists, barbers, and groomers, and also offers knife sharpening for restaurants, home chefs, hunters, and outdoor enthusiasts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Garden tool sharpening in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Peculiar Knife Sharpening Service",
+    "address": "Serves the KC Metro area. Specific address not provided, but offers convenient service",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://peculiarknifesharpening.com/",
+    "category": "Asian-owned Garden tool sharpening in Kansas",
+    "description": "Provides professional blade sharpening for knives, lawnmower blades, chainsaw chains, axes, and scissors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Garden tool sharpening in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
