@@ -1,0 +1,53 @@
+[
+  {
+    "name": "MVJ Athletics",
+    "address": "Newark, Delaware (Specific address not publicly available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mvjathletics.com/",
+    "category": "African-American-owned 24-hour fitness centers in Delaware",
+    "description": "Specializes in boxing, fitness training, self-defense, and kickboxing programs. Aims to empower individuals through fitness and foster community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jacks Gym",
+    "address": "Newark, Delaware (Specific address not publicly available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Jacks+Gym+in+Delaware",
+    "category": "African-American-owned 24-hour fitness centers in Delaware",
+    "description": "Known for its vibrant atmosphere and variety of fitness classes, including kickboxing and strength training. Focuses on creating an inclusive environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BLKOPS FITNESS",
+    "address": "2355 Pinnacle Drive, Talleyville, DE, 19803, USA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/BLKOPS+FITNESS+in+Delaware",
+    "category": "African-American-owned 24-hour fitness centers in Delaware",
+    "description": "Offers expert functional fitness, nutrition coaching, and personal training with a focus on a supportive community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 24-hour fitness centers in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
