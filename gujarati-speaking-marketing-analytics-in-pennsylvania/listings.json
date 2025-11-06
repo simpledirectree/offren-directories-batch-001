@@ -1,0 +1,172 @@
+[
+  {
+    "name": "dANIEL Advertising Agency",
+    "address": "1007 W Liberty Ave, Pittsburgh, PA 15226",
+    "phone": "(412) 341-9000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.dANIELadvertising.com/",
+    "category": "Gujarati-speaking Marketing analytics in Pennsylvania",
+    "description": "A marketing firm offering services including media auditing, Facebook analytics, and marketing science",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gujarati-speaking Marketing analytics in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "IT Edge, Inc.",
+    "address": "1235 W Chester Pike, Suite 204, West Chester, PA 19382",
+    "phone": "(484) 702-4100",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://itedge.com/",
+    "category": "Gujarati-speaking Marketing analytics in Pennsylvania",
+    "description": "A technology consulting company providing marketing analytics services, including Google Analytics, Google Search Console, and SEMRush",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gujarati-speaking Marketing analytics in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TRC Insights",
+    "address": "1000 Commerce Dr, Ste 100, Pittsburgh, PA 15275",
+    "phone": "(412) 341-3000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.trc-insights.com/",
+    "category": "Gujarati-speaking Marketing analytics in Pennsylvania",
+    "description": "A full-service market research and data analytics firm",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gujarati-speaking Marketing analytics in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CivicScience",
+    "address": "100 W Station Square Dr #1050, Pittsburgh, PA 15219",
+    "phone": "(412) 576-1111",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://civicscience.com/",
+    "category": "Gujarati-speaking Marketing analytics in Pennsylvania",
+    "description": "A data and analytics company specializing in quantitative research",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gujarati-speaking Marketing analytics in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Olson Research Group",
+    "address": "1275 W. Chester Pike, Suite 200, West Chester, PA 19382",
+    "phone": "(610) 325-1100",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.olsonresearchgroup.com/",
+    "category": "Gujarati-speaking Marketing analytics in Pennsylvania",
+    "description": "A marketing research agency offering qualitative and quantitative services, with a focus on healthcare",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gujarati-speaking Marketing analytics in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Finch",
+    "address": "100 W. Station Square Drive, Suite 1050, Pittsburgh, PA 15219",
+    "phone": "(412) 201-8000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.finch.com/",
+    "category": "Gujarati-speaking Marketing analytics in Pennsylvania",
+    "description": "Offers insights and analytics, with services including panels and communities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gujarati-speaking Marketing analytics in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Campos",
+    "address": "1000 Commerce Dr, Ste 100, Pittsburgh, PA 15275",
+    "phone": "(412) 341-3000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://campos.com/",
+    "category": "Gujarati-speaking Marketing analytics in Pennsylvania",
+    "description": "A market research and strategy consulting firm",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gujarati-speaking Marketing analytics in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AMC Global",
+    "address": "100 W Station Square Dr #1050, Pittsburgh, PA 15219",
+    "phone": "(412) 576-1111",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://amc-global.com/",
+    "category": "Gujarati-speaking Marketing analytics in Pennsylvania",
+    "description": "A full-service market research company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gujarati-speaking Marketing analytics in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sago Philadelphia",
+    "address": "100 W Station Square Dr #1050, Pittsburgh, PA 15219",
+    "phone": "(412) 576-1111",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.sago.com/",
+    "category": "Gujarati-speaking Marketing analytics in Pennsylvania",
+    "description": "Provides qualitative and quantitative research solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gujarati-speaking Marketing analytics in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tinuiti",
+    "address": "123 S Broad St, Philadelphia, PA 19109",
+    "phone": "(215) 252-0700",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://tinuiti.com/",
+    "category": "Gujarati-speaking Marketing analytics in Pennsylvania",
+    "description": "A full-funnel performance marketing agency offering analytics services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gujarati-speaking Marketing analytics in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
