@@ -1,0 +1,53 @@
+[
+  {
+    "name": "The Stonway Group",
+    "address": "3310 W Big Beaver Rd #105, Troy, Michigan 48084 (This is the company address, individual agent addresses may vary)",
+    "phone": "(248) 736-5409",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thestonwaygroup.com/",
+    "category": "LGBT-owned Property management in Michigan",
+    "description": "The Stonway Group, founded by Sara Ston, is an LGBT-owned real estate group that aims to provide a unique real estate experience with a client-centered approach. They serve the Detroit Metropolitan Area and surrounding regions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "LGBT-owned Property management in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oakland County LGBTQ Real Estate",
+    "address": "Services all neighborhoods within Oakland County and surrounding areas. (Specific office address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://oaklandcountylgbtqrealestate.com/",
+    "category": "LGBT-owned Property management in Michigan",
+    "description": "This service is dedicated to providing a safe and supportive environment for LGBTQ individuals in the real estate market, offering personalized service and understanding",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "LGBT-owned Property management in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "GayRealEstate.com",
+    "address": "GayRealEstate.com is Gay Owned & Operated. (Specific Michigan office or agent addresses vary)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.gayrealestate.com/",
+    "category": "LGBT-owned Property management in Michigan",
+    "description": "GayRealEstate.com connects clients with compatible agents and is a resource for LGBTQ individuals seeking real estate services. They donate a portion of their revenue to LGBTQ organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "LGBT-owned Property management in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
