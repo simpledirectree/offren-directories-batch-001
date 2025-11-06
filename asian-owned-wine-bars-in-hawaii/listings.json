@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Amuse Wine Bar",
+    "address": "1250 Kapiolani Blvd, Floor 2, Honolulu, HI 96814",
+    "phone": "(808) 237-5429",
+    "rating": 5.8,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Amuse+Wine+Bar+in+Hawaii",
+    "category": "Asian-owned Wine bars in Hawaii",
+    "description": "Offers a unique tasting experience with over 60 wines available through electronic kiosks. Also features a full bar with craft beers and cocktails",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Wine bars in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Appetito Craft Pizza & Wine Bar",
+    "address": "150 Kaiulani Ave, Waikiki, HI",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Appetito+Craft+Pizza+&+Wine+Bar+in+Hawaii",
+    "category": "Asian-owned Wine bars in Hawaii",
+    "description": "Features a balance of old and new world wines, along with homemade limoncello and craft beers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Wine bars in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Bar at Foodland Farms (Field Wine Company)",
+    "address": "1450 Ala Moana Blvd, Ala Moana, Honolulu, HI",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Bar+at+Foodland+Farms+(Field+Wine+Company)+in+Hawaii",
+    "category": "Asian-owned Wine bars in Hawaii",
+    "description": "Located within a supermarket, offering a selection of wines to enjoy with food purchased from the store",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Wine bars in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Tchin! Tchin! Bar",
+    "address": "39 N Hotel St, Honolulu, HI 96817",
+    "phone": "808-528-1888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Tchin!+Tchin!+Bar+in+Hawaii",
+    "category": "Asian-owned Wine bars in Hawaii",
+    "description": "A rooftop wine bar in Honolulu's Chinatown art district, offering an eclectic selection of wines and globally inspired food",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Wine bars in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Island Vintage Wine Bar",
+    "address": "Royal Hawaiian Center, Building C, Level 2, 2301 Kalakaua Avenue, Honolulu, HI 96815",
+    "phone": "(808) 799-9463",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Island+Vintage+Wine+Bar+in+Hawaii",
+    "category": "Asian-owned Wine bars in Hawaii",
+    "description": "Offers a wide selection of wines, including allocated and rare offerings, served by the glass, bottle, or flights. Also serves local craft beer, cider, cocktails, and spirits",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Wine bars in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Il Tappo Hawaii",
+    "address": "2181 Kalakaua Ave, Honolulu, HI",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Il+Tappo+Hawaii+in+Hawaii",
+    "category": "Asian-owned Wine bars in Hawaii",
+    "description": "An Italian restaurant known for its food and wine, with an Italian-label wine list",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Wine bars in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Palate Wine Bar & Market",
+    "address": "Kilauea, Kauai, HI",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Palate+Wine+Bar+&+Market+in+Hawaii",
+    "category": "Asian-owned Wine bars in Hawaii",
+    "description": "A wine and tapas tasting room offering wines from small, esoteric wineries, paired with cheese and cured meats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Wine bars in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nani Moon Meadery and Tasting Room",
+    "address": "Kapaa, Kauai, HI",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Nani+Moon+Meadery+and+Tasting+Room+in+Hawaii",
+    "category": "Asian-owned Wine bars in Hawaii",
+    "description": "Hawaii's only meadery, handcrafting wine with Hawaiian raw honey",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Wine bars in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Princeville Wine Market",
+    "address": "Princeville Center, Princeville, Kauai, HI",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Princeville+Wine+Market+in+Hawaii",
+    "category": "Asian-owned Wine bars in Hawaii",
+    "description": "Offers a collection of wines from major wine-producing countries, along with spirits, beer, and gourmet food items",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Wine bars in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "deVine Wine Lounge Maui",
+    "address": "South Maui, HI",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/deVine+Wine+Lounge+Maui+in+Hawaii",
+    "category": "Asian-owned Wine bars in Hawaii",
+    "description": "The island's only wine bar, offering a curated selection of wines from around the world and local favorites, along with specialty cocktails and pupus",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Wine bars in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
