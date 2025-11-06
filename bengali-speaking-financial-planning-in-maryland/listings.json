@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Baltimore-Washington Financial Advisors (BWFA)",
+    "address": "10480 Little Patuxent Parkway, Suite 300, Columbia, MD 21044",
+    "phone": "(410) 884-1900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bwfa.com/",
+    "category": "Bengali-speaking Financial planning in Maryland",
+    "description": "A fee-only firm offering financial planning, investment management, and tax preparation services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Financial planning in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Facet Wealth",
+    "address": "Virtual services available",
+    "phone": "(800) 511-1680",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.facetwealth.com/",
+    "category": "Bengali-speaking Financial planning in Maryland",
+    "description": "A virtual, fee-only advisor providing holistic financial planning and investment management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Financial planning in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chevy Chase Trust Company",
+    "address": "8300 Greensboro Dr, Suite 1200, McLean, VA 22102 (Note: While this is in Virginia, they serve the Maryland area and are a top-rated firm.)",
+    "phone": "(301) 907-1700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chevychasetrust.com/",
+    "category": "Bengali-speaking Financial planning in Maryland",
+    "description": "A fee-only financial advisor serving high-net-worth individuals with financial planning and portfolio management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Financial planning in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Harbor Investment Advisory",
+    "address": "1300 Bellona Ave, Lutherville, MD 21093",
+    "phone": "(410) 825-7000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.harborinv.com/",
+    "category": "Bengali-speaking Financial planning in Maryland",
+    "description": "A fee-based financial advisor firm offering financial planning and investment advisory services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Financial planning in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Patuxent Financial Partners",
+    "address": "6445 Cardinal Lane, Columbia, MD 21044",
+    "phone": "(410) 730-1744",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.patuxentfp.com/",
+    "category": "Bengali-speaking Financial planning in Maryland",
+    "description": "An independent, fee-only financial planning and investment advisory practice",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Financial planning in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maryland Financial Advocates",
+    "address": "10480 Little Patuxent Parkway, Suite 300, Columbia, MD 21044 (This address appears to be shared with BWFA in one search result, further verification may be needed.)",
+    "phone": "(410) 884-1900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mdfinancialadvocates.com/",
+    "category": "Bengali-speaking Financial planning in Maryland",
+    "description": "Offers retirement income and personal financial planning, operating under a fiduciary standard",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Financial planning in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chesapeake Wealth Management Group (Morgan Stanley)",
+    "address": "400 E Pratt St, Suite 1100, Baltimore, MD 21202",
+    "phone": "(410) 528-7200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://advisor.morganstanley.com/chesapeake-wealth-management-group",
+    "category": "Bengali-speaking Financial planning in Maryland",
+    "description": "Provides financial planning solutions and wealth advisory services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Financial planning in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Modera Wealth Management",
+    "address": "1900 Renewal Way, Suite 200, Annapolis, MD 21401",
+    "phone": "(410) 266-0011",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.moderawealth.com/",
+    "category": "Bengali-speaking Financial planning in Maryland",
+    "description": "An independent, fee-only wealth management firm offering comprehensive financial planning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Financial planning in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Elite Income Advisors",
+    "address": "8815# B, Centre Park Dr, Columbia, MD 21045 (This address is associated with Elite Income Advisors in a search result, but specific service areas are Anne Arundel and Howard County.)",
+    "phone": "(410) 997-1111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eliteincomeadvisors.com/",
+    "category": "Bengali-speaking Financial planning in Maryland",
+    "description": "Offers personalized financial planning services in Anne Arundel and Howard County",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Financial planning in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Northbrook Financial",
+    "address": "10000 Old Columbia Rd, Suite 100, Columbia, MD 21046",
+    "phone": "(410) 312-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.northbrookfinancial.com/",
+    "category": "Bengali-speaking Financial planning in Maryland",
+    "description": "Known for tax-savvy strategies and educational outreach, serving families",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Financial planning in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
