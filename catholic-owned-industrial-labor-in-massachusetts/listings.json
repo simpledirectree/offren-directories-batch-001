@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Catholic Charities Boston",
+    "address": "275 West Broadway, Boston, MA 02127",
+    "phone": "617-464-8500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Charities+Boston+in+Massachusetts",
+    "category": "Catholic-owned Industrial labor in Massachusetts",
+    "description": "Offers adult education and workforce development programs, including job training for IT support specialists and certified nursing assistants/home health aides. They also provide ESOL classes and High School Equivalency programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Industrial labor in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities Worcester County",
+    "address": "10 Hammond Street, Worcester, MA 01610",
+    "phone": "508-860-2241 (Senior Community Service Employment Program)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Charities+Worcester+County+in+Massachusetts",
+    "category": "Catholic-owned Industrial labor in Massachusetts",
+    "description": "Provides employment, training, and job search assistance through their Senior Community Service Employment Program (SCSEP) for low-income older job seekers. Their Mercy Centre also offers employment opportunities and training programs for adults",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Industrial labor in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities - Diocese of Fall River",
+    "address": "1600 Bay Street, Fall River, MA (Office); 238 Bonney Street, New Bedford, MA (Solanus Casey Food Pantry)",
+    "phone": "508-674-4681 (Fall River) | 508-997-7337 (New Bedford)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Charities+-+Diocese+of+Fall+River+in+Massachusetts",
+    "category": "Catholic-owned Industrial labor in Massachusetts",
+    "description": "Offers employment services, case management, and various other support programs for individuals and families in Southeastern Massachusetts. They also run a food drive to support those in need",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Industrial labor in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities North Youthworks program",
+    "address": "117 N. Common Street, Lynn, MA (Program location)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Charities+North+Youthworks+program+in+Massachusetts",
+    "category": "Catholic-owned Industrial labor in Massachusetts",
+    "description": "This program helps out-of-school youth prepare for High School Equivalency exams and offers various workforce development services, including occupational skills training and paid/unpaid work experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Industrial labor in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
