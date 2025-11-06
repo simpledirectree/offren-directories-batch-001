@@ -1,0 +1,36 @@
+[
+  {
+    "name": "SPACIALISTS",
+    "address": "214 Main St Ste 321, El Segundo, CA 90245",
+    "phone": "844-337-6337",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.spacialists.com/",
+    "category": "African-American-owned 3D modeling in California",
+    "description": "An architectural visualization and design company focusing on realistic 3D rendering and virtual reality. They collaborate with various professionals to transform ideas into reality",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 3D modeling in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "LaMay Day Media LLC",
+    "address": "958 N Western Avenue #721, Hollywood, CA 90029",
+    "phone": "323-999-1147",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lamaydaymedia.com/",
+    "category": "African-American-owned 3D modeling in California",
+    "description": "A full-service media content production company, owned and operated by a Black woman, specializing in creative content production for brands, businesses, campaigns, and storytelling",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 3D modeling in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
