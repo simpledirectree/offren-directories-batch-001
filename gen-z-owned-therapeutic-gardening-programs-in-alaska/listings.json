@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Alaska Seeds of Change",
+    "address": "704 W. 26th Avenue, Anchorage, AK 99503",
+    "phone": "(907) 762-8660",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.akbh.org/seeds-of-change/",
+    "category": "Gen-Z-owned Therapeutic gardening programs in Alaska",
+    "description": "This vocational program supports young people (ages 16-24) and Alaska Behavioral Health clients in building job skills and personal resilience through gardening. They offer a trauma-informed, nature-based space for healing and growth",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Therapeutic gardening programs in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alaska Botanical Garden",
+    "address": "6515 Seward Highway, Anchorage, AK 99502",
+    "phone": "(907) 264-1722",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alaskabotanicalgarden.org/",
+    "category": "Gen-Z-owned Therapeutic gardening programs in Alaska",
+    "description": "While not exclusively a therapeutic gardening program, the Alaska Botanical Garden offers programs like \"Health and Wellness in the Garden\" and \"Guided Gardening\" that incorporate horticultural therapy principles, focusing on mental and physical well-being through gardening activities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Therapeutic gardening programs in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Alaska Fairbanks Cooperative Extension Service - Community Garden and Garden to Heal Program",
+    "address": "1509 Georgeson Rd, Palmer, AK 99645",
+    "phone": "(907) 746-9499",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.uaf.org/ces/communitygardens/",
+    "category": "Gen-Z-owned Therapeutic gardening programs in Alaska",
+    "description": "This program provides community members with hands-on gardening experience, including educational classes and access to expertise. It fosters community and offers opportunities for practical gardening skills",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Therapeutic gardening programs in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alaska Master Gardener Program",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.uaf.edu/ces/mastergardener/",
+    "category": "Gen-Z-owned Therapeutic gardening programs in Alaska",
+    "description": "This program, offered through the UAF Cooperative Extension Service, trains individuals to become Master Gardeners. While not a direct therapeutic program, Master Gardeners often volunteer in community gardens and support horticultural therapy initiatives. They have associations in various communities across Alaska",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Therapeutic gardening programs in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MYHouse's Halcyon Garden",
+    "address": "Mat-Su Valley, Alaska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://alaskacf.org/gardening/",
+    "category": "Gen-Z-owned Therapeutic gardening programs in Alaska",
+    "description": "This garden offers at-risk youth opportunities to build skills, grow food, and find connection through meaningful work. It's described as a place of healing and growth, with produce often used in their social enterprise cafe",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Therapeutic gardening programs in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
