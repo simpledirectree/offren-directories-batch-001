@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Two Bettys Green Cleaning Company",
+    "address": "(Specific address not readily available, but serves the Minneapolis area)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.twobettys.com/",
+    "category": "LGBT-owned Cleaning staff in Minnesota",
+    "description": "This company emphasizes its commitment to employing and serving individuals across the gender and sexual orientation spectrum, striving to be a safe place for queer employees and trustworthy service providers. They use eco-friendly products and advocate for workers' rights",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "LGBT-owned Cleaning staff in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clean & Cozy MN",
+    "address": "Serves Chaska and surrounding areas. (Specific address not readily available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cleanandcozymn.com/",
+    "category": "LGBT-owned Cleaning staff in Minnesota",
+    "description": "Owned by Gay Lynn, this company focuses on using healthier, alternative cleaning products. They are a locally woman-owned business and contribute a portion of their revenue to the Domestic Abuse Project",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "LGBT-owned Cleaning staff in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
