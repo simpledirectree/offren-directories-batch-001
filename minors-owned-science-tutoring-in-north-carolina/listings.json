@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Love to Learn Tutor",
+    "address": "Greensboro, NC",
+    "phone": "(336) 388-8777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lovetolearntutor.com/",
+    "category": "Minors-owned Science tutoring in North-Carolina",
+    "description": "Offers personalized tutoring in math, reading, science, and more, with a focus on individual learning styles. They are a woman and minority-owned business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Minors-owned Science tutoring in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "M&M Tutoring Service",
+    "address": "3326 Durham Chapel Hill Blvd. Suite C120, Durham, NC 27707",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mmtutoring.com/",
+    "category": "Minors-owned Science tutoring in North-Carolina",
+    "description": "A teacher-owned, student-centered company offering tutoring in various subjects, including science. They provide virtual and in-person sessions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Minors-owned Science tutoring in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The STEM Mentorship Academy",
+    "address": "7236 River Rd, Wilmington, NC 28412, USA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stemmentorshipacademy.org/",
+    "category": "Minors-owned Science tutoring in North-Carolina",
+    "description": "Provides K-12 students with mentorship, guidance, and tutoring in science, technology, engineering, and mathematics (STEM)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Minors-owned Science tutoring in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SMath Tutors",
+    "address": "Online (operated by students from the North Carolina School of Science and Mathematics)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.smathtutors.com/",
+    "category": "Minors-owned Science tutoring in North-Carolina",
+    "description": "Offers online instruction in various subjects, including STEM, with a mission to promote education and serve students with varying socioeconomic needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Minors-owned Science tutoring in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "STEM 4 Youth",
+    "address": "Primarily online, with potential for in-person programs in various locations",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stem4youth.org/",
+    "category": "Minors-owned Science tutoring in North-Carolina",
+    "description": "A community organization focused on igniting passion for STEM through after-school programs, tutoring, and workshops. They emphasize creativity, innovation, and leadership",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Minors-owned Science tutoring in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
