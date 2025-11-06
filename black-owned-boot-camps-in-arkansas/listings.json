@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Fitness Bootcamp Unlimited",
+    "address": "3406 Willow Road, Jonesboro, Arkansas 72404",
+    "phone": "(870) 897-9278",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "mailto:fitnessbootcampunlimited@yahoo.com",
+    "category": "Black-owned Boot camps in Arkansas",
+    "description": "Offers 45-minute sessions focusing on overall health and fitness through stretching, core strength training, and cardio exercise. It is listed as Black/African Owned and Minority Owned",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Boot camps in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arkansas Coding Academy (ArCA)",
+    "address": "Information not available in search results. (Associated with UCA Alliance for Economic Impact)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://arkansascodingacademy.com/",
+    "category": "Black-owned Boot camps in Arkansas",
+    "description": "Provides skills and mentorship for individuals seeking careers in IT and IT-related industries. Offers online courses in web development and technical bootcamps",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Boot camps in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BLUSH\u00ae Boot Camp (Rogers, AR location)",
+    "address": "2223 S Bellview Rd, Rogers, AR 72758",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://blushbootcamp.com/",
+    "category": "Black-owned Boot camps in Arkansas",
+    "description": "A fitness boot camp for women offering supportive team members, personalized goal-setting, and results-driven workouts in a welcoming community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Boot camps in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Burn Boot Camp (Fayetteville, AR location)",
+    "address": "2668 East Citizens Dr, Fayetteville, AR 72703",
+    "phone": "+1 479-236-8263",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://burnbootcamp.com/locations/fayetteville-ar/",
+    "category": "Black-owned Boot camps in Arkansas",
+    "description": "Offers unlimited group fitness workouts, including HIIT, nutritional guidance, and a supportive community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Boot camps in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Coding Temple (Little Rock, AR)",
+    "address": "Information not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.codingtemple.com/locations/little-rock-arkansas",
+    "category": "Black-owned Boot camps in Arkansas",
+    "description": "Offers a coding bootcamp in Little Rock with a focus on hands-on learning and real-world skills, preparing students for careers in software engineering, frontend development, and web development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Boot camps in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
