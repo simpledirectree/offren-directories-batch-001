@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Gerald L. Ignace Indian Health Center",
+    "address": "930 W. Historic Mitchell St., Milwaukee, WI 53204",
+    "phone": "(414) 383-9526",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.gliihc.org/",
+    "category": "American-Indian-owned Primary care physicians in Wisconsin",
+    "description": "This center provides comprehensive and culturally sensitive health care for the whole family, including medical, dental, and behavioral health services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Primary care physicians in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Menominee Tribal Clinic",
+    "address": "W3275 Wolf River Dr., Keshena, WI 54135",
+    "phone": "715-799-3361",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mtclinic.net/",
+    "category": "American-Indian-owned Primary care physicians in Wisconsin",
+    "description": "The Menominee Tribal Clinic offers a range of medical, dental, and community health services, focusing on education, prevention, and health maintenance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Primary care physicians in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Croix Tribal Health Clinic",
+    "address": "4404 WI-70, Webster, WI 54893",
+    "phone": "715-349-8554",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stcroixchippewa.com/healthcare/st-croix-tribal-health-clinic/",
+    "category": "American-Indian-owned Primary care physicians in Wisconsin",
+    "description": "This clinic provides family practice care across the lifespan, integrating services such as diabetes care, nutrition, and behavioral health",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Primary care physicians in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Peter Christensen Health Center",
+    "address": "129 Old Abe Road, Lac du Flambeau, WI 54538",
+    "phone": "715-588-3371",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pchclinic.com/",
+    "category": "American-Indian-owned Primary care physicians in Wisconsin",
+    "description": "This health center offers a variety of health services to the community, with a focus on comprehensive care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Primary care physicians in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Red Cliff Community Health Center",
+    "address": "88455 Pike Road, Bayfield, WI 54814",
+    "phone": "715-779-3707",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.redcliff-nsn.gov/health-and-human-services/red-cliff-community-health-center/",
+    "category": "American-Indian-owned Primary care physicians in Wisconsin",
+    "description": "The Red Cliff Community Health Center provides health services to its community members",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Primary care physicians in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sokaogon Chippewa Health Clinic",
+    "address": "3144 Vanzile Road, Crandon, WI 54520",
+    "phone": "715-478-5180",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.scc-nsn.gov/health-clinic/",
+    "category": "American-Indian-owned Primary care physicians in Wisconsin",
+    "description": "This clinic offers health services to the Sokaogon Chippewa community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Primary care physicians in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Stockbridge-Munsee Health & Wellness Center",
+    "address": "W12802 County Road A, Bowler, WI 54416",
+    "phone": "715-793-5007",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stockbridgemunsee.com/health-wellness-center",
+    "category": "American-Indian-owned Primary care physicians in Wisconsin",
+    "description": "The Stockbridge-Munsee Health & Wellness Center provides health services to its tribal members",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Primary care physicians in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ho-Chunk Health Care Center",
+    "address": "N6520 Lumberjack Guy Rd., Black River Falls, WI 54615",
+    "phone": "(715) 284-9851",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ho-chunknation.com/services/health-care-center/",
+    "category": "American-Indian-owned Primary care physicians in Wisconsin",
+    "description": "The Ho-Chunk Health Care Center offers a range of medical services to the Ho-Chunk Nation members",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Primary care physicians in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bad River Health & Wellness Center",
+    "address": "53585 Nokomis Rd., Ashland, WI 54806",
+    "phone": "715-682-7133",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.badriver-nsn.gov/health-wellness-center/",
+    "category": "American-Indian-owned Primary care physicians in Wisconsin",
+    "description": "This center provides medical, dental, pharmacy, and behavioral health services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Primary care physicians in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oneida Nation Comprehensive Health",
+    "address": "PO Box 365, Oneida, WI 54155",
+    "phone": "920-869-2711",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.oneidanation.org/services/health/",
+    "category": "American-Indian-owned Primary care physicians in Wisconsin",
+    "description": "The Oneida Nation Comprehensive Health offers various health services to the Oneida community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Primary care physicians in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
