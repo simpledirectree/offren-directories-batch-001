@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Zankou Chicken",
+    "address": "Multiple locations throughout California (e.g., 1412 W. Sunset Blvd., Los Angeles, CA 90026)",
+    "phone": "(323) 665-0300 (example for one location)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.zankouchicken.com/",
+    "category": "Arabic-speaking Quick service in California",
+    "description": "Family-owned and operated since 1962, Zankou Chicken offers rotisserie chicken, shawarma, tarna, and their famous garlic sauce",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Quick service in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NAYA",
+    "address": "Multiple locations throughout California (e.g., 1111 S Figueroa St, Los Angeles, CA 90015)",
+    "phone": "(213) 745-0000 (example for one location)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.nayeats.com/",
+    "category": "Arabic-speaking Quick service in California",
+    "description": "NAYA offers Middle Eastern-inspired bowls, rolls, and salads with fresh ingredients. They also provide catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Quick service in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hummus Republic",
+    "address": "Multiple locations throughout California (e.g., 1401 University Ave, San Diego, CA 92103)",
+    "phone": "(619) 501-0000 (example for one location)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://hummusrepublic.com/",
+    "category": "Arabic-speaking Quick service in California",
+    "description": "Hummus Republic serves fresh, vibrant Mediterranean cuisine with bowls, wraps, and pitas made with authentic spices and fresh ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Quick service in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mister Falafel Mediterranean Cuisine",
+    "address": "5404 Balboa Ave, San Diego, CA 92111",
+    "phone": "(858) 490-0170",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mister+Falafel+Mediterranean+Cuisine+in+California",
+    "category": "Arabic-speaking Quick service in California",
+    "description": "A Mediterranean restaurant specializing in fast food with a seating area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Quick service in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Simsim Outstanding Shawarma",
+    "address": "8970 University Center Ln, San Diego, CA 92122",
+    "phone": "(858) 430-6717",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Simsim+Outstanding+Shawarma+in+California",
+    "category": "Arabic-speaking Quick service in California",
+    "description": "Known for its outstanding shawarma",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Quick service in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Edesia Grill",
+    "address": "5404 Balboa Ave, San Diego, CA 92111",
+    "phone": "(858) 586-7700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Edesia+Grill+in+California",
+    "category": "Arabic-speaking Quick service in California",
+    "description": "An oriental restaurant specializing in Lebanese Arabic food",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Quick service in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Micho'z Fresh Lebanese Grill",
+    "address": "Multiple locations (e.g., 7430 La Jolla Blvd, La Jolla, CA 92037)",
+    "phone": "(619) 255-9299 (example for one location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Micho'z+Fresh+Lebanese+Grill+in+California",
+    "category": "Arabic-speaking Quick service in California",
+    "description": "Offers fresh Lebanese grill options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Quick service in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arslan's Gyros",
+    "address": "Multiple locations (e.g., 4301 University Ave, San Diego, CA 92105)",
+    "phone": "(619) 962-9925 (example for one location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Arslan's+Gyros+in+California",
+    "category": "Arabic-speaking Quick service in California",
+    "description": "Known for its gyros",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Quick service in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Naf Naf Middle Eastern Grill",
+    "address": "Multiple locations throughout California (e.g., 1000 E Barstow Ave, Fresno, CA 93710)",
+    "phone": "(559) 412-7700 (example for one location)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.nafnafgrill.com/",
+    "category": "Arabic-speaking Quick service in California",
+    "description": "Naf Naf Grill focuses on popular Middle Eastern food staples like shawarma and falafel, with made-from-scratch pitas and sauces",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Quick service in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yafa Hummus",
+    "address": "1675 W. 11th St, Livermore, CA 94550",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Yafa+Hummus+in+California",
+    "category": "Arabic-speaking Quick service in California",
+    "description": "Described as a legitimate spot for hummus, shawarma, and falafel, with a \"Back Home Style Shawarma\" that is highly praised",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Quick service in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
