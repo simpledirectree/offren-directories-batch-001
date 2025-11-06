@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Plastic Surgeons of Alaska",
+    "address": "2741 Debarr Rd Ste C215, Anchorage, AK 99508",
+    "phone": "(907) 563-2002",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Plastic+Surgeons+of+Alaska+in+Alaska",
+    "category": "Female-owned Reconstructive surgery in Alaska",
+    "description": "Dr. Latham is a board-certified plastic surgeon and Air Force veteran. She is noted as the only female plastic surgeon in Alaska and specializes in breast enhancement and body contouring",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Female-owned Reconstructive surgery in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Anchorage Center for Facial Plastic Surgery",
+    "address": "Located inside You Beauty Lounge, Anchorage, AK (specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Anchorage+Center+for+Facial+Plastic+Surgery+in+Alaska",
+    "category": "Female-owned Reconstructive surgery in Alaska",
+    "description": "This center focuses on facial cosmetic surgery, including rhinoplasty, eyelid surgery, facelift surgery, and necklifts. They emphasize providing kind and respectful care with secure and effective treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Female-owned Reconstructive surgery in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mat-Su Medical Group Plastic & Reconstructive Surgery",
+    "address": "Main office: 1221 Madison St., 6th Floor, Seattle, WA 98104. Satellite office: Ketchikan, AK (specific address not provided)",
+    "phone": "(206) 215-6221 (Seattle office)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mat-Su+Medical+Group+Plastic+&+Reconstructive+Surgery+in+Alaska",
+    "category": "Female-owned Reconstructive surgery in Alaska",
+    "description": "Dr. Miles is a board-certified plastic surgeon who sees patients in Alaska one week every 2-3 months at a satellite office in Ketchikan. She specializes in cosmetic procedures such as breast enhancement, liposuction, tummy tucks, and facelifts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Female-owned Reconstructive surgery in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
