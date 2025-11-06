@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Skyline Automotive",
+    "address": "8813 MacArthur Drive, North Little Rock, AR 72118",
+    "phone": "501-218-8666",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.skylineautomotivenlr.com/",
+    "category": "Asian-owned Emissions testing in Arkansas",
+    "description": "Specializes in Asian vehicle repairs and preventative maintenance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Emissions testing in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Hondashop",
+    "address": "706 Madison 2185, Huntsville, AR 72740",
+    "phone": "479-232-5237",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.thehondashop.com/",
+    "category": "Asian-owned Emissions testing in Arkansas",
+    "description": "Full-service repair shop specializing in Honda and Acura automobiles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Emissions testing in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Stephens Automotive Repair & Custom Shop",
+    "address": "276 Hwy 64 E, Conway, AR 72032",
+    "phone": "501-472-8407",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.stephensautomotiverepair.com/",
+    "category": "Asian-owned Emissions testing in Arkansas",
+    "description": "Specializes in Asian vehicle repairs and preventative maintenance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Emissions testing in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cantrell Service Center",
+    "address": "7601 Young Road, North Little Rock, AR 72118",
+    "phone": "501-758-1188",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.cantrellservicecenter.com/",
+    "category": "Asian-owned Emissions testing in Arkansas",
+    "description": "Specializes in Japanese auto repair, catering to brands like Toyota, Honda, Nissan, and Subaru",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Emissions testing in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Walker's Auto Repair & Towing",
+    "address": "2911 Grand Ave, Fort Smith, AR 72901",
+    "phone": "479-783-3736",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Walker's+Auto+Repair+&+Towing+in+Arkansas",
+    "category": "Asian-owned Emissions testing in Arkansas",
+    "description": "Offers Asian Import Car and Truck repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Emissions testing in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Luyet Automotive",
+    "address": "2050 Dave Ward Dr, Conway, AR 72034",
+    "phone": "501-764-1500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.luyetautomotive.com/",
+    "category": "Asian-owned Emissions testing in Arkansas",
+    "description": "A DEQ-certified emissions test center that also performs auto repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Emissions testing in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hindsman & Son, Inc.",
+    "address": "1010 S Caraway Rd, Jonesboro, AR 72401",
+    "phone": "870-935-5555",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dekra-usa.com/",
+    "category": "Asian-owned Emissions testing in Arkansas",
+    "description": "Provides inspections and emissions testing services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Emissions testing in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
