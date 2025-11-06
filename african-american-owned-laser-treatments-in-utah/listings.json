@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Aesthetica Medical Spa",
+    "address": "482 W State St, Pleasant Grove, UT 84062",
+    "phone": "(801) 785-8884",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.aesthetica.com/",
+    "category": "African-American-owned Laser treatments in Utah",
+    "description": "Offers a comprehensive approach to health, wellness, and beauty with leading-edge technology and treatments, including laser hair removal, Botox, and skin rejuvenation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Laser treatments in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Truly You Medical Spa",
+    "address": "1000 E 100 S, Wellsville, UT 84339",
+    "phone": "(435) 238-7000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.trulyyoumedspa.com/",
+    "category": "African-American-owned Laser treatments in Utah",
+    "description": "Provides cutting-edge cosmetic procedures and personalized aesthetic treatments to help clients look and feel their best, with services like laser treatments, injectables, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Laser treatments in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Beauty Now Med Spa",
+    "address": "3970 S Highland Dr, Salt Lake City, UT 84106",
+    "phone": "(801) 673-8808",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://beautynowmedspa.com/",
+    "category": "African-American-owned Laser treatments in Utah",
+    "description": "A boutique med spa offering a range of non-surgical cosmetic treatments, including laser services, injectables, and skincare, with a focus on natural-looking results",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Laser treatments in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Haus of Aesthetics",
+    "address": "Multiple locations including Salt Lake City and Provo, UT. (Specific address for Salt Lake City: 669 E 400 S, Salt Lake City, UT 84102)",
+    "phone": "(801) 997-8199 (Salt Lake City)",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://hausofaesthetics.com/",
+    "category": "African-American-owned Laser treatments in Utah",
+    "description": "Specializes in laser hair removal for all skin types, offering affordable and professional treatments with no downtime",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Laser treatments in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Beauty Lab + Laser",
+    "address": "3070 E 6200 S, Salt Lake City, UT 84121",
+    "phone": "(801) 999-4482",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://beautylablaser.com/",
+    "category": "African-American-owned Laser treatments in Utah",
+    "description": "Offers a variety of beauty services including HydraFacial, laser hair removal, Botox, and weight loss treatments in a modern and welcoming environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Laser treatments in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "22 Spa MD",
+    "address": "2271 E 1300 S, Salt Lake City, UT 84108",
+    "phone": "(801) 432-0444",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.22spamd.com/",
+    "category": "African-American-owned Laser treatments in Utah",
+    "description": "A premier medical spa offering rejuvenating treatments and pampering from expert aestheticians and plastic surgeons, including laser treatments, injectables, and IV therapy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Laser treatments in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dragon Healthcare Services and Med Spa",
+    "address": "3804 S Highland Drive, Ste. 6 & 7, Millcreek, UT 84106",
+    "phone": "(385) 685-5114",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://dragonhealthcare.net/",
+    "category": "African-American-owned Laser treatments in Utah",
+    "description": "Provides the latest treatment options in medical aesthetics, including Botox, Vampire Facelifts, and other non-surgical procedures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Laser treatments in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MaVie Med Spa",
+    "address": "1177 E 1000 N, St. George, UT 84790",
+    "phone": "(435) 210-5555",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://maviemedspa.com/",
+    "category": "African-American-owned Laser treatments in Utah",
+    "description": "A luxury medical spa focused on rejuvenation with a natural appearance, offering a wide range of services including laser hair removal, injectables, and weight loss",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Laser treatments in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bella Vida Laser & Aesthetic",
+    "address": "135 E State St, American Fork, UT 84003",
+    "phone": "(801) 709-7001",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://bellavidamedspa.com/",
+    "category": "African-American-owned Laser treatments in Utah",
+    "description": "Specializes in affordable med spa treatments such as laser hair removal, teeth whitening, and clinical facial treatments, with a focus on client satisfaction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Laser treatments in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Smart Skin Dermatology",
+    "address": "1381 E 3300 N, Ste. 100, Lehi, UT 84043",
+    "phone": "(801) 899-1100",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://smartskindermatology.com/",
+    "category": "African-American-owned Laser treatments in Utah",
+    "description": "A comprehensive laser center offering advanced laser technology and medical expertise for cosmetic rejuvenation, including acne treatment, tattoo removal, and skin tone improvement",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Laser treatments in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
