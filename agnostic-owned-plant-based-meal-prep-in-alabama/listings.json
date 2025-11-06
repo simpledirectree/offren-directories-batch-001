@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Veggie",
+    "address": "1004 Jordan Lane, Huntsville, AL 35816",
+    "phone": "(256) 270-7070",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theveggiehsv.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Alabama",
+    "description": "Offers vegan comfort food, weekly meal prep, catering, and a quick-service cafe",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clean Eatz",
+    "address": "1021 Brocks Gap Pkwy, Ste 141, Hoover, AL 35244",
+    "phone": "(205) 490-1141",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cleaneatz.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Alabama",
+    "description": "A franchise offering a \"clean eating\" concept with build-your-own bowls, salads, burgers, and smoothies, including plant-based options. They also offer grab-and-go frozen meals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clean Eatz",
+    "address": "2008 University Blvd., SUITE A, Tuscaloosa, AL 35401",
+    "phone": "(205) 737-7601",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cleaneatz.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Alabama",
+    "description": "Offers a dine-in cafe menu with healthy options and a weekly meal plan service for pickup",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clean Eatz",
+    "address": "7335 Airport Blvd, Mobile, AL 36608",
+    "phone": "(251) 654-1575",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cleaneatz.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Alabama",
+    "description": "Provides a healthy food restaurant with a cafe menu, meal plans, and grab-and-go options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fire Dept. Meals",
+    "address": "Serves Auburn, AL (Delivery)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.firedeptmeals.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Alabama",
+    "description": "Offers plant-based meal delivery in Auburn, AL, with a new menu weekly and options for various dietary needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MealPro",
+    "address": "Serves Montgomery, AL (Delivery)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mealpro.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Alabama",
+    "description": "Provides healthy meal delivery in Montgomery, AL, with customizable options and a focus on science-backed nutrition",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mealfit",
+    "address": "Serves Birmingham, AL (No local delivery, ships)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mealfit.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Alabama",
+    "description": "Offers meal delivery services in Birmingham, AL, with meal types including vegetarian and gluten-free options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PeerMeal",
+    "address": "Serves various locations in Alabama, including Birmingham, Huntsville, Mobile, Montgomery, and Tuscaloosa",
+    "phone": "",
+    "rating": 4.46,
+    "reviews": 25,
+    "website": "https://peermeal.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Alabama",
+    "description": "Offers a variety of meal prep services, including personalized meal plans and delivery, accommodating dietary needs like vegan and vegetarian",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BLUEROOT",
+    "address": "2829 2nd Avenue S, Birmingham, AL 35233",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blueroot.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Alabama",
+    "description": "Provides plant-based dishes with a focus on fresh, locally sourced ingredients, offering catering and online ordering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fresh Kitchen Dothan",
+    "address": "Dothan, Alabama (No storefront, delivery/catering)",
+    "phone": "(334) 689-5260",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.freshkitchendothan.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Alabama",
+    "description": "Offers healthy catering and personal chef services, including meal delivery, in Dothan, AL",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
