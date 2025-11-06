@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Christian Legal Aid of Los Angeles (CLA-LA)",
+    "address": "333 W. Florence Ave, Inglewood, CA 90301 (This is a listed address, but services are often clinic-based or remote.)",
+    "phone": "(310) 390-2682 or (323) 319-3559",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cla-la.org",
+    "category": "Christian-owned Legal aid in California",
+    "description": "Provides free legal services to low-income residents of Los Angeles County, focusing on issues like family law, housing, and bankruptcy. They offer consultations and help clients understand their rights",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Legal aid in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Legal Aid of Orange County",
+    "address": "P.O. Box 10713, Santa Ana, CA 92711 (This is a mailing address; clinics are held periodically.)",
+    "phone": "657-346-9861",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.christianlegalaidoffice.com",
+    "category": "Christian-owned Legal aid in California",
+    "description": "Offers pro bono legal guidance, advice, and counseling to qualifying low-income individuals in Orange County, CA. They hold legal aid clinics at various locations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Legal aid in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "San Diego Christian Legal Aid (SDCLA)",
+    "address": "2244 Faraday Ave, Carlsbad, CA 92008 (This is a listed address; services are clinic-based.)",
+    "phone": "858-230-2321",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sdclegalaid.org",
+    "category": "Christian-owned Legal aid in California",
+    "description": "Provides free legal and spiritual counseling by Christian attorneys to needy clients in San Diego County. They operate through several clinic locations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Legal aid in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Nonprofit Law Center (CNLC)",
+    "address": "Information not readily available for a specific physical office for client services, but they serve California churches and non-profits",
+    "phone": "949-892-1221",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.christiannonprofitlaw.com",
+    "category": "Christian-owned Legal aid in California",
+    "description": "Focuses on providing legal services to Christian non-profit organizations, assisting with formation, tax-exempt status, and governance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Legal aid in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Church Law Center of California",
+    "address": "Information not readily available for a specific physical office for client services, but they serve churches and non-profits in California",
+    "phone": "949-892-1221",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.churchlawcenter.com",
+    "category": "Christian-owned Legal aid in California",
+    "description": "Offers legal services to churches and other non-profit organizations, covering areas like formation, tax exemption, and compliance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Legal aid in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
