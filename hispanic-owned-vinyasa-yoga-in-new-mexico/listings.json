@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Nirguna Yoga",
+    "address": "8200 Louisiana Blvd NE, Albuquerque, NM 87110",
+    "phone": "(505) 883-9642",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.nirgunayoga.com/",
+    "category": "Hispanic-owned Vinyasa yoga in New-Mexico",
+    "description": "Offers a variety of yoga classes including Hot 26 & 2, Hot Vinyasa, and unheated classes like Ashtanga, Iyengar, and Yin Yoga. They emphasize an inclusive and empowering community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Vinyasa yoga in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Unwind Yoga",
+    "address": "5120 Copper Ave NE, Albuquerque, NM 87108",
+    "phone": "(505) 255-0000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.unwindyogastudio.com/",
+    "category": "Hispanic-owned Vinyasa yoga in New-Mexico",
+    "description": "Features instructors like Crista Chavez, who was born in Mexico and aspires to teach yoga in Spanish. They offer various styles including Vinyasa",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Vinyasa yoga in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blissful Spirits Hot Yoga",
+    "address": "4300 El Pueblo Rd NE, Albuquerque, NM 87110",
+    "phone": "(505) 856-9642",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.blissfulspirits.com/",
+    "category": "Hispanic-owned Vinyasa yoga in New-Mexico",
+    "description": "Offers Hot Yoga, Vinyasa, Pilates, Yin Yoga, and more across three locations. They aim to be inclusive for all ages and fitness levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Vinyasa yoga in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mi Vida Yoga Health & Wellness Center",
+    "address": "1414 San Mateo Blvd NE, Albuquerque, NM 87110",
+    "phone": "(505) 200-0060",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.mividayoga.com/",
+    "category": "Hispanic-owned Vinyasa yoga in New-Mexico",
+    "description": "A locally and woman-owned studio offering hot yoga, warm vinyasa, and hatha classes. They focus on community and improving quality of life",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Vinyasa yoga in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DWELL YOGA",
+    "address": "1420 S. Solano Dr., Las Cruces, NM 88001",
+    "phone": "(575) 652-4516",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.dwell.yoga/",
+    "category": "Hispanic-owned Vinyasa yoga in New-Mexico",
+    "description": "Features instructors like Isabel Ortigoza, who is a Boston-born yoga instructor living in New Mexico, and Maria Agosto, a New Mexico native. They offer Hatha, Vinyasa flow, and Yin yoga",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Vinyasa yoga in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dirty Laundry Hot Yoga",
+    "address": "200 W Marcy St, Santa Fe, NM 87501",
+    "phone": "(505) 670-5005",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.dirtylaundryhotyoga.com/",
+    "category": "Hispanic-owned Vinyasa yoga in New-Mexico",
+    "description": "A Santa Fe hot yoga studio offering Power Flow and Slow Flow Vinyasa classes, as well as Hot Yoga Sculpt",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Vinyasa yoga in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sacred Rebel Yoga",
+    "address": "110 W Main St, Farmington, NM 87401",
+    "phone": "(505) 320-0064",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.sacredrebelyoga.com/",
+    "category": "Hispanic-owned Vinyasa yoga in New-Mexico",
+    "description": "Offers Hot Yoga, Aerial Yoga, Hatha Yoga, and Restorative Yoga. They emphasize authenticity and community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Vinyasa yoga in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SWEAT Yoga Studio",
+    "address": "6201 San Mateo Blvd NE, Albuquerque, NM 87109",
+    "phone": "(505) 897-9328",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.sweatyogastudio.com/",
+    "category": "Hispanic-owned Vinyasa yoga in New-Mexico",
+    "description": "A local and family-owned hot yoga studio offering a variety of hot yoga classes for all levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Vinyasa yoga in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Elevation Yoga & Wellness Center",
+    "address": "6501 4th St NW, Albuquerque, NM 87107",
+    "phone": "(505) 302-1800",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.elevationyoga.com/",
+    "category": "Hispanic-owned Vinyasa yoga in New-Mexico",
+    "description": "An infrared hot yoga sanctuary offering classes like Yin Yoga, Breathe, Warm to Hot Yoga, and Yoga Sculpt",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Vinyasa yoga in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bhava Yoga Studio",
+    "address": "1013 E.ubank Blvd, Clovis, NM 88101",
+    "phone": "(575) 760-1011",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.bhavayogastudio.com/",
+    "category": "Hispanic-owned Vinyasa yoga in New-Mexico",
+    "description": "Features instructors who are Native New Mexicans and passionate about guiding others through yoga. They offer accessible classes for all levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Hispanic-owned Vinyasa yoga in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
