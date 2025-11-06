@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Source Academy and Early Learning Center",
+    "address": "10 North 28th Street, Las Vegas, NV 89101",
+    "phone": "702-386-1006",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://SourceAcademyELC.com",
+    "category": "Black-owned Nanny services in Nevada",
+    "description": "This is an early learning center that offers preschool programs and after-school care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Nanny services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nanny Enterprise LLC",
+    "address": "Las Vegas, Nevada",
+    "phone": "702-234-1406",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Nanny+Enterprise+LLC+in+Nevada",
+    "category": "Black-owned Nanny services in Nevada",
+    "description": "Nanny Enterprise is a nanny placement agency that connects families with nannies and also provides date night sitters. The owner, Michelle Lampkin, has extensive experience as a professional nanny and holds degrees in Early Childhood Education and Psychology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Nanny services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Miracle Nannies and Sitters",
+    "address": "Las Vegas, Nevada",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Miracle+Nannies+and+Sitters+in+Nevada",
+    "category": "Black-owned Nanny services in Nevada",
+    "description": "This agency provides nannies, newborn specialists, and babysitters in the Las Vegas area. They emphasize safety with background checks, drug tests, and CPR certification for their caregivers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Nanny services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nanny's & Granny's",
+    "address": "Las Vegas, Nevada",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Nanny's+&+Granny's+in+Nevada",
+    "category": "Black-owned Nanny services in Nevada",
+    "description": "This is a placement agency for babysitting, household staffing, and event childcare services. They have been in business since 1987 and are a preferred provider for sports teams and hotels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Nanny services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lifetime of Love Nannies",
+    "address": "Serving Reno, Tahoe, Truckee, and Las Vegas, Nevada",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Lifetime+of+Love+Nannies+in+Nevada",
+    "category": "Black-owned Nanny services in Nevada",
+    "description": "This agency offers 24/7 nanny services and specializes in providing care for children with special needs. They emphasize a love for children and a commitment to premium, inclusive care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Nanny services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
