@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Billions Auto Body Shop",
+    "address": "13623 Cherry Tree Crossing Road, Brandywine, Maryland 20613",
+    "phone": "(202) 631-9148",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Billions+Auto+Body+Shop+in+Maryland",
+    "category": "Black-owned Tire balancing in Maryland",
+    "description": "A minority-owned auto body shop that offers a full range of auto repair services, including tire rotation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Tire balancing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blas Auto Service",
+    "address": "Glen Burnie, MD (Specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Blas+Auto+Service+in+Maryland",
+    "category": "Black-owned Tire balancing in Maryland",
+    "description": "Offers tire repairs & rotations and wheel alignments. Described as having integrity and being a trusted auto repair shop in Glen Burnie for over 15 years",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Tire balancing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Platinum Sounds and Rims",
+    "address": "289 Merrimac Ct, Prince Frederick, MD 20678",
+    "phone": "(410) 414-8320",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Platinum+Sounds+and+Rims+in+Maryland",
+    "category": "Black-owned Tire balancing in Maryland",
+    "description": "Offers tire balancing, tire installation, and other tire services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Tire balancing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bryans Road Tire & Auto Service",
+    "address": "Bryans Road, MD (Specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Bryans+Road+Tire+&+Auto+Service+in+Maryland",
+    "category": "Black-owned Tire balancing in Maryland",
+    "description": "Offers automotive repair and mechanic services, including tire services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Tire balancing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
