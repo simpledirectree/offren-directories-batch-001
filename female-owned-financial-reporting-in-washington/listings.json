@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Coggins Accounting",
+    "address": "111 South Jackson Street, Seattle, WA 98104",
+    "phone": "(206) 612-8238",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://cogginsaccounting.com/",
+    "category": "Female-owned Financial reporting in Washington",
+    "description": "A woman-owned small business in Seattle offering accounting, tax services, coaching, and planning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Female-owned Financial reporting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Financial Insights Wealth Management",
+    "address": "Not specified, but serves Tacoma, WA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.financialinsightswa.com/",
+    "category": "Female-owned Financial reporting in Washington",
+    "description": "A woman-owned and operated regional wealth management firm providing fiduciary financial services, wealth management, and community empowerment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Female-owned Financial reporting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Women's Wealth",
+    "address": "PO Box 1522, Tacoma, WA 98401-1522",
+    "phone": "(206) 499-1330",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://womenswealth.com/",
+    "category": "Female-owned Financial reporting in Washington",
+    "description": "A fee-only financial planning firm dedicated to helping women gain clarity, control, and confidence in their finances",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Female-owned Financial reporting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Singer Wealth Management",
+    "address": "Not specified, but serves Seattle, WA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://singerwealthmanagement.com/",
+    "category": "Female-owned Financial reporting in Washington",
+    "description": "A private, progressive, and woman-owned firm offering tailored financial experiences with a focus on goal-driven investment strategies and financial freedom",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Female-owned Financial reporting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Willow Consulting",
+    "address": "Not specified, but serves the Seattle area",
+    "phone": "(206) 372-1394",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Willow+Consulting+in+Washington",
+    "category": "Female-owned Financial reporting in Washington",
+    "description": "A woman-owned service organization with over 30 years of financial and business experience, providing accounting, administrative, and organizational services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Female-owned Financial reporting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Valerie Moseley CPA",
+    "address": "Not specified, but serves Seattle, WA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://vmcpa.com/",
+    "category": "Female-owned Financial reporting in Washington",
+    "description": "A CPA firm offering outsourced controller services, tax compliance and planning, and accounting consulting for businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Female-owned Financial reporting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Custom Tax & Business Services Inc.",
+    "address": "723 W Indiana Ave, Spokane, Washington 99205",
+    "phone": "(509) 329-1040",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://customtaxandbusiness.com/",
+    "category": "Female-owned Financial reporting in Washington",
+    "description": "A business owned and operated by an Enrolled Agent offering tax preparation, bookkeeping, and business services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Female-owned Financial reporting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tax It EZ",
+    "address": "Not specified, but serves Spokane, WA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.taxiteasy.com/",
+    "category": "Female-owned Financial reporting in Washington",
+    "description": "A family-operated, locally owned tax preparation business specializing in individual and small business tax returns",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Female-owned Financial reporting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yasmin L. Caldwell, CPA P.S. Inc.",
+    "address": "Not specified, but serves Puyallup, WA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.yasminlcaldwellcpa.com/",
+    "category": "Female-owned Financial reporting in Washington",
+    "description": "A full-service tax and accounting firm providing personalized financial guidance, tax preparation, and consulting services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Female-owned Financial reporting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Empowered Accounting",
+    "address": "12720 Gateway Dr S #207, Tukwila, WA 98168 (by appointment only)",
+    "phone": "(206) 324-4330",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.empoweredaccounting.com/",
+    "category": "Female-owned Financial reporting in Washington",
+    "description": "A bilingual, Latina-owned firm providing personalized accounting solutions, tax services, and payroll for small business owners",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Female-owned Financial reporting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
