@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Yai La Cubanita Profesional Cleaning",
+    "address": "Richmond, TX (serves Richmond, TX)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Yai+La+Cubanita+Profesional+Cleaning+in+Texas",
+    "category": "Cuban-American-owned Interior cleaning in Texas",
+    "description": "A professional cleaning service owned by Yaimaisi Jorge, who has 1 year of experience and emphasizes client satisfaction. They offer standard cleaning, deep cleaning, and move-out cleaning, with extra services like fridge and oven cleaning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Cuban-American-owned Interior cleaning in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Patriot Maids Cleaning Service",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Patriot+Maids+Cleaning+Service+in+Texas",
+    "category": "Cuban-American-owned Interior cleaning in Texas",
+    "description": "This service is highlighted as a Latino-owned cleaning service in Houston, emphasizing their understanding of client needs and commitment to quality. They offer residential and commercial cleaning. Specific contact information and ratings were not detailed in the provided snippet",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Cuban-American-owned Interior cleaning in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
