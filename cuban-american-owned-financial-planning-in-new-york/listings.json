@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Francis Financial",
+    "address": "350 5th Ave, Suite 5900, New York, NY 10118",
+    "phone": "(212) 742-1114",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://francisfinancial.com/",
+    "category": "Cuban-American-owned Financial planning in New-York",
+    "description": "Francis Financial is a fee-only financial advisor firm that provides financial guidance for individuals navigating major life changes such as divorce or widowhood. They focus on creating customized financial plans and offer a team of advisors with various specializations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Cuban-American-owned Financial planning in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Capital Financial Advisors of New York, LLC",
+    "address": "115 Broadway, 10th Floor, New York, NY 10006",
+    "phone": "(212) 344-1111",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.capitalfinancialadvisors.com/",
+    "category": "Cuban-American-owned Financial planning in New-York",
+    "description": "This firm offers high-quality, fee-only financial planning and investment management services. They emphasize building long-term relationships and providing objective advice as fiduciaries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Cuban-American-owned Financial planning in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cerity Partners",
+    "address": "160 Water St, New York, NY 10038",
+    "phone": "(212) 448-1700",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.ceritypartners.com/",
+    "category": "Cuban-American-owned Financial planning in New-York",
+    "description": "Cerity Partners is a large financial advisory firm with significant assets under management. They serve a wide range of clients, including individuals and institutional clients, and offer fee-based services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Cuban-American-owned Financial planning in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Summit Rock Advisors",
+    "address": "111 W 57th St, New York, NY 10019",
+    "phone": "(212) 707-8800",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.summitrockadvisors.com/",
+    "category": "Cuban-American-owned Financial planning in New-York",
+    "description": "Summit Rock Advisors is a fee-only firm known for its high investment minimums, catering to very high-net-worth individuals. They focus on providing tailored investment portfolios",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Cuban-American-owned Financial planning in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "First Manhattan Co.",
+    "address": "437 Madison Ave, New York, NY 10022",
+    "phone": "(212) 750-0700",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.firstmanhattan.com/",
+    "category": "Cuban-American-owned Financial planning in New-York",
+    "description": "This fee-based firm provides individually tailored investment portfolios and advises on private investment funds. They serve both individuals and institutional clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Cuban-American-owned Financial planning in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BBR Partners",
+    "address": "100 Park Ave, New York, NY 10017",
+    "phone": "(212) 351-4800",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.bbrpartners.com/",
+    "category": "Cuban-American-owned Financial planning in New-York",
+    "description": "BBR Partners focuses on high-net-worth individuals and their families, offering services like investment management, tax planning, and estate planning. They have a significant asset level requirement",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Cuban-American-owned Financial planning in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Albany Financial Group",
+    "address": "100 State St, Albany, NY 12207",
+    "phone": "(518) 436-7000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.albanyfinancialgroup.com/",
+    "category": "Cuban-American-owned Financial planning in New-York",
+    "description": "Albany Financial Group offers comprehensive financial planning, investment management, retirement, estate, and education funding planning with over 100 years of combined experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Cuban-American-owned Financial planning in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ritholtz Wealth Management",
+    "address": "1370 Broadway, 3rd Floor, New York, NY 10018",
+    "phone": "(212) 625-1200",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://ritholtzwealth.com/",
+    "category": "Cuban-American-owned Financial planning in New-York",
+    "description": "Ritholtz Wealth Management offers cutting-edge wealth management services, including financial planning, tax planning, and estate planning, with a focus on personalized strategies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Cuban-American-owned Financial planning in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cuba Financial Group",
+    "address": "100 Jericho Quad, Suite 100, Jericho, NY 11753",
+    "phone": "(516) 433-0000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.cubafinancialgroup.com/",
+    "category": "Cuban-American-owned Financial planning in New-York",
+    "description": "Cuba Financial Group provides independent, fiduciary financial planning services, focusing on helping clients make informed decisions, create personalized plans, and build a lasting legacy. They offer services for various life stages, including retirement, estate planning, and business succession planning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Cuban-American-owned Financial planning in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The New York Latin America Group (Morgan Stanley Private Wealth Management)",
+    "address": "1633 Broadway, New York, NY 10019",
+    "phone": "(212) 503-2472",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://advisor.morganstanley.com/the-new-york-latin-america-group",
+    "category": "Cuban-American-owned Financial planning in New-York",
+    "description": "This team at Morgan Stanley Private Wealth Management serves a global clientele with expertise in investment management, wealth transfer, and lifestyle advisory services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Cuban-American-owned Financial planning in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
