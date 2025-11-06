@@ -1,0 +1,19 @@
+[
+  {
+    "name": "BWA Studios",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bwastudios.com/",
+    "category": "African-American-owned 3D animation in Connecticut",
+    "description": "BWA Studios is an animation house that creates and produces programming and content for all platforms. As a Black female-owned studio, they focus on building equity in the animation industry by consciously recruiting Black women, women of color, and nonbinary people of color. They are dedicated to bringing diverse stories to life",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned 3D animation in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
