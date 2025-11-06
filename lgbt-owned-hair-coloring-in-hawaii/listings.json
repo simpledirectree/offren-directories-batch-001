@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Every Piece Salon",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Every+Piece+Salon+in+Hawaii",
+    "category": "LGBT-owned Hair coloring in Hawaii",
+    "description": "This salon in Honolulu offers a variety of services including balayage, highlights, and funky colors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "LGBT-owned Hair coloring in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Salon Allure",
+    "address": "Honolulu, HI",
+    "phone": "808-282-3568",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Salon+Allure+in+Hawaii",
+    "category": "LGBT-owned Hair coloring in Hawaii",
+    "description": "Offers personalized hair coloring, balayage, and highlights",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "LGBT-owned Hair coloring in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HAiR HONOLULU",
+    "address": "Honolulu, Hawaii",
+    "phone": "808-382-3860",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/HAiR+HONOLULU+in+Hawaii",
+    "category": "LGBT-owned Hair coloring in Hawaii",
+    "description": "Specializes in blonde hair and offers various color services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "LGBT-owned Hair coloring in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Salon Blanc",
+    "address": "Honolulu, HI",
+    "phone": "808-593-2100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Salon+Blanc+in+Hawaii",
+    "category": "LGBT-owned Hair coloring in Hawaii",
+    "description": "Offers coloring services, including balayage and ombre, and is described as a premier destination for personalized beauty",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "LGBT-owned Hair coloring in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hawaii Kai Salon & Day Spa",
+    "address": "Honolulu, HI",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hawaii+Kai+Salon+&+Day+Spa+in+Hawaii",
+    "category": "LGBT-owned Hair coloring in Hawaii",
+    "description": "Offers organic hair coloring services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "LGBT-owned Hair coloring in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Salon By Yoo",
+    "address": "Hawaii",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Salon+By+Yoo+in+Hawaii",
+    "category": "LGBT-owned Hair coloring in Hawaii",
+    "description": "Features stylists committed to client satisfaction, with the owner being skilled in bleach and color mixing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "LGBT-owned Hair coloring in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
