@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Shin-Boku Nursery",
+    "address": "230 Beech Hill Rd, Wentworth, NH 03282",
+    "phone": "(603) 764-9993",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.shinbokunursery.com/",
+    "category": "Korean-speaking Landscape planning in New-Hampshire",
+    "description": "This nursery specializes in landscape design and custom gardens, with a particular focus on Japanese-style gardens. They offer custom planting, site planning, and have a showcase stroll garden. They have been in business for over 50 years",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Korean-speaking Landscape planning in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
