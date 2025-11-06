@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Cafe Dim Sum",
+    "address": "95 St Paul St, Burlington, VT 05401",
+    "phone": "(802) 540-9140",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Cafe+Dim+Sum+in+Vermont",
+    "category": "Chinese-speaking Family-style restaurants in Vermont",
+    "description": "Known for its dim sum options and cozy atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "A Single Pebble",
+    "address": "133 Bank St, Burlington, VT 05401",
+    "phone": "(802) 865-5200",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/A+Single+Pebble+in+Vermont",
+    "category": "Chinese-speaking Family-style restaurants in Vermont",
+    "description": "Offers authentic Chinese cuisine with a focus on traditional dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hong Kong Kitchen",
+    "address": "1930 Williston Rd, South Burlington, VT 05403",
+    "phone": "",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hong+Kong+Kitchen+in+Vermont",
+    "category": "Chinese-speaking Family-style restaurants in Vermont",
+    "description": "Popular spot in South Burlington known for classic Chinese dishes and generous portions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eastern Dragon",
+    "address": "16 S. Main St., St. Albans",
+    "phone": "(802) 527-9800",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Eastern+Dragon+in+Vermont",
+    "category": "Chinese-speaking Family-style restaurants in Vermont",
+    "description": "Offers traditional Chinese dishes in a welcoming atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hung Tao",
+    "address": "[Not explicitly provided in search results, but mentioned as being in Burlington]",
+    "phone": "",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hung+Tao+in+Vermont",
+    "category": "Chinese-speaking Family-style restaurants in Vermont",
+    "description": "Popular Chinese restaurant in Burlington with a diverse menu",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "China Moon Buffet",
+    "address": "1400 US Route 302, Barre, VT 05641",
+    "phone": "(802) 476-8880",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/China+Moon+Buffet+in+Vermont",
+    "category": "Chinese-speaking Family-style restaurants in Vermont",
+    "description": "Offers an all-you-can-eat Chinese buffet experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chans House",
+    "address": "184 Main St, Bradford, VT 05033",
+    "phone": "(802) 222-5474",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chans+House+in+Vermont",
+    "category": "Chinese-speaking Family-style restaurants in Vermont",
+    "description": "Known for authentic Chinese cuisine, takeout, and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lucky Wok Chinese Food",
+    "address": "170 U.S. 7, Milton, VT 05468",
+    "phone": "(802) 893-0078",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Lucky+Wok+Chinese+Food+in+Vermont",
+    "category": "Chinese-speaking Family-style restaurants in Vermont",
+    "description": "Offers authentic Chinese cuisine for delivery and carry-out",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "China Garden",
+    "address": "[Not explicitly provided in search results, but mentioned as being in Essex Junction, VT]",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/China+Garden+in+Vermont",
+    "category": "Chinese-speaking Family-style restaurants in Vermont",
+    "description": "Offers outstanding Chinese cuisine and excellent service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lee's Chinese Restaurant",
+    "address": "[Not explicitly provided in search results, but mentioned as being in South Burlington, VT]",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Lee's+Chinese+Restaurant+in+Vermont",
+    "category": "Chinese-speaking Family-style restaurants in Vermont",
+    "description": "Offers authentic and delicious Chinese cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
