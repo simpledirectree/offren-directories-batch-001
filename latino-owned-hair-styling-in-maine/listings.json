@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Peinado Hairworks",
+    "address": "South Portland, ME (Specific address not provided in search results)",
+    "phone": "207-741-2500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://peinadohairworks.com/",
+    "category": "Latino-owned Hair styling in Maine",
+    "description": "A full-service hair salon with professional stylists offering a range of services including cuts, color, and waxing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Hair styling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rhona Beauty LLC",
+    "address": "289 Main Street, Biddeford, ME 04005",
+    "phone": "207-571-9903",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.rhonabeauty.com/",
+    "category": "Latino-owned Hair styling in Maine",
+    "description": "A multicultural, all-inclusive salon dedicated to empowering women and men, with a focus on underserved ethnic hair communities. They offer services like haircuts, extensions, and color",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Latino-owned Hair styling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
