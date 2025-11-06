@@ -1,0 +1,53 @@
+[
+  {
+    "name": "American Radiology Services",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/American+Radiology+Services+in+Maryland",
+    "category": "Greek-speaking Ultrasound services in Maryland",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Greek-speaking Ultrasound services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Community Radiology",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Community+Radiology+in+Maryland",
+    "category": "Greek-speaking Ultrasound services in Maryland",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Greek-speaking Ultrasound services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Advanced Radiology",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Advanced+Radiology+in+Maryland",
+    "category": "Greek-speaking Ultrasound services in Maryland",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Greek-speaking Ultrasound services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
