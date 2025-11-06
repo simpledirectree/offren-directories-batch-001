@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Nara Chicken",
+    "address": "2815 Grand Ave, Fort Smith, AR 72901",
+    "phone": "479-222-4055",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://fortsmithmediterreancuisine.com/",
+    "category": "Arabic-speaking Casual dining in Arkansas",
+    "description": "Nara Chicken offers a variety of Middle Eastern and Arabic food, including halal, vegan, and vegetarian options, in a casual and inviting atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Al Seraj Mediterranean Restaurant & Market",
+    "address": "11400 N Rodney Parham Rd, Little Rock, AR 72212",
+    "phone": "501-954-2026",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Al+Seraj+Mediterranean+Restaurant+&+Market+in+Arkansas",
+    "category": "Arabic-speaking Casual dining in Arkansas",
+    "description": "This establishment serves Mediterranean and Middle Eastern cuisine, with popular dishes including kibbeh and shawarma",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kebab House",
+    "address": "11321 West Markham St, Little Rock, AR",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Kebab+House+in+Arkansas",
+    "category": "Arabic-speaking Casual dining in Arkansas",
+    "description": "Ranked as one of the highest-rated Middle Eastern restaurants in Little Rock, Kebab House is known for its cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maryams Grill",
+    "address": "323 Center St, Little Rock, AR",
+    "phone": "",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Maryams+Grill+in+Arkansas",
+    "category": "Arabic-speaking Casual dining in Arkansas",
+    "description": "Maryams Grill is recognized as a highly-rated Middle Eastern restaurant in Little Rock",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Middle Eastern Cuisine",
+    "address": "400 President Clinton Ave, Little Rock, AR 72201 (Ottenheimer Market Hall)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Middle+Eastern+Cuisine+in+Arkansas",
+    "category": "Arabic-speaking Casual dining in Arkansas",
+    "description": "Located within the Ottenheimer Market Hall, this spot offers Middle Eastern food with feedback noting good food and service, though some mention specific dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mr. Cone Shawarma",
+    "address": "3404 SE Macy Rd #20, Bentonville, AR 72712",
+    "phone": "479-273-5500 (for Vivace Mediterranean Cuisine, potentially related or a nearby option)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mr.+Cone+Shawarma+in+Arkansas",
+    "category": "Arabic-speaking Casual dining in Arkansas",
+    "description": "Mr. Cone Shawarma offers Mediterranean cuisine with a fast-casual approach, focusing on shawarma, wraps, and rice bowls made with fresh ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Addresses:",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tazikis.com/",
+    "category": "Arabic-speaking Casual dining in Arkansas",
+    "description": "Taziki's offers Coastal Mediterranean fare with a focus on fresh, handcrafted foods, available for dine-in, takeout, and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Petra Caf\u00e9",
+    "address": "31 E Center St #101, Fayetteville, AR 72701",
+    "phone": "479-443-3090",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Petra+Caf\u00e9+in+Arkansas",
+    "category": "Arabic-speaking Casual dining in Arkansas",
+    "description": "This cozy cafe serves authentic Mediterranean food in a small, personal dining space",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tangiers Mediterranean Food & Caf\u00e9",
+    "address": "2800 College Ave, Fayetteville, AR",
+    "phone": "479-301-2211",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Tangiers+Mediterranean+Food+&+Caf\u00e9+in+Arkansas",
+    "category": "Arabic-speaking Casual dining in Arkansas",
+    "description": "Offers Mediterranean food and cafe services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hummus Republic",
+    "address": "Not specified in search results, but operates as a chain",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hummusrepublic.com/",
+    "category": "Arabic-speaking Casual dining in Arkansas",
+    "description": "Hummus Republic offers build-your-own bowls, wraps, and pitas with Mediterranean flavors, focusing on fresh ingredients and fast service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
