@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Art Haus",
+    "address": "1283 E 2100 S, Salt Lake City, UT 84106",
+    "phone": "(801) 557-0028",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.arthaus-slc.com/",
+    "category": "Gen-Z-owned Art instruction in Utah",
+    "description": "Art Haus offers a variety of art classes for children and adults, including pottery, painting, and drawing, with a focus on community and inclusivity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Art instruction in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ivory Guild",
+    "address": "123 W 100 N, Bountiful, UT 84010",
+    "phone": "(801) 295-0220",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.ivoryguild.com/",
+    "category": "Gen-Z-owned Art instruction in Utah",
+    "description": "Ivory Guild provides high-quality art classes in Bountiful, Utah, focusing on representational drawing and oil painting techniques for teenagers and adults",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Art instruction in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Inspire-Art Academy",
+    "address": "57 N 500 E St, St. George, UT 84770",
+    "phone": "(435) 419-0060",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.inspire-artacademy.com/",
+    "category": "Gen-Z-owned Art instruction in Utah",
+    "description": "Inspire-Art Academy offers art classes for kids, teens, and adults with a philosophy that great artists are trained, not born, using an award-winning curriculum",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Art instruction in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Art Cottage",
+    "address": "11023 S. Jordan Landing Blvd, West Jordan, UT 84088",
+    "phone": "(801) 567-0111",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.theartcottage.com/",
+    "category": "Gen-Z-owned Art instruction in Utah",
+    "description": "The Art Cottage offers art classes in West Jordan, Utah, including watercolor, oil painting, acrylic, and drawing, for all age levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Art instruction in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Visual Art Institute",
+    "address": "Multiple locations in Salt Lake & Alpine, UT",
+    "phone": "(801) 582-0191",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.visualartinstitute.com/",
+    "category": "Gen-Z-owned Art instruction in Utah",
+    "description": "Visual Art Institute offers fine art classes for kids, teens, and adults in Salt Lake and Alpine, Utah, covering figure drawing, painting, mixed media, digital arts, sculpture, and ceramics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Art instruction in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Art Heart Studio",
+    "address": "132 E 300 S, Salt Lake City, UT 84111",
+    "phone": "(801) 601-1100",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.artheartstudios.com/",
+    "category": "Gen-Z-owned Art instruction in Utah",
+    "description": "Art Heart Studio is a community art studio in Salt Lake City offering classes for all ages, focusing on expression, healing, and connecting mind, heart, and spirit through art",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Art instruction in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MakeSpace Kayenta",
+    "address": "881 Coyote Gulch Rd, Ivins, UT 84738",
+    "phone": "(435) 674-2000",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://makespacekayenta.com/",
+    "category": "Gen-Z-owned Art instruction in Utah",
+    "description": "MakeSpace Kayenta offers unique art classes with professional instructors in Southern Utah, suitable for all levels to spark creativity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Art instruction in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ogden Contemporary Arts (OCA) Artist Factory",
+    "address": "405 25th St, Ogden, UT 84401",
+    "phone": "(801) 689-2787",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://ogdencontemporaryarts.org/",
+    "category": "Gen-Z-owned Art instruction in Utah",
+    "description": "OCA Artist Factory offers youth art workshops taught by professional artists, covering various mediums like painting, drawing, photography, and graphic design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Art instruction in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Workshop SLC",
+    "address": "151 S 400 W, Salt Lake City, UT 84101",
+    "phone": "(801) 876-0555",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.workshopsaltlake.com/",
+    "category": "Gen-Z-owned Art instruction in Utah",
+    "description": "Workshop SLC provides a variety of art classes taught by professional artists, including oil painting, photography, and watercolor, with a focus on fostering creativity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Art instruction in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hutch Studio",
+    "address": "1143 W. Canyon View Dr, Ivins, UT 84738",
+    "phone": "(435) 674-2000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kayentaartvillage.com/hutch-studio",
+    "category": "Gen-Z-owned Art instruction in Utah",
+    "description": "Hutch Studio in Kayenta Art Village showcases the work of artistic sisters Deborah and Judith Hutcheson, offering a glimpse into their creative process and a space for modern art",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Gen-Z-owned Art instruction in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
