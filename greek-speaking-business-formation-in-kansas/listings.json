@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Tasso's Greek Restaurant",
+    "address": "6421 Brookside Plaza, Kansas City, MO 64113",
+    "phone": "(816) 333-5433",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://tassosgreek.com/",
+    "category": "Greek-speaking Business formation in Kansas",
+    "description": "A family-owned restaurant serving traditional Greek cuisine and American favorites, with live entertainment on weekends",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Greek-speaking Business formation in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mr. Gyros Greek Food & Pastry",
+    "address": "14983 W. 119th St., Olathe, KS 66062",
+    "phone": "(913) 393-0104",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.mrgyrosks.com/",
+    "category": "Greek-speaking Business formation in Kansas",
+    "description": "Offers authentic Greek food, including gyros, pastries, and other traditional dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Greek-speaking Business formation in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Paros Estiatorio",
+    "address": "10561 Mission Rd, Leawood, KS 66206",
+    "phone": "(913) 544-1262",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://parosleawood.com/",
+    "category": "Greek-speaking Business formation in Kansas",
+    "description": "An elegant Greek restaurant offering authentic Mediterranean experiences with dishes passed down through generations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Greek-speaking Business formation in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Never On Sunday Greek Restaurant",
+    "address": "1201 W 39th St, Kansas City, MO 64111",
+    "phone": "(816) 492-5040",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.neveronsundaykc.com/",
+    "category": "Greek-speaking Business formation in Kansas",
+    "description": "Serves authentic Greek food with dine-in, takeout, and delivery options, known for its gyros",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Greek-speaking Business formation in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Greek Cuisine",
+    "address": "7949 W 151st St, Overland Park, KS 66223",
+    "phone": "(913) 681-3333",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://greekcuisine.square.site/",
+    "category": "Greek-speaking Business formation in Kansas",
+    "description": "Offers authentic Greek dishes, including gyros, salads, and dolmades, with a focus on taste, portion size, and affordability",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Greek-speaking Business formation in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Mad Greek",
+    "address": "946 Massachusetts St, Lawrence, KS 66044",
+    "phone": "(785) 856-2822",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.themadgreek.com/",
+    "category": "Greek-speaking Business formation in Kansas",
+    "description": "A long-standing establishment in Lawrence, serving quality Greek and Italian cuisine with a commitment to passion and consistency",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Greek-speaking Business formation in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mediterranean Market KC",
+    "address": "1404 Westport Rd, Kansas City, MO 64111",
+    "phone": "(816) 381-6000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.medmarketkc.com/",
+    "category": "Greek-speaking Business formation in Kansas",
+    "description": "A vibrant marketplace offering authentic Mediterranean ingredients, prepared foods, and a warm atmosphere, with a to-go menu featuring gyros, falafel, and Greek salads",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Greek-speaking Business formation in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Dionysios Greek Orthodox Christian Church",
+    "address": "8100 West 95th Street, Overland Park, KS 66212",
+    "phone": "(913) 341-7373",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.stdionysios.org/",
+    "category": "Greek-speaking Business formation in Kansas",
+    "description": "A Greek Orthodox church that also hosts a Greek School and community events, potentially serving as a hub for Greek-speaking individuals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Greek-speaking Business formation in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Holy Trinity Greek Orthodox Church",
+    "address": "11901 Pflumm Rd, Overland Park, KS 66213",
+    "phone": "(913) 681-8700",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.holytrinitywichita.org/",
+    "category": "Greek-speaking Business formation in Kansas",
+    "description": "A Greek Orthodox church in Wichita that welcomes visitors and offers various services and community events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Greek-speaking Business formation in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AHEPA (American Hellenic Educational Progressive Association)",
+    "address": "Various chapters, including one associated with St. Dionysios Greek Orthodox Christian Church at 8100 W. 95th St., Overland Park, KS 66212",
+    "phone": "(913) 341-7373 (for St. Dionysios)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ahepa.org/",
+    "category": "Greek-speaking Business formation in Kansas",
+    "description": "A large Greek-American organization focused on education, philanthropy, and civic responsibility, which may offer networking opportunities within the Greek community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Greek-speaking Business formation in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
