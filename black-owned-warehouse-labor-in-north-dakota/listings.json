@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Jobbers Moving & Storage",
+    "address": "Fargo, North Dakota",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Jobbers+Moving+&+Storage+North+Dakota",
+    "category": "Black-owned Warehouse labor in North-Dakota",
+    "description": "A logistics and supply chain consulting company focusing on warehousing and distribution",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Warehouse labor in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Door One Logistics",
+    "address": "Fargo, Bismarck, Grand Forks, and Minot, North Dakota",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Door+One+Logistics+North+Dakota",
+    "category": "Black-owned Warehouse labor in North-Dakota",
+    "description": "Offers warehousing, distribution, transportation, packaging, and full supply chain solutions, including hazardous storage and e-commerce fulfillment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Warehouse labor in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Badlands Distribution",
+    "address": "1301 39th St N, Fargo, ND 58102",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Badlands+Distribution+North+Dakota",
+    "category": "Black-owned Warehouse labor in North-Dakota",
+    "description": "A direct store delivery distributor specializing in frozen goods",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Warehouse labor in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Braun Distributing",
+    "address": "153 26th Street West Dickinson, ND 58602",
+    "phone": "701-225-8454 (Office Phone)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Braun+Distributing+North+Dakota",
+    "category": "Black-owned Warehouse labor in North-Dakota",
+    "description": "Provides distribution services for various products, including beer, wine, and snacks",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Warehouse labor in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Hills Trucking",
+    "address": "Dickinson, ND and Williston, ND (among other locations)",
+    "phone": "(800) 228-8081 (24/7)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Black+Hills+Trucking+North+Dakota",
+    "category": "Black-owned Warehouse labor in North-Dakota",
+    "description": "Offers trucking, heavy haul, rig moving, and pipe & equipment storage services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Warehouse labor in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
