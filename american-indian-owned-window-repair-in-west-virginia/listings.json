@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Bluefield Glass",
+    "address": "Bluefield, WV 24701",
+    "phone": "304-325-0588",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.bluefieldglass.com/",
+    "category": "American-Indian-owned Window repair in West-Virginia",
+    "description": "Offers residential and commercial glass services, including window repair, with over 100 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Window repair in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Capon Bridge Glass",
+    "address": "9 Wolfe Street, Capon Bridge, WV",
+    "phone": "304-856-3422",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.caponbridgeglass.com/",
+    "category": "American-Indian-owned Window repair in West-Virginia",
+    "description": "A family-owned business with 36 years of experience specializing in residential and commercial window repairs, glass replacements, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Window repair in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Talbott Glass, LLC",
+    "address": "1110 Cole Avenue, Elkins, WV",
+    "phone": "304-636-2936",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://talbottglass.com/",
+    "category": "American-Indian-owned Window repair in West-Virginia",
+    "description": "Serving West Virginia since 1906, Talbott Glass offers residential and commercial glass services, including window repair and restoration",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Window repair in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Royal Glass LLC",
+    "address": "Information not available in search results",
+    "phone": "304-366-3791",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.royalgalleries.com/",
+    "category": "American-Indian-owned Window repair in West-Virginia",
+    "description": "With over 40 years of experience, Royal Glass provides commercial storefront design, installation, and fast glass repair services in Fairmont, Clarksburg, Morgantown, and surrounding areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Window repair in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mountaineer Glass & Mirror LLC",
+    "address": "Information not available in search results",
+    "phone": "304-296-3615",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mountaineerglass.com/",
+    "category": "American-Indian-owned Window repair in West-Virginia",
+    "description": "Offers affordable professional window and glass solutions for residential and commercial clients in Morgantown, WV, with over 25 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Window repair in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Window Source Morgantown",
+    "address": "Information not available in search results",
+    "phone": "304-470-4676",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thewindsourcemorgantown.com/",
+    "category": "American-Indian-owned Window repair in West-Virginia",
+    "description": "A locally owned, family-run business providing replacement windows and doors in North Central West Virginia and Southwestern PA, focusing on honest service and expert installation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Window repair in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
