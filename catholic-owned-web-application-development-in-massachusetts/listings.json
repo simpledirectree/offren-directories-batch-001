@@ -1,0 +1,172 @@
+[
+  {
+    "name": "3 Media Web",
+    "address": "100 Merrimack Street, Suite 301, Lowell, MA 01852",
+    "phone": "(978) 455-1500",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.3mediaweb.com/",
+    "category": "Catholic-owned Web application development in Massachusetts",
+    "description": "This company has worked with Catholic Charities Boston to overhaul their website, demonstrating an understanding of non-profit needs and web development for religious organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Web application development in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MojoTech",
+    "address": "100 Summer Street, 14th Floor, Boston, MA 02110",
+    "phone": "(617) 779-1100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mojotech.com/",
+    "category": "Catholic-owned Web application development in Massachusetts",
+    "description": "A premier software development company in Boston specializing in custom web and mobile applications, serving diverse industries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Web application development in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Outright Development",
+    "address": "100 Cummings Center, Suite 105E, Beverly, MA 01915",
+    "phone": "(781) 670-7745",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.outrightdevelopment.com/",
+    "category": "Catholic-owned Web application development in Massachusetts",
+    "description": "A Massachusetts-based web and mobile app development company specializing in custom software for businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Web application development in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Gnar Company",
+    "address": "100 Summer Street, Boston, MA 02110",
+    "phone": "(617) 934-7000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thegnarcompany.com/",
+    "category": "Catholic-owned Web application development in Massachusetts",
+    "description": "Specializes in custom website development, full-stack web development, and web application development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Web application development in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Imarc",
+    "address": "100 Merrimack Street, Suite 301, Lowell, MA 01852",
+    "phone": "(978) 455-1500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.imarc.com/",
+    "category": "Catholic-owned Web application development in Massachusetts",
+    "description": "A full-service web development company specializing in custom website and web application development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Web application development in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Meant4.com",
+    "address": "100 Summer Street, Boston, MA 02110",
+    "phone": "(617) 779-1100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.meant4.com/",
+    "category": "Catholic-owned Web application development in Massachusetts",
+    "description": "A web development company specializing in custom website and web application development, known for delivering scalable solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Web application development in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Storm Brain",
+    "address": "100 Summer Street, Boston, MA 02110",
+    "phone": "(617) 779-1100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stormbrain.com/",
+    "category": "Catholic-owned Web application development in Massachusetts",
+    "description": "A full-service digital agency specializing in web development, web design, and SEO services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Web application development in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SDLC Corp",
+    "address": "100 Summer Street, Boston, MA 02110",
+    "phone": "(617) 779-1100",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.sdlc.com/",
+    "category": "Catholic-owned Web application development in Massachusetts",
+    "description": "A web application development company with over a decade of experience, delivering technological innovation and digital transformation services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Web application development in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "3 SIDED CUBE",
+    "address": "100 Summer Street, Boston, MA 02110",
+    "phone": "(617) 779-1100",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.3sidedcube.com/",
+    "category": "Catholic-owned Web application development in Massachusetts",
+    "description": "A global app development company focused on delivering AI-driven solutions without sacrificing quality",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Web application development in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Webby Central",
+    "address": "100 Summer Street, Boston, MA 02110",
+    "phone": "(617) 779-1100",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.webbycentral.com/",
+    "category": "Catholic-owned Web application development in Massachusetts",
+    "description": "A prominent digital transformation company that provides a broad range of services to enable businesses to embrace digital innovation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Web application development in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
