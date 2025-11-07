@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Cafe Aladdin",
+    "address": "1609 32nd Avenue South, Fargo, ND 58103",
+    "phone": "(701) 232-4200",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.cafealaddin.com/",
+    "category": "Arabic-speaking Casual dining in North-Dakota",
+    "description": "Serving Greek and Mediterranean food, including gyros, kebabs, pita, and hummus, with halal meat available upon request",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ishtar Mediterranean Cuisine",
+    "address": "68 Broadway N, Fargo, ND 58102",
+    "phone": "(701) 212-4930",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.ishtar-cuisine.com/",
+    "category": "Arabic-speaking Casual dining in North-Dakota",
+    "description": "Offers traditional Middle Eastern and Iraqi cuisine with a selection of kebabs, seafood, and over 50 meza items like hummus and falafel",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mediterranean Grill",
+    "address": "5050 13th Ave S, Fargo, ND 58103",
+    "phone": "(701) 730-7952",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://medgrill2015.wixsite.com/mediterraneangrill",
+    "category": "Arabic-speaking Casual dining in North-Dakota",
+    "description": "Known for its simple, friendly atmosphere and well-seasoned lamb and chicken dishes, hummus, and spicy cayenne kabobs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Habibi Gyros & Bowls",
+    "address": "625 S Washington Street, Suite C, Bismarck, ND 58504",
+    "phone": "(701) 751-0837",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.habibibismarck.com/",
+    "category": "Arabic-speaking Casual dining in North-Dakota",
+    "description": "Features Mediterranean food such as gyros, hummus, and Greek salads, with a focus on healthier cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Newroz Kebab",
+    "address": "2501 8th St S, Moorhead, MN 56560",
+    "phone": "(218) 227-5019",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Newroz+Kebab+North+Dakota",
+    "category": "Arabic-speaking Casual dining in North-Dakota",
+    "description": "Serves Kurdish cuisine with flavors from Turkey, Iraq, Iran, and Syria, including kebabs and shawarma",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mr. Shawarma Grille",
+    "address": "Not explicitly listed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mr.+Shawarma+Grille+North+Dakota",
+    "category": "Arabic-speaking Casual dining in North-Dakota",
+    "description": "Offers Mediterranean cuisine with appetizers like falafel and hummus, various salads, entrees such as kebabs, and shawarma combos",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Salama Restaurant",
+    "address": "122 23rd St S, Fargo, ND 58103",
+    "phone": "(701) 491-0940",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Salama+Restaurant+North+Dakota",
+    "category": "Arabic-speaking Casual dining in North-Dakota",
+    "description": "Serves a mix of international dishes with Middle Eastern and Mediterranean flavors, open daily for breakfast, lunch, and dinner",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Naf Naf Middle Eastern Grill",
+    "address": "Not explicitly listed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nafnafgrill.com/",
+    "category": "Arabic-speaking Casual dining in North-Dakota",
+    "description": "Focuses on popular Middle Eastern staples like shawarma and falafel, with made-from-scratch pitas, hand-cut salads, and fresh sauces",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hummus Republic",
+    "address": "Not explicitly listed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hummusrepublic.com/",
+    "category": "Arabic-speaking Casual dining in North-Dakota",
+    "description": "A fast-casual Mediterranean restaurant offering customizable bowls, wraps, and pitas with fresh ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Al Hamdi Restaurant",
+    "address": "2512 7th Ave S Ste 2B, Fargo, ND 58103",
+    "phone": "+1 701-212-4693",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Al+Hamdi+Restaurant+North+Dakota",
+    "category": "Arabic-speaking Casual dining in North-Dakota",
+    "description": "A Middle Eastern restaurant located in Fargo",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Casual dining in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
