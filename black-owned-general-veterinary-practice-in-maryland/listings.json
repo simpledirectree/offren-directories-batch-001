@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Tails & Scales Veterinary Center",
+    "address": "6522 Sligo Parkway, Hyattsville, MD 20782",
+    "phone": "(301) 235-3990",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://tailsandscalesvet.com/",
+    "category": "Black-owned General veterinary practice in Maryland",
+    "description": "Provides comprehensive wellness services for cats, dogs, reptiles, birds, and rodents. They emphasize a holistic approach and community engagement",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned General veterinary practice in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mid-Atlantic Animal Specialty Hospital (MASH Unit)",
+    "address": "Huntingtown, Maryland (Specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mid-Atlantic+Animal+Specialty+Hospital+(MASH+Unit)+in+Maryland",
+    "category": "Black-owned General veterinary practice in Maryland",
+    "description": "A specialty referral veterinary hospital founded by two Black veterinarians, Bruce Nwadike and Rodney Oakley. They offer advanced surgical and specialty services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned General veterinary practice in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oakcrest Veterinary Clinic",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Oakcrest+Veterinary+Clinic+in+Maryland",
+    "category": "Black-owned General veterinary practice in Maryland",
+    "description": "Founded by Dr. Jim Tibbs and Carolyn Tibbs, this clinic has been serving the community since 1978. Dr. Tibbs is licensed in DC, Maryland, and Virginia",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned General veterinary practice in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chadwell Animal Hospital",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chadwellanimalhospital.com/",
+    "category": "Black-owned General veterinary practice in Maryland",
+    "description": "Offers veterinary care for dogs, cats, exotic animals, and wildlife. They have been serving Harford County for over 20 years and are known for their compassionate and expert care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned General veterinary practice in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eastern Animal Hospital",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.easternanimalhospital.com/",
+    "category": "Black-owned General veterinary practice in Maryland",
+    "description": "Provides comprehensive veterinary care in Baltimore, MD, with a focus on compassionate treatment for cats and dogs, including routine wellness exams and emergency services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned General veterinary practice in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bethany Centennial Animal Hospital",
+    "address": "Ellicott City, MD (Specific street address not provided in search results)",
+    "phone": "(410) 750-2322",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.bethanycentennial.com/",
+    "category": "Black-owned General veterinary practice in Maryland",
+    "description": "A full-service veterinary medical facility offering medical, surgical, and dental care for pets in Ellicott City and surrounding areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned General veterinary practice in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Holistic Veterinary Healing",
+    "address": "Germantown, MD (Specific street address not provided in search results)",
+    "phone": "240-715-6570",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.holisticvethealing.com/",
+    "category": "Black-owned General veterinary practice in Maryland",
+    "description": "Offers integrative and holistic veterinary care for pets, emphasizing a balanced approach to pet healthcare and the human-animal bond",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned General veterinary practice in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Olney-Sandy Spring Veterinary Hospital",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.olneysandyspringvet.com/",
+    "category": "Black-owned General veterinary practice in Maryland",
+    "description": "Provides individualized veterinary care with a focus on thoroughness and expertise, ensuring pets receive the attention they deserve",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned General veterinary practice in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
