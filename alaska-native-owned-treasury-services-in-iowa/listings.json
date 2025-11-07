@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Pinnacle Bank",
+    "address": "2206 South Center Street, Marshalltown, IA 50158",
+    "phone": "641-752-2393",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pinnaclebank.com/",
+    "category": "Alaska-Native-owned Treasury services in Iowa",
+    "description": "Pinnacle Bank is 100% Native-owned by the Sac and Fox Tribe of the Mississippi in Iowa (Meskwaki Nation) and is one of the few tribally-owned banks in the United States with active trust powers. They offer comprehensive trust and investment services, with a focus on financial literacy and customized services for tribes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Treasury services in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
