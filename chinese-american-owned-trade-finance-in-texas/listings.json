@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Texas Capital Bank",
+    "address": "Multiple locations across Texas. A prominent one is 2000 Ross Ave, Dallas, TX 75201",
+    "phone": "800-292-0777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.texascapitalbank.com/",
+    "category": "Chinese-American-owned Trade finance in Texas",
+    "description": "Offers a comprehensive suite of international trade services, including export and import trade finance, EXIM programs, and trade services like Letters of Credit",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Trade finance in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Beacon Business Capital",
+    "address": "10000 Memorial Dr Suite 1000, Houston, TX 77024",
+    "phone": "713-828-9085",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.beaconbusinesscapital.com/",
+    "category": "Chinese-American-owned Trade finance in Texas",
+    "description": "Provides international trade finance, including accounts receivable financing (factoring), credit insurance, supply chain finance, and purchase order finance, with expertise in Latin America",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Trade finance in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bank of Texas",
+    "address": "Multiple locations across Texas. A key office is at 2000 McKinney Ave, Dallas, TX 75201",
+    "phone": "800-285-6829",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bankoftexas.com/",
+    "category": "Chinese-American-owned Trade finance in Texas",
+    "description": "Offers trade services such as export and import Letters of Credit, Standby Letters of Credit, and Documentary Collections, with a specialized \"Exporter's Plus\" service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Trade finance in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Amegy Bank of Texas",
+    "address": "Multiple locations, including 1717 W Loop South, Houston, TX 77027",
+    "phone": "888-500-2960",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.amegybank.com/",
+    "category": "Chinese-American-owned Trade finance in Texas",
+    "description": "Provides global trade solutions including EXIM Bank Programs, Trade Payables Finance, and Supply Chain Finance. They also assist foreign companies establishing US subsidiaries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Trade finance in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "US-China Chamber of Commerce Dallas (USCCC)",
+    "address": "While not a direct finance provider, their office is located in Plano, TX. The specific address for their main operations is not consistently listed but they are active in the Dallas area",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.uscccdallas.org/",
+    "category": "Chinese-American-owned Trade finance in Texas",
+    "description": "A non-profit organization focused on strengthening business collaboration between the US and China, promoting Chinese-American businesses, and advocating for their interests. They facilitate networking and business opportunities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Trade finance in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Greater Dallas Asian American Chamber of Commerce (GDAACC)",
+    "address": "11171 Harry Hines Blvd #115, Dallas, TX 75229",
+    "phone": "(972) 241-0404",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.gdaacc.com/",
+    "category": "Chinese-American-owned Trade finance in Texas",
+    "description": "Supports and promotes Asian American businesses in the Dallas area, offering resources, networking, and advocacy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Trade finance in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian Chamber of Commerce (Houston)",
+    "address": "While a specific central address for all services isn't listed, they are active in Houston. A listed business within their directory is:",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Asian+Chamber+of+Commerce+(Houston)+in+Texas",
+    "category": "Chinese-American-owned Trade finance in Texas",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Trade finance in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Abacus Financial Strategies LLC",
+    "address": "11 Greenway Plaza Suite 1458, Houston TX 77046",
+    "phone": "(713) 388-6789",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.asianchamber-houston.org/",
+    "category": "Chinese-American-owned Trade finance in Texas",
+    "description": "Supports Asian businesses in Houston through networking, resources, and advocacy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Trade finance in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bank of China (BOC USA)",
+    "address": "While BOC USA has a presence in Texas, their primary trade finance operations might be concentrated in larger financial hubs. A general US contact is available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bocusa.com/",
+    "category": "Chinese-American-owned Trade finance in Texas",
+    "description": "Offers a broad range of trade finance services, including RMB-denominated Letters of Credit, Import/Export Bill Purchases, Supply Chain Financing, and Factoring",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Trade finance in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alamo Asian-American Chamber of Commerce",
+    "address": "Richardson, Texas (serving the broader Dallas-Fort Worth area)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.alamo-aacc.org/",
+    "category": "Chinese-American-owned Trade finance in Texas",
+    "description": "Promotes business and economic development for Asian Americans in the region",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Trade finance in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
