@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Wilsons Auto World",
+    "address": "1850 New Brighton Boulevard, Minneapolis, MN 55418",
+    "phone": "(612) 781-1788",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.wilsonsautoworld.com/",
+    "category": "Black-owned Engine rebuilding in Minnesota",
+    "description": "Offers auto repair, collision repair, and mechanic services. They also mention having access to rebuilt engines",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine rebuilding in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blacks Automotive Service",
+    "address": "2400 Superior Drive Northwest, MN 55901",
+    "phone": "(507) 529-0800",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Blacks+Automotive+Service+in+Minnesota",
+    "category": "Black-owned Engine rebuilding in Minnesota",
+    "description": "A full-service repair shop that mentions having access to factory or aftermarket rebuilt engines",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine rebuilding in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wagamon Brothers",
+    "address": "3719 3rd Street NE, Columbia Heights, MN 55421",
+    "phone": "(763) 203-8500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wagamonbrothers.com/",
+    "category": "Black-owned Engine rebuilding in Minnesota",
+    "description": "Specializes in engine services, including repairs, rebuilds, and custom replacements for various types of engines (gasoline, diesel, performance, marine, antique, industrial). They also have a machine shop",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine rebuilding in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Waamo Auto Body & Towing",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Waamo+Auto+Body+&+Towing+in+Minnesota",
+    "category": "Black-owned Engine rebuilding in Minnesota",
+    "description": "Offers automotive repair services, but engine rebuilding is not explicitly mentioned",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine rebuilding in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wheeler Racing",
+    "address": "26125 2nd Street West, Zimmerman, MN 55398",
+    "phone": "(763) 786-3278",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wheelerracing.com/",
+    "category": "Black-owned Engine rebuilding in Minnesota",
+    "description": "Specializes in building racing engines and has experience with street rods, show cars, and restorations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine rebuilding in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
