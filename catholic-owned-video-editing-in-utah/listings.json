@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Ignite Studios",
+    "address": "Salt Lake City, UT",
+    "phone": "(801) 999-8249",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ignitestudios.com/",
+    "category": "Catholic-owned Video editing in Utah",
+    "description": "Offers professional video editing services for various types of projects, including films, TV shows, music videos, and corporate videos",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Video editing in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Avalanche Studios",
+    "address": "Salt Lake City, UT",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://avalanchestudioutah.com/",
+    "category": "Catholic-owned Video editing in Utah",
+    "description": "A full-service creative studio providing video production and post-production services, including editing, motion graphics, and special effects",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Video editing in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Edit Crew",
+    "address": "Salt Lake City, UT",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://editcrew.com/",
+    "category": "Catholic-owned Video editing in Utah",
+    "description": "Provides seamless and polished video editing services, with a focus on legal firms but applicable to various needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Video editing in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Savvy Productions",
+    "address": "Salt Lake City, UT",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://savvyproductions.com/",
+    "category": "Catholic-owned Video editing in Utah",
+    "description": "Offers video production services in Utah, including color correcting, motion graphics, and video editing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Video editing in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sansom Media",
+    "address": "Salt Lake City, UT",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sansommedia.com/",
+    "category": "Catholic-owned Video editing in Utah",
+    "description": "A full-service video production company offering story development, filming, video editing, and social media optimization",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Video editing in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BW Productions",
+    "address": "Salt Lake City, UT",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bwprods.com/",
+    "category": "Catholic-owned Video editing in Utah",
+    "description": "A video production company that handles all aspects of video production, including editing, for corporate and event needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Video editing in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Digital Bytes",
+    "address": "Salt Lake City, UT",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://digitalbytes.com/",
+    "category": "Catholic-owned Video editing in Utah",
+    "description": "Offers video production services with a focus on editorial design, writing, producing, and directing, utilizing state-of-the-art equipment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Video editing in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
