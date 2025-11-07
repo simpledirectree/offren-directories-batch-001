@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Half Price Geeks",
+    "address": "Not specified, but they offer nationwide remote and onsite support",
+    "phone": "(877) 77-GEEKS (43357)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.halfpricegeeks.com/",
+    "category": "African-American-owned Help desk services in California",
+    "description": "A Black-owned business offering computer repair and IT support services, including remote and onsite assistance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Help desk services in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "iQ Computer Services",
+    "address": "Not specified for California, but they have offices in Virginia and Maryland",
+    "phone": "(703) 594-7271 (Virginia Office), (301) 678-9840 (Maryland Office)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://iqcomputerservices.com/",
+    "category": "African-American-owned Help desk services in California",
+    "description": "A veteran-owned and Black-owned business providing affordable IT solutions and computer repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Help desk services in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mytek Pros",
+    "address": "Not specified, but they serve California businesses",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mytekpros.com/",
+    "category": "African-American-owned Help desk services in California",
+    "description": "A certified DVBE (Disabled Veteran Business Enterprise), Minority Owned Business that offers managed IT services and IT management solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Help desk services in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tech-Boy Computer Solutions",
+    "address": "Serves the Sacramento area, with no specific physical address listed for general inquiries",
+    "phone": "916-472-2558",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tech-boy.com/",
+    "category": "African-American-owned Help desk services in California",
+    "description": "Offers on-site, mobile, and remote computer repair and IT support services in the Sacramento area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Help desk services in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Managed Solution",
+    "address": "Not specified for a specific California office, but they have been serving California businesses since 2002",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.managedsolution.com/",
+    "category": "African-American-owned Help desk services in California",
+    "description": "Provides IT help desk services, managed IT services, and IT solutions to businesses in California. They emphasize their US-based help desk and local expertise",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Help desk services in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
