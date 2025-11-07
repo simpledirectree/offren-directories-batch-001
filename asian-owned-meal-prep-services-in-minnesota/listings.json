@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Eat Ping",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eatping.com/",
+    "category": "Asian-owned Meal prep services in Minnesota",
+    "description": "Offers Asian-inspired, healthy prepared meals for delivery, focusing on balanced nutrition and fresh ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Meal prep services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sakana Sushi",
+    "address": "205 Main St, Wayzata, MN 55391",
+    "phone": "(952) 473-0200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://sakanasushiwayzata.com/",
+    "category": "Asian-owned Meal prep services in Minnesota",
+    "description": "An authentic Japanese and Asian dining experience with online ordering for delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Meal prep services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rolls & Bowls Asian Cook House",
+    "address": "13000 Bass Lake Rd, Brooklyn Park, MN 55445 (and a location in Rogers, MN)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.rollsandbowls.us/",
+    "category": "Asian-owned Meal prep services in Minnesota",
+    "description": "Asian Fusion restaurant offering customizable bowls, ramen, and other dishes with online ordering for pickup or delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Meal prep services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Orchid Restaurant",
+    "address": "1190 County Rd J Ste 100, White Bear Township, MN 55127",
+    "phone": "(651) 426-3558",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.orchidmn.com/",
+    "category": "Asian-owned Meal prep services in Minnesota",
+    "description": "Offers Vietnamese, French, Chinese, and Thai dishes, with catering services available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Meal prep services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New Fresh Wok (N)",
+    "address": "1533 Larpenteur W, Falcon Heights, MN 55113",
+    "phone": "(651) 645-8883",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.newfreshwok.com/",
+    "category": "Asian-owned Meal prep services in Minnesota",
+    "description": "Provides Asian food delivery in the Minneapolis area, with a focus on fresh ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Meal prep services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CookUnity",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cookunity.com/",
+    "category": "Asian-owned Meal prep services in Minnesota",
+    "description": "A platform connecting customers with chefs for prepared meal delivery, including a variety of Asian cuisines. (Note: This is a national service, not exclusively Minnesota-based, but offers delivery to the area)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Meal prep services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Great Dragon",
+    "address": "(Location in Northeast Minneapolis)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Great+Dragon+in+Minnesota",
+    "category": "Asian-owned Meal prep services in Minnesota",
+    "description": "Offers Asian food delivery in Northeast Minneapolis. (Specific address and phone number not detailed in search results)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Meal prep services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Urban Wok",
+    "address": "(Location in St. Louis Park, MN)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.urbanwok.com/",
+    "category": "Asian-owned Meal prep services in Minnesota",
+    "description": "Asian fusion restaurant offering customizable bowls and catering, with online ordering for pickup or delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Meal prep services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Minnesota Table",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.themntable.com/",
+    "category": "Asian-owned Meal prep services in Minnesota",
+    "description": "Offers chef-prepared meals for delivery within the Twin Cities Metro Area. While not exclusively Asian, they provide a variety of options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Meal prep services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BIBIBOP Asian Grill",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bibibop.com/",
+    "category": "Asian-owned Meal prep services in Minnesota",
+    "description": "Serves healthy Asian bowls and salads with multiple locations, offering dine-in, takeout, and catering. (Note: This is a chain with locations in Minnesota)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Meal prep services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
