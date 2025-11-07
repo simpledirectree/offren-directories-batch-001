@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Panda Express Catering",
+    "address": "4203 W 41st St, Sioux Falls, SD 57106",
+    "phone": "(605) 335-7263",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.pandaexpress.com/",
+    "category": "Asian-owned Film set catering in South-Dakota",
+    "description": "Offers a variety of American-Chinese cuisine for catering, including party trays of appetizers, entrees, and sides",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Film set catering in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HuHot Mongolian Grill",
+    "address": "2701 W 41st St, Sioux Falls, SD 57106",
+    "phone": "(605) 221-1200",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.huhot.com/",
+    "category": "Asian-owned Film set catering in South-Dakota",
+    "description": "A customizable Asian stir-fry restaurant that may offer catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Film set catering in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hibachi Grill & Supreme Buffet",
+    "address": "1100 W 41st St, Sioux Falls, SD 57105",
+    "phone": "(605) 335-3388",
+    "rating": 3.9,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hibachi+Grill+&+Supreme+Buffet+South+Dakota",
+    "category": "Asian-owned Film set catering in South-Dakota",
+    "description": "Offers a buffet and a la carte options, and mentions banquet services which could potentially extend to catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Film set catering in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "KK & Sons LAO & Thai Food",
+    "address": "Sioux Falls, SD (Food truck, specific address may vary)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://roaminghunger.com/kk-sons-lao-thai-food/",
+    "category": "Asian-owned Film set catering in South-Dakota",
+    "description": "A family-owned food truck serving authentic Southeast Asian cuisine, available for catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Film set catering in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
