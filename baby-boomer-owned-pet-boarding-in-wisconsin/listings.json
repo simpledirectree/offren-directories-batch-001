@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Green Acres Pet Resort",
+    "address": "11415 W. County Rd. MM, Verona, WI 53593",
+    "phone": "(608) 845-7000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.greenacrespets.com/",
+    "category": "Baby-Boomer-owned Pet boarding in Wisconsin",
+    "description": "Offers luxury dog boarding, daycare, and grooming on acres of rolling hills with spacious outdoor play yards. Veterinarian-owned and operated",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet boarding in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Luna Pet Resort",
+    "address": "6001 Femrite Dr, Madison, WI 53718",
+    "phone": "(608) 222-5400",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.lunapetresort.com/",
+    "category": "Baby-Boomer-owned Pet boarding in Wisconsin",
+    "description": "An all-inclusive pet resort for dogs and cats offering premium boarding, daycare, and grooming, with additional services like dog walking and pet taxi",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet boarding in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Camp K9 Pet Resort & Day Camp",
+    "address": "5701 Femrite Dr, Madison, WI 53718",
+    "phone": "(608) 222-3000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.campk9madison.com/",
+    "category": "Baby-Boomer-owned Pet boarding in Wisconsin",
+    "description": "A premier pet resort in Madison offering boarding, daycare, and spa services with large play yards and a focus on compassionate care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet boarding in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Red Wing Kennels",
+    "address": "N52 W24889 Redwing Dr, Sussex, WI 53089",
+    "phone": "(262) 538-1445",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.redwingkennels.com/",
+    "category": "Baby-Boomer-owned Pet boarding in Wisconsin",
+    "description": "A family-owned, safe, and scenic pet boarding experience on a 16-acre property, offering indoor and outdoor play spaces",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet boarding in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Animal House Pet Care",
+    "address": "1901 County Rd. Z, Kronenwetter, WI 54452",
+    "phone": "(715) 355-1117",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.animalhousepetcarewi.com/",
+    "category": "Baby-Boomer-owned Pet boarding in Wisconsin",
+    "description": "A charming, family-run establishment offering temperature-controlled boarding and large, grassy outdoor exercise areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet boarding in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Camp Bow Wow",
+    "address": "Multiple locations, including 2620 W. Washington St., Milwaukee, WI 53215",
+    "phone": "(414) 322-0011 (Milwaukee location)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.campbowwow.com/",
+    "category": "Baby-Boomer-owned Pet boarding in Wisconsin",
+    "description": "A leading dog care franchise offering dog boarding, daycare, grooming, and training in open-play environments with webcam access",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet boarding in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Old Stone Pet Lodge",
+    "address": "1010 S Main St, Oregon, WI 53575",
+    "phone": "(608) 835-3000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.oldstonepetlodge.com/",
+    "category": "Baby-Boomer-owned Pet boarding in Wisconsin",
+    "description": "Dane County's first state-of-the-art indoor pet facility, providing a comfortable and home-like environment for pets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet boarding in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Dog House Pet Resort",
+    "address": "10600 W. Forest Home Ave., Greenfield, WI 53228",
+    "phone": "(414) 529-3647",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.doghousepetresort.com/",
+    "category": "Baby-Boomer-owned Pet boarding in Wisconsin",
+    "description": "Offers reliable and trustworthy pet care with a focus on providing the attention and care pets demand when owners are away",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet boarding in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Barkshire Pet Care Center",
+    "address": "1233 American Dr, Neenah, WI 54956",
+    "phone": "(920) 729-9449",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.barkshirepetcare.com/",
+    "category": "Baby-Boomer-owned Pet boarding in Wisconsin",
+    "description": "Founded in 1985, this center offers personalized dog boarding, grooming, and pet cremation services with an owner on-site",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet boarding in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cedar Dale Pet Resort",
+    "address": "W7960 US-12, Lake Geneva, WI 53147",
+    "phone": "(262) 248-3222",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.cedardalepetresort.com/",
+    "category": "Baby-Boomer-owned Pet boarding in Wisconsin",
+    "description": "Southeastern Wisconsin's finest pet resort and grooming spa, caring for pets since 1981 on 8 beautiful acres",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet boarding in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
