@@ -1,0 +1,70 @@
+[
+  {
+    "name": "All Real Meal\u2122",
+    "address": "While a specific street address for their kitchen isn't publicly listed, they deliver throughout New Hampshire",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.allrealmeal.com/",
+    "category": "Armenian-speaking Meal kits in New-Hampshire",
+    "description": "Offers fully prepared, chef-cooked meals delivered fresh. They focus on non-GMO, organic, and locally sourced ingredients, with options for low-carb, gluten-free, and vegetarian diets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Meal kits in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Barrel & Baskit",
+    "address": "377 Main St, Hopkinton, NH 03309",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://barrelandbaskit.com/",
+    "category": "Armenian-speaking Meal kits in New-Hampshire",
+    "description": "This is a corner store that also offers meal kits, which originated as \"Local Baskit.\" They emphasize locally prepared kits with less packaging and easy-to-follow recipes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Meal kits in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HomeGrown Eats",
+    "address": "Their kitchen is located in Rollinsford, NH, but a specific street address is not provided",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.homegrowneats.com/",
+    "category": "Armenian-speaking Meal kits in New-Hampshire",
+    "description": "Provides healthy, home-cooked meals made from fresh, local ingredients, delivered weekly. They offer options for meat entrees, vegetarian entrees, soups, salads, appetizers, and desserts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Meal kits in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MightyMeals",
+    "address": "They deliver to Concord, NH, but their central kitchen location is not specified",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mightymeals.com/",
+    "category": "Armenian-speaking Meal kits in New-Hampshire",
+    "description": "Offers chef-prepared, healthy meals delivered fresh. They cater to various dietary needs, including gluten-free, low-carb, vegan, and vegetarian",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Meal kits in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
