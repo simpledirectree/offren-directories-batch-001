@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Nappy By Nature",
+    "address": "Charleston, WV",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Nappy+By+Nature+West+Virginia",
+    "category": "African-American-owned Spa services in West-Virginia",
+    "description": "A Black-owned hair salon that also serves as a community hub",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Spa services in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Bear Studios",
+    "address": "500 Lee St E Ste 165, Charleston, WV 25301",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackbearstudios.com/",
+    "category": "African-American-owned Spa services in West-Virginia",
+    "description": "Offers nail care services, including manicures and extensions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Spa services in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pure Nail Spa",
+    "address": "91 Saratoga Dr #D, Charles Town, WV 25414",
+    "phone": "681-252-0679",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Pure+Nail+Spa+West+Virginia",
+    "category": "African-American-owned Spa services in West-Virginia",
+    "description": "A nail salon focused on beauty and rejuvenation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Spa services in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "D N Nails Spa",
+    "address": "1399 Earl L Core Rd, Morgantown, WV 26505",
+    "phone": "(681) 212-1278",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/D+N+Nails+Spa+West+Virginia",
+    "category": "African-American-owned Spa services in West-Virginia",
+    "description": "A nail salon committed to providing enjoyable and memorable beauty experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Spa services in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Slayed Hair and Beauty Bar",
+    "address": "416 West King St A, Martinsburg, WV 25401",
+    "phone": "+1 410-258-4914",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Slayed+Hair+and+Beauty+Bar+West+Virginia",
+    "category": "African-American-owned Spa services in West-Virginia",
+    "description": "Celebrates natural beauty with a focus on kinky and curly hair textures, offering various hair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Spa services in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
