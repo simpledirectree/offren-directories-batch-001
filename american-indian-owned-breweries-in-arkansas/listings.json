@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Native Dog Brewing",
+    "address": "125 Madison Ave SE, Camden, Arkansas 71701",
+    "phone": "(870) 231-3451",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nativedogbrewing.com/",
+    "category": "American-Indian-owned Breweries in Arkansas",
+    "description": "Founded by husband and wife Bobby & Lauren Glaze, who share a passion for craft beer, community, and dogs. A portion of proceeds are donated to local organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breweries in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native Brew Works",
+    "address": "515 S Gee Street, Jonesboro, Arkansas",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nativebrewerworks.com/",
+    "category": "American-Indian-owned Breweries in Arkansas",
+    "description": "A micro-brewery private club that aims to craft community through good food, crafted beverages, and a memorable experience. They offer brunch on Saturdays and Sundays",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breweries in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
