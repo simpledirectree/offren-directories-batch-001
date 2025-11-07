@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Bengal Studio",
+    "address": "40-07, 73rd St, Woodside, NY 11377",
+    "phone": "718-989-2532 / 347-355-4720",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Bengal+Studio+New+York",
+    "category": "Bengali-speaking Visual effects in New-York",
+    "description": "A Bangladeshi graphics design and video editing service facility founded in 2016 to meet the demand for virtual media creation within the Bangladeshi community. They offer video editing, production, and videography services, and also rent out their studio space and equipment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Visual effects in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
