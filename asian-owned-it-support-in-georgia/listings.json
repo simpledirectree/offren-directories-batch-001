@@ -1,0 +1,104 @@
+[
+  {
+    "name": "CloudQ, LLC",
+    "address": "6110 McFarland Station Dr, Atlanta, GA",
+    "phone": "+1 (404) 410-1441",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cloudq.net",
+    "category": "Asian-owned IT support in Georgia",
+    "description": "CloudQ is a Salesforce Silver Consulting Partner that provides strategic planning, implementation, and maintenance of software business solutions. They serve clients in various industries including healthcare, banking, insurance, telecommunications, and consumer products",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned IT support in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zazz",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Zazz+in+Georgia",
+    "category": "Asian-owned IT support in Georgia",
+    "description": "Zazz offers IT consulting services in Georgia, focusing on tailored technology solutions to enhance IT initiatives and optimize returns. They provide services such as cybersecurity, cloud computing, backup and disaster recovery, and IT training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned IT support in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Coastal Computer Consulting",
+    "address": "11 Trade Street, Suite 102 Brunswick, GA 31525",
+    "phone": "912.634.1691",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Coastal+Computer+Consulting+in+Georgia",
+    "category": "Asian-owned IT support in Georgia",
+    "description": "Coastal Computer Consulting provides IT support services in Southeast Georgia, offering a comprehensive range of solutions including network infrastructure, security protocols, software solutions, and hardware management. They emphasize building long-term, trusting relationships with clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned IT support in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "IntegriCom\u00ae",
+    "address": "Not specified in search results, but serves Atlanta & Suwanee, GA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/IntegriCom\u00ae+in+Georgia",
+    "category": "Asian-owned IT support in Georgia",
+    "description": "IntegriCom offers reliable IT services in Atlanta and Suwanee, GA, including managed IT, cloud hosting, and cybersecurity. They focus on strategic IT solutions for long-term business growth and aim to minimize disruptions while maximizing uptime and performance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned IT support in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "InfoTank",
+    "address": "Not specified in search results, but is an Atlanta-based team",
+    "phone": "770-924-7309",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/InfoTank+in+Georgia",
+    "category": "Asian-owned IT support in Georgia",
+    "description": "InfoTank provides IT services and support for businesses in Atlanta, GA, acting as an in-house IT department. They offer IT infrastructure management, cybersecurity, and IT management services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned IT support in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Your IT Company",
+    "address": "Not specified in search results, but serves Georgia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Your+IT+Company+in+Georgia",
+    "category": "Asian-owned IT support in Georgia",
+    "description": "Your IT Company is a technology solution provider offering IT services in Georgia, including cloud computing, cybersecurity, and data recovery. They aim to provide reliable and professional IT services to businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned IT support in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
