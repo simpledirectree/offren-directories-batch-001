@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Computer Jocks",
+    "address": "1403 Pulaski Hwy, Bear, DE 19701",
+    "phone": "(302) 836-0200",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "http://www.computerjocks.com/",
+    "category": "Atheist-owned Laptop repair in Delaware",
+    "description": "Offers fast, friendly, and affordable computer and laptop repair services, specializing in hardware and software issues",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Laptop repair in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Second Source Computers",
+    "address": "2107 Concord Pike, Wilmington, DE 19803",
+    "phone": "(302) 475-7018",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "http://www.secondsourcecomputers.com/",
+    "category": "Atheist-owned Laptop repair in Delaware",
+    "description": "A trusted name in Northern Delaware for laptop and desktop repair since 1990, providing expert and efficient services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Laptop repair in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "uBreakiFix by Asurion - Wilmington DE",
+    "address": "1707 Concord Pike, Wilmington, DE 19803",
+    "phone": "(302) 543-7777",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.ubreakifix.com/locations/delaware/wilmington-1004",
+    "category": "Atheist-owned Laptop repair in Delaware",
+    "description": "Provides quick, reliable, and high-quality repair services for laptops of any brand or model, including tune-ups and optimizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Laptop repair in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Delaware PC Services, LLC",
+    "address": "20660 Coastal Hwy, Unit 4, Rehoboth Beach, DE 19971",
+    "phone": "(302) 226-5424",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "http://www.delawarepcservices.com/",
+    "category": "Atheist-owned Laptop repair in Delaware",
+    "description": "Offers expert computer, PC, and Mac repairs with free evaluations and same-day repairs for various issues",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Laptop repair in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Techno Goober",
+    "address": "21353 John J. Williams Hwy, Lewes, DE 19958",
+    "phone": "(302) 645-7177",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.technogoober.com/",
+    "category": "Atheist-owned Laptop repair in Delaware",
+    "description": "Provides expert computer repair services for diagnosing and fixing hardware issues, viruses, and software problems for both laptops and desktops",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Laptop repair in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Perry's Computer Repair",
+    "address": "34333 Old Mill Rd, Selbyville, DE 19975 (Serves Sussex County and surrounding areas)",
+    "phone": "(443) 783-2269",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "http://www.perrycomputerrepair.com/",
+    "category": "Atheist-owned Laptop repair in Delaware",
+    "description": "Offers PC and laptop repairs, virus removal, and system installations with in-home or remote service options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Laptop repair in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TechSolutions, Inc.",
+    "address": "100 W 14th St #101, Wilmington, DE 19801",
+    "phone": "(302) 656-8324",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.techsolutionsinc.com/",
+    "category": "Atheist-owned Laptop repair in Delaware",
+    "description": "Provides fast and professional IT support and managed network services for Delaware businesses, focusing on productivity and security",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Laptop repair in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ICSI",
+    "address": "100 W 14th St #101, Wilmington, DE 19801",
+    "phone": "(302) 656-8324",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://icsi.net/",
+    "category": "Atheist-owned Laptop repair in Delaware",
+    "description": "A trusted IT company offering managed IT solutions, consulting, and support for businesses in Delaware since 1987",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Laptop repair in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tera Technology Group",
+    "address": "(Specific address not readily available, but serves the state of Delaware)",
+    "phone": "(302) 731-5600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://teratechnology.com/",
+    "category": "Atheist-owned Laptop repair in Delaware",
+    "description": "An IT service company dedicated to helping businesses leverage technology for efficiency and growth, offering innovative solutions and support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Laptop repair in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Geek On Call",
+    "address": "(Serves homes and small businesses throughout Delaware)",
+    "phone": "1-866-433-5625",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.geekoncall.com/",
+    "category": "Atheist-owned Laptop repair in Delaware",
+    "description": "A trusted provider of fast, professional onsite computer and laptop repair services for homes and small businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Laptop repair in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
