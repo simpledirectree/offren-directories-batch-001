@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Dignity Health Urgent Care \u2013 Gilbert",
+    "address": "1501 N. Gilbert Road, Gilbert, AZ 85234",
+    "phone": "480.728.4100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dignityhealth.org/locations/urgent-care-gilbert",
+    "category": "Catholic-owned Urgent care centers in Arizona",
+    "description": "Offers urgent care services with board-certified physicians and RNs, onsite X-ray, and lab services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Urgent care centers in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dignity Health Urgent Care \u2013 Maricopa",
+    "address": "20750 N. John Wayne Parkway, Maricopa, AZ 85139",
+    "phone": "520.233.2468",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dignityhealth.org/locations/urgent-care-maricopa",
+    "category": "Catholic-owned Urgent care centers in Arizona",
+    "description": "Provides urgent care services for non-life-threatening medical conditions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Urgent care centers in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dignity Health Urgent Care \u2013 Ahwatukee",
+    "address": "4545 E. Chandler Boulevard, Phoenix, AZ 85048",
+    "phone": "480.728.4000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dignityhealth.org/locations/urgent-care-ahwatukee",
+    "category": "Catholic-owned Urgent care centers in Arizona",
+    "description": "Offers convenient and timely treatment for urgent care needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Urgent care centers in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dignity Health Arizona General Emergency Room - Ahwatukee",
+    "address": "4328 East Chandler Boulevard, Phoenix, AZ 85048",
+    "phone": "(480) 454-3630",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dignityhealth.org/locations/emergency-room-ahwatukee",
+    "category": "Catholic-owned Urgent care centers in Arizona",
+    "description": "An emergency room providing immediate medical attention for a wide range of illnesses and injuries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Urgent care centers in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dignity Health Urgent Care - Phoenix",
+    "address": "Specific address not provided in search results, but operates in Phoenix, AZ",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dignityhealth.org/locations/urgent-care-phoenix",
+    "category": "Catholic-owned Urgent care centers in Arizona",
+    "description": "A medical group practice specializing in Family Medicine, offering urgent care services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Urgent care centers in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
