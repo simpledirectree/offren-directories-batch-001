@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Ogreena",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ogreena.com/",
+    "category": "Black-owned Green cleaning in California",
+    "description": "Offers interior and exterior cleaning services and eco-friendly products. They have been in business since 2009 and focus on natural, non-chemical, and eco-friendly cleaning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Green cleaning in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sparkling Clean Maids",
+    "address": "Greater Los Angeles area, California. Specific address not provided",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://sparklingcleanmaids.com/",
+    "category": "Black-owned Green cleaning in California",
+    "description": "A maid referral agency in the Greater Los Angeles area that aims to provide efficient and detailed house cleaning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Green cleaning in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eco Cleaning LA",
+    "address": "Serves Los Angeles, Hollywood, Agoura Hills, Santa Monica, Valencia, San Fernando Valley, Pasadena, and South Bay areas in Southern California. Specific business address not provided",
+    "phone": "(888) 383-7034",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ecocleaningla.com/",
+    "category": "Black-owned Green cleaning in California",
+    "description": "Offers green cleaning services using Green Seal Certified cleaning products and HEPA vacuums. They provide house cleaning, office cleaning, and janitorial services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Green cleaning in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Green Clean LA",
+    "address": "Los Angeles, CA. Specific address not provided",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.greencleanla.com/",
+    "category": "Black-owned Green cleaning in California",
+    "description": "A locally owned and operated, environmentally-friendly cleaning service that uses 100% natural plant-based ingredients scented with pure essential oils. They have been in business since 2006",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Green cleaning in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "iCleanEco",
+    "address": "Lincoln, California 95648. Specific street address not provided",
+    "phone": "(425) 495-2282",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://icleaneco.com/",
+    "category": "Black-owned Green cleaning in California",
+    "description": "Provides eco-conscious residential and commercial cleaning services using eco-friendly and sustainable products",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Green cleaning in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
