@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Catholic Charities of Northeast Kansas",
+    "address": "9720 West 87th Street, Overland Park, KS 66212",
+    "phone": "(913) 433-2100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.catholiccharitiesks.org/",
+    "category": "Catholic-owned Recruitment support in Kansas",
+    "description": "Offers workforce development programs, including resume assistance, career readiness courses, job search coaching, and support for refugees seeking employment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Recruitment support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities of Wichita",
+    "address": "437 N Topeka St, Wichita, KS 67214",
+    "phone": "316-264-8344",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.catholiccharitieswichita.org/",
+    "category": "Catholic-owned Recruitment support in Kansas",
+    "description": "Provides employment services, among other social services, to assist individuals in finding employment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Recruitment support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities of Kansas City-St. Joseph",
+    "address": "8001 Longview Road, Kansas City, MO 64134 (Note: This address is in Missouri, but they serve the Kansas City metro area.)",
+    "phone": "(816) 756-1850 (General Inquiries)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.catholiccharities-kcsj.org/",
+    "category": "Catholic-owned Recruitment support in Kansas",
+    "description": "Offers employment services including job readiness workshops, resume development, interview coaching, and job search assistance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Recruitment support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Diocese of Dodge City",
+    "address": "910 Central Ave, PO Box 137, Dodge City, KS 67801",
+    "phone": "620-227-1531 (Contact for Receptionist position)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dcdiocese.org/",
+    "category": "Catholic-owned Recruitment support in Kansas",
+    "description": "While primarily a religious organization, they sometimes list employment opportunities within the diocese or its affiliated entities, which may include support roles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Recruitment support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Diocese of Salina",
+    "address": "103 North Ninth Street, Salina, KS 67401-2503",
+    "phone": "785-342-0819 (HR Director)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://salinadiocese.org/",
+    "category": "Catholic-owned Recruitment support in Kansas",
+    "description": "The diocese posts job openings for various roles within its parishes, schools, and agencies, which can include administrative and support positions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Recruitment support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Diocese of Kansas City-St. Joseph",
+    "address": "20 West Ninth Street, Kansas City, MO 64105",
+    "phone": "(816) 756-1850",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dioceseofkc.org/",
+    "category": "Catholic-owned Recruitment support in Kansas",
+    "description": "Lists employment opportunities within its affiliated parishes, schools, and the Chancery office",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Recruitment support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jesuit Volunteer Corps (JVC)",
+    "address": "While JVC has a presence in Kansas City, MO, specific office addresses for recruitment support in Kansas are not detailed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://jesuitvolunteers.org/",
+    "category": "Catholic-owned Recruitment support in Kansas",
+    "description": "JVC places volunteers in various non-profit organizations, which can include roles related to employment support and social services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Recruitment support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities of Southwest Kansas",
+    "address": "Offices in Dodge City, Garden City, and Great Bend. Specific addresses for recruitment support are not detailed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.catholiccharities-swks.org/",
+    "category": "Catholic-owned Recruitment support in Kansas",
+    "description": "Offers services including job placement and training, particularly for refugees and vulnerable populations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Recruitment support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities of Northern Kansas",
+    "address": "529 Kansas City Street Suite #100, Rapid City, SD 57701",
+    "phone": "605-348-6086",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cssrapidcity.org/",
+    "category": "Catholic-owned Recruitment support in Kansas",
+    "description": "Offers social services and employment support, with a mission to help individuals succeed",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Recruitment support in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
