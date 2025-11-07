@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Foxy Dog",
+    "address": "1140 Pearl St, Eugene, OR 97401",
+    "phone": "(541) 345-1000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.foxydog.com/",
+    "category": "Baby-Boomer-owned Pet grooming in Oregon",
+    "description": "Full-service pet grooming company with over 30 years of experience, known for excellence and dedication to pet well-being",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet grooming in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Claws N Paws LLC",
+    "address": "4550 Silverton Rd SE, Salem, OR 97306",
+    "phone": "(503) 393-7297",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.clawsnpawsllc.com/",
+    "category": "Baby-Boomer-owned Pet grooming in Oregon",
+    "description": "Offers professional pet grooming and boarding services using natural, healthy products, with a friendly owner and experienced staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet grooming in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Puffy Paws Pet Salon",
+    "address": "1024 Court St Suite C, Corvallis, OR 97330",
+    "phone": "(541) 734-5613",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "http://www.puffy Paws.com/",
+    "category": "Baby-Boomer-owned Pet grooming in Oregon",
+    "description": "Provides affordable and stylish pet grooming by certified groomers in a calm, playful environment with one-on-one attention",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet grooming in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Groomery",
+    "address": "1024 Court St Suite C, Medford, OR 97501",
+    "phone": "(541) 734-5613",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "http://www.thegroomerymedford.com/",
+    "category": "Baby-Boomer-owned Pet grooming in Oregon",
+    "description": "Offers expert grooming services with over 25 years of experience, specializing in breed-standard cuts and personalized attention",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet grooming in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Murphy's Paw Pet Grooming",
+    "address": "2101 Bailey Hill Rd, Eugene, OR 97405",
+    "phone": "(541) 344-1137",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "http://www.murphyspawpetgrooming.com/",
+    "category": "Baby-Boomer-owned Pet grooming in Oregon",
+    "description": "Provides quality pet grooming in a loving, clean, and safe environment with groomers who have over 50 years of combined experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet grooming in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vanity Fur Pet Grooming",
+    "address": "410 Southeast Ash Street, Portland, OR 97214",
+    "phone": "(503) 710-7632",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "http://www.vanityfur.com/",
+    "category": "Baby-Boomer-owned Pet grooming in Oregon",
+    "description": "Professional pet grooming service with many years of experience, dedicated to providing a safe, comfortable, and enjoyable grooming experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet grooming in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Best Friends Pet Salon",
+    "address": "1987 Lancaster Dr NE, Salem, OR 97305",
+    "phone": "(503) 362-3260",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "http://www.bestfriendspetsalon.com/",
+    "category": "Baby-Boomer-owned Pet grooming in Oregon",
+    "description": "A locally owned family business with over 40 years of experience, offering gentle and caring grooming services for all pets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet grooming in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Paws & Purrs Grooming",
+    "address": "1550 NW Galveston Ave, Bend, OR 97703",
+    "phone": "(541) 678-5000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "http://www.pawsandpurrsbend.com/",
+    "category": "Baby-Boomer-owned Pet grooming in Oregon",
+    "description": "A women-owned business committed to providing a positive grooming experience using all-natural products, with CPR and Fear Free certified staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet grooming in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wiggles & Wags Dog Grooming",
+    "address": "10210 NE Sandy Blvd, Portland, OR 97208",
+    "phone": "(503) 477-5000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.wigglesandwagspdx.com/",
+    "category": "Baby-Boomer-owned Pet grooming in Oregon",
+    "description": "A dedicated team of animal lovers offering a range of services from dog washes to haircuts, ensuring pets are happy and prepared",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet grooming in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oh My Dog Pet Salon",
+    "address": "1380 State St SE, Salem, OR 97302",
+    "phone": "(503) 363-9479",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "http://www.ohmydogpetsalon.com/",
+    "category": "Baby-Boomer-owned Pet grooming in Oregon",
+    "description": "Offers professional full-service pet grooming in Salem, with a dedicated team focused on keeping pets happy, healthy, and safe in a stress-free environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pet grooming in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
