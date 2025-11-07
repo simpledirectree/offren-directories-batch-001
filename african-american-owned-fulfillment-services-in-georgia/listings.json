@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Everlasting Love Fulfillment",
+    "address": "1389 HWY 92 Suite 102, Acworth, GA 30102",
+    "phone": "870.761.7550",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Everlasting+Love+Fulfillment+in+Georgia",
+    "category": "African-American-owned Fulfillment services in Georgia",
+    "description": "An e-commerce third-party logistics company focused on building a collaborative community of minority brands through order fulfillment. They are also described as the nation's only Black, Women-Owned, 3PL specializing in Direct to Consumer and Retail Fulfillment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Fulfillment services in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Saltbox",
+    "address": "Multiple locations, including Atlanta, GA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Saltbox+in+Georgia",
+    "category": "African-American-owned Fulfillment services in Georgia",
+    "description": "A co-warehousing and logistics startup that provides space for small businesses and e-commerce merchants to operate as well as store and ship goods. They focus on helping small businesses store, pack, and ship products",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Fulfillment services in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ECOMSPACES",
+    "address": "Atlanta, GA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/ECOMSPACES+in+Georgia",
+    "category": "African-American-owned Fulfillment services in Georgia",
+    "description": "A Black-owned logistics hub supporting small businesses. They offer fulfillment services and partner with other companies to help businesses scale their logistics operations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Fulfillment services in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "City Express Fulfillment",
+    "address": "Marietta and Savannah, GA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/City+Express+Fulfillment+in+Georgia",
+    "category": "African-American-owned Fulfillment services in Georgia",
+    "description": "Partners with ECOMSPACES to help founders when they've outgrown their warehouse",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Fulfillment services in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
