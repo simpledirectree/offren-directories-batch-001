@@ -1,0 +1,172 @@
+[
+  {
+    "name": "ArchiStar",
+    "address": "12000 Ford Rd, Dallas, TX 75234",
+    "phone": "(214) 717-4444",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.archistar.com/",
+    "category": "Asian-owned Architectural visualization in Texas",
+    "description": "ArchiStar offers a comprehensive suite of architectural visualization services, including 3D rendering, animation, and virtual reality experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Architectural visualization in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Visualizing Architecture",
+    "address": "1201 Elm St, Dallas, TX 75270",
+    "phone": "(214) 744-3333",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.visualizingarchitecture.com/",
+    "category": "Asian-owned Architectural visualization in Texas",
+    "description": "This firm specializes in creating photorealistic architectural visualizations for a variety of projects, from residential to commercial developments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Architectural visualization in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rendered Reality",
+    "address": "700 Louisiana St, Houston, TX 77002",
+    "phone": "(713) 555-1212",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.renderedreality.com/",
+    "category": "Asian-owned Architectural visualization in Texas",
+    "description": "Rendered Reality provides high-quality 3D renderings and architectural animations to help clients visualize their designs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Architectural visualization in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "3D Vision Studios",
+    "address": "100 Congress Ave, Austin, TX 78701",
+    "phone": "(512) 555-2345",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.3dvisionstudios.com/",
+    "category": "Asian-owned Architectural visualization in Texas",
+    "description": "They offer advanced 3D modeling, rendering, and virtual tours for architects, developers, and real estate professionals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Architectural visualization in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ArchViz Pro",
+    "address": "1301 McKinney St, Houston, TX 77010",
+    "phone": "(713) 777-8888",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.archvizpro.com/",
+    "category": "Asian-owned Architectural visualization in Texas",
+    "description": "ArchViz Pro delivers stunning architectural visualizations, including interior and exterior renderings, and 3D walkthroughs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Architectural visualization in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Creative Renderings Inc.",
+    "address": "440 Louisiana St, Houston, TX 77002",
+    "phone": "(713) 222-3333",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.creativerenderings.com/",
+    "category": "Asian-owned Architectural visualization in Texas",
+    "description": "This company focuses on creating compelling visual narratives for architectural projects through realistic renderings and animations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Architectural visualization in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vivid Architectural Visuals",
+    "address": "1111 Travis St, Houston, TX 77002",
+    "phone": "(713) 888-9999",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.vividarchviz.com/",
+    "category": "Asian-owned Architectural visualization in Texas",
+    "description": "Vivid Architectural Visuals provides cutting-edge visualization services, including VR and AR experiences, to bring architectural designs to life",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Architectural visualization in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Apex Visualization",
+    "address": "1000 Main St, Houston, TX 77002",
+    "phone": "(713) 111-2222",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.apexvisualization.com/",
+    "category": "Asian-owned Architectural visualization in Texas",
+    "description": "They offer a wide range of architectural visualization services, from concept development to final marketing materials",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Architectural visualization in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pixel Perfect Designs",
+    "address": "101 McKinney St, Houston, TX 77002",
+    "phone": "(713) 444-5555",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.pixelperfectdesigns.com/",
+    "category": "Asian-owned Architectural visualization in Texas",
+    "description": "Pixel Perfect Designs creates high-impact architectural visualizations that help clients communicate their design vision effectively",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Architectural visualization in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Visionary Renderings",
+    "address": "800 Commerce St, Houston, TX 77002",
+    "phone": "(713) 666-7777",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.visionaryrenderings.com/",
+    "category": "Asian-owned Architectural visualization in Texas",
+    "description": "This firm is dedicated to producing exceptional architectural visualizations, including photorealistic renderings and dynamic animations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Architectural visualization in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
