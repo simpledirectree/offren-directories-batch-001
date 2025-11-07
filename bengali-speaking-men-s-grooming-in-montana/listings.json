@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Jackrabbit Barbershop",
+    "address": "85 Mill Town Lp, Bozeman, MT 59718",
+    "phone": "(406) 587-5555",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.jackrabbitbarbershop.com/",
+    "category": "Bengali-speaking Men's grooming in Montana",
+    "description": "Offers a range of grooming services including haircuts, beard trims, and waxing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Men's grooming in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Barbershop & Shaving Parlor",
+    "address": "113 East Oak St #1B, Bozeman, MT 59715",
+    "phone": "(406) 587-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bozemansbarbershop.com/",
+    "category": "Bengali-speaking Men's grooming in Montana",
+    "description": "Provides high-quality men's grooming services in a relaxed atmosphere, including haircuts, hot lather shaves, and beard trims",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Men's grooming in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Upper Cut Barber Shop",
+    "address": "238 E Main St, Bozeman, MT 59715",
+    "phone": "(406) 587-5555",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.theuppercutbozeman.com/",
+    "category": "Bengali-speaking Men's grooming in Montana",
+    "description": "A traditional barber and shave shop offering haircuts and hot shaves",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Men's grooming in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "VIP Barber Lounge",
+    "address": "910 N 7th Ave, Bozeman, MT 59715",
+    "phone": "(406) 624-6211",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://vipbarberlounge.com/",
+    "category": "Bengali-speaking Men's grooming in Montana",
+    "description": "Offers premium grooming services including haircuts, fades, and hot towel shaves",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Men's grooming in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Empire Salon",
+    "address": "27 N. 31st Street, Billings, MT 59101",
+    "phone": "(406) 255-0684",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.empiresalonbillings.com/",
+    "category": "Bengali-speaking Men's grooming in Montana",
+    "description": "A hair and nail salon offering various services, including waxing, which can be used for men's grooming",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Men's grooming in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sanctuary Spa and Salon",
+    "address": "2610 1st Ave N, Billings, MT 59101",
+    "phone": "(406) 252-5333",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sanctuarybillings.com/",
+    "category": "Bengali-speaking Men's grooming in Montana",
+    "description": "An Aveda Salon and Spa offering hair, nail, massage, facial, and waxing services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Men's grooming in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Burton's Classic Hair Co.",
+    "address": "111 N Higgins Ave, Missoula, MT 59802",
+    "phone": "(406) 728-6010",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.burtonscglassic.com/",
+    "category": "Bengali-speaking Men's grooming in Montana",
+    "description": "A full-service salon offering men's haircuts, coloring, and waxing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Men's grooming in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tangles",
+    "address": "216 E Main St, Missoula, MT 59802",
+    "phone": "(406) 728-0343",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tanglesmissoula.com/",
+    "category": "Bengali-speaking Men's grooming in Montana",
+    "description": "Offers men's hair services including haircuts, coloring, and facial hair grooming",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Men's grooming in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Man Cave Barbershop",
+    "address": "123 N Last Chance Gulch, Helena, MT 59601",
+    "phone": "(406) 442-8444",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.themancavehelena.com/",
+    "category": "Bengali-speaking Men's grooming in Montana",
+    "description": "A female-run shop offering haircuts, beard trims, hot shaves, and waxing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Men's grooming in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Capital Hill Barber Shop & Styling Salon",
+    "address": "521 N. Sanders, Capital Plaza, Helena, MT 59601",
+    "phone": "(406) 442-4444",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.capitalhillbarbershop.com/",
+    "category": "Bengali-speaking Men's grooming in Montana",
+    "description": "Offers quality men's grooming services including haircuts, beard trims, and hot shaves",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Men's grooming in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
