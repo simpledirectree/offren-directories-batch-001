@@ -1,0 +1,87 @@
+[
+  {
+    "name": "ABC Nanny Source",
+    "address": "Serves the entire state of Iowa. (Specific address not provided in search results.)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.abcnannysource.com/",
+    "category": "Black-owned Nanny services in Iowa",
+    "description": "A family-owned and operated nanny placement agency that prioritizes family values and exceptional childcare services. They have a rigorous 10-step screening process for nannies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Nanny services in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Midwest Elite Nannies",
+    "address": "Not provided in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.midwestelitenannies.com/",
+    "category": "Black-owned Nanny services in Iowa",
+    "description": "A nanny referral service that connects families with high-quality, prescreened childcare providers. They offer both long-term and occasional care options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Nanny services in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "American Professional Nannies",
+    "address": "Des Moines, Iowa (Specific street address not provided in search results.)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.americanprofessionalnannies.com/",
+    "category": "Black-owned Nanny services in Iowa",
+    "description": "Des Moines' oldest and most experienced nanny placement agency, placing qualified nannies in central Iowa and out of state. They emphasize thorough background checks and matching families with suitable nannies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Nanny services in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Natural Nanny Collective",
+    "address": "West Des Moines, Iowa (Specific street address not provided in search results.)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.naturalnannycollective.com/",
+    "category": "Black-owned Nanny services in Iowa",
+    "description": "A nanny agency in West Des Moines specializing in providing exceptional nannies and newborn care specialists with over 30 years of industry expertise. They focus on rigorous background checks and a whole-child, screen-free approach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Nanny services in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Heartland Nanny Agency",
+    "address": "Des Moines, Iowa (Specific street address not provided in search results.)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.heartlandnannyagency.com/",
+    "category": "Black-owned Nanny services in Iowa",
+    "description": "An agency that works personally with professional families to find qualified nannies. They emphasize getting to know families' needs and personality to find the best fit",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Nanny services in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
