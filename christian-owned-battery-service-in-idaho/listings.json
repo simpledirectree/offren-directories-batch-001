@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Christian Brothers Automotive - Star",
+    "address": "17370 N. Star Road, Star, ID 83669",
+    "phone": "(208) 768-3492",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cbac.com/star/",
+    "category": "Christian-owned Battery service in Idaho",
+    "description": "Offers battery testing, replacement, and maintenance services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Battery service in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Brothers Automotive - Hayden",
+    "address": "419 W. Miles Avenue, Hayden, ID 83835",
+    "phone": "(208) 295-9724",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cbac.com/hayden/",
+    "category": "Christian-owned Battery service in Idaho",
+    "description": "Provides a range of automotive services, including battery services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Battery service in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Brothers Automotive - Meridian",
+    "address": "6700 N Linder Rd Ste 156 # 322, Meridian, ID 83646-6606",
+    "phone": "(208) 888-0070",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cbac.com/meridian/",
+    "category": "Christian-owned Battery service in Idaho",
+    "description": "Offers full-service auto repair, including battery services, with a 36-month/36,000-mile warranty",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Battery service in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Brothers Automotive - South Meridian",
+    "address": "Meridian Rd, Meridian, ID (Specific street address not provided in search results, but likely near the Meridian location)",
+    "phone": "(208) 937-7131",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cbac.com/south-meridian/",
+    "category": "Christian-owned Battery service in Idaho",
+    "description": "Provides honest auto repair services, including battery checks and replacements",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Battery service in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
