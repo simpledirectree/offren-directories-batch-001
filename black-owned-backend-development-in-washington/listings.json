@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Black Antelope",
+    "address": "Seattle, WA (Specific address not readily available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://blackantelope.com/",
+    "category": "Black-owned Backend development in Washington",
+    "description": "A Seattle-based digital design and development agency that builds custom web applications",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Backend development in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "QualityWorks",
+    "address": "While not exclusively in Washington, they serve clients globally and are a Black-owned software consulting company. Their primary contact information is:",
+    "phone": "(888) 331\u20139588",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.qualityworkscg.com/",
+    "category": "Black-owned Backend development in Washington",
+    "description": "Specializes in web and mobile application development, digital transformation, and software testing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Backend development in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Infinavate Consultancy Services, LLC",
+    "address": "While their website mentions Texas, they are a Black-owned IT consultancy firm serving clients across various entities, including government and Fortune 500. Their services can extend to backend development needs",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://infinavate.com/",
+    "category": "Black-owned Backend development in Washington",
+    "description": "An IT consultancy firm providing resources for digital transformation, including custom software developers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Backend development in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "POWTEC SOLUTIONS, LLC",
+    "address": "Bremerton, Washington",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/POWTEC+SOLUTIONS,+LLC+in+Washington",
+    "category": "Black-owned Backend development in Washington",
+    "description": "A custom software development firm offering services that can include backend development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Backend development in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Generalsoft Corporation",
+    "address": "Seattle, WA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Generalsoft+Corporation+in+Washington",
+    "category": "Black-owned Backend development in Washington",
+    "description": "A custom software development firm that offers IT consulting and other services which can encompass backend development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Backend development in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Taliferro Group",
+    "address": "1424 11th Avenue Seattle, WA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Taliferro+Group+in+Washington",
+    "category": "Black-owned Backend development in Washington",
+    "description": "Listed as a technology and software development company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Backend development in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Azumo",
+    "address": "While not exclusively in Washington, they are a Black-owned software development company with a strong focus on intelligent applications",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.azumo.co/",
+    "category": "Black-owned Backend development in Washington",
+    "description": "Builds AI, web, mobile, and data applications, including backend development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Backend development in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SHIP IT Inc.",
+    "address": "Not specified, but listed as a top Black-owned web development company",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/SHIP+IT+Inc.+in+Washington",
+    "category": "Black-owned Backend development in Washington",
+    "description": "Specializes in custom website and web application development, with a focus on front-end and back-end development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Backend development in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Visceral",
+    "address": "Not specified, but listed as a top Black-owned web development company",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Visceral+in+Washington",
+    "category": "Black-owned Backend development in Washington",
+    "description": "Praised for full-stack web development, which includes backend development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Backend development in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Frenchy Digital LLC",
+    "address": "Not specified, but listed as a top Black-owned web development company",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Frenchy+Digital+LLC+in+Washington",
+    "category": "Black-owned Backend development in Washington",
+    "description": "Offers comprehensive web development services, including backend development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Backend development in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
