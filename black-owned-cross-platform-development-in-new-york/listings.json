@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Rose Digital",
+    "address": "530 7th Ave, New York, NY 10018",
+    "phone": "",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.rosedigital.co/",
+    "category": "Black-owned Cross-platform development in New-York",
+    "description": "A full-service, custom software development firm specializing in web/mobile apps, augmented reality, and virtual reality",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cross-platform development in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Azumo",
+    "address": "Not available (operates as a nearshore software development company)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.azumo.co/",
+    "category": "Black-owned Cross-platform development in New-York",
+    "description": "A black-owned software development company focused on helping businesses build intelligent applications, offering nearshore services and IT staff augmentation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cross-platform development in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "QualityWorks",
+    "address": "Not available (serves clients in the US, UK, Latin America, and the Caribbean)",
+    "phone": "(888) 331\u20139588",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.qualityworkscg.com/",
+    "category": "Black-owned Cross-platform development in New-York",
+    "description": "A black-owned and woman-led software consulting company specializing in web and mobile application development, digital transformation, and software testing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cross-platform development in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SHIP IT Inc.",
+    "address": "Washington, DC (also has projects in Rochester, New York)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/SHIP+IT+Inc.+New+York",
+    "category": "Black-owned Cross-platform development in New-York",
+    "description": "A proficient mobile app development company specializing in iOS and Android platforms utilizing Flutter for development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cross-platform development in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CivicSoft",
+    "address": "Not available (has projects in Rochester, New York)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/CivicSoft+New+York",
+    "category": "Black-owned Cross-platform development in New-York",
+    "description": "A development company specializing in customized software solutions and cloud management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cross-platform development in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Frenchy Digital LLC",
+    "address": "Not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Frenchy+Digital+LLC+New+York",
+    "category": "Black-owned Cross-platform development in New-York",
+    "description": "A versatile app development company specializing in Mobile App Development and web solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cross-platform development in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PLECCO Technologies, Inc.",
+    "address": "Not available (has projects in Rochester, New York)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/PLECCO+Technologies,+Inc.+New+York",
+    "category": "Black-owned Cross-platform development in New-York",
+    "description": "Specializes in PowerBI, website development, and eCommerce solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cross-platform development in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Modernized Mobile LLC",
+    "address": "Not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Modernized+Mobile+LLC+New+York",
+    "category": "Black-owned Cross-platform development in New-York",
+    "description": "Focuses on digital marketing strategies and website enhancements",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cross-platform development in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Freedom (ourfreedom.ai)",
+    "address": "Not available (operates in New York)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ourfreedom.ai/",
+    "category": "Black-owned Cross-platform development in New-York",
+    "description": "Revolutionizing prison communication by providing an independent, affordable platform",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cross-platform development in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wrk Receipts",
+    "address": "Not available (operates in New York)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Wrk+Receipts+New+York",
+    "category": "Black-owned Cross-platform development in New-York",
+    "description": "Empowers employees to document workplace issues through a mobile app with an AI assistant",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cross-platform development in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
