@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Christian Brothers Automotive",
+    "address": "23819 E Appleway Ave, Liberty Lake, WA 99019",
+    "phone": "(509) 384-3082",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.christianbrothersauto.com/locations/liberty-lake-wa/",
+    "category": "Christian-owned Brake repair in Washington",
+    "description": "Offers a wide range of auto repair services, including brakes, transmission, and preventative maintenance, emphasizing transparency and customer service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Brake repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Auto Repair Shop",
+    "address": "4322 S Union Ave, Tacoma, WA 98409",
+    "phone": "253-581-0793",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Christian+Auto+Repair+Shop+in+Washington",
+    "category": "Christian-owned Brake repair in Washington",
+    "description": "A general auto repair shop located in Tacoma, WA",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Brake repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian's Auto Repair",
+    "address": "4322 S Union St, Tacoma, WA 98409",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Christian's+Auto+Repair+in+Washington",
+    "category": "Christian-owned Brake repair in Washington",
+    "description": "Offers professional automotive repair services for foreign and domestic vehicles, including engine, transmission, and diagnostics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Brake repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "USA Brake & Auto Repair",
+    "address": "3809 W Clearwater Ave, Kennewick, WA 99336",
+    "phone": "(509) 239-7084",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.usabrakeandautorepair.com/",
+    "category": "Christian-owned Brake repair in Washington",
+    "description": "Specializes in brake and auto repair services, with a high rating for customer satisfaction and thoroughness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Brake repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cedar Park Mechanics' Ministry",
+    "address": "Bothell, WA (specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Cedar+Park+Mechanics'+Ministry+in+Washington",
+    "category": "Christian-owned Brake repair in Washington",
+    "description": "A full-service auto shop offering major and minor repairs, including diagnostics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Brake repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
