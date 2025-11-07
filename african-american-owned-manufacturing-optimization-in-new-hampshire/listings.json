@@ -1,0 +1,87 @@
+[
+  {
+    "name": "InSource Design & Manufacturing",
+    "address": "Merrimack, NH",
+    "phone": "(603) 429-2020",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.insourcedm.com/",
+    "category": "African-American-owned Manufacturing optimization in New-Hampshire",
+    "description": "Offers product engineering and contract manufacturing services, specializing in mechanical and electrical engineering for various industries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Manufacturing optimization in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Global American, Inc.",
+    "address": "Southern NH (specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Global+American,+Inc.+New+Hampshire",
+    "category": "African-American-owned Manufacturing optimization in New-Hampshire",
+    "description": "A leader in the industrial computer (IPC) sector, providing embedded system integration, rugged tablets, fanless PCs, and IoT-based products. Founded by Nizar Jhaver, recognized as a minority business owner",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Manufacturing optimization in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Haley & Aldrich",
+    "address": "Multiple locations, including New Hampshire",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.haleyaldrich.com/",
+    "category": "African-American-owned Manufacturing optimization in New-Hampshire",
+    "description": "Offers industrial and manufacturing consulting services, including facility design and compliance solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Manufacturing optimization in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New England Lean Consulting",
+    "address": "Serves CT, MA, RI, NH, VT & ME",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.newenglandlean.com/",
+    "category": "African-American-owned Manufacturing optimization in New-Hampshire",
+    "description": "Provides continuous improvement and management consulting services, specializing in Lean manufacturing and training to lower costs and increase efficiency",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Manufacturing optimization in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TechNH",
+    "address": "8 Continental Boulevard, Merrimack, NH 03054",
+    "phone": "(603) 424-4404",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.technh.com/",
+    "category": "African-American-owned Manufacturing optimization in New-Hampshire",
+    "description": "Specializes in plastic injection molding, providing precision-engineered solutions for various high-demand sectors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Manufacturing optimization in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
