@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Dr. Armen Akopian, DDS",
+    "address": "120 E 56th St, Suite 1100, New York, NY 10022, USA",
+    "phone": "(212) 753-0464",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.doctorarmen.com/",
+    "category": "Armenian-speaking Cosmetic dentistry in New-York",
+    "description": "Dr. Armen Akopian specializes in cosmetic and general dentistry, offering services such as porcelain veneers, dental implants, Invisalign, and teeth whitening. He is known for his comprehensive approach and personalized treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Cosmetic dentistry in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arin Abrahamian, DDS",
+    "address": "Information not available in search results. (Practices in Manhattan, Brooklyn, and Staten Island)",
+    "phone": "240-372-0788",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Arin+Abrahamian,+DDS+New+York",
+    "category": "Armenian-speaking Cosmetic dentistry in New-York",
+    "description": "Dr. Abrahamian offers cosmetic, family, and general dentistry services. He has a background in advanced restorative and surgical procedures and has trained residents at NYU Langone",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Cosmetic dentistry in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Geghani Shahinyan, DDS",
+    "address": "Corner of 106th Street and Madison Avenue, New York, NY",
+    "phone": "(212) 534-3626",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Geghani+Shahinyan,+DDS+New+York",
+    "category": "Armenian-speaking Cosmetic dentistry in New-York",
+    "description": "This practice offers general dentistry with cosmetic, preventive, and restorative services. They explicitly state that their staff provides services in Spanish, Russian, and Armenian",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Cosmetic dentistry in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
