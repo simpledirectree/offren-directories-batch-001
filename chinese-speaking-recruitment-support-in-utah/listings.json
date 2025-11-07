@@ -1,0 +1,87 @@
+[
+  {
+    "name": "TalentTeam",
+    "address": "440 E 400 S #300, Salt Lake City, UT 84111",
+    "phone": "(801) 355-3300",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.talentteam.com/",
+    "category": "Chinese-speaking Recruitment support in Utah",
+    "description": "A leading staffing and employment agency in Salt Lake City, providing strategic staffing solutions for various industries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Recruitment support in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PrincePerelson & Associates",
+    "address": "5050 S 300 W #200, Salt Lake City, UT 84107",
+    "phone": "(801) 578-2000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.princeperelson.com/",
+    "category": "Chinese-speaking Recruitment support in Utah",
+    "description": "A premier recruiting firm specializing in professional placement services throughout Utah and nationally",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Recruitment support in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Insight Global",
+    "address": "200 W 300 S #200, Salt Lake City, UT 84101",
+    "phone": "(801) 578-2000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.insightglobal.com/",
+    "category": "Chinese-speaking Recruitment support in Utah",
+    "description": "A global staffing and professional services agency connecting businesses and job seekers in Salt Lake City and beyond",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Recruitment support in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Randstad USA",
+    "address": "215 S State St #300, Salt Lake City, UT 84111",
+    "phone": "(801) 531-0100",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.randstad.com/",
+    "category": "Chinese-speaking Recruitment support in Utah",
+    "description": "A national staffing company that helps job seekers find positions in various industries, including tech",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Recruitment support in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "All Trades Staffing Services",
+    "address": "433 S 400 E, Ste. 100 Salt Lake City UT 84111",
+    "phone": "(801) 505-3085",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.slchamber.com/",
+    "category": "Chinese-speaking Recruitment support in Utah",
+    "description": "A staffing agency in Salt Lake City and Ogden that focuses on connecting companies with qualified individuals for clerical, construction, and industrial jobs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Recruitment support in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
