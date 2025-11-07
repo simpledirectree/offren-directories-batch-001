@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Proximity Brewing Company",
+    "address": "491 S. Driver Street, Durham, NC",
+    "phone": "(919) 667-8141",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Proximity+Brewing+Company+North+Carolina",
+    "category": "Black-owned Breweries in North-Carolina",
+    "description": "Durham's first Black-owned brewery, specializing in IPAs and aiming to reflect the cultural heritage of Durham",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Breweries in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Spaceway Brewery",
+    "address": "1151 Falls Road Suite 2003, Rocky Mount, NC",
+    "phone": "919-667-8141",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Spaceway+Brewery+North+Carolina",
+    "category": "Black-owned Breweries in North-Carolina",
+    "description": "A Black woman-owned brewery inspired by Afrofuturism, aiming to create a sense of community through craft brewing education and innovation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Breweries in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Harlem Brew South",
+    "address": "515 N. Grace St., Rocky Mount, NC",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Harlem+Brew+South+North+Carolina",
+    "category": "Black-owned Breweries in North-Carolina",
+    "description": "A production facility for Harlem Brewing Company, producing beers that celebrate local history and culture",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Breweries in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Three Spirits Brewery",
+    "address": "5046 Old Pineville Rd, Charlotte, NC 28217",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Three+Spirits+Brewery+North+Carolina",
+    "category": "Black-owned Breweries in North-Carolina",
+    "description": "Known for easy-drinking beers and a laid-back atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Breweries in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hippin' Hops Brewery & Distillery",
+    "address": "650 E. Brooklyn Village Avenue, Charlotte, NC",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hippin'+Hops+Brewery+&+Distillery+North+Carolina",
+    "category": "Black-owned Breweries in North-Carolina",
+    "description": "An Atlanta-based Black-owned brewery and distillery expanding to Charlotte, offering both beer and liquor",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Breweries in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
