@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Black Sheep Cafe",
+    "address": "1407 N. 1500 W., Provo, UT 84604",
+    "phone": "(801) 607-2427",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.blacksheeprestaurants.com/",
+    "category": "Alaska-Native-owned Buffet restaurants in Utah",
+    "description": "This restaurant offers a Native American Southwestern infusion cuisine, with dishes like Navajo tacos",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Buffet restaurants in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Continental",
+    "address": "135 W. Center St., Provo, UT 84601",
+    "phone": "(385) 327-4444",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.thecontinentalprovo.com/",
+    "category": "Alaska-Native-owned Buffet restaurants in Utah",
+    "description": "Led by Chef Bleu Adams, this restaurant celebrates Indigenous culinary traditions with a menu inspired by Native American cuisine, featuring dishes like Ute bison meatballs and cauliflower pav\u00e9 hummus",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Buffet restaurants in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
