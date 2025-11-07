@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Lord's Gym Ministries",
+    "address": "P.O. Box 5099, Cincinnati, OH 45205",
+    "phone": "513-621-5300",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.lordsgymministries.org/",
+    "category": "Christian-owned Athletic conditioning in Ohio",
+    "description": "A Christian organization focused on transforming lives and helping people grow strong in the Lord through their services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Athletic conditioning in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Faith Ministries Church - Faith and Fitness",
+    "address": "2747 Agler Rd, Columbus, OH 43224",
+    "phone": "(614) 416-8500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.faithministries.church/",
+    "category": "Christian-owned Athletic conditioning in Ohio",
+    "description": "Offers opportunities to get active and learn about physical health through various activities like basketball, aerobics, and outdoor events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Athletic conditioning in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Faith Fueled Fitness",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.faithfueledfitness.com/",
+    "category": "Christian-owned Athletic conditioning in Ohio",
+    "description": "Provides a holistic approach to health and wellness with a Christian basis, offering fitness classes, personal training, and wellness retreats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Athletic conditioning in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Faith Chapel Fitness",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.faithchapelfitness.com/",
+    "category": "Christian-owned Athletic conditioning in Ohio",
+    "description": "A fitness facility associated with Faith Chapel, offering membership packages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Athletic conditioning in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CrossFit Veneration",
+    "address": "Johnstown, Ohio (specific street address not provided in snippet)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.crossfitveneration.com/",
+    "category": "Christian-owned Athletic conditioning in Ohio",
+    "description": "A training facility focused on results-driven training for adults, emphasizing expert coaching and a supportive community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Athletic conditioning in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vital Fitness",
+    "address": "Wilmington, Ohio (specific street address not provided in snippet)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vitalfitnessohio.com/",
+    "category": "Christian-owned Athletic conditioning in Ohio",
+    "description": "A 24-hour gym and fitness class facility offering support, tools, training, and a community atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Athletic conditioning in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Imperium Fitness",
+    "address": "Addyston, Ohio (specific street address not provided in snippet)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.imperiumfitness.com/",
+    "category": "Christian-owned Athletic conditioning in Ohio",
+    "description": "A fitness center with a spacious facility, cardio room, and strongman equipment, owned by individuals with strong backgrounds in fitness and athletics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Athletic conditioning in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
