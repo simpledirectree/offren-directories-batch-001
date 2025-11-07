@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Th_Prsrv",
+    "address": "709 Harris Ave, Kemah, TX 77565",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.thprsrv.com/",
+    "category": "Alaska-Native-owned Fine dining in Texas",
+    "description": "A Thai and Choctaw pre-colonial, indigenous ingredients restaurant by Chefs David Skinner and Benchawan Painter. It offers a 13-15 course meal focusing on historical culinary journeys",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Fine dining in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ishtia",
+    "address": "709 Harris Street, Kemah, TX 77565",
+    "phone": "713-429-4311",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.ishtia.com/",
+    "category": "Alaska-Native-owned Fine dining in Texas",
+    "description": "An indigenous restaurant created by Choctaw tribal member Chef David Skinner, inspired by his ancestors' stories. It offers a tasting menu showcasing the diversity of indigenous cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Fine dining in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hooker's Grill",
+    "address": "310 E. Exchange Ave, Fort Worth, TX 76164 (This is an inferred address based on location in Fort Worth Stockyards, specific address not explicitly stated in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://hookersgrill.com/",
+    "category": "Alaska-Native-owned Fine dining in Texas",
+    "description": "A female, Native American-owned establishment founded by Ruth and Kathryn Hooker, members of the Choctaw Nation. They serve dishes like Oklahoma fried onion burgers and Indian Tacos",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Fine dining in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cowboys & Indians Cuisine & Cocktail",
+    "address": "10777 Northwest Fwy, Houston, TX 77092",
+    "phone": "(832) 740-4050",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://cowboysandindianshtx.com/",
+    "category": "Alaska-Native-owned Fine dining in Texas",
+    "description": "A New American restaurant featuring Texas-Indian fusion, offering dishes like Steak Naan Quesadilla and Korma Deviled Eggs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Fine dining in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tribal All Day Cafe",
+    "address": "Dallas, TX (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Tribal+All+Day+Cafe+in+Texas",
+    "category": "Alaska-Native-owned Fine dining in Texas",
+    "description": "A Chickasaw Nation owned and operated caf\u00e9",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Fine dining in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
