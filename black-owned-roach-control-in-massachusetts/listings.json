@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Pro-Tec Exterminating",
+    "address": "16 Rockledge Street, Boston, MA 02121",
+    "phone": "857-753-8204",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "mailto:protecexterminating@gmail.com",
+    "category": "Black-owned Roach control in Massachusetts",
+    "description": "Fully licensed and insured, Pro-Tec provides quality Pest Control to Boston and surrounding areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Roach control in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
