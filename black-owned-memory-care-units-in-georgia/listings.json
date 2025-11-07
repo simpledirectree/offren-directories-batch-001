@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Summerset Assisted Living",
+    "address": "2200 Clairmont Rd NE, Atlanta, GA 30329",
+    "phone": "(404) 633-3500",
+    "rating": 4.1,
+    "reviews": 25,
+    "website": "https://www.summersetalc.com/",
+    "category": "Black-owned Memory care units in Georgia",
+    "description": "Summerset Assisted Living offers assisted living, memory care, and respite care. It is described as a gated community with an antique-looking, nice aesthetic. They have a \"Memory Lane\" program designed to stimulate memories and create emotional connections for residents with memory loss",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Memory care units in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
