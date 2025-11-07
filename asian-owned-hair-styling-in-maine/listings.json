@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Eunoia",
+    "address": "173 Middle St, Portland, ME 04101",
+    "phone": "(207) 613-4590",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.eunoiahair.com/",
+    "category": "Asian-owned Hair styling in Maine",
+    "description": "A hair salon focused on providing clients with a welcoming and relaxed atmosphere, emphasizing nourishing the mind and body through their services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair styling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hair Station",
+    "address": "146 Turner St, Auburn, ME 04210",
+    "phone": "(207) 784-4247",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://hairstationauburn.com/",
+    "category": "Asian-owned Hair styling in Maine",
+    "description": "Offers stylish cuts for all, with stylists specializing in men's, women's, and children's cuts, as well as facial waxing and color services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair styling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Hair Garden",
+    "address": "180 Main St, Biddeford, ME 04005",
+    "phone": "(207) 494-7044",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.thehairgarden.com/",
+    "category": "Asian-owned Hair styling in Maine",
+    "description": "A luxury hair salon specializing in hair extensions, aiming to create a space where every woman feels beautiful and empowered",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair styling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blush Beauty Boutique",
+    "address": "140 Canal St, Lewiston, ME 04240",
+    "phone": "(207) 513-1130",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.blushbeautymaine.com/",
+    "category": "Asian-owned Hair styling in Maine",
+    "description": "A full-service, contemporary salon offering precision cutting, fantasy colors, and ultra-blonding, with a focus on providing a fulfilling experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair styling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Willow Salon",
+    "address": "434 Western Ave, South Portland, ME 04106",
+    "phone": "(207) 536-4876",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.willowsouthportland.com/",
+    "category": "Asian-owned Hair styling in Maine",
+    "description": "A full-service hair salon offering a variety of services to meet individual needs, from trims to complete changes, in a professional and personalized setting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair styling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Salon 241",
+    "address": "241 State St, Bangor, ME 04401",
+    "phone": "(207) 941-0005",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.salon241.com/",
+    "category": "Asian-owned Hair styling in Maine",
+    "description": "A distinctive full-service beauty salon in a historic building, offering hair, waxing, and makeup services in a beautiful, relaxing, and welcoming environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair styling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Knaughty Hair Salon",
+    "address": "685 Forest Ave, Portland, ME 04103",
+    "phone": "(207) 773-0000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://knaughtyhairsalon.com/",
+    "category": "Asian-owned Hair styling in Maine",
+    "description": "Provides outstanding salon services including haircuts, coloring, waxing, and facials in a unique, urban ambiance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair styling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Peinado Hairworks",
+    "address": "434 Western Ave, South Portland, ME 04106",
+    "phone": "(207) 741-2500",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.peinadohairworks.com/",
+    "category": "Asian-owned Hair styling in Maine",
+    "description": "A full-service hair salon offering cuts, color, waxing, and other services in a fun, modern environment with a focus on creativity and client satisfaction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair styling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gloss Hair Parlor",
+    "address": "175 Main St, Biddeford, ME 04005",
+    "phone": "(207) 494-7044",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.glosshairparlor.com/",
+    "category": "Asian-owned Hair styling in Maine",
+    "description": "A boutique salon specializing in custom coloring, advanced cutting, and extensions, also offering permanent jewelry",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair styling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rhona Beauty LLC",
+    "address": "289 Main Street, Biddeford, ME 04005",
+    "phone": "(207) 571-9903",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.rhonabeauty.com/",
+    "category": "Asian-owned Hair styling in Maine",
+    "description": "A multicultural and inclusive salon dedicated to empowering women and men, offering services like hand-tied hair extensions, various coloring techniques, and Japanese spa treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair styling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
