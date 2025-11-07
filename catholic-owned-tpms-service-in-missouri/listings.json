@@ -1,0 +1,172 @@
+[
+  {
+    "name": "KC Auto Solutions",
+    "address": "1223 W Truman Rd, Independence, MO 64050",
+    "phone": "(816) 701-1166",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://kcautosolutions.com/",
+    "category": "Catholic-owned TPMS service in Missouri",
+    "description": "A family-owned and operated business that provides a wide range of auto repair services, including TPMS repair. They emphasize customer service and offer a nationwide warranty through NAPA",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned TPMS service in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Joe's Tire Shop, Inc.",
+    "address": "1409 W Sunshine St, Springfield, MO 65807",
+    "phone": "(417) 865-3501",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.joestirespringfield.com/",
+    "category": "Catholic-owned TPMS service in Missouri",
+    "description": "Offers comprehensive tire services, including TPMS maintenance and repair. They highlight the importance of proper tire pressure for safety and fuel efficiency",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned TPMS service in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lee's Tire Company",
+    "address": "3001 W Worley St, Columbia, MO 65203",
+    "phone": "(573) 445-5151",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.leestirecompany.com/",
+    "category": "Catholic-owned TPMS service in Missouri",
+    "description": "Provides TPMS services, along with a full range of tire and auto repair solutions. They serve Columbia, Moberly, and Centralia, MO",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned TPMS service in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Brothers Automotive Valley Park",
+    "address": "2941 Dougherty Ferry Rd, St. Louis, MO 63122",
+    "phone": "(636) 341-4758",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.christianbrothersauto.com/locations/valley-park/",
+    "category": "Catholic-owned TPMS service in Missouri",
+    "description": "A faith-based company that applies Christian values in their customer service. They offer a variety of auto repair services, including TPMS checks",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned TPMS service in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jim Lewis Tire Pros",
+    "address": "1300 Missouri Blvd, Jefferson City, MO 65109",
+    "phone": "(573) 636-9223",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.jimlewistirepros.com/",
+    "category": "Catholic-owned TPMS service in Missouri",
+    "description": "Specializes in tire services and offers TPMS diagnostics and repair. They emphasize safety and professional service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned TPMS service in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Stone Automotive",
+    "address": "191 East Ave, Winfield, MO 63389",
+    "phone": "(636) 660-1000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.stoneautomotivemo.com/",
+    "category": "Catholic-owned TPMS service in Missouri",
+    "description": "Offers TPMS repair and maintenance services, highlighting improved safety and fuel efficiency benefits. They have been providing TPMS services since 2010",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned TPMS service in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Brothers Automotive O'fallon",
+    "address": "8496 Mexico Rd, St. Peters, MO 63376",
+    "phone": "(636) 435-2930",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.christianbrothersauto.com/locations/ofallon/",
+    "category": "Catholic-owned TPMS service in Missouri",
+    "description": "A locally owned and operated auto shop that prioritizes customer satisfaction and community ties. They offer a range of automotive services, including TPMS checks",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned TPMS service in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Brothers Automotive Kansas City",
+    "address": "4200 NW Barry Rd, Kansas City, MO 64154",
+    "phone": "(816) 420-0180",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.christianbrothersauto.com/locations/kansas-city/",
+    "category": "Catholic-owned TPMS service in Missouri",
+    "description": "A NAPA Auto Care center committed to quality service and customer satisfaction, adhering to a strict Code of Ethics. They provide various auto repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned TPMS service in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Glen & Jim's Complete Automotive Repair",
+    "address": "303 East St, Kansas City, MO 64106",
+    "phone": "(816) 471-5540",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://glenandjimsauto.com/",
+    "category": "Catholic-owned TPMS service in Missouri",
+    "description": "Offers TPMS services for Parkville, Gladstone, and Kansas City, MO, emphasizing the importance of system maintenance for safety and efficiency",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned TPMS service in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ST Auto Care Tire Pros",
+    "address": "1724 Killingsworth Ave, Bolivar, MO 65613",
+    "phone": "(417) 777-0213",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.stautocare.com/",
+    "category": "Catholic-owned TPMS service in Missouri",
+    "description": "Provides TPMS services, focusing on professional diagnostics and repair to ensure driver safety and vehicle performance. They are part of the Tire Pros network",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned TPMS service in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
