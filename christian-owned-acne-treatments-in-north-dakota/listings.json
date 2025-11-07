@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Altaire Clinic",
+    "address": "3000 32nd Ave S, Fargo, ND 58103",
+    "phone": "(701) 893-0099",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://altaireclinic.com/",
+    "category": "Christian-owned Acne treatments in North-Dakota",
+    "description": "Offers a variety of cosmetic treatments, including those for acne, skin rashes, and psoriasis. They also provide injectables, laser therapy, and facials",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Acne treatments in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catalyst Medical Center + Clinical Spa",
+    "address": "1800 21st Ave S, Fargo, ND 58103",
+    "phone": "(701) 365-8700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://catalystmedicalcenter.com/",
+    "category": "Christian-owned Acne treatments in North-Dakota",
+    "description": "Provides healthcare and self-care services, including cosmetic dermatology for conditions like acne scars, sun damage, and unwanted hair. They also offer medical dermatology for issues such as acne and rosacea",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Acne treatments in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Trinity Health Dermatology",
+    "address": "Trinity Health Medical Arts, 400 Burdick Expy E, Minot, ND 58701",
+    "phone": "(701) 857-7382",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.trinityhealth.org/services/dermatology/",
+    "category": "Christian-owned Acne treatments in North-Dakota",
+    "description": "Dermatology specialists focusing on diseases of the skin, hair, and nails, experienced in treating a wide variety of issues to improve skin health and appearance, including common dermatology problems",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Acne treatments in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Medallus Medi Spa",
+    "address": "1020 10th St SE, Jamestown, ND 58401",
+    "phone": "(701) 320-0400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://medallusmedispa.com/",
+    "category": "Christian-owned Acne treatments in North-Dakota",
+    "description": "A medical facility offering advanced anti-aging treatments, customized skincare routines, fillers, injectables, and laser treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Acne treatments in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "IMAGE Medi-Spa",
+    "address": "4400 13th Ave S, Fargo, ND 58104",
+    "phone": "(701) 551-5010",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://imagemedispa.com/",
+    "category": "Christian-owned Acne treatments in North-Dakota",
+    "description": "Offers injectables, laser treatments, customized facials, and skincare routines with a focus on helping clients look and feel good at any age",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Acne treatments in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Destiny Med Spa",
+    "address": "1025 Dakota Parkway, Suite 3B, Williston, ND 58801",
+    "phone": "(701) 713-0100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.destinymedspa.com/",
+    "category": "Christian-owned Acne treatments in North-Dakota",
+    "description": "Combines advanced technology with holistic care for transformative results, offering treatments that enhance natural beauty, restore balance, and promote confidence",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Acne treatments in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fargo Center for Dermatology",
+    "address": "3000 32nd Ave S, Fargo, ND 58103",
+    "phone": "(701) 232-7546",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://fargodermatology.com/",
+    "category": "Christian-owned Acne treatments in North-Dakota",
+    "description": "An award-winning dermatology practice offering medical dermatologic treatments and cosmetic services for various skin conditions, including acne",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Acne treatments in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bismarck Dermatology Center",
+    "address": "4207 Boulder Ridge Road, Bismarck, ND 58503",
+    "phone": "(701) 751-5550",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bismarckderm.com/",
+    "category": "Christian-owned Acne treatments in North-Dakota",
+    "description": "Committed to providing professional and empathetic care for unique skin concerns, offering a range of dermatological services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Acne treatments in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sunday Skin Aesthetics + Wellness",
+    "address": "311 Main St, Williston, ND 58801",
+    "phone": "(701) 577-0311",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://sundayskinnd.com/",
+    "category": "Christian-owned Acne treatments in North-Dakota",
+    "description": "Provides comprehensive aesthetic services and wellness treatments with a focus on personalized and results-driven treatments for skin and overall well-being",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Acne treatments in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mosaic Dermatology",
+    "address": "4400 13th Ave S, Suite 101, Fargo, ND 58104",
+    "phone": "(701) 551-5010",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mosaicdermatologyfargo.com/",
+    "category": "Christian-owned Acne treatments in North-Dakota",
+    "description": "Offers advanced surgical, medical, and aesthetic skin care treatments, with a specialization in skin cancer detection, acne, eczema, and cosmetic dermatology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Acne treatments in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
