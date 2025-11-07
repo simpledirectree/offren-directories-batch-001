@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Paloma & Fig",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://palomaandfig.com/",
+    "category": "Catholic-owned Content marketing in New-Jersey",
+    "description": "A creative marketing agency that blends faith, strategy, and design to help Catholic organizations share their message with purpose and impact. They offer services for parishes and Catholic businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Content marketing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Saint Pio Media",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://saintpiomedia.com/",
+    "category": "Catholic-owned Content marketing in New-Jersey",
+    "description": "A digital marketing agency providing website design, photography, videography, and SEO to Catholic parishes, schools, and non-profit organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Content marketing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gloriam Marketing",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://gloriammarketing.com/",
+    "category": "Catholic-owned Content marketing in New-Jersey",
+    "description": "A Catholic marketing agency focused on helping Catholic organizations reach their target audience through various marketing strategies, including digital and print design, copywriting, and email marketing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Content marketing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fuzati",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://fuzati.com/",
+    "category": "Catholic-owned Content marketing in New-Jersey",
+    "description": "A Catholic marketing and technology firm that partners with Catholic clients to expand their reach in the digital world using creative marketing strategies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Content marketing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Covenant",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.covenantwork.com/",
+    "category": "Catholic-owned Content marketing in New-Jersey",
+    "description": "A marketing agency built for Catholics, aiming to help Catholic companies, organizations, and leaders improve their digital reach and impact through branding, website design, and social media services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Content marketing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
