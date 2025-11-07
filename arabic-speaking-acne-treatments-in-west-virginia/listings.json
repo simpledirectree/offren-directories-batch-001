@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Dr. Michele Maouad, MD",
+    "address": "600 Suncrest Town Centre Dr Ste 115, Morgantown, WV 26505",
+    "phone": "(304) 598-3888",
+    "rating": 3.9,
+    "reviews": 25,
+    "website": "https://www.wvumedicine.org/doctors/michele-maouad-md",
+    "category": "Arabic-speaking Acne treatments in West-Virginia",
+    "description": "Dr. Maouad is a board-certified dermatologist who speaks Arabic and treats various skin conditions, including acne",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Acne treatments in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dr. Erica Renee Ghareeb, MD",
+    "address": "6040 University Town Centre Drive, Morgantown, WV 26501 (WVU Medicine Dermatology)",
+    "phone": "855-WVU-CARE (855-988-2273)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wvumedicine.org/doctors/erica-ghareeb-md",
+    "category": "Arabic-speaking Acne treatments in West-Virginia",
+    "description": "Dr. Ghareeb is a dermatologist who speaks Arabic, French, and English",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Acne treatments in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
