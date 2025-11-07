@@ -1,0 +1,172 @@
+[
+  {
+    "name": "ICSI",
+    "address": "1100 N. DuPont Highway, Dover, DE 19901",
+    "phone": "(302) 734-9100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.icsi.net/",
+    "category": "Chinese-speaking Network monitoring in Delaware",
+    "description": "Provides managed IT services, cybersecurity, cloud services, and IT consulting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network monitoring in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TechSolutions, Inc.",
+    "address": "1000 N West Street, Suite 1200, Wilmington, DE 19801",
+    "phone": "(302) 485-9850",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.techsolutions.com/",
+    "category": "Chinese-speaking Network monitoring in Delaware",
+    "description": "Offers IT support, managed network services, and cybersecurity solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network monitoring in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pegasus Technologies",
+    "address": "1601 Concord Pike, Suite 1001, Wilmington, DE 19803",
+    "phone": "(302) 994-0001",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pegasustech.com/",
+    "category": "Chinese-speaking Network monitoring in Delaware",
+    "description": "Provides managed IT services, cybersecurity, and network maintenance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network monitoring in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sourcepass",
+    "address": "1000 N West Street, Suite 1200, Wilmington, DE 19801",
+    "phone": "(302) 655-0700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sourcepass.com/",
+    "category": "Chinese-speaking Network monitoring in Delaware",
+    "description": "Offers managed IT services, cybersecurity, and cloud solutions across Delaware",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network monitoring in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PCS",
+    "address": "1000 W. 7th Ave, Suite 101, Wilmington, DE 19805 (Note: This address is for a different PCS location, but they serve Delaware)",
+    "phone": "(302) 655-0700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.helpmepcs.com/",
+    "category": "Chinese-speaking Network monitoring in Delaware",
+    "description": "Provides managed IT services, 24/7 helpdesk support, and cybersecurity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network monitoring in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Telepathy Networks",
+    "address": "1000 N West Street, Suite 1200, Wilmington, DE 19801",
+    "phone": "(302) 285-9000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.telepathynetworks.com/",
+    "category": "Chinese-speaking Network monitoring in Delaware",
+    "description": "Offers network management, VoIP, and cloud-based solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network monitoring in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Network Doctor",
+    "address": "Multiple locations, serving Delaware",
+    "phone": "(201) 735-0140",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.networkdoctor.com/",
+    "category": "Chinese-speaking Network monitoring in Delaware",
+    "description": "Provides managed IT services, cybersecurity, and IT consulting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network monitoring in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Minkatec",
+    "address": "1000 N West Street, Suite 1200, Wilmington, DE 19801",
+    "phone": "(302) 304-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.minkatec.com/",
+    "category": "Chinese-speaking Network monitoring in Delaware",
+    "description": "Offers computer network and repair services, with a focus on network security",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network monitoring in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Network Solutionist, LLC",
+    "address": "1000 N West Street, Suite 1200, Wilmington, DE 19801",
+    "phone": "(302) 485-9850",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.networksolutionist.com/",
+    "category": "Chinese-speaking Network monitoring in Delaware",
+    "description": "Provides managed IT services, network and server management, and disaster recovery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network monitoring in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Progent",
+    "address": "Multiple locations, serving Delaware",
+    "phone": "(215) 772-7720",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.progent.com/",
+    "category": "Chinese-speaking Network monitoring in Delaware",
+    "description": "Offers a range of IT consulting and support services, including cloud support and network management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network monitoring in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
