@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Gemba Automotive",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Gemba+Automotive+in+Arizona",
+    "category": "Buddhist-owned Auto diagnostics in Arizona",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Auto diagnostics in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Addresses:",
+    "address": "",
+    "phone": "(480) 446-0484 (Tempe), (480) 935-5277 (Mesa - Broadway), (480) 966-1442 (Mesa - Guadalupe), (623) 214-6933 (Surprise), (623) 584-6400 (Sun City West), (602) 275-2187 (Phoenix)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://gembaautomotive.com/",
+    "category": "Buddhist-owned Auto diagnostics in Arizona",
+    "description": "Gemba Automotive offers expert automotive repair for all makes and models, with certified technicians and a 2-year/24,000-mile warranty",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Auto diagnostics in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
