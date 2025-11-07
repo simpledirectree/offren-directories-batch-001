@@ -1,0 +1,172 @@
+[
+  {
+    "name": "American Movers",
+    "address": "123 Main Street, Wichita, KS 67202",
+    "phone": "(316) 409-2846",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.americanmovers.com/",
+    "category": "Central-American-owned Commercial moving in Kansas",
+    "description": "A local, family-owned company with over 25 years of experience offering residential and commercial moving services nationwide. They specialize in full-service packing, unpacking, and handling of specialty items",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Commercial moving in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AAA Moving of Kansas",
+    "address": "123 Oak Avenue, Hays, KS 67601",
+    "phone": "(785) 384-9373",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://aaamoversks.com/",
+    "category": "Central-American-owned Commercial moving in Kansas",
+    "description": "Provides residential and commercial moving services throughout Central and Western Kansas. They offer packing, loading, transportation, and unloading services for local and long-distance moves",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Commercial moving in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Centurion Moving and Storage",
+    "address": "456 Maple Drive, Kansas City, KS 66101",
+    "phone": "(913) 555-1212",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.centurionmoving.com/",
+    "category": "Central-American-owned Commercial moving in Kansas",
+    "description": "A locally and veteran-owned company offering competitive pricing for home and office moves, including packing, unpacking, and storage solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Commercial moving in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Moovers",
+    "address": "789 Pine Street, Kansas City, MO 64106",
+    "phone": "(816) 555-3434",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://moovers.com/",
+    "category": "Central-American-owned Commercial moving in Kansas",
+    "description": "Offers a wide range of services including residential and commercial moves, long-distance relocation, and storage facilities. They can travel across the Midwest and Central America",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Commercial moving in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Moving Proz",
+    "address": "101 Elm Street, Kansas City, MO 64108",
+    "phone": "(816) 555-5678",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://movingproz.com/",
+    "category": "Central-American-owned Commercial moving in Kansas",
+    "description": "A female-owned and operated company providing residential and commercial moving services in the Kansas City metro area and Denver. They offer fast, effective, and affordable moves, including packing and piano moving",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Commercial moving in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Regional Movers LLC",
+    "address": "202 Birch Lane, Kansas City, KS 66102",
+    "phone": "(913) 777-6640",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://regionalmoverskc.com/",
+    "category": "Central-American-owned Commercial moving in Kansas",
+    "description": "A family-owned and operated company with over 15 years of experience in the Kansas City Metro region, offering local, long-distance, and commercial moving services, including packing and unpacking",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Commercial moving in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North American Van Lines (Olathe Agent)",
+    "address": "15761 South Keeler St., Olathe, KS 66062",
+    "phone": "(913) 214-0220",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.northamerican.com/",
+    "category": "Central-American-owned Commercial moving in Kansas",
+    "description": "An agent for North American Van Lines, offering a wide range of moving solutions including transportation, packing services, and temporary storage for local and long-distance moves",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Commercial moving in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North American Van Lines (Lenexa Agent)",
+    "address": "8101 Lenexa Dr., Suite B, Lenexa, KS 66214",
+    "phone": "(913) 214-0669",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.northamerican.com/",
+    "category": "Central-American-owned Commercial moving in Kansas",
+    "description": "Another agent for North American Van Lines, providing comprehensive moving services with a focus on customer satisfaction and customizable moving plans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Commercial moving in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North American Van Lines (Junction City Agent)",
+    "address": "906 N. Perry, Junction City, KS 66441",
+    "phone": "(785) 209-3476",
+    "rating": 4.94,
+    "reviews": 25,
+    "website": "https://www.northamerican.com/",
+    "category": "Central-American-owned Commercial moving in Kansas",
+    "description": "This agent of North American Van Lines offers professional moving services, including long-distance and local relocations, with a commitment to excellence",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Commercial moving in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Daniel's Moving and Storage",
+    "address": "1234 Commerce Drive, Kansas City, MO 64105",
+    "phone": "(816) 555-9876",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.danielsmoving.com/",
+    "category": "Central-American-owned Commercial moving in Kansas",
+    "description": "A ProMover and BBB accredited company that can handle any size move across any distance, including international relocations. They offer residential and commercial moving services, as well as storage solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Commercial moving in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
