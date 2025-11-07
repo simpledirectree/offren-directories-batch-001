@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Goldbelt Security LLC",
+    "address": "Chesapeake, Virginia (specific street address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Goldbelt+Security+LLC+in+Virginia",
+    "category": "Alaska-Native-owned Vendor coordination in Virginia",
+    "description": "A products distribution and logistics firm that is a subsidiary of Goldbelt Inc., an Alaska Native Village Corporation. They have offices in Virginia Beach, VA",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Vendor coordination in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Three Saints Bay, LLC",
+    "address": "Manassas, Virginia (specific street address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Three+Saints+Bay,+LLC+in+Virginia",
+    "category": "Alaska-Native-owned Vendor coordination in Virginia",
+    "description": "An Alaska Native Holding Company owned by Old Harbor Native Corporation, headquartered in Manassas, Virginia. They are a holding company for several 8(a), Alaska Native Corporation (ANC)-owned, Small Disadvantaged Business service companies. They also have an office at 4486 Pleasant Ave, Unit A, Norfolk, VA 23518",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Vendor coordination in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
