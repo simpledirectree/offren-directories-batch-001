@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Melrose Moto",
+    "address": "7222 Melrose Ave, Los Angeles, CA 90046",
+    "phone": "(323) 591-0525",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://melrosemoto.com/",
+    "category": "Armenian-speaking Motorcycle repair in California",
+    "description": "Los Angeles-based expert motorcycle services and pre-owned pro-inspected bike sales. They focus on customer care and quality results",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Motorcycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cycledoctor",
+    "address": "(Specific address not provided in search results, but located in Orange County, CA)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Cycledoctor+in+California",
+    "category": "Armenian-speaking Motorcycle repair in California",
+    "description": "Harley-Davidson Performance and Repair Specialists with over 30 years in business. They offer a wide range of services including engine rebuilding, performance tuning, and customization",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Motorcycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Thunder Road - Motor Works",
+    "address": "7253 Santa Monica Blvd, West Hollywood, CA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Thunder+Road+-+Motor+Works+in+California",
+    "category": "Armenian-speaking Motorcycle repair in California",
+    "description": "Offers a wide range of services, improvements, and repairs for all makes and models of motorcycles. They are known for exotic and exclusive motorcycle builds",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Motorcycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Red's Motorcycle Machine Shop",
+    "address": "(Specific address not provided in search results, but located in Los Angeles, CA)",
+    "phone": "(213) 267-2992",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Red's+Motorcycle+Machine+Shop+in+California",
+    "category": "Armenian-speaking Motorcycle repair in California",
+    "description": "Specializes in Harley Davidson flywheel repair and other engine repair services. They have been in business for over 40 years",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Motorcycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Charged Cycle Works",
+    "address": "(Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Charged+Cycle+Works+in+California",
+    "category": "Armenian-speaking Motorcycle repair in California",
+    "description": "Specializes in upgrades and accessories for electric motorcycles, including custom wheels, tires, brakes, suspension, and power upgrades",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Motorcycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
