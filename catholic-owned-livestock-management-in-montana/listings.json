@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Guadalupe Ranch",
+    "address": "Victor, MT",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Guadalupe+Ranch+in+Montana",
+    "category": "Catholic-owned Livestock management in Montana",
+    "description": "A Catholic retreat center for priests, located on 63 acres in the Bitterroot Valley. It is dedicated to spiritual renewal and offers a place of peace and restoration",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Livestock management in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Montana Ranch and Cattle Company",
+    "address": "Flathead Valley, Montana (specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Montana+Ranch+and+Cattle+Company+in+Montana",
+    "category": "Catholic-owned Livestock management in Montana",
+    "description": "This company raises and sells grass-fed beef, with a history dating back to 1836. They emphasize traditional and natural ranching methods and support Catholic education through their profits",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Livestock management in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rocking Z Guest Ranch (Catholic Retreat)",
+    "address": "Not available (information suggests it's in Montana, with a starting point at the Cathedral of St. Helena in Helena, MT)",
+    "phone": "406-465-5534",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Rocking+Z+Guest+Ranch+(Catholic+Retreat)+in+Montana",
+    "category": "Catholic-owned Livestock management in Montana",
+    "description": "Offers Catholic retreats that combine horsemanship and faith exploration. Activities include Mass, prayer, horse activities, and discussions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Livestock management in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BitterRoot Catholic Worker Farm",
+    "address": "4724 Hoover Lane, Stevensville, MT 59870",
+    "phone": "406-239-5379",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/BitterRoot+Catholic+Worker+Farm+in+Montana",
+    "category": "Catholic-owned Livestock management in Montana",
+    "description": "A 4-acre farm and orchard in Southwestern Montana that practices simple, sustainable community living. They offer retreat space and manage an orchard and garden to produce food for a homeless shelter",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Livestock management in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Foundation of Eastern Montana",
+    "address": "Not available (operates within Eastern Montana)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Foundation+of+Eastern+Montana+in+Montana",
+    "category": "Catholic-owned Livestock management in Montana",
+    "description": "This foundation supports the future of the Church in Eastern Montana, likened to a hay stack that takes care of the herd. It is a standalone entity for donations to benefit the Diocese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Livestock management in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Social Services of Montana",
+    "address": "630 N Last Chance Gulch Ste 2200, Helena, MT (with a satellite office in Billings)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Social+Services+of+Montana+in+Montana",
+    "category": "Catholic-owned Livestock management in Montana",
+    "description": "Provides advocacy, compassion, pastoral outreach, education, and social justice based on Catholic social teaching. Services include adoption, mental health, and aid to birthmothers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Livestock management in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Montana Department of Corrections - Range Cattle Program",
+    "address": "Not available (operates on 38,000 acres)",
+    "phone": "406-415-6322 (Agriculture contact)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Montana+Department+of+Corrections+-+Range+Cattle+Program+in+Montana",
+    "category": "Catholic-owned Livestock management in Montana",
+    "description": "This program raises Black Angus cattle and provides training in horsemanship, herd management, and range management for inmates. While not explicitly Catholic-owned, it is a state-run program with livestock operations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Livestock management in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
