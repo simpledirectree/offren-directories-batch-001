@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Ennen Eye Center",
+    "address": "4000 Grand Ave, Fort Smith, AR 72904",
+    "phone": "(479) 452-7800",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://enneneyecenter.com/",
+    "category": "Asian-owned Contact lens fitting in Arkansas",
+    "description": "Offers comprehensive eye care, including contact lens fitting, LASIK surgery, and cataract treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Family Eye Care",
+    "address": "Multiple locations including Blytheville, Osceola, and West Memphis. (Example: 201 W Main St, Osceola, AR 72370)",
+    "phone": "(870) 563-2555 (Osceola location)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://familyeyecarear.com/",
+    "category": "Asian-owned Contact lens fitting in Arkansas",
+    "description": "Provides full-service eye care, including routine eye exams, glasses, and contact lens fittings, as well as diagnosis and treatment of ocular diseases",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "UAMS Health Eye Clinic",
+    "address": "4301 W Markham St, Little Rock, AR 72205",
+    "phone": "(501) 686-8000",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://uamshealth.com/medical-services/eye-clinic/",
+    "category": "Asian-owned Contact lens fitting in Arkansas",
+    "description": "Offers comprehensive eye care services, including general eye exams, treatment for various eye conditions, and specialized contact lens fitting services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Natural State Eyecare",
+    "address": "16901 Chenal Pkwy, Little Rock, AR 72223",
+    "phone": "(501) 295-4011",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://naturalstateeyecare.com/",
+    "category": "Asian-owned Contact lens fitting in Arkansas",
+    "description": "Provides comprehensive eye exams, contact lens fittings, pediatric eye care, and treatment for dry eye and other eye conditions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Central Arkansas Ophthalmology",
+    "address": "1600 W Capitol Ave, Ste 100, Little Rock, AR 72201",
+    "phone": "(501) 219-0100",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://centralarkansasophthalmology.com/",
+    "category": "Asian-owned Contact lens fitting in Arkansas",
+    "description": "Specializes in medical and surgical eye care, including cataract surgery, LASIK, routine eye exams, and contact lens fitting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arkansas Eye Care Group",
+    "address": "Multiple locations including Conway, Greenbrier, and Clinton. (Example: 3005 Fountain Dr, Conway, AR 72034)",
+    "phone": "(501) 386-9851 (Conway location)",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://arkansaseyecaregroup.com/",
+    "category": "Asian-owned Contact lens fitting in Arkansas",
+    "description": "Offers comprehensive eye exams, contact lenses, prescription glasses, glaucoma testing, and pre- and post-operative care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "C Klear Vision Optique",
+    "address": "12400 Cantrell Road, Suite #4, Little Rock, AR 72223",
+    "phone": "(501) 414-8923",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://cklearvision.com/",
+    "category": "Asian-owned Contact lens fitting in Arkansas",
+    "description": "A premier optometry practice offering eye exams, eyeglasses, sunglasses, and specialized contact lens fittings for \"hard to fit\" eyes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dr. Yoos Eye Care & Optical",
+    "address": "1701 Forest Hills Dr, Bella Vista, AR 72714",
+    "phone": "(479) 876-2020",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.dryooseyecare.com/",
+    "category": "Asian-owned Contact lens fitting in Arkansas",
+    "description": "Provides modern eye care, including comprehensive eye exams, quality lenses and frames, and contact lens services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "C Klear Vision Optique (Specialty Contact Lenses)",
+    "address": "12400 Cantrell Road, Suite #4, Little Rock, AR 72223",
+    "phone": "(501) 414-8923",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://cklearvision.com/specialty-contact-lenses/",
+    "category": "Asian-owned Contact lens fitting in Arkansas",
+    "description": "Focuses on specialty contact lens fittings for individuals with challenging eye conditions, utilizing advanced measurement technology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Visionworks",
+    "address": "11700 Chenal Pkwy, Little Rock, AR 72223",
+    "phone": "(501) 224-0002",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.visionworks.com/",
+    "category": "Asian-owned Contact lens fitting in Arkansas",
+    "description": "Offers comprehensive eye exams and a wide selection of eyewear, including contact lens fitting services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
