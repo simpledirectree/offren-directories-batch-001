@@ -1,0 +1,19 @@
+[
+  {
+    "name": "RavenTek",
+    "address": "While RavenTek is an Alaska-Native-owned company, their services are provided remotely, and they do not have a physical presence listed in South Dakota. Their headquarters are in Alaska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://raventek.com/",
+    "category": "Alaska-Native-owned Endpoint protection in South-Dakota",
+    "description": "RavenTek is an Alaska-Native-owned company that provides technology-driven solutions, including cybersecurity, to tribal communities. They focus on Zero Trust Cybersecurity and offer comprehensive IT solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Endpoint protection in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
