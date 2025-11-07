@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Cafe Carambola",
+    "address": "610 W Hubbard Street #110, Coeur d'Alene, Idaho 83814",
+    "phone": "(208) 676-8784",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cafe-carambola.com/",
+    "category": "Central-American-owned Plated catering in Idaho",
+    "description": "This eatery serves Mexican and other Central and South American cuisines, and offers catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Plated catering in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Antigua Coffee and Beastro",
+    "address": "Located in the Fred Meyer parking lot on Locust Grove, Meridian, Idaho",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Antigua+Coffee+and+Beastro+in+Idaho",
+    "category": "Central-American-owned Plated catering in Idaho",
+    "description": "This restaurant brings Central American flavors to Meridian, offering coffee, pastries, breakfast sandwiches, and plates",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Plated catering in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "La Catracha",
+    "address": "7330 W. State St., Boise, Idaho",
+    "phone": "208-497-8243",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/La+Catracha+in+Idaho",
+    "category": "Central-American-owned Plated catering in Idaho",
+    "description": "This family-run restaurant serves \"Hispanic food from Central America,\" including pupusas and Honduran dishes. They offer dine-in and takeout",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Plated catering in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Encantos De Mi Tierra",
+    "address": "235 Main Street, Ririe, Idaho",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Encantos+De+Mi+Tierra+in+Idaho",
+    "category": "Central-American-owned Plated catering in Idaho",
+    "description": "An authentic Colombian and Ecuadorian restaurant offering South American food and desserts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Plated catering in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pig Latin",
+    "address": "775 S. Rivershore Lane, Eagle, ID 83616",
+    "phone": "(208) 723-7744",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.piglatin.com/eagle",
+    "category": "Central-American-owned Plated catering in Idaho",
+    "description": "This restaurant offers globally inspired Latin flavors with a focus on shared plates, tacos, and cocktails",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Plated catering in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lalo",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Lalo+in+Idaho",
+    "category": "Central-American-owned Plated catering in Idaho",
+    "description": "A Mexican cantina with a focus on cocktails and spirits, offering light bites",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Plated catering in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jalisco's Mexican Restaurant",
+    "address": "Idaho Falls, Idaho",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Jalisco's+Mexican+Restaurant+in+Idaho",
+    "category": "Central-American-owned Plated catering in Idaho",
+    "description": "A locally owned eatery in Idaho Falls offering Mexican cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Plated catering in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cafe Sabor",
+    "address": "Ammon, Idaho",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Cafe+Sabor+in+Idaho",
+    "category": "Central-American-owned Plated catering in Idaho",
+    "description": "This restaurant offers authentic Mexican cuisine with traditional dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Plated catering in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Morenita's Restaurant",
+    "address": "Idaho Falls, Idaho",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Morenita's+Restaurant+in+Idaho",
+    "category": "Central-American-owned Plated catering in Idaho",
+    "description": "A popular spot known for its delicious and authentic Mexican cuisine, combining an eatery with a food and gift market",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Plated catering in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "El Tenampa Catering",
+    "address": "Meridian, ID and Nampa, ID",
+    "phone": "208-284-1772 (for catering inquiries)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/El+Tenampa+Catering+in+Idaho",
+    "category": "Central-American-owned Plated catering in Idaho",
+    "description": "Offers authentic Mexican food catering services, including delivery, setup, and on-site service for various events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Plated catering in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
