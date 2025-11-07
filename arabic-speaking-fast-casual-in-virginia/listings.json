@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Lebanese Taverna",
+    "address": "Multiple locations, including 1100 N. Glebe Rd, Arlington, VA 22201",
+    "phone": "(703) 351-8061",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://lebanesetaverna.com/",
+    "category": "Arabic-speaking Fast casual in Virginia",
+    "description": "Offers classic Eastern Mediterranean and Lebanese cuisine with a fast-casual service option",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fast casual in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shawarma Inc.",
+    "address": "6215 W Broad St, Richmond, VA 23230",
+    "phone": "(804) 374-8421",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.shawarmaincrichmond.com/",
+    "category": "Arabic-speaking Fast casual in Virginia",
+    "description": "Known for its fresh, made-from-scratch savory pies (fatayer) and other Middle Eastern fast-casual options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fast casual in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lebanese Kitchen",
+    "address": "13031 Lee Jackson Memorial Hwy, Fairfax, VA 22033",
+    "phone": "(703) 378-5001",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://lebanesekitchenfairfax.com/",
+    "category": "Arabic-speaking Fast casual in Virginia",
+    "description": "Serves traditional Lebanese cuisine with a focus on fresh ingredients and authentic flavors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fast casual in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Erbil Kabob",
+    "address": "3210 Old Pickett Rd, Fairfax, VA 22031",
+    "phone": "(703) 208-1111",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://erbil-kabob.com/",
+    "category": "Arabic-speaking Fast casual in Virginia",
+    "description": "Offers authentic Iraqi cuisine, including shawarma, kabobs, and vegetarian options, with dine-in, takeout, and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fast casual in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Naf Naf Middle Eastern Grill",
+    "address": "Multiple locations, including 11715 Fair Oaks Mall, Fairfax, VA 22033",
+    "phone": "(703) 378-5001 (for Fairfax location)",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.nafnafgrill.com/",
+    "category": "Arabic-speaking Fast casual in Virginia",
+    "description": "Features made-from-scratch pitas, hand-cut salads, and award-winning shawarma and falafel in a fast-casual setting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fast casual in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hummus Republic",
+    "address": "Multiple locations, including 1100 N. Glebe Rd, Arlington, VA 22201",
+    "phone": "(703) 351-8061 (for Arlington location)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://hummusrepublic.com/",
+    "category": "Arabic-speaking Fast casual in Virginia",
+    "description": "Offers fresh, vibrant Mediterranean bowls, wraps, and plates with authentic spices and ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fast casual in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ariana Kabob",
+    "address": "3033 W Cary St, Richmond, VA 23221",
+    "phone": "(804) 355-0378",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://arianakabob.com/",
+    "category": "Arabic-speaking Fast casual in Virginia",
+    "description": "Serving authentic Middle Eastern cuisine since 1968, known for falafel, shawarma, and kebabs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fast casual in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mejana Restaurant",
+    "address": "2131 N. Pershing Dr, Arlington, VA 22201",
+    "phone": "(703) 465-4440",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.mejanarestaurant.com/",
+    "category": "Arabic-speaking Fast casual in Virginia",
+    "description": "Offers a relaxed, casual setting with authentic Lebanese food made from family recipes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fast casual in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Haifa Grill",
+    "address": "3541 Carlin Springs Rd, Falls Church, VA 22041",
+    "phone": "(703) 820-5000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://haifagrill.com/",
+    "category": "Arabic-speaking Fast casual in Virginia",
+    "description": "Specializes in authentic Palestinian cuisine, particularly known for its shawarma, falafel, and mix grill",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fast casual in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sheesh Grill",
+    "address": "8190 Strawberry Ln, Falls Church, VA 22041 and 13940 Lee Jackson Memorial Hwy Service Rd, Chantilly, VA 20151",
+    "phone": "(571) 317-0077 (Falls Church)",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://sheeshgrill.com/",
+    "category": "Arabic-speaking Fast casual in Virginia",
+    "description": "Offers authentic Middle Eastern flavors with 100% vegan and gluten-free options, focusing on heart-healthy Mediterranean ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fast casual in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
