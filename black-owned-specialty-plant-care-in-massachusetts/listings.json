@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Emerald City Plant Shop",
+    "address": "702 Washington St, Norwood, MA 02062",
+    "phone": "781-571-1086",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Emerald+City+Plant+Shop+in+Massachusetts",
+    "category": "Black-owned Specialty plant care in Massachusetts",
+    "description": "New England's first Black-owned plant shop and community incubator space, offering plant consultations, personalized in-home plant design, care tutorials, event space rentals, and plant rentals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Specialty plant care in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
