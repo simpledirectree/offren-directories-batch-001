@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Iris Eye Care & Contact Lens Gallery",
+    "address": "6550 Holly Avenue NE, Suite D1-B, Albuquerque, NM 87113",
+    "phone": "505-294-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.irismedicalgroup.com/iris-eye-care-contact-lens-gallery",
+    "category": "Asian-owned Contact lens fitting in New-Mexico",
+    "description": "Offers comprehensive eye exams and a variety of contact lens options. Dr. Puneet Rastogi is the optometrist",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "A Chan Eye Care Tradition - ABQ Eye Care, PC",
+    "address": "5341 Wyoming Blvd Ne Ste D, Albuquerque NM 87109",
+    "phone": "(505) 717-2005",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/A+Chan+Eye+Care+Tradition+-+ABQ+Eye+Care,+PC+New+Mexico",
+    "category": "Asian-owned Contact lens fitting in New-Mexico",
+    "description": "This practice has been serving New Mexico for over 50 years, founded by Dr. Tony Q. Chan. Dr. Mamie Chan also practices here, continuing the family tradition. They offer comprehensive eye care services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eye Associates of New Mexico",
+    "address": "Multiple locations including Farmington, Los Alamos, Los Lunas, Rio Rancho, and Roswell. Specific addresses for each location can be found on their website",
+    "phone": "1-866-LENS-NOW (for contact lens re-orders)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eyeassociatesofnewmexico.com/",
+    "category": "Asian-owned Contact lens fitting in New-Mexico",
+    "description": "Offers a wide range of optometry services, including contact lens fittings. They have optometrists who can fit specialty contact lenses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Contact Lens Gallery",
+    "address": "6321 Riverside Plaza Lane, Albuquerque, NM",
+    "phone": "505-897-3937",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Contact+Lens+Gallery+New+Mexico",
+    "category": "Asian-owned Contact lens fitting in New-Mexico",
+    "description": "A family eye doctor in Albuquerque offering contact lenses and eyeglasses. They provide free delivery on select brands of contact lenses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Contact Lens Associates",
+    "address": "4253 Montgomery Blvd NE Suite 110, Albuquerque, NM 87109",
+    "phone": "505.883.2550",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Contact+Lens+Associates+New+Mexico",
+    "category": "Asian-owned Contact lens fitting in New-Mexico",
+    "description": "Provides comprehensive eye exams, contact lenses, and eyeglasses. They have been serving patients since 1980",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Contact lens fitting in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
