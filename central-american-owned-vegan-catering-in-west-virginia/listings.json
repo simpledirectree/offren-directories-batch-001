@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Breakfast Caffe",
+    "address": "301 High St, Morgantown, WV 26505",
+    "phone": "(304) 296-2233",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.breakfastcaffe.com/",
+    "category": "Central-American-owned Vegan catering in West-Virginia",
+    "description": "Offers catering services with vegan and gluten-free options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vegan catering in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kelley Farm Kitchen",
+    "address": "200 W Main St, Bolivar, WV 26138",
+    "phone": "(304) 827-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.kelleyfarmkitchen.com/",
+    "category": "Central-American-owned Vegan catering in West-Virginia",
+    "description": "West Virginia's first vegan restaurant, offering plant-based meals with organic ingredients. They offer takeout and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vegan catering in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Roots Natural Kitchen",
+    "address": "405 University Ave, Morgantown, WV 26505",
+    "phone": "(304) 291-2200",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://rootsnk.com/",
+    "category": "Central-American-owned Vegan catering in West-Virginia",
+    "description": "Offers healthy salads and grain bowls with catering options for events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vegan catering in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Los Agaves Mexican Restaurant",
+    "address": "4014 MacCorkle Ave SE, South Charleston, WV 25304",
+    "phone": "(304) 768-0000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.losagaveswv.com/",
+    "category": "Central-American-owned Vegan catering in West-Virginia",
+    "description": "A family-owned Mexican restaurant offering dine-in, takeout, and catering services. While not exclusively vegan, they offer authentic Mexican flavors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vegan catering in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cathedral Cafe",
+    "address": "134 South Court St, Fayetteville, WV 25840",
+    "phone": "(304) 574-4444",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://cathedralcafe.com/",
+    "category": "Central-American-owned Vegan catering in West-Virginia",
+    "description": "Offers a variety of vegan and vegetarian options for breakfast and lunch",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vegan catering in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chetty's Pub at Adventures on the Gorge",
+    "address": "219 Chestnutburg Road, Lansing, WV 25862",
+    "phone": "(855) 378-3904",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://adventuresonthelargest.com/dining/chettys-pub/",
+    "category": "Central-American-owned Vegan catering in West-Virginia",
+    "description": "Offers vegan and vegetarian options, suitable for post-adventure dining",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vegan catering in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "El Bandido Mexican Restaurant",
+    "address": "2027 Main Street East, Oak Hill, WV 25901",
+    "phone": "(304) 465-0000",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/El+Bandido+Mexican+Restaurant+West+Virginia",
+    "category": "Central-American-owned Vegan catering in West-Virginia",
+    "description": "Features a dedicated vegetarian section on its menu, with options that can often be made vegan",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vegan catering in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Paisanos Latin Cuisine",
+    "address": "1010 N Eisenhower Dr, Beckley, WV 25801",
+    "phone": "(304) 253-5000",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.paisanoslatincuisine.com/",
+    "category": "Central-American-owned Vegan catering in West-Virginia",
+    "description": "Offers a variety of Latin American dishes, including pupusas, which can be a vegan option. They have online ordering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vegan catering in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Greene Turtle",
+    "address": "Multiple locations, including 1131 University Ave, Morgantown, WV 26505",
+    "phone": "(304) 291-2000 (Morgantown location)",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.thegreenturtle.com/locations/morgantown",
+    "category": "Central-American-owned Vegan catering in West-Virginia",
+    "description": "A sports bar chain that offers a casual menu with some vegan and vegetarian options and catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vegan catering in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Flamingo Legs Catering",
+    "address": "Monongahela, PA (travels to Wheeling, WV)",
+    "phone": "",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.theknot.com/marketplace/flamingo-legs-catering-monongahela-pa-2054632",
+    "category": "Central-American-owned Vegan catering in West-Virginia",
+    "description": "A husband-and-wife-owned business that provides catering services and travels to areas like Wheeling, WV. They offer chef-inspired culinary delights and are noted for vegan options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vegan catering in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
