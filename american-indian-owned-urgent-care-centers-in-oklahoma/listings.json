@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Choctaw Nation Health Care Center (Urgent Care)",
+    "address": "Talihina, OK (Specific street address not readily available, but it is the main health center in Talihina)",
+    "phone": "918-567-7000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.choctawnation.com/services/health/",
+    "category": "American-Indian-owned Urgent care centers in Oklahoma",
+    "description": "Offers emergency and urgent care services 24 hours a day, seven days a week",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Urgent care centers in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Citizen Potawatomi Nation East Clinic (Immediate Care)",
+    "address": "2307 S. Gordon Cooper Dr., Shawnee, OK 74801",
+    "phone": "405-214-5101 (Behavioral Health), 405-273-5236 (Main Phone - East Clinic)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.potawatomi.org/services/health/clinics/",
+    "category": "American-Indian-owned Urgent care centers in Oklahoma",
+    "description": "Provides immediate care for minor medical issues on a walk-in basis from 1-5 p.m. weekdays",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Urgent care centers in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Citizen Potawatomi Nation West Clinic (Immediate Care)",
+    "address": "781 Grand Casino Blvd., Shawnee, OK 74804",
+    "phone": "405-695-6004 (Physical Therapy), 405-695-6285 (Chiropractic Care Clinic)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.potawatomi.org/services/health/clinics/",
+    "category": "American-Indian-owned Urgent care centers in Oklahoma",
+    "description": "Offers immediate care for minor medical issues on a walk-in basis from 1-5 p.m. weekdays",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Urgent care centers in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PlusCare (Absentee Shawnee Tribal Health System)",
+    "address": "Little Axe Health Center, 15951 Little Axe Drive, Norman, OK 73026",
+    "phone": "405-447-0477",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://asthealth.org/services/pluscare-walk-in-clinic/",
+    "category": "American-Indian-owned Urgent care centers in Oklahoma",
+    "description": "An acute care facility treating non-life-threatening illnesses and injuries on a walk-in basis",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Urgent care centers in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shawnee Clinic (Absentee Shawnee Tribal Health System)",
+    "address": "2029 S. Gordon Cooper Drive, Shawnee, OK 74801",
+    "phone": "405-878-5850",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://asthealth.org/",
+    "category": "American-Indian-owned Urgent care centers in Oklahoma",
+    "description": "Offers walk-in services for urgent needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Urgent care centers in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cherokee Nation Same Day Clinic (SDC)",
+    "address": "Cherokee Nation Outpatient Health Center, Tahlequah, OK (Specific street address not readily available, but located on the first floor of the CNOHC)",
+    "phone": "539-234-1270",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cherokee.org/services/health/clinics/",
+    "category": "American-Indian-owned Urgent care centers in Oklahoma",
+    "description": "Provides access to medical care on short notice for minor medical needs. Walk-ins are welcome",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Urgent care centers in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chickasaw Nation Medical Center (Urgent Care within Emergency Department)",
+    "address": "1921 Stonecipher Blvd., Ada, Oklahoma 74820",
+    "phone": "580-436-3980 (Main Line)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chickasaw.net/services/health/medical-center",
+    "category": "American-Indian-owned Urgent care centers in Oklahoma",
+    "description": "The Emergency Department includes an urgent care for less serious conditions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Urgent care centers in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Antlers Community Health Clinic (Choctaw Nation)",
+    "address": "506 N Hwy 271, Suite C, Antlers, Okla",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.choctawnation.com/services/health/",
+    "category": "American-Indian-owned Urgent care centers in Oklahoma",
+    "description": "Offers walk-in services for conditions such as minor injuries and infections",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Urgent care centers in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Osage Nation Wahzhazhe Health Center (Pawhuska)",
+    "address": "715 Grandview Avenue, Pawhuska, OK 74056",
+    "phone": "918-287-9300",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.osagenation-nsn.gov/services/health/wahzhazhe-health-center",
+    "category": "American-Indian-owned Urgent care centers in Oklahoma",
+    "description": "Provides community clinic services, but does not take emergency appointments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Urgent care centers in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Indian Health Care Resource Center (Tulsa)",
+    "address": "530 S. Lewis Ave, Tulsa, OK 74104",
+    "phone": "918-588-1900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ihcrc.org/",
+    "category": "American-Indian-owned Urgent care centers in Oklahoma",
+    "description": "A non-emergency outpatient clinic offering general medicine, \"sick\" care, and wellness care. Walk-in hours are available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Urgent care centers in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
