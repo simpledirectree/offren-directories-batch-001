@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Hudson Eye Physicians & Surgeons",
+    "address": "Multiple locations including Bayonne, Millburn, and Jersey City",
+    "phone": "Bayonne: (201) 963-9187, Millburn: (973) 912-9100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hudsoneye.com/",
+    "category": "Arabic-speaking Optical retail in New-Jersey",
+    "description": "Offers a wide range of eyewear, including designer frames and sunglasses, with knowledgeable opticians. They have multiple locations across New Jersey",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Optical retail in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Optical Shoppe",
+    "address": "Multiple locations including Princeton, Monroe Township, and Somerset",
+    "phone": "Princeton: 609-683-7994, Monroe Township: 609-655-7776, Somerset: 732-565-1440",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theopticalshoppe.com/",
+    "category": "Arabic-speaking Optical retail in New-Jersey",
+    "description": "Provides personalized service for frame selection and prescription lenses, with licensed opticians available for adjustments. They offer a wide variety of frames and high-quality lenses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Optical retail in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Outlook Eyecare",
+    "address": "Multiple locations in Princeton and Monroe, NJ",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.outlookeyecare.com/",
+    "category": "Arabic-speaking Optical retail in New-Jersey",
+    "description": "Offers a wide selection of designer frames and high-quality lenses, with experienced opticians to assist in choosing the best eyewear for your needs and style",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Optical retail in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Eye Center (Optical Shop)",
+    "address": "Multiple locations including Edison, Warren, and Piscataway, NJ",
+    "phone": "Warren: (732) 356-6200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theeyecare.com/",
+    "category": "Arabic-speaking Optical retail in New-Jersey",
+    "description": "Features licensed opticians to guide customers in selecting prescription eyewear. They carry a wide range of brands and frames, including Essilor products",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Optical retail in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maple Eyecare",
+    "address": "140 E Ridgewood Ave, Ridgewood, NJ 07450",
+    "phone": "(201) 444-3939",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mapleyecare.com/",
+    "category": "Arabic-speaking Optical retail in New-Jersey",
+    "description": "Offers comprehensive eye care services. Dr. Tasnim Zakaria, an optometrist on staff, is fluent in Arabic and has received honors in patient care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Optical retail in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
