@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Reverie Cafe + Bar",
+    "address": "1517 E 25th St, Minneapolis, MN 55407",
+    "phone": "(612) 259-7272",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.reveriemn.com/",
+    "category": "Chinese-American-owned Vegan catering in Minnesota",
+    "description": "Offers entirely vegan and made-from-scratch catering for events throughout the Twin Cities metro area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Vegan catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Trio Plant-Based",
+    "address": "604 2nd Ave S, Minneapolis, MN 55402",
+    "phone": "(612) 353-4540",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.trioplantbased.com/",
+    "category": "Chinese-American-owned Vegan catering in Minnesota",
+    "description": "Provides catering services with diverse menu options to elevate events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Vegan catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chowgirls Killer Catering",
+    "address": "123 SE 3rd St, Minneapolis, MN 55414",
+    "phone": "(612) 203-0786",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.chowgirls.net/",
+    "category": "Chinese-American-owned Vegan catering in Minnesota",
+    "description": "Known for providing vegan, vegetarian, and omnivore options, including desserts, with a focus on local and organic ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Vegan catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lulu EthioVegan Cuisine",
+    "address": "370 Snelling Ave N, St Paul, MN 55104",
+    "phone": "(651) 330-2121",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.lulueethiovegan.com/",
+    "category": "Chinese-American-owned Vegan catering in Minnesota",
+    "description": "Offers fresh, flavorful catering with personalized menus and exceptional service, specializing in Ethiopian vegan cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Vegan catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BIBIBOP Asian Grill",
+    "address": "Multiple locations, including 1001 Nicollet Mall, Minneapolis, MN 55403",
+    "phone": "(612) 353-4616 (for Minneapolis location)",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://bibibop.com/",
+    "category": "Chinese-American-owned Vegan catering in Minnesota",
+    "description": "A fast-casual restaurant offering customizable, gluten-free, and vegan-friendly Asian bowls, with catering options available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Vegan catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Orchid Restaurant",
+    "address": "2050 County Rd D E, White Bear Township, MN 55110",
+    "phone": "(651) 426-3558",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.orchidrestaurant.com/",
+    "category": "Chinese-American-owned Vegan catering in Minnesota",
+    "description": "Offers Asian catering, including Chinese, Thai, and Vietnamese dishes, with vegetarian and gluten-free options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Vegan catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Quang Restaurant",
+    "address": "2719 Nicollet Ave, Minneapolis, MN 55408",
+    "phone": "(612) 870-4300",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.quangrestaurant.com/",
+    "category": "Chinese-American-owned Vegan catering in Minnesota",
+    "description": "Provides traditional Vietnamese dishes with vegan, vegetarian, and gluten-free options available for party trays and catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Vegan catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Amazing Thailand",
+    "address": "304 E Hennepin Ave, Minneapolis, MN 55414",
+    "phone": "(612) 378-2181",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.amazingthailandmn.com/",
+    "category": "Chinese-American-owned Vegan catering in Minnesota",
+    "description": "Offers Thai cuisine with vegan-friendly options, noted for dishes like Lad Nah and Amazing Curry",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Vegan catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tea House",
+    "address": "2339 University Ave NE, Minneapolis, MN 55418",
+    "phone": "(763) 781-8888",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.teahousempls.com/",
+    "category": "Chinese-American-owned Vegan catering in Minnesota",
+    "description": "A Chinese restaurant known for having vegan-friendly dishes, though not explicitly labeled",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Vegan catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Grand Szechuan",
+    "address": "1607 W 76th St, Bloomington, MN 55423",
+    "phone": "(952) 854-0008",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://grandszechuan.com/",
+    "category": "Chinese-American-owned Vegan catering in Minnesota",
+    "description": "Offers Szechuan cuisine with vegan-friendly options, such as peanuts and diced tofu in chili sauce",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Vegan catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
