@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Acumium",
+    "address": "10000 W Innovation Dr, Milwaukee, WI 53226",
+    "phone": "(608) 310-9700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://acumium.com/",
+    "category": "Asian-owned Microservices architecture in Wisconsin",
+    "description": "Offers custom software development, web design, and IT managed services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Microservices architecture in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Code District",
+    "address": "310 E Buffalo St, Milwaukee, WI 53202",
+    "phone": "(414) 436-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://codedistrict.com/",
+    "category": "Asian-owned Microservices architecture in Wisconsin",
+    "description": "Specializes in custom software development, web and mobile app development, and digital transformation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Microservices architecture in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bendyworks",
+    "address": "14 W Mifflin St, Madison, WI 53703",
+    "phone": "(608) 250-9900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bendyworks.com/",
+    "category": "Asian-owned Microservices architecture in Wisconsin",
+    "description": "A software development firm known for its expertise in e-commerce solutions and custom software",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Microservices architecture in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Trek10",
+    "address": "1033 N Old World 3rd St, Milwaukee, WI 53203",
+    "phone": "(414) 409-0010",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.trek10.com/",
+    "category": "Asian-owned Microservices architecture in Wisconsin",
+    "description": "A cloud-native company specializing in scalable e-commerce solutions, leveraging AWS",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Microservices architecture in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RokkinCat",
+    "address": "1033 N Old World 3rd St, Milwaukee, WI 53203",
+    "phone": "(414) 409-0010",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://rokkincat.com/",
+    "category": "Asian-owned Microservices architecture in Wisconsin",
+    "description": "Develops custom software solutions, with expertise in e-commerce development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Microservices architecture in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "8th Light",
+    "address": "1033 N Old World 3rd St, Milwaukee, WI 53203",
+    "phone": "(414) 409-0010",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.8thlight.com/",
+    "category": "Asian-owned Microservices architecture in Wisconsin",
+    "description": "Offers comprehensive software development services, including e-commerce app development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Microservices architecture in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PerBlue",
+    "address": "14 W Mifflin St, Madison, WI 53703",
+    "phone": "(608) 250-9900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.perblue.com/",
+    "category": "Asian-owned Microservices architecture in Wisconsin",
+    "description": "Known for mobile app creation, with expertise in developing e-commerce mobile applications",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Microservices architecture in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MC Services",
+    "address": "10700 W Research Dr, Milwaukee, WI 53226",
+    "phone": "(414) 436-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mcservices.com/",
+    "category": "Asian-owned Microservices architecture in Wisconsin",
+    "description": "Provides IT consulting services, cloud solutions, and network optimization",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Microservices architecture in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "WiSolve Consulting Group",
+    "address": "600 Williamson St, Madison, WI 53703",
+    "phone": "(608) 250-9900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://wisolve.org/",
+    "category": "Asian-owned Microservices architecture in Wisconsin",
+    "description": "Offers research-based business recommendations and consulting services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Microservices architecture in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Strudel AI, Inc.",
+    "address": "600 Williamson St, Madison, WI 53703",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://strudel.ai/",
+    "category": "Asian-owned Microservices architecture in Wisconsin",
+    "description": "Automates technical customer support for software companies using AI",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Microservices architecture in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
