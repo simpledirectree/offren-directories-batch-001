@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Dupont's Service Center",
+    "address": "103 Broadway, Dover, NH 03820",
+    "phone": "(603) 742-1142",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.dupontservice.com/",
+    "category": "Baby-Boomer-owned Mobile auto repair in New-Hampshire",
+    "description": "A long-standing independent auto repair shop offering a wide range of services for all makes and models, including diagnostics, brake repair, and state inspections",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Mobile auto repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HM Motorworks",
+    "address": "103 Daniel Webster Hwy, Merrimack, NH 03054",
+    "phone": "(603) 429-0400",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.hmmotorworks.com/",
+    "category": "Baby-Boomer-owned Mobile auto repair in New-Hampshire",
+    "description": "A leading luxury automotive repair center specializing in all makes and models, with a focus on customer service and expert craftsmanship",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Mobile auto repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asetex Tire & Auto",
+    "address": "105 Washington St, Claremont, NH 03743",
+    "phone": "(603) 542-7777",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://asetexauto.com/",
+    "category": "Baby-Boomer-owned Mobile auto repair in New-Hampshire",
+    "description": "A trusted auto repair shop offering expert car repairs, tire services, and NH State Inspections for a wide range of domestic, Asian, and European vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Mobile auto repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Northwood Garage",
+    "address": "258 1st New Hampshire Turnpike, Northwood, NH 03261",
+    "phone": "(603) 942-8882",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.northwoodgarage.com/",
+    "category": "Baby-Boomer-owned Mobile auto repair in New-Hampshire",
+    "description": "An auto repair and tire shop providing reliable automotive services and products to ensure vehicles reliably reach their destinations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Mobile auto repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Midas",
+    "address": "Multiple locations in NH, including Concord, Keene, Manchester, Plaistow, Rochester, and Salem",
+    "phone": "Varies by location (e.g., Concord: (603) 224-1900)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.midas.com/locations/nh",
+    "category": "Baby-Boomer-owned Mobile auto repair in New-Hampshire",
+    "description": "A national chain offering new tires and a comprehensive range of automotive services, including maintenance, oil changes, brakes, and batteries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Mobile auto repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jim Boudreau's Automotive Service Center",
+    "address": "31 W Hollis St, Nashua, NH 03060",
+    "phone": "(603) 882-5200",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.jimboudreauautomotive.com/",
+    "category": "Baby-Boomer-owned Mobile auto repair in New-Hampshire",
+    "description": "Known for being honest, fair on prices, and knowledgeable in car repair, with a BBB rating of A+",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Mobile auto repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Reliance Autocare",
+    "address": "32 Amherst St, Nashua, NH 03060",
+    "phone": "(603) 882-3000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://relianceautocare.com/",
+    "category": "Baby-Boomer-owned Mobile auto repair in New-Hampshire",
+    "description": "Praised for excellent customer service, attention to detail, high-quality repairs, integrity, and affordable pricing, with a BBB rating of A+",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Mobile auto repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "P & N Automotive Services",
+    "address": "175 Loudon Rd, Concord, NH 03301",
+    "phone": "(603) 224-1900",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.p-nauto.com/",
+    "category": "Baby-Boomer-owned Mobile auto repair in New-Hampshire",
+    "description": "A trusted source for automotive repair needs on all makes and models, offering affordable service and peace of mind",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Mobile auto repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bob & Sons Automotive Inc.",
+    "address": "1002 Hooksett Rd, Manchester, NH 03104",
+    "phone": "(603) 669-4400",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.bobandsonsauto.com/",
+    "category": "Baby-Boomer-owned Mobile auto repair in New-Hampshire",
+    "description": "A family-owned and operated business for three generations, offering top-notch auto repair and maintenance for domestic, foreign, hybrid, and electric vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Mobile auto repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ron's Toy Shop",
+    "address": "235 Elm St, Manchester, NH 03101",
+    "phone": "(603) 669-9682",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.ronstoyshop.com/",
+    "category": "Baby-Boomer-owned Mobile auto repair in New-Hampshire",
+    "description": "A premier auto repair facility with over 30 years of experience, specializing in servicing foreign and domestic vehicles, including classics and hybrids. They are an AAA Approved Auto Repair Facility and NAPA Auto Care Center",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Mobile auto repair in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
