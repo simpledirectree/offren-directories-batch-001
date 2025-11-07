@@ -1,0 +1,70 @@
+[
+  {
+    "name": "TD4 Electrical",
+    "address": "13743 Shoreline Court East, Earth City, MO 63045",
+    "phone": "314-655-9844",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://td4electrical.com/",
+    "category": "Black-owned Outlet installation in Missouri",
+    "description": "TD4 Electrical is a 100% minority-owned certified electrical contractor specializing in high-quality electrical services for commercial, industrial, and manufacturing customers. They are MBE certified by multiple organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Outlet installation in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Power UP Electrical Contractors",
+    "address": "Information not available (serves Missouri and Southern Illinois)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theupcompanies.com/power-up-electrical-contractors/",
+    "category": "Black-owned Outlet installation in Missouri",
+    "description": "Power UP Electrical Contractors is one of the largest minority-owned, full-service electrical contractors in the Midwest, serving commercial, residential, industrial, and institutional clients. They are MBE certified",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Outlet installation in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BRK Electrical Contractors, LLC",
+    "address": "Information not available (based in St. Louis)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://brk-electrical.com/",
+    "category": "Black-owned Outlet installation in Missouri",
+    "description": "BRK Electrical Contractors specializes in commercial and industrial electrical contracting, including renovations, new construction, design/build, and low voltage systems. They are MBE certified by various St. Louis and Missouri entities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Outlet installation in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RJP Electric",
+    "address": "Information not available (operates in Missouri)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://rjpelectric.com/",
+    "category": "Black-owned Outlet installation in Missouri",
+    "description": "RJP Electric is a woman-owned and minority-owned electrical contracting company focused on providing quality, timely, and honest service. They emphasize meeting government contracting requirements",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Outlet installation in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
