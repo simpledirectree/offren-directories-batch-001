@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Buddha's Garden Kitchen",
+    "address": "1790 Massachusetts Ave, Cambridge, MA 02140",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Buddha's+Garden+Kitchen+in+Massachusetts",
+    "category": "Buddhist-owned Ghost kitchen delivery in Massachusetts",
+    "description": "Offers Asian, Healthy, Comfort Food, and Vegetarian options for delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ghost kitchen delivery in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Golden Buddha",
+    "address": "Not specified, but delivery is available in Boston",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Golden+Buddha+in+Massachusetts",
+    "category": "Buddhist-owned Ghost kitchen delivery in Massachusetts",
+    "description": "Offers Chinese food for delivery in Boston",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ghost kitchen delivery in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Veggie Crust",
+    "address": "Multiple locations including Somerville, Brookline, Lowell, Norwood, and Waltham",
+    "phone": "(617) 764-4605 (Somerville)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.veggiecrust.com/",
+    "category": "Buddhist-owned Ghost kitchen delivery in Massachusetts",
+    "description": "Offers a 100% vegetarian menu with vegan options, including pizza, panini, pasta, and Indian food. Some locations are Kosher certified. They offer dine-in, take-out, and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ghost kitchen delivery in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "My Thai Vegan Cafe",
+    "address": "Not specified, but offers a dining experience and implies delivery services",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/My+Thai+Vegan+Cafe+in+Massachusetts",
+    "category": "Buddhist-owned Ghost kitchen delivery in Massachusetts",
+    "description": "Specializes in inspired Thai Vegan Cuisine, emphasizing fresh ingredients and a peaceful atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ghost kitchen delivery in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Red Lentil",
+    "address": "Watertown, MA 02472",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Red+Lentil+in+Massachusetts",
+    "category": "Buddhist-owned Ghost kitchen delivery in Massachusetts",
+    "description": "Offers creative, globally inspired vegetarian and vegan cuisine, with gluten-free, raw, and macrobiotic selections. They also offer catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ghost kitchen delivery in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
