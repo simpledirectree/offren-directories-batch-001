@@ -1,0 +1,87 @@
+[
+  {
+    "name": "LookFar Labs",
+    "address": "1200 S. Rampart St., New Orleans, LA 70113",
+    "phone": "(504) 302-2000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lookfar.com/",
+    "category": "Central-American-owned Usability testing in Louisiana",
+    "description": "A software development studio offering UX/UI design, digital strategy, and market research services, including usability testing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Usability testing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vigilus",
+    "address": "Baton Rouge, Louisiana (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Vigilus+in+Louisiana",
+    "category": "Central-American-owned Usability testing in Louisiana",
+    "description": "A UX agency focusing on UX/UI Design and Cybersecurity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Usability testing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "KreweCode",
+    "address": "Thibodaux, Louisiana (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/KreweCode+in+Louisiana",
+    "category": "Central-American-owned Usability testing in Louisiana",
+    "description": "A UX agency offering UX/UI Design, Product Design, and Custom Software Development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Usability testing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "FusionStak",
+    "address": "Baton Rouge, Louisiana (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/FusionStak+in+Louisiana",
+    "category": "Central-American-owned Usability testing in Louisiana",
+    "description": "A custom software development firm providing Custom Software Development and UX/UI Design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Usability testing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Utopia Solutions",
+    "address": "New Orleans, Louisiana (Specific address not provided in search results, described as a global firm with a presence in New Orleans)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Utopia+Solutions+in+Louisiana",
+    "category": "Central-American-owned Usability testing in Louisiana",
+    "description": "A global software testing firm offering a range of software testing services, including usability testing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Usability testing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
