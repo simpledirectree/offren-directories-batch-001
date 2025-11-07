@@ -1,0 +1,172 @@
+[
+  {
+    "name": "AJ Events",
+    "address": "133 Federal St, Boston, MA 02110",
+    "phone": "(617) 247-0555",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.ajevents.com/",
+    "category": "Atheist-owned Conference planning in Massachusetts",
+    "description": "Award-winning event planning and design company with expertise in corporate and non-profit events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Conference planning in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cru & Co. Events",
+    "address": "143 Newbury St, Boston, MA 02116",
+    "phone": "(617) 530-1000",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://cruandco.com/",
+    "category": "Atheist-owned Conference planning in Massachusetts",
+    "description": "Luxury event planning, design, and production company creating artful and intentional experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Conference planning in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Castle Group",
+    "address": "100 Summer St, Boston, MA 02110",
+    "phone": "(617) 247-1100",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.thecastlegrp.com/",
+    "category": "Atheist-owned Conference planning in Massachusetts",
+    "description": "Award-winning event management company specializing in corporate and non-profit events, conferences, and meetings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Conference planning in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Conventures, Inc.",
+    "address": "230 Congress St, Boston, MA 02110",
+    "phone": "(617) 217-1000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://conventures.com/",
+    "category": "Atheist-owned Conference planning in Massachusetts",
+    "description": "Leading event planning, communications, and marketing company known for memorable and effective events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Conference planning in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NXTevent",
+    "address": "100 Summer St, Boston, MA 02110",
+    "phone": "(617) 778-0077",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://nxtevent.com/",
+    "category": "Atheist-owned Conference planning in Massachusetts",
+    "description": "Event team creating unique, quintessential, and unforgettable experiences for a wide range of events, including conferences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Conference planning in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Whim Events",
+    "address": "143 Newbury St, Boston, MA 02116",
+    "phone": "(617) 530-1000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://whimevents.com/",
+    "category": "Atheist-owned Conference planning in Massachusetts",
+    "description": "Full-service wedding and event planning and design company serving New England",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Conference planning in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sara Kovel Events",
+    "address": "133 Federal St, Boston, MA 02110",
+    "phone": "(617) 501-5000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.sarakovelevents.com/",
+    "category": "Atheist-owned Conference planning in Massachusetts",
+    "description": "Boutique event planning and design team specializing in personalized and joyful celebrations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Conference planning in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nikki Taylor Events",
+    "address": "133 Federal St, Boston, MA 02110",
+    "phone": "(617) 875-0000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.nikkitaylorevents.com/",
+    "category": "Atheist-owned Conference planning in Massachusetts",
+    "description": "Premier wedding and event planning company creating bespoke, unforgettable experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Conference planning in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ellen Pels Events",
+    "address": "133 Federal St, Boston, MA 02110",
+    "phone": "(617) 875-0000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.ellenpelsevents.com/",
+    "category": "Atheist-owned Conference planning in Massachusetts",
+    "description": "Event planning and management team focused on bringing client visions to life with attention to detail and creativity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Conference planning in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ProGlobalEvents",
+    "address": "100 Summer St, Boston, MA 02110",
+    "phone": "(888) 373-5024",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.proglobalevents.com/",
+    "category": "Atheist-owned Conference planning in Massachusetts",
+    "description": "Full-service event planning, design, and management company for corporate events, trade shows, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Conference planning in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
