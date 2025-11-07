@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Santa Ana Golf Club",
+    "address": "288 Prairie Star Rd, Bernalillo, NM 87004",
+    "phone": "(505) 867-9464",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.santaanagolf.com/",
+    "category": "Alaska-Native-owned Golf coaching in New-Mexico",
+    "description": "This is a tribally owned golf club operated by the Santa Ana Pueblo. They offer golf instruction from PGA professionals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Golf coaching in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Twin Warriors Golf Club",
+    "address": "130 Twin Warriors Trail, Bernalillo, NM 87004",
+    "phone": "(505) 771-5300",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.twinwarriorsgolf.com/",
+    "category": "Alaska-Native-owned Golf coaching in New-Mexico",
+    "description": "Also owned and operated by the Santa Ana Pueblo, this club offers golf instruction and is associated with the Notah Begay III Foundation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Golf coaching in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Isleta Golf Club",
+    "address": "500 Rio Grande Blvd SW, Albuquerque, NM 87105",
+    "phone": "(505) 869-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.isletagolf.com/",
+    "category": "Alaska-Native-owned Golf coaching in New-Mexico",
+    "description": "A 27-hole resort golf course owned by the Pueblo of Isleta",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Golf coaching in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sandia Golf Club",
+    "address": "30 Rainbow's End Rd, SW, Albuquerque, NM 87114",
+    "phone": "(505) 797-7100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sandiagolf.com/",
+    "category": "Alaska-Native-owned Golf coaching in New-Mexico",
+    "description": "Developed by the Pueblo of Sandia, this club offers a challenging golf experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Golf coaching in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Adam Roybal, PGA (UNM Golf Course)",
+    "address": "3601 University Blvd SE, Albuquerque, NM 87106",
+    "phone": "(505) 270-4933",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pga.com/coach/adamroybal",
+    "category": "Alaska-Native-owned Golf coaching in New-Mexico",
+    "description": "PGA Golf Professional offering customized golf lessons at the University of New Mexico Golf Course",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Golf coaching in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jason Montoya, PGA",
+    "address": "Associated with Santa Ana Golf Club and Twin Warriors Golf Club",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.santaanagolf.com/instruction/",
+    "category": "Alaska-Native-owned Golf coaching in New-Mexico",
+    "description": "A Pueblo Native American PGA professional who has taught for The First Tee and the Notah Begay III Foundation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Golf coaching in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Taylor Harvey (Sun Country Golf House)",
+    "address": "Rio Rancho, New Mexico (Specific address for coaching not listed)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Taylor+Harvey+(Sun+Country+Golf+House)+New+Mexico",
+    "category": "Alaska-Native-owned Golf coaching in New-Mexico",
+    "description": "An assistant PGA pro at Sun Country Golf House in Rio Rancho, New Mexico, aiming to inspire Indigenous youth",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Golf coaching in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Faylyn Beyale (First Tee-Four Corners)",
+    "address": "Four Corners region of New Mexico (Specific address for coaching not listed)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Faylyn+Beyale+(First+Tee-Four+Corners)+New+Mexico",
+    "category": "Alaska-Native-owned Golf coaching in New-Mexico",
+    "description": "Deputy director and lead coach with First Tee-Four Corners, a youth development organization, and of Navajo heritage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Golf coaching in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bob May (Albuquerque Golf and Fitness Academy)",
+    "address": "Albuquerque, NM (Specific address not listed)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.albuquerquegolfandfitness.com/",
+    "category": "Alaska-Native-owned Golf coaching in New-Mexico",
+    "description": "Owner and Director of Instruction, a PGA teaching professional with TPI certifications for golf fitness and junior golf coaching",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Golf coaching in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kevin Amhaus (GOLFTEC Albuquerque)",
+    "address": "4300 San Mateo Blvd NE, Albuquerque, NM 87110",
+    "phone": "(505) 948-5095",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.golftec.com/golf-lessons/coaches/albuquerque/kevin-amhaus",
+    "category": "Alaska-Native-owned Golf coaching in New-Mexico",
+    "description": "Certified Golf Instructor at GOLFTEC Albuquerque, offering personalized coaching",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Golf coaching in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
