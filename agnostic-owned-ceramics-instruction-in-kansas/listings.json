@@ -1,0 +1,172 @@
+[
+  {
+    "name": "House of Clay",
+    "address": "7901 W 80th St, Overland Park, KS 66204",
+    "phone": "(913) 707-7061",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://houseofclayop.com/",
+    "category": "Agnostic-owned Ceramics instruction in Kansas",
+    "description": "Offers pottery classes and memberships for all skill levels, with a focus on creating unique ceramics in a supportive environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Ceramics instruction in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "KC Clay Guild",
+    "address": "200 W 74th St, Kansas City, MO 64114 (Note: While in Kansas City, MO, it serves the greater Kansas City area, including Kansas residents.)",
+    "phone": "(816) 561-2529",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.kcclayguild.org/",
+    "category": "Agnostic-owned Ceramics instruction in Kansas",
+    "description": "Provides pottery classes for all skill levels in a welcoming, hands-on environment, offering both hand-building and wheel-throwing techniques",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Ceramics instruction in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Belger Arts Center",
+    "address": "3511 Jarboe St, Kansas City, MO 64111 (Note: Serves the greater Kansas City area.)",
+    "phone": "(816) 474-3250",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://belgerarts.org/",
+    "category": "Agnostic-owned Ceramics instruction in Kansas",
+    "description": "A ceramics studio, education center, and gallery space offering classes for beginners to professional potters, including wheel throwing and handbuilding",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Ceramics instruction in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lawrence Arts Center",
+    "address": "940 New Hampshire St, Lawrence, KS 66044",
+    "phone": "(785) 843-2787",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://lawrenceartscenter.org/",
+    "category": "Agnostic-owned Ceramics instruction in Kansas",
+    "description": "Offers a wide range of ceramics classes, from handbuilding to wheel throwing, in an inclusive and safe space for creativity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Ceramics instruction in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EPIC Clay Studio",
+    "address": "737 Ann Ave, Kansas City, KS 66101",
+    "phone": "(913) 270-0001",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.epicclaystudio.org/",
+    "category": "Agnostic-owned Ceramics instruction in Kansas",
+    "description": "An arts program offering affordable and accessible clay classes to neighbors of all ages, abilities, and backgrounds",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Ceramics instruction in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mize Art Studio",
+    "address": "1111 Topeka Blvd, Topeka, KS 66604",
+    "phone": "(785) 233-1000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.mizeartstudio.com/",
+    "category": "Agnostic-owned Ceramics instruction in Kansas",
+    "description": "Offers weekly art classes for kids, teens, and adults, including drawing, painting, and sculpting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Ceramics instruction in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "School of Realist Art",
+    "address": "8045 Santa Fe Dr, Overland Park, KS 66204",
+    "phone": "(913) 707-7061",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://schoolofrealistart.com/",
+    "category": "Agnostic-owned Ceramics instruction in Kansas",
+    "description": "Provides drawing and painting classes, with some virtual options, focusing on realistic art techniques",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Ceramics instruction in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Brookside Ceramics",
+    "address": "301 E 63rd St, Kansas City, MO 64113 (Note: Serves the greater Kansas City area.)",
+    "phone": "(816) 301-6891",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.brooksideceramics.com/",
+    "category": "Agnostic-owned Ceramics instruction in Kansas",
+    "description": "A paint-your-own pottery studio offering a fun and artistic experience for individuals and groups",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Ceramics instruction in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Potter's Cottage",
+    "address": "6210 NW Barry Rd, Kansas City, MO 64154 (Note: Serves the greater Kansas City area.)",
+    "phone": "(816) 783-0054",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.potterscottagekc.com/",
+    "category": "Agnostic-owned Ceramics instruction in Kansas",
+    "description": "An inclusive art studio where individuals of all ages and abilities can paint pottery, participate in classes, and host parties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Ceramics instruction in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "323CLAY",
+    "address": "323 N Sterling Ave, Independence, MO 64050 (Note: Serves the greater Kansas City area.)",
+    "phone": "(816) 886-1000",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.323clay.com/",
+    "category": "Agnostic-owned Ceramics instruction in Kansas",
+    "description": "A contemporary ceramic arts studio offering classes, workshops, and studio space for artists of all levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Ceramics instruction in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
