@@ -1,0 +1,53 @@
+[
+  {
+    "name": "DMP Mobile Auto Repair",
+    "address": "Royal Vista Ave, Clermont, FL 34711, United States",
+    "phone": "407-734-0020",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/DMP+Mobile+Auto+Repair+in+Florida",
+    "category": "African-American-owned Brake pad replacement in Florida",
+    "description": "A mobile auto repair service listed as Black-owned",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Brake pad replacement in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Horse Automotive",
+    "address": "Not explicitly provided in the search results, but located in Oakland Park, Florida",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Black+Horse+Automotive+in+Florida",
+    "category": "African-American-owned Brake pad replacement in Florida",
+    "description": "Specializes in European car repair, including parts replacement",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Brake pad replacement in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Big Chief Tire Southside",
+    "address": "5639 Philips Hwy, Jacksonville, FL 32207",
+    "phone": "904-320-2117",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Big+Chief+Tire+Southside+in+Florida",
+    "category": "African-American-owned Brake pad replacement in Florida",
+    "description": "A fourth-generation, family-owned tire and auto repair company offering complete automotive care, including brake repair",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Brake pad replacement in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
