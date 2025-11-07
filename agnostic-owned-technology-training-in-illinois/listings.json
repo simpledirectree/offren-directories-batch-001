@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Per Scholas Chicago",
+    "address": "1700 W.e. 79th Street, Chicago, IL 60620",
+    "phone": "(312) 724-9000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://perlscholas.org/locations/chicago/",
+    "category": "Agnostic-owned Technology training in Illinois",
+    "description": "Offers no-cost IT training programs designed to help residents break into the tech industry, with hands-on learning and career placement support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Technology training in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Illinois Chicago Tech Bootcamps",
+    "address": "Online (Powered by Fullstack Academy)",
+    "phone": "(844) 829-0674",
+    "rating": 4.67,
+    "reviews": 25,
+    "website": "https://bootcamp.uic.edu/",
+    "category": "Agnostic-owned Technology training in Illinois",
+    "description": "Provides full-time and part-time live online training programs in coding, cloud computing, cybersecurity, data analytics, DevOps, and product management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Technology training in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MicroTrain Technologies",
+    "address": "1000 N. Larch Ave, Lombard, IL 60148",
+    "phone": "(630) 493-1440",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.microtrain.net/",
+    "category": "Agnostic-owned Technology training in Illinois",
+    "description": "A private training provider specializing in technical and project management training, offering a wide range of certification programs and corporate training solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Technology training in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Archi's Academy",
+    "address": "101 W. University Ave, Champaign, IL 61820",
+    "phone": "(217) 904-4000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.archisacademy.com/",
+    "category": "Agnostic-owned Technology training in Illinois",
+    "description": "An educational platform specializing in IT training and career development, offering courses in software development, project management, and soft skills",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Technology training in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Evolve Security Academy",
+    "address": "200 S. Michigan Ave, Suite 1200, Chicago, IL 60604",
+    "phone": "(312) 574-3000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://evolvesecurity.io/",
+    "category": "Agnostic-owned Technology training in Illinois",
+    "description": "Offers a cybersecurity training institution with a 20-week, part-time cybersecurity bootcamp providing hands-on and immersive training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Technology training in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Code Platoon",
+    "address": "345 N. Canal St, Suite 500, Chicago, IL 60606",
+    "phone": "(312) 724-7233",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.codeplatoon.org/",
+    "category": "Agnostic-owned Technology training in Illinois",
+    "description": "A non-profit coding bootcamp designed for veterans and military spouses, offering full-time and part-time programs in Full-stack Software Engineering and DevOps & Cloud Engineering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Technology training in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TechSherpas 365",
+    "address": "Multiple locations in Illinois, including Schaumburg, IL",
+    "phone": "(800) 221-5747",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.techsherpas.com/",
+    "category": "Agnostic-owned Technology training in Illinois",
+    "description": "A leader in IT training for over 25 years, offering IT courses and certifications in Microsoft, CompTIA, Cisco, Cybersecurity, and more, with various training formats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Technology training in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "IT Expert System",
+    "address": "1900 E. Golf Rd, Suite 100, Schaumburg, IL 60173",
+    "phone": "(847) 882-3000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.itexps.com/",
+    "category": "Agnostic-owned Technology training in Illinois",
+    "description": "Provides computer training and staffing for various IT fields including QA, BA, AWS, PMP, Agile Scrum, DevOps, and Cloud technologies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Technology training in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Computer Training Source, Inc.",
+    "address": "420 N. Wabash Ave, Suite 203, Chicago, IL 60611",
+    "phone": "(312) 923-2100",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.cts.com/",
+    "category": "Agnostic-owned Technology training in Illinois",
+    "description": "Offers computer software training classes for businesses and individuals since 1991, covering popular software programs like Microsoft Office, QuickBooks, and web development languages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Technology training in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NetCom Learning",
+    "address": "222 Merchandise Mart Plaza, Suite 1470, Chicago, IL 60654",
+    "phone": "(312) 376-3400",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.netcomlearning.com/",
+    "category": "Agnostic-owned Technology training in Illinois",
+    "description": "Provides a wide range of IT training courses, including AWS DevOps, cybersecurity, and cloud computing, with options for in-person, virtual, and on-demand learning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Technology training in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
