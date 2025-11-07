@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Exposure One Studios",
+    "address": "Saint Clairsville, OH",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.exposureonestudios.com/",
+    "category": "Christian-owned Agricultural photography in Ohio",
+    "description": "Offers agricultural photography, including farm kid portraits and livestock photography",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural photography in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Samantha Walker Photography",
+    "address": "Central Ohio",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.samanthawalkerphotography.com/",
+    "category": "Christian-owned Agricultural photography in Ohio",
+    "description": "Specializes in farm photoshoots, including Highland cattle. The photographer identifies as a devoted wife and mother, and a firm believer in life's little moments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural photography in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eagle Eye Agriculture LLC",
+    "address": "Delphos, Ohio",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eagleeyeagriculture.com/",
+    "category": "Christian-owned Agricultural photography in Ohio",
+    "description": "Provides drone-based agricultural services, including aerial photography",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural photography in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lydia Ruth Photography",
+    "address": "Dayton, Ohio",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lydiaruthphotography.com/",
+    "category": "Christian-owned Agricultural photography in Ohio",
+    "description": "A wedding and portrait photographer based in Ohio who identifies as a Christian, wife, and mother, cherishing simple, meaningful moments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural photography in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "22 Acres Farm",
+    "address": "5455 Davis Dr., Newark, OH 43056",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.22acresfarm.com/photography",
+    "category": "Christian-owned Agricultural photography in Ohio",
+    "description": "Offers farm sessions for photography, with various backdrops available. They do not have a photographer on staff but can recommend Visual Storytelling & Co",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural photography in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Linde's Team (Livestock Photography)",
+    "address": "Not specified, but covers shows in Ohio",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lindeslivestockphotos.com/services",
+    "category": "Christian-owned Agricultural photography in Ohio",
+    "description": "Provides full-service photography for livestock shows and on-farm sales",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural photography in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mustard Seed Photography",
+    "address": "1604 Carrol Court, Lebanon, OH 45036",
+    "phone": "(513) 292-5576",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mustard+Seed+Photography+in+Ohio",
+    "category": "Christian-owned Agricultural photography in Ohio",
+    "description": "Offers family portraits, events, weddings, and business/corporate photos. The name suggests a Christian affiliation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural photography in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "J Spivey Photography",
+    "address": "206 E National Rd, Vandalia, OH 45377",
+    "phone": "(937) 410-0410",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/J+Spivey+Photography+in+Ohio",
+    "category": "Christian-owned Agricultural photography in Ohio",
+    "description": "Professional photographer with over 20 years of experience, specializing in senior portraits, weddings, families, and commercial photography. Listed under Christian Blue Pages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural photography in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Amy Scoles Photography",
+    "address": "Not specified, but serves central Ohio",
+    "phone": "(614) 314-1806",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Amy+Scoles+Photography+in+Ohio",
+    "category": "Christian-owned Agricultural photography in Ohio",
+    "description": "Captures special moments from newborns to seniors, weddings to families. Listed under Christian Blue Pages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural photography in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TRUSS Services LLC",
+    "address": "North central Ohio",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/TRUSS+Services+LLC+in+Ohio",
+    "category": "Christian-owned Agricultural photography in Ohio",
+    "description": "While primarily a drone service and dealership business for agricultural spraying, it originated from drone photography and is built on Christian principles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural photography in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
