@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Weather Tight Corporation",
+    "address": "3219 W. Bluemound Rd., Milwaukee, WI 53208",
+    "phone": "(414) 453-8700",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.weathertightcorp.com/",
+    "category": "Catholic-owned Weatherstripping in Wisconsin",
+    "description": "A family-owned and operated company serving southeastern Wisconsin since 1986, specializing in windows, siding, doors, and roofing. They offer free in-home consultations and have a full-time service department",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Weatherstripping in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Weather Pro Exteriors Inc.",
+    "address": "2020 S 116th St, West Allis, WI 53227",
+    "phone": "(414) 541-9200",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.weatherproexteriors.com/",
+    "category": "Catholic-owned Weatherstripping in Wisconsin",
+    "description": "A family-owned and operated exterior remodeling company offering services like roof replacement, siding, windows, and doors. They are recognized by top brands and have received local awards",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Weatherstripping in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
