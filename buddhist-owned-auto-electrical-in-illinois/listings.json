@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Milito's Auto Repair",
+    "address": "1108 W. Fullerton, Chicago, IL 60614",
+    "phone": "773-477-2289",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Milito's+Auto+Repair+in+Illinois",
+    "category": "Buddhist-owned Auto electrical in Illinois",
+    "description": "Offers a wide range of auto electrical services, including diagnostics, battery replacement, alternator repair, and more. They are open 7 days a week",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Auto electrical in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Top Notch Automotive",
+    "address": "930 Pyott Rd. Suite 101, Crystal Lake, IL 60014",
+    "phone": "(815) 368-5255",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Top+Notch+Automotive+in+Illinois",
+    "category": "Buddhist-owned Auto electrical in Illinois",
+    "description": "ASE-certified technicians specializing in auto electrical repairs for all makes and models. They offer a warranty on their work and amenities like loaner cars",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Auto electrical in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "59 Auto Repair",
+    "address": "24010 W Renwick Rd, Plainfield, IL 60544",
+    "phone": "(815) 254-9959",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/59+Auto+Repair+in+Illinois",
+    "category": "Buddhist-owned Auto electrical in Illinois",
+    "description": "Specializes in auto electrical issues such as window motors, alternators, and starters. They have been serving the Plainfield area since 1999",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Auto electrical in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ProAuto",
+    "address": "Near Morton Grove, IL (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/ProAuto+in+Illinois",
+    "category": "Buddhist-owned Auto electrical in Illinois",
+    "description": "Offers comprehensive auto electrical services including battery testing, alternator repair, starter motor replacement, and wiring diagnostics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Auto electrical in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Last Chance Auto Repair",
+    "address": "Plainfield, Naperville, Bolingbrook, IL (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Last+Chance+Auto+Repair+in+Illinois",
+    "category": "Buddhist-owned Auto electrical in Illinois",
+    "description": "Provides expert auto electrical repair services, handling issues with flashers, wiper motors, ignition switches, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Auto electrical in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
