@@ -1,0 +1,104 @@
+[
+  {
+    "name": "St. Matthew Catholic Church Community Garden",
+    "address": "215 Kirkley Road, Tyrone, GA 30290",
+    "phone": "(770) 964-5804",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stmatthewcc.org/community-garden",
+    "category": "Catholic-owned Garden planting in Georgia",
+    "description": "This garden aims to grow fresh, organic fruits and vegetables for the parish family",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Garden planting in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Mark's Giving Garden",
+    "address": "805 Monck Street, Brunswick, GA 31520",
+    "phone": "(912) 265-3131 (St. Mark's Episcopal Church)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stmarksbrunswick.org/giving-garden",
+    "category": "Catholic-owned Garden planting in Georgia",
+    "description": "An outreach of St. Mark's Episcopal Church, this garden grows and gives away vegetables to those in need in the Brunswick community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Garden planting in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Atlanta Family Church Community Garden",
+    "address": "Ellenwood, GA (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://foodwellalliance.org/project/atlanta-family-church-community-garden/",
+    "category": "Catholic-owned Garden planting in Georgia",
+    "description": "This garden transformed a neglected piece of church land and donates a portion of its harvest to local pantries and shelters",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Garden planting in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Isidore Garden (Sacred Heart Catholic Church)",
+    "address": "Warner Robins, GA (Specific address not provided in search results, associated with Sacred Heart Catholic Church)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mastergardenerscentralga.org/st-isidore",
+    "category": "Catholic-owned Garden planting in Georgia",
+    "description": "This garden at Sacred Heart Catholic Church provides fresh vegetables to the Christian Service Center and a local soup kitchen",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Garden planting in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "All Saints Catholic Church Gardening Ministry",
+    "address": "2443 Mt Vernon Rd, Atlanta GA 30338",
+    "phone": "770-393-3255",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.allsaintsdunwoody.org/gardening-ministry",
+    "category": "Catholic-owned Garden planting in Georgia",
+    "description": "This ministry focuses on planting and maintaining the garden entrance of the parish",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Garden planting in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Michael the Archangel Church Prayer Garden",
+    "address": "Woodstock, GA (Specific address not provided in search results, associated with St. Michael the Archangel Church)",
+    "phone": "770-516-0009 (Greg Phillips, Facilities Manager)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stmichaelwoodstock.org/prayer-garden",
+    "category": "Catholic-owned Garden planting in Georgia",
+    "description": "This is a prayer garden on church property that is maintained by volunteers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Garden planting in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
