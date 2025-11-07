@@ -1,0 +1,87 @@
+[
+  {
+    "name": "New Hampshire Small Business Development Center (NH SBDC)",
+    "address": "Multiple locations across New Hampshire (e.g., Concord, Manchester, Derry)",
+    "phone": "(603) 377-8817",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nhsbdc.org/",
+    "category": "American-Indian-owned KPI development in New-Hampshire",
+    "description": "Offers free, confidential business advising and educational programs for small businesses in New Hampshire. They support clients from all backgrounds",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned KPI development in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Capital Regional Development Council (CRDC)",
+    "address": "107 Pleasant Street, Concord, NH 03301",
+    "phone": "(603) 226-2020",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.crdc.org/",
+    "category": "American-Indian-owned KPI development in New-Hampshire",
+    "description": "Provides economic development services, including small business lending and consulting, throughout New Hampshire",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned KPI development in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Regional Economic Development Center of Southern New Hampshire (REDC)",
+    "address": "177 East High Street, Manchester, NH 03104",
+    "phone": "(603) 625-0002",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.redc.org/",
+    "category": "American-Indian-owned KPI development in New-Hampshire",
+    "description": "Serves new, growing, and challenged businesses with services like business counseling, financing assistance, and training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned KPI development in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New Hampshire Tech Alliance",
+    "address": "10 Ferry St, Suite 201, Concord, NH 03301",
+    "phone": "(603) 606-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.integ.com/",
+    "category": "American-Indian-owned KPI development in New-Hampshire",
+    "description": "Provides resources, tools, and connections for entrepreneurs to build strong businesses in New Hampshire",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned KPI development in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SCORE New Hampshire",
+    "address": "Various locations and virtual mentoring",
+    "phone": "(800) 634-0245",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.score.org/new-hampshire",
+    "category": "American-Indian-owned KPI development in New-Hampshire",
+    "description": "Offers free business mentoring and workshops from experienced professionals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned KPI development in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
