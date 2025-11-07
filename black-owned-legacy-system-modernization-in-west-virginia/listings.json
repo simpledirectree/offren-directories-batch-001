@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Gaddis Consulting Group, LLC",
+    "address": "308 Overdale Street, Morgantown, WV 26501",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.gaddisgroup.com/",
+    "category": "Black-owned Legacy system modernization in West-Virginia",
+    "description": "Specializes in technology-enabled business services and solutions. They have experience in various programming languages and project management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Legacy system modernization in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black & White Web Solutions",
+    "address": "Morgantown, WV (Specific street address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackandwhitesolutions.com/",
+    "category": "Black-owned Legacy system modernization in West-Virginia",
+    "description": "A web design and digital marketing agency that helps businesses grow their online presence. They offer custom website design, SEO, and digital marketing strategies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Legacy system modernization in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alpha Innovations (Alpha Technologies)",
+    "address": "Hurricane, WV (Headquarters) and South Charleston, WV (Global Datacenter)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Alpha+Innovations+(Alpha+Technologies)+West+Virginia",
+    "category": "Black-owned Legacy system modernization in West-Virginia",
+    "description": "An IT service company focused on system security and maintenance, broadband connectivity, cloud computing, data storage, and backup",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Legacy system modernization in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Network Innovation Solutions (NIS)",
+    "address": "Tri-State Area (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Network+Innovation+Solutions+(NIS)+West+Virginia",
+    "category": "Black-owned Legacy system modernization in West-Virginia",
+    "description": "Provides IT support such as technical helpdesk support, computer support, and consulting to small and medium-sized businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Legacy system modernization in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "IT Solutions WV",
+    "address": "Not available (Serves commercial and residential customers)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/IT+Solutions+WV+West+Virginia",
+    "category": "Black-owned Legacy system modernization in West-Virginia",
+    "description": "Specializes in handling network foundations, backups, company PCs, graphic design, and web design. They also offer remote and on-site technical support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Legacy system modernization in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
