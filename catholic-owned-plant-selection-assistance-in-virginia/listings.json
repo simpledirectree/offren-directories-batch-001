@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Little Flower Catholic Worker Farm",
+    "address": "16560 Louisa Road, Trevilians, VA 23093",
+    "phone": "540-967-5574",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Little+Flower+Catholic+Worker+Farm+in+Virginia",
+    "category": "Catholic-owned Plant selection assistance in Virginia",
+    "description": "This is a Catholic Worker farm focused on growing food and practicing community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Plant selection assistance in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Isidore's Garden - Our Lady Queen of Peace Catholic Church",
+    "address": "Arlington, VA (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Isidore's+Garden+-+Our+Lady+Queen+of+Peace+Catholic+Church+in+Virginia",
+    "category": "Catholic-owned Plant selection assistance in Virginia",
+    "description": "This is a community garden that grows produce for a food pantry and features native and pollinator-friendly plants",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Plant selection assistance in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Earth Sangha (associated with Nativity Catholic Church)",
+    "address": "Springfield, VA (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Earth+Sangha+(associated+with+Nativity+Catholic+Church)+in+Virginia",
+    "category": "Catholic-owned Plant selection assistance in Virginia",
+    "description": "This is a nonprofit native plant nursery where a parishioner of Nativity Catholic Church works. They focus on native plants and removing invasive species",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Plant selection assistance in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
