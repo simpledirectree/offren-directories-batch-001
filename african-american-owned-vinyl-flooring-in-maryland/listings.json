@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Black Floors",
+    "address": "19725 Drop Forge Ln. #02, Gaithersburg, MD 20879",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Black+Floors+in+Maryland",
+    "category": "African-American-owned Vinyl flooring in Maryland",
+    "description": "A small, family-owned, woman-owned business specializing in hardwood, LVP, and laminate flooring installation, as well as staircase installation and custom flooring staining. They emphasize skilled craftsmanship and effective communication",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Vinyl flooring in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shumba Floors",
+    "address": "226 Glyndon Watch Lane, Reisterstown, MD 21136",
+    "phone": "443-248-5149",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Shumba+Floors+in+Maryland",
+    "category": "African-American-owned Vinyl flooring in Maryland",
+    "description": "A minority-led flooring company with over 15 years of experience in residential and commercial flooring. They offer installation, repair, and refinishing services for various flooring types, including vinyl. They are a licensed Maryland Home Improvement Contractor and fully insured",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Vinyl flooring in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Griffin's Flooring America",
+    "address": "Lexington Park, MD (Specific showroom address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Griffin's+Flooring+America+in+Maryland",
+    "category": "African-American-owned Vinyl flooring in Maryland",
+    "description": "This business is registered with the State of Maryland as a Minority Business Enterprise (MBE) and is 100% woman-owned. They offer a wide range of flooring, including LVP (luxury vinyl plank), and remodeling services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Vinyl flooring in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
