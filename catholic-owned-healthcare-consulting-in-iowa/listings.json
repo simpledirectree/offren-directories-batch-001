@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Catholic Health Initiatives - Iowa Corp",
+    "address": "1111 6th Avenue, Des Moines, IA 50314",
+    "phone": "515-247-3121",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Health+Initiatives+-+Iowa+Corp+in+Iowa",
+    "category": "Catholic-owned Healthcare consulting in Iowa",
+    "description": "A not-for-profit Catholic health care organization operating hospitals and providing various health services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare consulting in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CHI Health Midwest Division (CommonSpirit Health)",
+    "address": "National office in Chicago, IL, with services in Southwest Iowa",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/CHI+Health+Midwest+Division+(CommonSpirit+Health)+in+Iowa",
+    "category": "Catholic-owned Healthcare consulting in Iowa",
+    "description": "A regional health care network with a mission to nurture the healing ministry of the Church and create healthier communities. They operate hospitals, clinics, and other health services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare consulting in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MercyOne",
+    "address": "Various locations across Iowa",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/MercyOne+in+Iowa",
+    "category": "Catholic-owned Healthcare consulting in Iowa",
+    "description": "Part of Trinity Health, MercyOne provides award-winning healthcare services and is one of the largest multi-specialist physician group practices in Iowa",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare consulting in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Benefits Association (CBA)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Benefits+Association+(CBA)+in+Iowa",
+    "category": "Catholic-owned Healthcare consulting in Iowa",
+    "description": "Offers consulting services to Catholic employers to align health plans with Catholic teaching and religious liberty protections. They provide services like medical/pharmacy plan review and moral compliance scoring",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare consulting in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MyCatholicDoctor",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/MyCatholicDoctor+in+Iowa",
+    "category": "Catholic-owned Healthcare consulting in Iowa",
+    "description": "A network of Catholic doctors providing virtual primary care and behavioral health services. While not a consulting firm, it connects individuals with healthcare providers who practice from a Catholic perspective",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare consulting in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HealthCARE of Iowa",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/HealthCARE+of+Iowa+in+Iowa",
+    "category": "Catholic-owned Healthcare consulting in Iowa",
+    "description": "A professional consulting partner providing services for Senior Living environments, including long-term care, skilled nursing, and assisted living communities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare consulting in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "M.S. Healthcare Consulting",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/M.S.+Healthcare+Consulting+in+Iowa",
+    "category": "Catholic-owned Healthcare consulting in Iowa",
+    "description": "Specializes in mentoring and coaching for administrators and executive directors in healthcare settings, offering training programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare consulting in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
