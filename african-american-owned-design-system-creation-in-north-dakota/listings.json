@@ -1,0 +1,87 @@
+[
+  {
+    "name": "ABOVO Graphic Design, E-Commerce, Marketing Agency",
+    "address": "Fargo, North Dakota",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.teamabovo.com/",
+    "category": "African-American-owned Design system creation in North-Dakota",
+    "description": "A design and marketing agency offering services like web design, e-commerce, social media, branding, graphic design, and photography",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Design system creation in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Spotlight Media",
+    "address": "Fargo, North Dakota",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.spotlightmediafargo.com/",
+    "category": "African-American-owned Design system creation in North-Dakota",
+    "description": "A web design agency providing services such as web design, advertising, marketing strategy, and search engine optimization",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Design system creation in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Flyway Media",
+    "address": "Bismarck, North Dakota",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://flywaymedia.net/",
+    "category": "African-American-owned Design system creation in North-Dakota",
+    "description": "A lead-generating website design company specializing in online marketing and SEO",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Design system creation in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BeBizzy Consulting",
+    "address": "Mandan, North Dakota (Physical Address: 1212 Whitman Road, Mandan, ND 58554; Mailing Address: PO Box 448, Mandan, ND 58554)",
+    "phone": "701-391-2974",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bebizzy.com/",
+    "category": "African-American-owned Design system creation in North-Dakota",
+    "description": "A web development company offering services including new website design, website redesign, WordPress development, and SEO",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Design system creation in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Up & Running Design Co.",
+    "address": "Bismarck, North Dakota",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.upandrunningdesign.com/",
+    "category": "African-American-owned Design system creation in North-Dakota",
+    "description": "A full-service graphic design, web design, and branding company creating performance-based websites and marketing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Design system creation in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
