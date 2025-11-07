@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Double AA Builders Ltd.",
+    "address": "Scottsdale, AZ 85251",
+    "phone": "(480) 994-0400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.doubleaabuilders.com/",
+    "category": "Catholic-owned Remodeling in Arizona",
+    "description": "General contractor that has worked on projects for Catholic churches",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Remodeling in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Greco Roman Construction and Design",
+    "address": "Phoenix, AZ",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.grecoromanconstruction.com/",
+    "category": "Catholic-owned Remodeling in Arizona",
+    "description": "Offers remodeling services, including window and door installation, with a strong emphasis on professionalism and customer satisfaction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Remodeling in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Albrecht and Son, LLC",
+    "address": "Youngtown, AZ",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://albrechtandson.com/",
+    "category": "Catholic-owned Remodeling in Arizona",
+    "description": "Family-owned and operated remodeling and construction company with services including painting and remodeling",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Remodeling in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Spurr Construction",
+    "address": "Phoenix, AZ",
+    "phone": "(602) 840-2244",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.spurrconstruction.com/",
+    "category": "Catholic-owned Remodeling in Arizona",
+    "description": "A church contractor and builder with extensive experience in faith-based construction and remodeling projects",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Remodeling in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New Jerusalem Studios",
+    "address": "Phoenix, Arizona",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.newjerusalemstudios.com/",
+    "category": "Catholic-owned Remodeling in Arizona",
+    "description": "Specializes in renovation and beautification projects for Catholic churches, including altars, decorative painting, and murals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Remodeling in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
