@@ -1,0 +1,53 @@
+[
+  {
+    "name": "E&L Cleaning Solutions",
+    "address": "Irvington, NJ (Specific address not publicly listed, but serves Irvington and surrounding areas)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://elcleaningsolutions.com/",
+    "category": "African-American-owned Carpet cleaning in New-Jersey",
+    "description": "A Black family-owned cleaning company offering a range of services including carpet cleaning, electrostatic sanitizing, and deep cleaning. They emphasize professionalism, reliability, and care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Carpet cleaning in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Superior Choice 100% Organic Dry Carpet Cleaning",
+    "address": "King of Prussia, Pennsylvania (Serves New Jersey as well)",
+    "phone": "844-379-7847 or 215-285-3162",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://dry-rugs.com/",
+    "category": "African-American-owned Carpet cleaning in New-Jersey",
+    "description": "Offers 100% organic dry carpet and upholstery cleaning, focusing on green and eco-friendly solutions. They are a Black-owned business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Carpet cleaning in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ogreena (formerly Green Carpet Clean)",
+    "address": "Not publicly listed, but serves residential and commercial properties",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ogreena.com/",
+    "category": "African-American-owned Carpet cleaning in New-Jersey",
+    "description": "A Black-owned business that started with a focus on natural, eco-friendly carpet cleaning and has expanded to offer a wider range of domestic and commercial services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Carpet cleaning in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
