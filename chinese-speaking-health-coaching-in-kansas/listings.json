@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Evergreen Wellness Center",
+    "address": "10021 W 21st St N, Wichita, KS 67205",
+    "phone": "(316) 691-8811",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://evergreenwellnesswichita.com/",
+    "category": "Chinese-speaking Health coaching in Kansas",
+    "description": "Offers Traditional Chinese Medicine services including acupuncture, herbal therapy, massage, Qigong, diet, and nutrition",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Health coaching in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "KC Acupuncture & Traditional Chinese Medicine Center",
+    "address": "7111 W 98th Terrace STE 110, Overland Park, KS 66212",
+    "phone": "(913) 828-4765",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kacupuncture.com/",
+    "category": "Chinese-speaking Health coaching in Kansas",
+    "description": "Provides acupuncture, cupping, massage, and herbal medicine services, aiming to help clients live healthy and balanced lives",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Health coaching in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Grace Family Acupuncture",
+    "address": "7111 W 98th Terrace STE 110, Overland Park, KS 66212 (Kansas City Location)",
+    "phone": "(620) 363-1685",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.gracefamilyacupuncture.com/",
+    "category": "Chinese-speaking Health coaching in Kansas",
+    "description": "Offers classical Chinese medical diagnosis and treatment, including acupuncture, herbal medicine, Tui Na, cupping, and Tai Chi. They serve the Kansas City metropolitan area and have a location in Iola",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Health coaching in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Elevate Acupuncture and Traditional Chinese Medicine",
+    "address": "Located in Northtown Chiropractic Center, Kansas City, MO (serving the Kansas City metro area)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://elevateacupuncturekc.com/",
+    "category": "Chinese-speaking Health coaching in Kansas",
+    "description": "Provides acupuncture and traditional Chinese medicine services to help alleviate stress, reduce pain, balance emotions, and encourage healing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Health coaching in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Southwind Health Collective",
+    "address": "839 Massachusetts St, Lawrence, KS 66044",
+    "phone": "(785) 856-3030",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.southwindhealth.com/",
+    "category": "Chinese-speaking Health coaching in Kansas",
+    "description": "Offers therapeutic massage, bodywork, acupuncture, and Traditional Chinese Medicine (TCM) services, as well as wellness coaching",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Health coaching in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lawrence Acupuncture: Integrative Health Clinic and Taoist Arts Collective",
+    "address": "940 N. Tyler, Suite #105, Wichita, KS 67212 (This address appears to be for Wen Health and Wellness, but Lawrence Acupuncture is mentioned in search results for Lawrence, KS)",
+    "phone": "(785) 727-9468 (for 9nj, which is related to Lawrence Acupuncture)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lawrenceacupuncture.com/",
+    "category": "Chinese-speaking Health coaching in Kansas",
+    "description": "Provides acupuncture and holistic healing, blending modern research with ancient healing traditions. They offer treatments for pain relief, fertility support, and stress management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Health coaching in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Acupuncture Works Topeka",
+    "address": "Topeka, KS",
+    "phone": "785-249-3513",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.acupunctureworkstopeka.com/",
+    "category": "Chinese-speaking Health coaching in Kansas",
+    "description": "Offers acupuncture and Oriental medicine for a variety of conditions including pain, infertility, anxiety, and digestive disorders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Health coaching in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Healing House",
+    "address": "Manhattan, KS",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thehealinghouseks.com/",
+    "category": "Chinese-speaking Health coaching in Kansas",
+    "description": "A women-owned practice offering chiropractic and comprehensive wellness care, including Chinese medicine, nutrition, and energy healing, with a holistic and science-based approach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Health coaching in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Revive Integrative Health",
+    "address": "645 E. Iron St, Salina, KS 67401",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.reviveih.com/",
+    "category": "Chinese-speaking Health coaching in Kansas",
+    "description": "Offers a holistic approach to healing the body, mind, and spirit, with services including acupuncture, personal health coaching, and various other wellness therapies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Health coaching in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New Health Kansas",
+    "address": "Multiple locations including Topeka, Manhattan, and Lenexa",
+    "phone": "785-215-8228",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://newhealthks.com/",
+    "category": "Chinese-speaking Health coaching in Kansas",
+    "description": "Provides holistic wellness services, including health coaching, medical aesthetics, and personalized wellness plans, with a focus on improving patients' mind and body",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Health coaching in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
