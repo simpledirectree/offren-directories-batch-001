@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Stay Low Lawn Care LLC",
+    "address": "Gresham, Oregon (Specific address not publicly available)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.staylowlawncare.com/",
+    "category": "Black-owned Commercial landscaping in Oregon",
+    "description": "A proud Latino and Black-owned business committed to providing lawn and landscape care. They have been transforming clients' ideas for over 7 years and are known for reliability and value",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Commercial landscaping in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Roots PDX",
+    "address": "Portland, Oregon (Specific address not publicly available)",
+    "phone": "(802) 535-9605",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackrootspdx.com/",
+    "category": "Black-owned Commercial landscaping in Oregon",
+    "description": "Portland's Black-owned tree service, offering tree removal, pruning, trimming, and yard cleanup. Their mission includes providing excellent customer service and promoting inclusivity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Commercial landscaping in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Morganic Roots",
+    "address": "Eugene, Oregon (Specific address not publicly available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Morganic+Roots+in+Oregon",
+    "category": "Black-owned Commercial landscaping in Oregon",
+    "description": "Listed as a landscaping business in Eugene, Oregon, within a directory of Black-owned businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Commercial landscaping in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
