@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Alpha Dental Center (East Providence)",
+    "address": "East Providence, RI 02914",
+    "phone": "(888) 736-2914",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alphadentalcenter.com/",
+    "category": "Arabic-speaking Emergency dental care in Rhode-Island",
+    "description": "Offers 24/7 patient care by phone and aims to schedule emergency appointments within 24 hours",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Emergency dental care in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cranston Cosmetic Dentistry & Elite Dentistry of Rhode Island",
+    "address": "Cranston, RI and East Greenwich, RI",
+    "phone": "401-944-7556",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cranstoncosmeticdentistry.com/",
+    "category": "Arabic-speaking Emergency dental care in Rhode-Island",
+    "description": "Provides emergency dental care with same-day appointments when possible and after-hours availability",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Emergency dental care in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alpha Dental Center - Warwick",
+    "address": "Warwick, RI 02886",
+    "phone": "(888) 736-2914",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alphadentalcenter.com/warwick/",
+    "category": "Arabic-speaking Emergency dental care in Rhode-Island",
+    "description": "Offers emergency dental services and aims to provide immediate attention for dental concerns",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Emergency dental care in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eric George DMD & Associates",
+    "address": "Coventry, RI",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ericgeorgedmd.com/",
+    "category": "Arabic-speaking Emergency dental care in Rhode-Island",
+    "description": "Provides emergency dentistry services and aims to see patients the same day whenever possible",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Emergency dental care in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Atwill-Conroy Dental Providence",
+    "address": "Providence, RI",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.atwillconroydental.com/",
+    "category": "Arabic-speaking Emergency dental care in Rhode-Island",
+    "description": "Offers same-day emergency appointments and after-hours care for dental emergencies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Emergency dental care in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Comfort Dental Providence",
+    "address": "Providence, RI",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.comfortdental.com/locations/providence-ri/",
+    "category": "Arabic-speaking Emergency dental care in Rhode-Island",
+    "description": "Provides emergency dentistry services and reserves specific times in their schedule for emergency cases",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Emergency dental care in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Family Dentist North Providence RI",
+    "address": "North Providence, RI",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.northprovidencedentist.com/",
+    "category": "Arabic-speaking Emergency dental care in Rhode-Island",
+    "description": "Offers emergency dental care along with general and cosmetic dentistry services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Emergency dental care in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Priority Emergency Dental Care",
+    "address": "101 Dyer St, Providence, RI 02903",
+    "phone": "(401) 210-5189",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.priorityemergencydental.care/",
+    "category": "Arabic-speaking Emergency dental care in Rhode-Island",
+    "description": "Collaborates with local dentists to provide prompt attention for dental emergencies, offering same-day appointments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Emergency dental care in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
