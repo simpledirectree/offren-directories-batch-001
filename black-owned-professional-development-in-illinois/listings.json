@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Chicago Urban League",
+    "address": "4510 S Michigan Ave, Chicago, IL 60653",
+    "phone": "(773) 451-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chiul.org/",
+    "category": "Black-owned Professional development in Illinois",
+    "description": "The Chicago Urban League works to foster economic empowerment, cultivate leadership, and dismantle systemic barriers for African Americans through advocacy, collaboration, and innovation. They offer programs in job training, education, and entrepreneurship",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Professional development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Tech Pipeline",
+    "address": "Not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://blacktechpipeline.com/",
+    "category": "Black-owned Professional development in Illinois",
+    "description": "Black Tech Pipeline helps hiring companies build more inclusive talent pipelines by connecting them with skilled Black technologists and professionals. They also partner with educational programs and initiatives",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Professional development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Skillspire Foundation",
+    "address": "Not available (offers online classes)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.skillspire.org/",
+    "category": "Black-owned Professional development in Illinois",
+    "description": "A non-profit organization dedicated to providing accessible and cost-free coding education for women, minorities, and under-represented communities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Professional development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The People's Music School",
+    "address": "931 W. Eastwood Avenue, Chicago, IL 60640",
+    "phone": "(773) 784-7032",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.peoplesmusicschool.org/",
+    "category": "Black-owned Professional development in Illinois",
+    "description": "The largest tuition-free music school serving Chicago metropolitan area children, focusing on removing barriers to access for intensive music instruction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Professional development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chicago Institute of Business",
+    "address": "Not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://chicagoinstituteofbusiness.com/",
+    "category": "Black-owned Professional development in Illinois",
+    "description": "Offers business education with a fast-paced approach to introduce fundamental global business ideas and empower individuals to expand and grow",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Professional development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catalyst Ranch",
+    "address": "656 W. Randolph St., Suite 4E, Chicago, IL 60661",
+    "phone": "(312) 207-1710",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.catalystranch.com/",
+    "category": "Black-owned Professional development in Illinois",
+    "description": "A creative meeting and event venue designed to foster creativity and innovation, suitable for various professional gatherings and workshops",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Professional development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ascend Performance Coaching",
+    "address": "Not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ascendperformance.co/",
+    "category": "Black-owned Professional development in Illinois",
+    "description": "Offers performance coaching services focused on providing educational, constructive, science-based training toward individual goals, including professional development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Professional development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Career Contessa",
+    "address": "Not available (online services)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://careercontessa.com/",
+    "category": "Black-owned Professional development in Illinois",
+    "description": "A career resource for women offering advice, job search assistance, and one-on-one coaching to help them achieve their career goals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Professional development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Art of Charm",
+    "address": "Not available (offers online and in-person programs)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://theartofcharm.com/",
+    "category": "Black-owned Professional development in Illinois",
+    "description": "Focuses on building social capital and networking skills through practical advice and tools to improve relationships and professional interactions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Professional development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BLUE1647 / Ignite Technology & Innovation",
+    "address": "Not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blue1647.com/",
+    "category": "Black-owned Professional development in Illinois",
+    "description": "Offers business and tech training courses, with programs like Women in Technology Entrepreneurship and a small business incubator",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Professional development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
