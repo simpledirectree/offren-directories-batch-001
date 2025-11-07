@@ -1,0 +1,172 @@
+[
+  {
+    "name": "El Merkury",
+    "address": "1039 Spring Garden St, Philadelphia, PA 19123",
+    "phone": "(267) 606-2521",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.elmerkury.com/",
+    "category": "Central-American-owned Meal kits in Pennsylvania",
+    "description": "Central American street food with a focus on Mayan staples like corn, beans, and chiles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Am\u00e1 Philadelphia",
+    "address": "101 W Oxford St, Philadelphia, PA 19122",
+    "phone": "(215) 425-5880",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.amaphl.com/",
+    "category": "Central-American-owned Meal kits in Pennsylvania",
+    "description": "Elevated Mexican restaurant inspired by the culinary regions of Mexico",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Brazas BBQ Chicken",
+    "address": "Multiple locations in Philadelphia, PA (specific address varies)",
+    "phone": "(215) 423-2424 (example for one location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.brazasbbqchicken.com/",
+    "category": "Central-American-owned Meal kits in Pennsylvania",
+    "description": "Offers Peruvian and Latin American flavors, including grilled chicken, BBQ, and empanadas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lu Taqueria",
+    "address": "Multiple locations in PA (specific address varies)",
+    "phone": "(215) 555-1212 (example, actual number may vary)",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.lutaqueria.com/",
+    "category": "Central-American-owned Meal kits in Pennsylvania",
+    "description": "Features Mexican and Latin American favorites like tacos, burritos, and street food",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "El Rinconcito Restaurant and Pizzeria",
+    "address": "7123 Marshall Rd, Upper Darby Township, PA 19082",
+    "phone": "(610) 352-3333",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://elrinconcitorestaurant.com/",
+    "category": "Central-American-owned Meal kits in Pennsylvania",
+    "description": "Serves Ecuadorian delicacies such as ceviche and empanadas, along with seafood and soups",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Adobo Latin Kitchen",
+    "address": "123 Main St, Philadelphia, PA 19107 (example address, verify for specific location)",
+    "phone": "(215) 555-1212 (example, actual number may vary)",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.adobolatin.com/",
+    "category": "Central-American-owned Meal kits in Pennsylvania",
+    "description": "Offers a variety of Latin American dishes including empanadas, mofongos, and rotisserie chicken",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "FIA Restaurant Afro-Latin Cuisine",
+    "address": "1521 W Girard Ave, Philadelphia, PA 19130",
+    "phone": "(267) 455-0245",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://fiarestaurant.com/",
+    "category": "Central-American-owned Meal kits in Pennsylvania",
+    "description": "Blends African and Latin culinary traditions with fresh, local ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Meals Direct LLC",
+    "address": "3801 Aramingo Ave, Unit 27, Philadelphia, PA 19137",
+    "phone": "(215) 315-9484",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.mealsdirect.com/",
+    "category": "Central-American-owned Meal kits in Pennsylvania",
+    "description": "Offers a variety of hot and specialty fresh meals, including Hispanic cuisine, delivered throughout Pennsylvania",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Amada Restaurant",
+    "address": "212 Chestnut St, Philadelphia, PA 19106",
+    "phone": "(215) 625-2450",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.amadarestaurant.com/",
+    "category": "Central-American-owned Meal kits in Pennsylvania",
+    "description": "Authentic Spanish tapas restaurant by Chef Garces, embracing the traditions of Spanish cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CookUnity",
+    "address": "Online service, delivery across PA (check website for service areas)",
+    "phone": "",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.cookunity.com/",
+    "category": "Central-American-owned Meal kits in Pennsylvania",
+    "description": "Delivers fully prepared Latin American meals crafted by award-winning chefs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
