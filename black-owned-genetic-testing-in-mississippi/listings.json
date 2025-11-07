@@ -1,0 +1,36 @@
+[
+  {
+    "name": "African Ancestry",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.africanancestry.com/",
+    "category": "Black-owned Genetic testing in Mississippi",
+    "description": "This company is a pioneer in genetic ancestry tracing for people of African descent, aiming to reconnect individuals with their specific African roots. They have the largest African reference database and offer MatriClan (mtDNA) and PatriClan (y-DNA) tests. African Ancestry was founded by Dr. Rick Kittles and Gina Paige and is noted as the first Black-owned DNA testing company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Genetic testing in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AfroRoots DNA",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/AfroRoots+DNA+in+Mississippi",
+    "category": "Black-owned Genetic testing in Mississippi",
+    "description": "This is another Black-owned company that analyzes autosomal DNA to identify specific African peoples and tribes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Genetic testing in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
