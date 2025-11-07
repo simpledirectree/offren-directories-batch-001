@@ -1,0 +1,19 @@
+[
+  {
+    "name": "EraBright",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.erabright.com/",
+    "category": "Black-owned PHP development in Maine",
+    "description": "EraBright is a Black-owned web design agency that specializes in creating modern, functional websites. They focus on tailored web designs, responsive and user-friendly sites, and integrating SEO best practices. While their primary focus is web design, they may offer PHP development or be able to connect you with relevant services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned PHP development in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
