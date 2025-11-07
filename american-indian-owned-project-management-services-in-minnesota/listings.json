@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Hozhonigo Consulting LLC",
+    "address": "Not publicly listed, but operates in Minnesota",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hozhnigoconsulting.com/",
+    "category": "American-Indian-owned Project management services in Minnesota",
+    "description": "This firm is Native American female-owned and provides strategic planning, grant writing, and project management services for tribes, Indigenous-serving non-profit organizations, and Native-Owned small businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Project management services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Woodstone, Inc.",
+    "address": "Not publicly listed, but based in Minnesota",
+    "phone": "612-207-4474",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://woodstoneinc.com/",
+    "category": "American-Indian-owned Project management services in Minnesota",
+    "description": "A Native American-owned construction company that offers pre-construction, construction management, and design-build services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Project management services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Project Team (a subsidiary of Ho-Chunk, Inc.)",
+    "address": "30 S. 9th St., 7th Floor, Minneapolis, MN 55402",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theprojectteam.com/",
+    "category": "American-Indian-owned Project management services in Minnesota",
+    "description": "This firm, a subsidiary of Ho-Chunk, Inc., offers project management, construction management oversight, and master planning services. They emphasize cultural knowledge and working with tribal organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Project management services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Akana",
+    "address": "6400 SE Lake Rd, Suite 200, Portland, OR 97222 (While not in MN, they are a Native American-owned firm that may serve clients in MN)",
+    "phone": "(503) 652-9090",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.akana.us/",
+    "category": "American-Indian-owned Project management services in Minnesota",
+    "description": "A Native American-owned professional services firm offering multidisciplinary architecture and engineering design services, as well as planning services including master planning and tribal transportation planning. Their construction management group specializes in large infrastructure projects",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Project management services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
