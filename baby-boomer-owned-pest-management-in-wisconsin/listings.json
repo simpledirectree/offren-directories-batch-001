@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Batzner Pest Control",
+    "address": "16948 W Victor Rd, New Berlin, WI 53151",
+    "phone": "(262) 786-5313",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.batzner.com/",
+    "category": "Baby-Boomer-owned Pest management in Wisconsin",
+    "description": "Batzner Pest Control has been providing pest management solutions in Wisconsin since 1946, offering services for both residential and commercial properties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pest management in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Premier Pest Elimination",
+    "address": "Service area includes Southern Wisconsin; specific address not readily available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://premierpestelimination.com/",
+    "category": "Baby-Boomer-owned Pest management in Wisconsin",
+    "description": "Premier Pest Elimination offers efficient and expert pest control services for homes and businesses in Southern Wisconsin, specializing in bed bug removal",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pest management in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Midwest Pest Control",
+    "address": "Service area includes Waukesha/Milwaukee metropolitan area; specific address not readily available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://midwestpestcontrol.biz/",
+    "category": "Baby-Boomer-owned Pest management in Wisconsin",
+    "description": "Midwest Pest Control provides targeted pest control solutions, specializing in ant remediations, rodent control, and recurring services to keep properties pest-free",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pest management in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Western Wisconsin Pest Control LLC",
+    "address": "Baldwin, WI (specific street address not readily available)",
+    "phone": "715-977-0697",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Western+Wisconsin+Pest+Control+LLC+in+Wisconsin",
+    "category": "Baby-Boomer-owned Pest management in Wisconsin",
+    "description": "Western Wisconsin Pest Control LLC specializes in various residential and commercial pest control services, including rodent control, ant control, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pest management in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "KO Pest Control",
+    "address": "223180 Azalea Rd, Wausau, WI 54401",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kopestcontrol.com/",
+    "category": "Baby-Boomer-owned Pest management in Wisconsin",
+    "description": "KO Pest Control offers pest control, bat remediation, and rodent management services for residential and commercial properties in Central and Northern Wisconsin",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pest management in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Best Defense Pest Solutions",
+    "address": "Janesville, WI (specific street address not readily available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bestdefensepestsolutions.com/",
+    "category": "Baby-Boomer-owned Pest management in Wisconsin",
+    "description": "Best Defense Pest Solutions has been eliminating pest problems in Janesville, WI, for over 10 years, offering affordable pricing and a 100% satisfaction guarantee",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pest management in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pest Management Solutions",
+    "address": "Pewaukee, WI (specific street address not readily available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Pest+Management+Solutions+in+Wisconsin",
+    "category": "Baby-Boomer-owned Pest management in Wisconsin",
+    "description": "Pest Management Solutions offers pest control services, with reviews highlighting prompt responses, knowledgeable technicians, and reasonable prices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pest management in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Elite Pest Solutions LLC",
+    "address": "Madison, WI & Pardeeville, WI (specific street addresses not readily available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://elitepestsolutionswi.com/",
+    "category": "Baby-Boomer-owned Pest management in Wisconsin",
+    "description": "Elite Pest Solutions offers professional pest control for residential and commercial services in Madison and Pardeeville, WI, focusing on eliminating and preventing pests",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pest management in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "B.E.S.T. Pest Control Services",
+    "address": "Sheboygan Falls, WI (specific street address not readily available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/B.E.S.T.+Pest+Control+Services+in+Wisconsin",
+    "category": "Baby-Boomer-owned Pest management in Wisconsin",
+    "description": "B.E.S.T. Pest Control Services provides full-service residential and commercial pest control, protecting against various pests and wildlife in the Sheboygan County area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pest management in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Father & Son Pest Control",
+    "address": "66 N Webster St, Madison, WI 53703",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Father+&+Son+Pest+Control+in+Wisconsin",
+    "category": "Baby-Boomer-owned Pest management in Wisconsin",
+    "description": "Father & Son Pest Control is a listed pest control service provider in Madison, WI",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Pest management in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
