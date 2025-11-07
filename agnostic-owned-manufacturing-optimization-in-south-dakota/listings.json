@@ -1,0 +1,36 @@
+[
+  {
+    "name": "South Dakota Manufacturing & Technology Solutions (MTS)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/South+Dakota+Manufacturing+&+Technology+Solutions+(MTS)+South+Dakota",
+    "category": "Agnostic-owned Manufacturing optimization in South-Dakota",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Manufacturing optimization in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Address:",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://sdmanufacturing.com/",
+    "category": "Agnostic-owned Manufacturing optimization in South-Dakota",
+    "description": "MTS is dedicated to helping South Dakota manufacturers increase productivity by implementing Lean and other continuous improvement practices. They offer solutions to reduce costs, grow revenue, develop the workforce, and optimize automation. They also provide expertise in areas like Lean Six Sigma and automation integration",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Manufacturing optimization in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
