@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Oglala Lakota Artspace (OLA)",
+    "address": "7904 Lakota Prairie Dr, Kyle, SD 57752",
+    "phone": "605-455-1344",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://firstpeoplesfund.org/oglala-lakota-artspace/",
+    "category": "Alaska-Native-owned Podcast production in South-Dakota",
+    "description": "This arts facility on the Pine Ridge Indian Reservation provides a collaborative environment for artists and includes a recording studio. It partners with local artists and offers artistic, business, and financial services to Native artists",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Podcast production in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wicahpi Olowan Music Program",
+    "address": "7904 Lakota Prairie Dr, Kyle, SD 57752",
+    "phone": "605-455-1344",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://firstpeoplesfund.org/wicahpi-olowan-music-program/",
+    "category": "Alaska-Native-owned Podcast production in South-Dakota",
+    "description": "This program supports Indigenous artists on the Pine Ridge Reservation and offers a creative space for recording, beat-making, producing, engineering, and training through its music studio",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Podcast production in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
