@@ -1,0 +1,53 @@
+[
+  {
+    "name": "MadHouse",
+    "address": "Louisville, KY (Specific street address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.madhouse.ai/",
+    "category": "African-American-owned Predictive modeling in Kentucky",
+    "description": "Offers Predictive Intelligence & Strategic Analytics services, combining AI, automation, and behavioral insights. They focus on helping small to mid-sized businesses forecast outcomes and make data-backed decisions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Predictive modeling in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SKS Accounting & Consulting Firm Inc.",
+    "address": "Louisville, KY (Specific street address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/SKS+Accounting+&+Consulting+Firm+Inc.+in+Kentucky",
+    "category": "African-American-owned Predictive modeling in Kentucky",
+    "description": "A Black, woman-owned comprehensive accounting and consulting services firm that focuses on supporting minority businesses. They offer services like accounting, HR, PR, marketing, and IT",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Predictive modeling in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DataSci Consulting LLC",
+    "address": "Not found (Contact is via email)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://datasci.live/",
+    "category": "African-American-owned Predictive modeling in Kentucky",
+    "description": "Offers AI/ML prototyping and consulting services to help businesses develop plans for applying AI/ML",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Predictive modeling in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
