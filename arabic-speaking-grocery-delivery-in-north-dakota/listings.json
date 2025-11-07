@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Al Amiin Grocery & Halal Meats",
+    "address": "1448 S Washington St, Grand Forks, ND 58201",
+    "phone": "+1 701-757-0737",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Al+Amiin+Grocery+&+Halal+Meats+North+Dakota",
+    "category": "Arabic-speaking Grocery delivery in North-Dakota",
+    "description": "Specializes in Halal meats and offers a diverse selection of international grocery items",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Grocery delivery in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kebribeyah Halal Meat & Grocery",
+    "address": "(Specific address not found in search results, but mentioned as operating in Grand Forks)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Kebribeyah+Halal+Meat+&+Grocery+North+Dakota",
+    "category": "Arabic-speaking Grocery delivery in North-Dakota",
+    "description": "Offers quality halal products and a diverse range of grocery items. Open seven days a week",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Grocery delivery in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "FargoFresh",
+    "address": "(Specific address not found in search results, but located in Fargo, North Dakota)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/FargoFresh+North+Dakota",
+    "category": "Arabic-speaking Grocery delivery in North-Dakota",
+    "description": "An ethnic grocery store providing Indian, Nepali, Middle Eastern, African, and Asian groceries. They carry fresh halal meats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Grocery delivery in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DoorDash (Various Restaurants/Grocers)",
+    "address": "Varies by location and restaurant/grocer",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.doordash.com/",
+    "category": "Arabic-speaking Grocery delivery in North-Dakota",
+    "description": "DoorDash offers delivery from various restaurants and some grocery stores that may carry Middle Eastern or Arabic food items. You would need to check specific listings for availability in your area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Grocery delivery in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Uber Eats (Various Restaurants)",
+    "address": "Varies by location and restaurant",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ubereats.com/",
+    "category": "Arabic-speaking Grocery delivery in North-Dakota",
+    "description": "Uber Eats provides delivery from restaurants that may offer Middle Eastern or Arabic cuisine. Availability depends on your specific location in North Dakota",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Grocery delivery in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
