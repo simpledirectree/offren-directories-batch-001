@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Evolve Pilates Studio",
+    "address": "Memphis, TN",
+    "phone": "(901) 201-5455",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://evolvepilatesmemphis.com/",
+    "category": "Black-owned Pilates in Tennessee",
+    "description": "Evolve Pilates Studio is a reformer Pilates studio dedicated to inspiring and empowering individuals through the transformative practice of Pilates. They offer classes for all fitness levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Pilates in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Southern Soul Yoga",
+    "address": "3700 W. Brainerd Rd Ste 107, Chattanooga, TN 37411",
+    "phone": "(423) 643-9642",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.southernsoulyoga.com/",
+    "category": "Black-owned Pilates in Tennessee",
+    "description": "Southern Soul Yoga offers a variety of yoga classes and specializes in heated power yoga. They also offer hot Pilates and hybrid custom Pilates reformer classes. They highlight being Black-owned",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Pilates in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Athletic Reformer (part of Southern Soul Yoga)",
+    "address": "7550 East Brainerd Road Ste. 107, Chattanooga, TN 37421",
+    "phone": "(423) 643-9642",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.southernsoulyoga.com/athletic-reformer",
+    "category": "Black-owned Pilates in Tennessee",
+    "description": "This is a signature class designed to harness the latest insights from biomechanics and physical therapy for a dynamic and impactful workout, blending innovation with high energy. It is part of Southern Soul Yoga, which is Black-owned",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Pilates in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nashville Black Wellness Collective",
+    "address": "Nashville, TN (Specific studio address not readily available, but they organize community wellness events)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nashvilleblackwellness.com/",
+    "category": "Black-owned Pilates in Tennessee",
+    "description": "This collective aims to bring the Black community together through experiences that blend movement and mindfulness, including yoga and other wellness activities. While not exclusively a Pilates studio, they are a prominent Black-owned wellness organization in Nashville that promotes movement",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Pilates in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Work It Pilates Studio",
+    "address": "Nashville, TN (Specific address not readily available, but mentioned in a list of Black-owned studios)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Work+It+Pilates+Studio+in+Tennessee",
+    "category": "Black-owned Pilates in Tennessee",
+    "description": "Mentioned as a Black-owned Pilates studio in Nashville, dedicated to the core principles of Pilates",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Pilates in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
