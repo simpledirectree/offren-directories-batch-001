@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Psychiatry Group Hawaii, Ltd.",
+    "address": "Honolulu, HI (Tele-psychiatry services available statewide)",
+    "phone": "(808) 450-9711 (Inquiry line)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.psychgrouphawaii.com/",
+    "category": "Agnostic-owned Psychiatry in Hawaii",
+    "description": "Offers tele-psychiatry for medication management and psychotherapy, focusing on a doctor-patient partnership. They treat conditions like depression and anxiety",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Psychiatry in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Beyond Mental Health",
+    "address": "1441 Kapiolani Blvd Suite 1212, Honolulu, HI 96814",
+    "phone": "(808) 457-1082",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.beyond-mh.com/",
+    "category": "Agnostic-owned Psychiatry in Hawaii",
+    "description": "Provides alternative psychiatric therapies, including TMS, and personalized treatment plans with a focus on natural and research-grounded methods",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Psychiatry in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wellness Partners Mental Health",
+    "address": "Multiple locations across Hawaii (specific addresses not listed, but services are statewide)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wellnesspartnershi.com/",
+    "category": "Agnostic-owned Psychiatry in Hawaii",
+    "description": "A group clinic with Psychiatric Mental Health Nurse Practitioners and licensed therapists offering various mental healthcare services, including Intensive Outpatient Programs (IOP) and Partial Hospitalization Programs (PHP)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Psychiatry in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hawaii Pacific Health - Straub Benioff",
+    "address": "888 S King St, Honolulu, HI 96813",
+    "phone": "(808) 522-4521",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hawaiipacifichealth.org/services/mental-behavioral-health/",
+    "category": "Agnostic-owned Psychiatry in Hawaii",
+    "description": "Offers a full range of clinical services for adults, adolescents, children, and families, including therapy, medication management, and psychological testing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Psychiatry in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hawaii Pacific Health - Kapiolani",
+    "address": "1319 Punahou St, Honolulu, HI 96814",
+    "phone": "(808) 983-6100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hawaiipacifichealth.org/services/mental-behavioral-health/",
+    "category": "Agnostic-owned Psychiatry in Hawaii",
+    "description": "Provides behavioral health services for patients within Kapiolani's medical facilities, including support for those with serious or chronic medical conditions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Psychiatry in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mental Health Kokua",
+    "address": "Over thirty locations throughout Hawaii (Oahu, Maui, Kauai, and Hawaii Island)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mhkokua.org/",
+    "category": "Agnostic-owned Psychiatry in Hawaii",
+    "description": "A non-profit organization assisting individuals with behavioral health challenges, focusing on optimum functioning, quality of life, and community integration",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Psychiatry in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North Shore Mental Health Hawaii",
+    "address": "Multiple offices across Oahu, including Aiea, Honolulu, Kahuku, Kaneohe, Waianae/Makaha, Sunset Beach, and Wahiawa",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.northshoremh.com/",
+    "category": "Agnostic-owned Psychiatry in Hawaii",
+    "description": "Provides licensed mental and behavioral health professionals, outpatient substance abuse treatment, and crisis support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Psychiatry in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Adult Mental Health Division (AMHD) - Hawaii Department of Health",
+    "address": "Various community mental health centers across the islands",
+    "phone": "(808) 586-4686",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://health.hawaii.gov/amhd/",
+    "category": "Agnostic-owned Psychiatry in Hawaii",
+    "description": "Offers mental health education, treatment, and rehabilitation through community-based centers and a state hospital facility",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Psychiatry in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Psychology Today - Secular and Non-Religious Psychiatrists in Hawaii",
+    "address": "Various locations across Hawaii (searchable by zip code on their website)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.psychologytoday.com/us/psychiatrists/hi/secular",
+    "category": "Agnostic-owned Psychiatry in Hawaii",
+    "description": "This platform allows you to search for psychiatrists in Hawaii who identify as secular or non-religious, offering a way to find providers who may align with your preferences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Psychiatry in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Psychology Today - Spirituality Psychiatrists in Hawaii",
+    "address": "Various locations across Hawaii (searchable by zip code on their website)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.psychologytoday.com/us/psychiatrists/hi/spirituality",
+    "category": "Agnostic-owned Psychiatry in Hawaii",
+    "description": "While not exclusively for agnostics, this search can help identify providers who are open to discussing spirituality in a way that may resonate with individuals who do not adhere to traditional religious beliefs. Some practitioners on this list may offer a secular or non-dogmatic approach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Psychiatry in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
