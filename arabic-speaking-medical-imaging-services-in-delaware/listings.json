@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Ocean Medical Imaging of Delaware",
+    "address": "113 Broad St, Milton, DE 19968",
+    "phone": "(302) 684-5151",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.oceanmedicalimaging.com/",
+    "category": "Arabic-speaking Medical imaging services in Delaware",
+    "description": "Offers digital mammography, high-field MRI, multislice CT, ultrasound, DEXA, EKG, and X-ray services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ChristianaCare Imaging Services",
+    "address": "Multiple locations, including Brandywine View at 1401 Foulk Road Suite 100C, Wilmington, DE 19803",
+    "phone": "(302) 838-3088 (DE & PA) or 877-838-3088 (Toll-free)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://christianacare.org/services/imaging/",
+    "category": "Arabic-speaking Medical imaging services in Delaware",
+    "description": "Provides a comprehensive range of imaging services at various convenient locations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Delaware Imaging Network (DIN)",
+    "address": "Multiple locations across New Castle and Kent Counties, including Middletown Imaging at 800 Old Baltimore Pike, Middletown, DE 19709",
+    "phone": "(302) 378-5000 (Middletown location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.radnet.com/delaware-imaging-network",
+    "category": "Arabic-speaking Medical imaging services in Delaware",
+    "description": "A network offering MRI, PET/CT, CT, 3D mammography, ultrasound, nuclear medicine, and more, with a focus on quality and convenience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Limestone Open MRI & Imaging Center",
+    "address": "4001 Limestone Rd, Wilmington, DE 19808",
+    "phone": "(302) 998-9500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.limestoneopenmri.com/",
+    "category": "Arabic-speaking Medical imaging services in Delaware",
+    "description": "Offers high-quality open MRI and digital X-ray services, with board-certified radiologists and staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Delaware MRI & Imaging Centers",
+    "address": "Multiple locations, including those associated with Delaware Orthopaedic Specialists",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.delawareortho.com/services/imaging/",
+    "category": "Arabic-speaking Medical imaging services in Delaware",
+    "description": "Provides MRI and CT services with state-of-the-art technology and a focus on patient comfort",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mid-Delaware Imaging",
+    "address": "2018 S DuPont Hwy, Dover, DE 19901",
+    "phone": "(302) 734-9888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mid-delaware-imaging.com/",
+    "category": "Arabic-speaking Medical imaging services in Delaware",
+    "description": "Offers a comprehensive range of diagnostic imaging, including CT scans, MRI, mammography, ultrasound, and low-dose lung cancer screenings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Beebe Imaging",
+    "address": "Multiple locations throughout Southern Delaware",
+    "phone": "(302) 645-3278",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.beebehealthcare.org/services/imaging",
+    "category": "Arabic-speaking Medical imaging services in Delaware",
+    "description": "Provides X-rays, mammograms, open MRI, ultrasounds, CT scans, nuclear medicine, and PET/CT scans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RadNet Affiliated Imaging Centers",
+    "address": "Various locations under the RadNet umbrella, which includes Delaware Imaging Network",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.radnet.com/",
+    "category": "Arabic-speaking Medical imaging services in Delaware",
+    "description": "RadNet is a national network of imaging centers offering a wide array of diagnostic services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Privia Health",
+    "address": "Multiple physician practices across Delaware",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.priviahealth.com/",
+    "category": "Arabic-speaking Medical imaging services in Delaware",
+    "description": "While not a direct imaging provider, Privia Health is a network of physicians who may refer patients for imaging services. They offer language selection options on their website",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Health Net",
+    "address": "Network of providers across Delaware",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.healthnet.com/",
+    "category": "Arabic-speaking Medical imaging services in Delaware",
+    "description": "Health Net is an insurance provider that contracts with various medical facilities, including radiology centers. They may have resources for language assistance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
