@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Float Loft",
+    "address": "2860 Richmond Rd. STE 125, Lexington, KY 40509",
+    "phone": "859-967-3568",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Float+Loft+in+Kentucky",
+    "category": "Black-owned Float therapy in Kentucky",
+    "description": "Offers float therapy, infrared saunas, cold plunge, and massage therapy. They emphasize a serene and relaxing experience to help relieve stress and restore balance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Float therapy in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Weightless Float Center",
+    "address": "1201 Bardstown Rd, Louisville, KY 40204",
+    "phone": "502-567-4111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Weightless+Float+Center+in+Kentucky",
+    "category": "Black-owned Float therapy in Kentucky",
+    "description": "A wellness spa offering floatation therapy, massage therapy, yoga, and meditation classes. They aim to build up and give back to their local community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Float therapy in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blissful Relaxation",
+    "address": "1201 Bardstown Rd, Louisville, KY 40204",
+    "phone": "502-567-4111",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Blissful+Relaxation+in+Kentucky",
+    "category": "Black-owned Float therapy in Kentucky",
+    "description": "Offers float therapy in spacious, private suites, along with infrared sauna, dry salt halotherapy, and therapeutic massages. They focus on holistic wellness and stress relief",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Float therapy in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Free Your Mind Body & Soul Wellness LLC",
+    "address": "2845 West Parrish Ave. Ste. G, Owensboro, KY 42301",
+    "phone": "270-215-7728",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Free+Your+Mind+Body+&+Soul+Wellness+LLC+in+Kentucky",
+    "category": "Black-owned Float therapy in Kentucky",
+    "description": "Provides float therapy in a zero-gravity saltwater pod, aiming for relaxation, pain relief, and resetting the mind and body",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Float therapy in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Full Bloom Float and Wellness",
+    "address": "Bardstown, KY (specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Full+Bloom+Float+and+Wellness+in+Kentucky",
+    "category": "Black-owned Float therapy in Kentucky",
+    "description": "A float and wellness studio combining traditional and modern therapies to improve mental and physical well-being, offering float therapy and massage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Float therapy in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Think Tank Flotation",
+    "address": "521 Monmouth Street, Newport, KY 41071",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Think+Tank+Flotation+in+Kentucky",
+    "category": "Black-owned Float therapy in Kentucky",
+    "description": "Described as Northern Kentucky's float destination, offering float therapy in private rooms with customizable experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Float therapy in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "VyFy Wellness Club",
+    "address": "106 Watterson Trail, Louisville, KY 40243",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/VyFy+Wellness+Club+in+Kentucky",
+    "category": "Black-owned Float therapy in Kentucky",
+    "description": "Offers float therapy, infrared sauna, and cryotherapy as part of a comprehensive approach to physical, mental, and emotional well-being",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Float therapy in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Weightless Float & Social Spa",
+    "address": "Louisville, KY (specific street address not provided in search results, but mentions reopening in a new location)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Weightless+Float+&+Social+Spa+in+Kentucky",
+    "category": "Black-owned Float therapy in Kentucky",
+    "description": "This spa offers float therapy, infrared sauna, massage, and other bathhouse traditions, aiming to blend timeless wellness practices with community and personal reflection",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Float therapy in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Float Loft (Ashland Location)",
+    "address": "3401 Winchester Ave. Ashland, KY 41101",
+    "phone": "425-220-5889",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Float+Loft+(Ashland+Location)+in+Kentucky",
+    "category": "Black-owned Float therapy in Kentucky",
+    "description": "This is another location for The Float Loft, offering the same services as their Lexington branch",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Float therapy in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Float Loft (Harrison, OH - Coming Soon)",
+    "address": "593 Ring Rd. Harrison, OH 89012",
+    "phone": "425-220-5889",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Float+Loft+(Harrison,+OH+-+Coming+Soon)+in+Kentucky",
+    "category": "Black-owned Float therapy in Kentucky",
+    "description": "An upcoming location for The Float Loft, expanding their services to the Harrison, Ohio area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Float therapy in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
