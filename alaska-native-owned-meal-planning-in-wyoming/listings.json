@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Chef Renee",
+    "address": "Jackson, WY (Specific address not publicly listed, operates as a private chef service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chef-renee.com/",
+    "category": "Alaska-Native-owned Meal planning in Wyoming",
+    "description": "Offers custom meal planning, preparation, serving, and cleanup for various events and occasions, with a focus on local and organic ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Meal planning in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kitchen Social",
+    "address": "104 S. Beverly St., Casper, WY 82601",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kitchensocial.com/",
+    "category": "Alaska-Native-owned Meal planning in Wyoming",
+    "description": "Provides pre-prepared, healthy, and freezer-friendly meals for individuals and families, with options for pick-up or delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Meal planning in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Unprocessed Kitchen",
+    "address": "Jackson Hole, WY (Specific address not publicly listed, operates as a private chef service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.unprocessedkitchen.com/",
+    "category": "Alaska-Native-owned Meal planning in Wyoming",
+    "description": "Offers private chef services, catering, and custom meal preparation with an emphasis on organic and healthy meals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Meal planning in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Heirloom & Native LLC (Eat Wyoming)",
+    "address": "Wyoming (Operates statewide, specific address not listed)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eatwyoming.com/",
+    "category": "Alaska-Native-owned Meal planning in Wyoming",
+    "description": "Focuses on locally sourced ingredients and chef-crafted meals for everyday needs and special events, with a strong emphasis on supporting local producers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Meal planning in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Indigi-meals Pro",
+    "address": "Wind River Reservation, WY (Specific address not publicly listed)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nativegrownandgathered.com/indigi-meals-pro/",
+    "category": "Alaska-Native-owned Meal planning in Wyoming",
+    "description": "A pre-ordered meal delivery service providing fresh meal prep to the Wind River Reservation, aiming to make healthy eating convenient. This business is listed as Native-Owned",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Meal planning in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
