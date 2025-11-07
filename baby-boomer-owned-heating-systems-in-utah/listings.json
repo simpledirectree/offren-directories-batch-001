@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Manwill",
+    "address": "1750 S. 400 W., Salt Lake City, UT 84115",
+    "phone": "(801) 262-4671",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.manwill.com/",
+    "category": "Baby-Boomer-owned Heating systems in Utah",
+    "description": "A family-owned business serving Utah since 1920, offering HVAC and plumbing services with a focus on quality and customer satisfaction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Heating systems in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Apex Clean Air",
+    "address": "7552 S. Campus View Dr., West Jordan, UT 84084",
+    "phone": "(801) 758-7000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.apexcleanair.com/",
+    "category": "Baby-Boomer-owned Heating systems in Utah",
+    "description": "Provides comprehensive HVAC services in West Jordan, UT, with an A+ BBB rating, free repair diagnosis, and a workmanship guarantee",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Heating systems in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Main Street Heating & Cooling",
+    "address": "8765 S. Highland Dr., Sandy, UT 84093",
+    "phone": "(801) 779-0000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.mainstreetheatingandcooling.com/",
+    "category": "Baby-Boomer-owned Heating systems in Utah",
+    "description": "A family-owned and operated business serving the Salt Lake Valley for over a decade, offering upfront pricing and comprehensive HVAC services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Heating systems in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Victory HVAC & Mechanical",
+    "address": "7777 S. Union Square, West Jordan, UT 84084",
+    "phone": "(801) 541-3046",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://victoryhvac.com/",
+    "category": "Baby-Boomer-owned Heating systems in Utah",
+    "description": "Offers exceptional HVAC solutions in West Jordan and surrounding areas, committed to year-round comfort with experienced technicians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Heating systems in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vortex Air HVAC",
+    "address": "455 E. 1200 S., Orem, UT 84058",
+    "phone": "(801) 400-2422",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://vortexairhvac.com/",
+    "category": "Baby-Boomer-owned Heating systems in Utah",
+    "description": "Provides honest and affordable heating and cooling solutions in Orem, UT, with expert service and a 2-year installation warranty",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Heating systems in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "True Pros",
+    "address": "1270 E. 3300 S., Salt Lake City, UT 84106",
+    "phone": "(801) 601-1390",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://trueprosutah.com/",
+    "category": "Baby-Boomer-owned Heating systems in Utah",
+    "description": "Trusted HVAC experts in Salt Lake City, known for dependable, high-quality service without the hard sell, offering 24/7 emergency services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Heating systems in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Absolute Comfort Heating & Air Conditioning",
+    "address": "2185 N. 1700 W., Ogden, UT 84404",
+    "phone": "(801) 528-1790",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://absolutecomfortutah.com/",
+    "category": "Baby-Boomer-owned Heating systems in Utah",
+    "description": "Serving Ogden, UT, and Weber County with reliable HVAC repairs, installations, and tune-ups, committed to over-the-top service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Heating systems in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Heavenly Heating and Cooling LLC",
+    "address": "9141 S. Highland Dr., Sandy, UT 84093",
+    "phone": "(801) 849-1000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://heavenlyheatingandcooling.com/",
+    "category": "Baby-Boomer-owned Heating systems in Utah",
+    "description": "A fast-growing HVAC company in Sandy, UT, specializing in furnace and AC repair/installation, system design, and more, with a commitment to customer-centered service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Heating systems in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "A-Zion Mechanical",
+    "address": "1091 W. Sunset Blvd., St. George, UT 84770",
+    "phone": "(435) 627-1000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.azionmechanical.com/",
+    "category": "Baby-Boomer-owned Heating systems in Utah",
+    "description": "Licensed and insured HVAC contractors in St. George, UT, providing fast service and guaranteed satisfaction for heating and cooling installations, repairs, and maintenance for over 25 years",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Heating systems in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ABT Heating & Cooling",
+    "address": "1145 N. 1200 W., Orem, UT 84057",
+    "phone": "(801) 785-2822",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://abtheatingandcooling.com/",
+    "category": "Baby-Boomer-owned Heating systems in Utah",
+    "description": "Provides reliable HVAC solutions in Orem, UT, with over 30 years of experience, emphasizing value, integrity, and customer satisfaction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Heating systems in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
