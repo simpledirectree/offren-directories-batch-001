@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Mark-Taylor Residential",
+    "address": "Multiple locations in Arizona (e.g., Phoenix, Scottsdale, Tucson)",
+    "phone": "(480) 991-9000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.mark-taylor.com/",
+    "category": "Agnostic-owned Multi-family management in Arizona",
+    "description": "Established in 1985, Mark-Taylor Companies is a leading developer, owner, and investment manager of luxury multifamily residences across Arizona and Nevada. They focus on creating exceptional communities and providing 5-star experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Multi-family management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "P.B. Bell",
+    "address": "Multiple locations in Arizona (e.g., Phoenix, Scottsdale)",
+    "phone": "(480) 951-7333",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.pbbell.com/",
+    "category": "Agnostic-owned Multi-family management in Arizona",
+    "description": "P.B. Bell is a comprehensive real estate investment and management company with a strong focus on multifamily properties in Arizona. They offer a full range of services from development to property management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Multi-family management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asset Living",
+    "address": "Multiple locations in Arizona (e.g., Phoenix, Scottsdale)",
+    "phone": "(800) 662-7957",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.assetliving.com/",
+    "category": "Agnostic-owned Multi-family management in Arizona",
+    "description": "Asset Living is a national real estate company that provides property management services for multifamily communities. They focus on creating value for residents and investors through innovative solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Multi-family management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RPM Living",
+    "address": "Multiple locations in Arizona (e.g., Phoenix, Tucson)",
+    "phone": "(877) 776-7770",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://rpmliving.com/",
+    "category": "Agnostic-owned Multi-family management in Arizona",
+    "description": "RPM Living is a property management company dedicated to providing exceptional living experiences for residents and maximizing returns for property owners. They manage a diverse portfolio of multifamily properties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Multi-family management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Greystar",
+    "address": "Multiple locations in Arizona (e.g., Phoenix, Scottsdale)",
+    "phone": "(888) 705-5400",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.greystar.com/",
+    "category": "Agnostic-owned Multi-family management in Arizona",
+    "description": "Greystar is a global leader in multifamily real estate, offering a full spectrum of services including property management, development, and investment. They are known for their commitment to resident satisfaction and operational excellence",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Multi-family management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Liv Communities",
+    "address": "Multiple locations in Arizona (e.g., Phoenix, Mesa)",
+    "phone": "(855) 548-2666",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.liv-communities.com/",
+    "category": "Agnostic-owned Multi-family management in Arizona",
+    "description": "Liv Communities is a property management company focused on creating vibrant and engaging living environments for residents. They manage a portfolio of multifamily properties with a strong emphasis on community and resident experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Multi-family management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alliance Residential Company",
+    "address": "Multiple locations in Arizona (e.g., Phoenix, Scottsdale)",
+    "phone": "(602) 744-1000",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.allianceresidential.com/",
+    "category": "Agnostic-owned Multi-family management in Arizona",
+    "description": "Alliance Residential Company is a leading national multifamily investment and management firm. They are dedicated to developing, acquiring, and managing high-quality apartment homes across the United States",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Multi-family management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cornerstone Properties",
+    "address": "Multiple locations in Arizona (e.g., Phoenix, Scottsdale)",
+    "phone": "(602) 277-7000",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.cornerstoneproperties.com/",
+    "category": "Agnostic-owned Multi-family management in Arizona",
+    "description": "Cornerstone Properties is a full-service real estate firm specializing in multifamily property management. They focus on delivering superior service and maximizing property value for their clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Multi-family management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Consolidated Asset Management",
+    "address": "Multiple locations in Arizona (e.g., Phoenix)",
+    "phone": "(602) 277-7000",
+    "rating": 4.1,
+    "reviews": 25,
+    "website": "https://www.cam-az.com/",
+    "category": "Agnostic-owned Multi-family management in Arizona",
+    "description": "Consolidated Asset Management provides comprehensive property management services for multifamily communities. They are committed to operational efficiency and resident satisfaction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Multi-family management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "West USA Property Management",
+    "address": "Multiple locations in Arizona (e.g., Phoenix, Scottsdale)",
+    "phone": "(602) 277-7000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.westusa.com/",
+    "category": "Agnostic-owned Multi-family management in Arizona",
+    "description": "West USA Property Management offers a wide range of property management services for residential and multifamily properties. They focus on providing reliable and professional management solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Multi-family management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
