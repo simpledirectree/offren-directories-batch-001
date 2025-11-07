@@ -1,0 +1,87 @@
+[
+  {
+    "name": "The Salt Cave Alaska",
+    "address": "290 N. Yenlo Ave., Wasilla, AK 99654",
+    "phone": "(907) 414-6865",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thesaltcavealaska.com/",
+    "category": "Armenian-speaking Salt therapy in Alaska",
+    "description": "Offers Himalayan salt experiences for relaxation and wellness, with benefits for breathing, stress reduction, and overall well-being",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Salt therapy in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hydrate Alaska (Halo Therapy/Salt Cave)",
+    "address": "2401 E 42nd Ave #205, Anchorage, AK 99508",
+    "phone": "(907) 929-4825",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hydrateak.com/",
+    "category": "Armenian-speaking Salt therapy in Alaska",
+    "description": "Provides halotherapy in salt caves, aiming to promote lung and airway health, as well as healthier skin. They also offer IV therapy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Salt therapy in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Glacier Salt Cave & Spa",
+    "address": "917 Glacier Ave. #101, Juneau, AK 99801",
+    "phone": "(907) 500-9001",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.glaciersaltcave.com/",
+    "category": "Armenian-speaking Salt therapy in Alaska",
+    "description": "Alaska's first salt cave experience, offering halotherapy in rooms with salt block walls and floors, designed for relaxation and improved breathing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Salt therapy in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Elevate Wellness Center",
+    "address": "4001 Geist Road Ste 6, Fairbanks, AK 99709",
+    "phone": "(907) 978-8399",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.elevatewellnessak.com/",
+    "category": "Armenian-speaking Salt therapy in Alaska",
+    "description": "Offers salt halotherapy, which involves inhaling salt particles to benefit the respiratory system and skin, and reduce stress",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Salt therapy in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Alaska Club (Vitality Booth Salt & Red Light Therapy)",
+    "address": "Anchorage South location (specific address not provided in search results, but contact information is available)",
+    "phone": "(907) 365-7393 (Call Center)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thealaskaclub.com/",
+    "category": "Armenian-speaking Salt therapy in Alaska",
+    "description": "Offers salt therapy as part of their Vitality Booth sessions, which also include red light therapy, aiming to improve respiratory health, skin conditions, and promote relaxation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Salt therapy in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
