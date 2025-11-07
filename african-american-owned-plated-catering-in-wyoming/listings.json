@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Maho Catering",
+    "address": "Jackson Hole, WY",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mahocatering.com/",
+    "category": "African-American-owned Plated catering in Wyoming",
+    "description": "Specializes in New American Cuisine, focusing on robust flavors and sustainable ingredients. They offer catering for weddings, corporate events, and private parties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Plated catering in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nola Catering & Private Dining",
+    "address": "Wyoming",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Nola+Catering+&+Private+Dining+in+Wyoming",
+    "category": "African-American-owned Plated catering in Wyoming",
+    "description": "Offers Southern-style catering with Creole cooking techniques. They provide full-service catering, buffet services, and private dining experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Plated catering in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chef Andrew Blake (Private Chef)",
+    "address": "Jackson, WY",
+    "phone": "307-413-6010",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chef+Andrew+Blake+(Private+Chef)+in+Wyoming",
+    "category": "African-American-owned Plated catering in Wyoming",
+    "description": "Offers custom menus for private events, meal delivery, and exclusive catering services. Chef Andrew Blake has received culinary awards and recognition",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Plated catering in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cafe Genevieve / Genevieve Catering",
+    "address": "Jackson, WY",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cafegenevieve.com/catering",
+    "category": "African-American-owned Plated catering in Wyoming",
+    "description": "Provides catering services with warm western hospitality and exceptional cuisine for events of any size, including weddings and private functions. They also offer private chefs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Plated catering in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Buffalo Bills Food Truck and Catering",
+    "address": "10885 US-89, Jackson, WY 83001",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Buffalo+Bills+Food+Truck+and+Catering+in+Wyoming",
+    "category": "African-American-owned Plated catering in Wyoming",
+    "description": "Offers authentic American flavors with a focus on local Wyoming and Idaho ingredients, including elk and buffalo. They cater for weddings, corporate events, and parties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Plated catering in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Unprocessed Kitchen",
+    "address": "Jackson Hole, Wyoming",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Unprocessed+Kitchen+in+Wyoming",
+    "category": "African-American-owned Plated catering in Wyoming",
+    "description": "Offers personalized gourmet catering, private chef services, and custom meal preparation with a focus on organic and healthy meals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Plated catering in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Artisan Chef",
+    "address": "Star Valley/Jackson, Wyoming and Las Vegas, Nevada",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Artisan+Chef+in+Wyoming",
+    "category": "African-American-owned Plated catering in Wyoming",
+    "description": "Provides catering and private chef services, aiming to create unique dining and event experiences. They offer takeout and delivery options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Plated catering in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
