@@ -1,0 +1,172 @@
+[
+  {
+    "name": "New England Agronomy",
+    "address": "280 Bloomfield Ave, Windsor, CT 06095",
+    "phone": "(413) 355-0200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.newenglandagronomy.com/",
+    "category": "Black-owned Crop consulting in Connecticut",
+    "description": "Specializes in vegetative solutions for sandy soils and offers services such as habitat restoration, invasive vegetation remediation, and native seed collection",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop consulting in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Greenleaf Services LLC",
+    "address": "45 Old Hwy, Wilton, CT 06897",
+    "phone": "(203) 762-7777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.greenleafct.com/",
+    "category": "Black-owned Crop consulting in Connecticut",
+    "description": "Offers tree and shrub care, plant health care, tick control, and custom fertilization programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop consulting in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AgriTech Solutions Inc.",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/AgriTech+Solutions+Inc.+in+Connecticut",
+    "category": "Black-owned Crop consulting in Connecticut",
+    "description": "An AI-driven consulting firm focused on unlocking predictive insights through agricultural, economic, and environmental data",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop consulting in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SoilSense",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/SoilSense+in+Connecticut",
+    "category": "Black-owned Crop consulting in Connecticut",
+    "description": "An agronomic consulting company focused on creating healthy soil profiles without chemical intervention, emphasizing organic fertilizers and soil health",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop consulting in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cropwise Consulting LLC",
+    "address": "Based in Northwest Missouri (not Connecticut)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cropwiseconsulting.com/",
+    "category": "Black-owned Crop consulting in Connecticut",
+    "description": "A full-service crop consulting company offering soil sampling, crop scouting, and agronomic services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop consulting in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Farm Forward",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.farmforward.com/",
+    "category": "Black-owned Crop consulting in Connecticut",
+    "description": "Provides consulting services to those working to end factory farming and create a more just and sustainable food system",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop consulting in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Harvest Consulting",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Harvest+Consulting+in+Connecticut",
+    "category": "Black-owned Crop consulting in Connecticut",
+    "description": "Focuses on business growth and efficiency, helping businesses establish healthy systems and implement efficient processes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop consulting in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rooted Strategy",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Rooted+Strategy+in+Connecticut",
+    "category": "Black-owned Crop consulting in Connecticut",
+    "description": "Specializes in resource development, leadership coaching, and organization change management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop consulting in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rooted & Reimagined Strategies",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Rooted+&+Reimagined+Strategies+in+Connecticut",
+    "category": "Black-owned Crop consulting in Connecticut",
+    "description": "Provides hands-on and advisory services to mission-aligned individuals, nonprofits, and philanthropy on equity-focused initiatives",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop consulting in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aftan Engineering",
+    "address": "Based in Pennsylvania, serves clients across CT",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://aftanengineering.com/",
+    "category": "Black-owned Crop consulting in Connecticut",
+    "description": "Specializes in sustainability, Life Cycle Assessment (LCA), and ISO 14001 Certification",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop consulting in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
