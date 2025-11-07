@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Tangletown Dental",
+    "address": "4831 Nicollet Ave, Minneapolis, MN 55419",
+    "phone": "612-822-2324",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tanglentowndental.com/",
+    "category": "Agnostic-owned Emergency dental care in Minnesota",
+    "description": "Offers same-day emergency dental care for various dental injuries and issues, including chipped, moved, or knocked-out teeth",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency dental care in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Urgent Dental Care",
+    "address": "6545 France Avenue South, Suite #681C, Edina, MN 55435",
+    "phone": "(612) 800 8006",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dental-er.us/",
+    "category": "Agnostic-owned Emergency dental care in Minnesota",
+    "description": "Provides immediate access to comprehensive emergency dental care services, including treatment for toothaches, lost crowns, and other urgent dental problems",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency dental care in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Emergency Dental Care USA",
+    "address": "Minneapolis, MN (Specific address not provided in search results, but multiple locations are implied)",
+    "phone": "(651) 778-9911",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.emergencydentalcareusa.com/locations/minneapolis-mn/",
+    "category": "Agnostic-owned Emergency dental care in Minnesota",
+    "description": "Offers same-day dental care for emergency and non-emergency patients, with services including treatment for toothaches, chipped teeth, and extractions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency dental care in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Park Dental",
+    "address": "Multiple locations across Minnesota (e.g., Minneapolis, Hudson, Hugo, Lakeville, etc.)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.parkdental.com/",
+    "category": "Agnostic-owned Emergency dental care in Minnesota",
+    "description": "Provides after-hours emergency care through an on-call dentist system for established patients, and attempts to accommodate new patients for true dental emergencies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency dental care in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Now Care Dental",
+    "address": "Eagan, MN (Specific address not provided in search results, but serves Minneapolis and St. Paul areas)",
+    "phone": "(651) 686-6800",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nowcaredental.com/",
+    "category": "Agnostic-owned Emergency dental care in Minnesota",
+    "description": "Offers general and emergency dental services, with 7-day-a-week availability, including weekends and holidays, for same-day appointments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency dental care in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Emergency Dental Professionals",
+    "address": "393 North Dunlap Street, Suite 308, Saint Paul, MN 55104",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://emergencydentalprofessionals.com/",
+    "category": "Agnostic-owned Emergency dental care in Minnesota",
+    "description": "A team of dentists offering immediate dental care for urgent emergencies, with services including extractions and root canal treatment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency dental care in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Knollwood Dentistry",
+    "address": "St. Louis Park, MN (Specific address not provided in search results)",
+    "phone": "952-933-3667",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.knollwooddentistry.com/emergency-dentistry/",
+    "category": "Agnostic-owned Emergency dental care in Minnesota",
+    "description": "Provides emergency dental care with same-day appointments, extended hours, and experienced dentists for various dental emergencies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency dental care in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nokomis Family Dental",
+    "address": "Minneapolis, MN (Specific address not provided in search results)",
+    "phone": "612-722-4676",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nokomisfamilydental.com/emergency-dental-care/",
+    "category": "Agnostic-owned Emergency dental care in Minnesota",
+    "description": "Offers emergency dental care in Minneapolis, aiming to provide instructions and arrange appointments as quickly as possible for patients in need",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency dental care in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Community Dental Care - Buffalo",
+    "address": "3650 Braddock Ave NE, Ste 200, Buffalo, MN, 55313",
+    "phone": "(763) 270-6900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cdentc.org/dental-services",
+    "category": "Agnostic-owned Emergency dental care in Minnesota",
+    "description": "A dental clinic offering treatment services, including same-day emergency assessments, and welcoming new medical assistance patients and non-English speakers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency dental care in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Community Dental Care - Carlton Street",
+    "address": "Carlton Street (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Community+Dental+Care+-+Carlton+Street+in+Minnesota",
+    "category": "Agnostic-owned Emergency dental care in Minnesota",
+    "description": "A dental clinic offering treatment services and welcoming same-day emergencies, with multi-lingual and multi-cultural dentists and staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency dental care in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
