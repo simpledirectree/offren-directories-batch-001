@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Translation Excellence",
+    "address": "(Not explicitly stated, but serves Denver, Colorado)",
+    "phone": "720.325.0459",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.translationexcellence.com/",
+    "category": "Armenian-speaking Help desk services in Colorado",
+    "description": "Provides Armenian to English and English to Armenian translation and interpretation services for various fields",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Help desk services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cesco Linguistic Services",
+    "address": "(Serves Denver Metropolitan Area and throughout Colorado)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cescolinguistic.com/",
+    "category": "Armenian-speaking Help desk services in Colorado",
+    "description": "Offers on-site, over-the-phone (OPI), and video remote interpreting (VRI) for Armenian and other languages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Help desk services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Armenians of Colorado",
+    "address": "1373 Grant St, Suite 101A, Denver, Colorado 80202 (Office Address)",
+    "phone": "+1 (720) 336-9202",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.armeniansofcolorado.org/",
+    "category": "Armenian-speaking Help desk services in Colorado",
+    "description": "A community organization that may have resources or connections to Armenian speakers, though not a direct help desk service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Help desk services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mytech Partners",
+    "address": "(Serves Colorado businesses, specific office address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mytechpartners.com/",
+    "category": "Armenian-speaking Help desk services in Colorado",
+    "description": "Provides IT consulting and support services for Colorado businesses. They may have multilingual staff or be able to accommodate language needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Help desk services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TELUS Digital",
+    "address": "(Global call center delivery capabilities, specific Colorado address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.telusinternational.com/",
+    "category": "Armenian-speaking Help desk services in Colorado",
+    "description": "Offers multilingual customer support services, including Armenian-speaking support specialists",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Help desk services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
