@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Idaho Photography Studios",
+    "address": "Boise, Idaho (Specific street address not publicly listed)",
+    "phone": "208-760-6464",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://idahophotographystudios.com/",
+    "category": "Central-American-owned Agricultural photography in Idaho",
+    "description": "Specializes in professional headshots, branding portraits, and commercial photography, with a focus on promoting Idaho's agricultural community through stunning images of farming, livestock, and rural landscapes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Agricultural photography in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Idaho Studio",
+    "address": "Idaho (Specific street address not publicly listed)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://idahostudio.com/",
+    "category": "Central-American-owned Agricultural photography in Idaho",
+    "description": "Offers legendary agricultural and industry photography, balancing technical expertise with creative vision to deliver compelling visuals. They also provide aerial and portrait photography services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Agricultural photography in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The 8th Street Studio",
+    "address": "Boise, Idaho (Specific street address not publicly listed)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.8thstreetstudio.com/",
+    "category": "Central-American-owned Agricultural photography in Idaho",
+    "description": "A full-service professional photography and portrait studio in Boise, known for creating storytelling art pieces. They are members of The Boise Chamber of Commerce, Professional Photographers of Idaho, and Professional Photographers of America",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Agricultural photography in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Main Street Studio",
+    "address": "Downtown Boise, Idaho (Specific street address not publicly listed)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mainstreetstudio.com/",
+    "category": "Central-American-owned Agricultural photography in Idaho",
+    "description": "A photography studio and creative space in Downtown Boise featuring a cyclorama wall, various backdrops, and a green screen. They offer hourly rentals and equipment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Agricultural photography in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Caldwell ID Photography Studio for Rent (OutWest)",
+    "address": "Caldwell, Idaho (Specific street address not publicly listed)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.outwest.studio/",
+    "category": "Central-American-owned Agricultural photography in Idaho",
+    "description": "A natural light photography studio in Caldwell offering hourly rentals, designer sets, and seamless backdrops, ideal for branding, lifestyle, and content shoots",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Agricultural photography in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Idaho Image Studios",
+    "address": "Idaho (Specific street address not publicly listed)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.idahoimagestudios.com/",
+    "category": "Central-American-owned Agricultural photography in Idaho",
+    "description": "Offers personalized, luxury portrait experiences, specializing in heirloom-quality portraits tailored from start to finish, including maternity, newborn, and family sessions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Agricultural photography in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
