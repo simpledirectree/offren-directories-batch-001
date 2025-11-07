@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Miijim",
+    "address": "858 Fort Rd, La Pointe, Wisconsin, 54850, US",
+    "phone": "+1715-331-9860",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.miijim.com/",
+    "category": "Alaska-Native-owned Casual dining in Wisconsin",
+    "description": "Miijim is an Indigenous restaurant serving modern Ojibwe medicine with French soul, focusing on traditional Ojibwe dishes with local ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Casual dining in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cedar & Sage Grill House",
+    "address": "2040 Airport Drive, Green Bay, WI 54313",
+    "phone": "(920) 327-7911",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Cedar+&+Sage+Grill+House+in+Wisconsin",
+    "category": "Alaska-Native-owned Casual dining in Wisconsin",
+    "description": "Owned by the Oneida Nation, this restaurant offers regional, sustainable, and Indigenous cuisine, preparing Midwestern ingredients with a live fire cooking style",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Casual dining in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
