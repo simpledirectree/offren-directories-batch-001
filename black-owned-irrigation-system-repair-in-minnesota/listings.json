@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Green & Black LLC",
+    "address": "14645 Felton Court Suite 102, Apple Valley, MN 55124",
+    "phone": "651-356-9193",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.greenandblackllc.com/",
+    "category": "Black-owned Irrigation system repair in Minnesota",
+    "description": "Offers irrigation installation, maintenance, repair, inspection, and winterization services for residential and commercial properties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Irrigation system repair in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
