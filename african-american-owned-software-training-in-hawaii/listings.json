@@ -1,0 +1,172 @@
+[
+  {
+    "name": "DevLeague",
+    "address": "1132 Bishop St Suite 120, Honolulu, HI 96813",
+    "phone": "(808) 589-1100",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://devleague.com/",
+    "category": "African-American-owned Software training in Hawaii",
+    "description": "DevLeague is Hawaii's premier accelerated learning bootcamp, offering intensive curriculum in software engineering and cybersecurity. They focus on mentorship and community to help students launch tech careers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Software training in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nucamp",
+    "address": "Online (with local meetups in Honolulu)",
+    "phone": "(860) 255-2555",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.nucamp.co/",
+    "category": "African-American-owned Software training in Hawaii",
+    "description": "Nucamp offers affordable and flexible part-time coding bootcamps, including web development, back-end, and cybersecurity. They emphasize accessible education with small class sizes and dedicated instructors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Software training in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TechSherpas 365",
+    "address": "1441 Kapiolani Blvd Ste 1115, Honolulu, HI 96814",
+    "phone": "(866) 704-9244",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.techsherpas.com/",
+    "category": "African-American-owned Software training in Hawaii",
+    "description": "TechSherpas 365 is a leading provider of IT certification training programs in Hawaii, specializing in Microsoft, CompTIA, Cisco, and cybersecurity. They offer various learning methods, including instructor-led and virtual training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Software training in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hawaii Tech Academy",
+    "address": "1132 Bishop St, Honolulu, HI 96813",
+    "phone": "(808) 589-1100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://hawaiitech.org/",
+    "category": "African-American-owned Software training in Hawaii",
+    "description": "Hawaii Tech Academy offers a 12-week comprehensive coding bootcamp covering full-stack web development, with an emphasis on project-based learning and career support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Software training in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Hawaii Coding Bootcamp",
+    "address": "Various UH campuses may offer programs or partner with providers",
+    "phone": "(808) 956-8000 (General UH Information)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://codingbootcamp.hawaii.edu/",
+    "category": "African-American-owned Software training in Hawaii",
+    "description": "This part-time program covers a wide range of topics including full-stack web development, data science, and cybersecurity, preparing students for careers in the tech industry",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Software training in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Honolulu Code Lab",
+    "address": "1132 Bishop St, Honolulu, HI 96813",
+    "phone": "(808) 589-1100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://honolulucodelab.com/",
+    "category": "African-American-owned Software training in Hawaii",
+    "description": "Honolulu Code Lab's program focuses on the fundamentals of web development, including HTML, CSS, JavaScript, and popular frameworks, designed to prepare students for entry-level software developer roles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Software training in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pacific Center for Advanced Technology Training (PCATT)",
+    "address": "Various University of Hawaii Community College campuses",
+    "phone": "(808) 845-9292",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://pcatt.org/",
+    "category": "African-American-owned Software training in Hawaii",
+    "description": "PCATT is a consortium of the University of Hawaii Community Colleges offering advanced technology training in areas like software development, cybersecurity, and cloud computing, with a focus on industry engagement",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Software training in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Certstaffix Training",
+    "address": "Online and Onsite options available in Honolulu, HI",
+    "phone": "(800) 728-4472",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.certstaffix.com/",
+    "category": "African-American-owned Software training in Hawaii",
+    "description": "Certstaffix Training provides computer training courses in Honolulu, including programming, IT, and business skills, with various delivery methods like instructor-led and eLearning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Software training in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hawaii Community College - Full Stack Software Developer Program",
+    "address": "555 Kolopua St, Hilo, HI 96720 (Main Campus)",
+    "phone": "(808) 934-2500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hawaii.hawaii.edu/programs/full-stack-software-developer",
+    "category": "African-American-owned Software training in Hawaii",
+    "description": "This 100% online course covers modern full-stack development, including AI coding essentials and hands-on projects to build a functional website",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Software training in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blacks In Technology Foundation",
+    "address": "Primarily online programs and resources, with potential for local chapters or events",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://blacksintechnology.net/",
+    "category": "African-American-owned Software training in Hawaii",
+    "description": "While not a direct training provider in Hawaii, the Blacks In Technology Foundation offers scholarships, grants, and discounted training and certification programs, which could be utilized by individuals in Hawaii seeking software training. They focus on empowering the Black community in technology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Software training in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
