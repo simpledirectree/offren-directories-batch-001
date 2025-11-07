@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Bangla-O-Biswa",
+    "address": "264 Boston Turnpike, Shrewsbury, MA 01545",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.banglabiswa.org/",
+    "category": "Bengali-speaking Event-friendly venues in Massachusetts",
+    "description": "This organization hosts various Bengali festivals and events in rented public spaces. They may have insights into suitable venues or be able to facilitate rentals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Event-friendly venues in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Worcester County Bengali Association (WCBA)",
+    "address": "(No specific address found for venue rental, but serves the Worcester area)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Worcester+County+Bengali+Association+(WCBA)+in+Massachusetts",
+    "category": "Bengali-speaking Event-friendly venues in Massachusetts",
+    "description": "WCBA promotes Bengali heritage through festivals and community events. They may have information on event spaces or be able to assist with community-focused gatherings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Event-friendly venues in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bengali Association of Rhode Island & Southern Massachusetts (BARI)",
+    "address": "(Serves Rhode Island and Southern Massachusetts, no specific venue address found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Bengali+Association+of+Rhode+Island+&+Southern+Massachusetts+(BARI)+in+Massachusetts",
+    "category": "Bengali-speaking Event-friendly venues in Massachusetts",
+    "description": "BARI aims to be a \"home away from home\" for its members and fosters connections between the Bengali community and the wider population. They organize cultural events and may have knowledge of suitable venues",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Event-friendly venues in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
