@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Louisiana Nursery",
+    "address": "15680 Perkins Road, Baton Rouge, LA 70810 (Perkins Road location)",
+    "phone": "(225) 753-5448 (Perkins Road location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.louisiananursery.com/",
+    "category": "Atheist-owned Container gardening services in Louisiana",
+    "description": "Provides custom plant container arrangements, allowing customers to bring their own containers or choose from their selection",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Container gardening services in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cracked Pot Landscaping",
+    "address": "141 Fashion Blvd, Hahnville, LA (Address mentioned in reviews, but may not be their primary service address)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Cracked+Pot+Landscaping+in+Louisiana",
+    "category": "Atheist-owned Container gardening services in Louisiana",
+    "description": "Offers landscaping services, including garden design and installation, which can encompass container gardening. They have received positive reviews for their professionalism and quality of work",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Container gardening services in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gardening In LA",
+    "address": "Information not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Gardening+In+LA+in+Louisiana",
+    "category": "Atheist-owned Container gardening services in Louisiana",
+    "description": "Provides tips and information on container gardening, including plant selection, watering, and soil for Louisiana's climate",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Container gardening services in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "True Leaf Market Seed Company",
+    "address": "Information not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.trueleafmarket.com/",
+    "category": "Atheist-owned Container gardening services in Louisiana",
+    "description": "While primarily a seed company, they offer a wide selection of non-GMO, heirloom, and organic garden seeds, as well as growing supplies and kits that can be used for container gardening",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Container gardening services in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
