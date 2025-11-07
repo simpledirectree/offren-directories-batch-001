@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Maitripa College",
+    "address": "4000 SE 11th Ave, Portland, OR 97202",
+    "phone": "(503) 235-2477",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.maitripa.org/",
+    "category": "Buddhist-owned College consulting in Oregon",
+    "description": "Maitripa College is a Buddhist institution of higher learning offering graduate degrees in Buddhist Studies and Divinity, as well as continuing education courses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned College consulting in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
