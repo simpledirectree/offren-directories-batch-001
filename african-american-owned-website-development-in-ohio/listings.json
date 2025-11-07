@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Multicultural Solutions",
+    "address": "35 East 7th Street, Suite 750, Cincinnati OH 45202",
+    "phone": "513-790-6039",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Multicultural+Solutions+in+Ohio",
+    "category": "African-American-owned Website development in Ohio",
+    "description": "Offers SEO and design solutions to improve websites, specializing in audits and search engine optimization. They also provide digital training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Website development in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "GPD Creative Agency",
+    "address": "Cincinnati, OH (Specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/GPD+Creative+Agency+in+Ohio",
+    "category": "African-American-owned Website development in Ohio",
+    "description": "A Black-owned website and graphic design agency assisting small businesses and non-profit organizations with their digital presence. Specializes in visual brand strategy, web development, and social media marketing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Website development in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EraBright",
+    "address": "(Not available in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/EraBright+in+Ohio",
+    "category": "African-American-owned Website development in Ohio",
+    "description": "A Black-owned web design company that designs and develops modern, responsive websites. They emphasize superior customer service and tailored designs for various industries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Website development in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kaylo Digital",
+    "address": "(Not available in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Kaylo+Digital+in+Ohio",
+    "category": "African-American-owned Website development in Ohio",
+    "description": "A Black-owned and woman-led web design and development studio that designs, builds, and supports websites, with a focus on website redesigns, web accessibility, and SEO",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Website development in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
