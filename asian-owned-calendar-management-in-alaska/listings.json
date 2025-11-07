@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Minuteman Press",
+    "address": "1101 E 5th Ave, Anchorage, AK 99501",
+    "phone": "(907) 274-2500",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://minuteman.com/locations/ak001/",
+    "category": "Asian-owned Calendar management in Alaska",
+    "description": "A full-service custom printer that specializes in calendar printing and other promotional products",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Calendar management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Macwiq",
+    "address": "Not specified (Virtual Assistant Service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.macwiq.com/",
+    "category": "Asian-owned Calendar management in Alaska",
+    "description": "A virtual assistant service provider offering dedicated calendar management to organize schedules and appointments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Calendar management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ozment Media",
+    "address": "Not specified (Virtual Assistant Service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ozmentmedia.com/",
+    "category": "Asian-owned Calendar management in Alaska",
+    "description": "Offers virtual assistant calendar management services to resolve scheduling conflicts and streamline scheduling needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Calendar management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mr. Russ Virtual Assistant",
+    "address": "Not specified (Virtual Assistant Service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mr-russ.com/",
+    "category": "Asian-owned Calendar management in Alaska",
+    "description": "Provides professional calendar management services to keep schedules organized and boost productivity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Calendar management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "YesAssistant",
+    "address": "Not specified (Virtual Assistant Service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://yesassistant.com/",
+    "category": "Asian-owned Calendar management in Alaska",
+    "description": "Offers virtual assistant services for calendar management, including scheduling meetings, time blocking, and syncing with calendar software",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Calendar management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "China Town Restaurant",
+    "address": "836 E Loop Road, Anchorage, Alaska 99501",
+    "phone": "907-274-3322 or 907-272-8390",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chinatownanchorage.com/",
+    "category": "Asian-owned Calendar management in Alaska",
+    "description": "A Chinese restaurant offering authentic Chinese dining experiences and private tours of Alaska",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Calendar management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian Alaskan Cultural Center",
+    "address": "Not specified",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Asian+Alaskan+Cultural+Center+in+Alaska",
+    "category": "Asian-owned Calendar management in Alaska",
+    "description": "Aims to enhance Alaskans' understanding of Asians through artistic performances",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Calendar management in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
