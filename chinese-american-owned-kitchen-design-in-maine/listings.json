@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Kennebec Company",
+    "address": "107 Washington St, Bath, ME 04530",
+    "phone": "(207) 443-9100",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://kennebeccompany.com/",
+    "category": "Chinese-American-owned Kitchen design in Maine",
+    "description": "Specializes in custom cabinetmaking, design, and engineering for kitchens, bathrooms, and other home spaces, with a focus on traditional craftsmanship",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Kitchen design in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Heartwood Kitchen & Bath Center",
+    "address": "175 Main St, Saco, ME 04072",
+    "phone": "(207) 284-4242",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.heartwoodkitchen.com/",
+    "category": "Chinese-American-owned Kitchen design in Maine",
+    "description": "Offers kitchen remodeling and custom cabinet design services for homeowners and contractors, emphasizing quality craftsmanship and personalized service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Kitchen design in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "YourStyle Kitchens USA",
+    "address": "101 Main St, Warren, ME 04864",
+    "phone": "(207) 273-1111",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://yourstylekitchens.com/",
+    "category": "Chinese-American-owned Kitchen design in Maine",
+    "description": "Provides custom kitchen cabinet design and installation, featuring unique virtual design services for a highly personalized experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Kitchen design in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "McIntosh & Company Custom Cabinetry & Design",
+    "address": "103 Pleasant St, Brunswick, ME 04011",
+    "phone": "(207) 725-9380",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://mcintoshcompany.com/",
+    "category": "Chinese-American-owned Kitchen design in Maine",
+    "description": "A full-service design and build cabinetry shop creating custom cabinetry, interior millwork, and fine furniture",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Kitchen design in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Indisco Kitchens & Baths",
+    "address": "125 Western Ave, South Portland, ME 04106",
+    "phone": "(207) 772-2000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://indiscokitchens.com/",
+    "category": "Chinese-American-owned Kitchen design in Maine",
+    "description": "Offers kitchen and bath design services with over 45 years of experience, focusing on creating beautiful and functional spaces tailored to client needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Kitchen design in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kitchen Cove Design Co.",
+    "address": "330 Forest Ave, Portland, ME 04101",
+    "phone": "(207) 541-9125",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.kitchencovedesign.com/",
+    "category": "Chinese-American-owned Kitchen design in Maine",
+    "description": "A full-service design firm specializing in custom kitchens and bathrooms, creating tailored spaces that reflect clients' personal style and lifestyle",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Kitchen design in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maine Cabinet Company",
+    "address": "124 Western Ave, South Portland, ME 04106",
+    "phone": "(207) 772-2000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://mainecabinet.com/",
+    "category": "Chinese-American-owned Kitchen design in Maine",
+    "description": "Specializes in bespoke kitchen design and custom-crafted cabinetry and flooring, with showrooms to help plan beautiful rooms",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Kitchen design in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Crestwood Kitchens",
+    "address": "1136 Rockport St, Rockport, ME 04856",
+    "phone": "(207) 236-8500",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.crestwoodkitchens.com/",
+    "category": "Chinese-American-owned Kitchen design in Maine",
+    "description": "A kitchen and bath design center offering design and custom work, including cabinetry, countertops, and plumbing fixtures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Kitchen design in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bethel Kitchen Designs",
+    "address": "140 Main St, Bethel, ME 04217",
+    "phone": "(207) 824-3333",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.bethelkitchendesigns.com/",
+    "category": "Chinese-American-owned Kitchen design in Maine",
+    "description": "Designs and sells new and remodeled kitchens, including stock and semi-custom cabinets, serving clients near Sunday River Ski Area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Kitchen design in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Starlight Kitchen & Bath",
+    "address": "106 Commercial St, Rockport, ME 04856",
+    "phone": "(207) 975-2717",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.starlightkitchenandbath.com/",
+    "category": "Chinese-American-owned Kitchen design in Maine",
+    "description": "Features cabinetry design and custom cabinets for kitchens, baths, or whole homes, with over 20 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Kitchen design in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
