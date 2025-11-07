@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Byblos Deli",
+    "address": "Information not readily available for a specific catering address, but they participate in farmers' markets around Seattle and the Eastside",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Byblos+Deli+in+Washington",
+    "category": "Arabic-speaking Ethnic catering in Washington",
+    "description": "Offers Mediterranean catering with Lebanese and Mediterranean recipes, using fresh, high-quality local ingredients. They provide full-service, drop-off, and custom menu options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Ethnic catering in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Al Basha Mediterranean Restaurant Catering",
+    "address": "2302 1st Ave, Seattle, WA 98121",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Al+Basha+Mediterranean+Restaurant+Catering+in+Washington",
+    "category": "Arabic-speaking Ethnic catering in Washington",
+    "description": "Offers catering services for Mediterranean cuisine, including dishes like Chicken Shawarma, Gyro Meat, and various kebabs. They provide delivery and takeout",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Ethnic catering in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tanoor",
+    "address": "Multiple locations including 803 Dexter Ave N, Seattle, WA and 989 112th Ave N, Bellevue, WA",
+    "phone": "(206) 457-5272 (Seattle), (425) 449-4799 (Bellevue)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tanoor.com/",
+    "category": "Arabic-speaking Ethnic catering in Washington",
+    "description": "Authentic Lebanese cuisine with a focus on traditional mezze, salads, and grilled items. They offer catering services and use 100% halal beef, lamb, and chicken",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Ethnic catering in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Damoori Kitchen",
+    "address": "Located in the Lawton Park area of Magnolia, Seattle. Specific catering address not provided",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.damoorikitchen.com/",
+    "category": "Arabic-speaking Ethnic catering in Washington",
+    "description": "Homestyle Lebanese restaurant and Levantine market offering catering services, including build-your-own menus and boxed lunches",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Ethnic catering in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
