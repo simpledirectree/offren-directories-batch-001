@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Powell's Lawn Care",
+    "address": "Kansas City, Missouri",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Powell's+Lawn+Care+in+Missouri",
+    "category": "African-American-owned Grounds crew in Missouri",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Grounds crew in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Creek Landscaping, LLC",
+    "address": "Serves St. Louis, Missouri, and surrounding areas",
+    "phone": "314-432-5296",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Black+Creek+Landscaping,+LLC+in+Missouri",
+    "category": "African-American-owned Grounds crew in Missouri",
+    "description": "Offers a wide variety of lawn care and landscaping services, including mowing, mulching, aeration, fertilization, tree cutting, fence installation, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Grounds crew in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Barnes Landscaping LLC",
+    "address": "Located in the St. Louis region",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Barnes+Landscaping+LLC+in+Missouri",
+    "category": "African-American-owned Grounds crew in Missouri",
+    "description": "Provides landscaping services including chain link fence installation, retaining wall landscaping, and mulch delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Grounds crew in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pristine Lawn Services",
+    "address": "Columbia, Missouri",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Pristine+Lawn+Services+in+Missouri",
+    "category": "African-American-owned Grounds crew in Missouri",
+    "description": "Offers services such as mowing, fertilization, weed control, aeration, overseeding, landscape maintenance, and snow removal",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Grounds crew in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Elite Outdoor Solutions",
+    "address": "Serves Marshall, Columbia, and other mid-Missouri communities",
+    "phone": "(573) 507-8733",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Elite+Outdoor+Solutions+in+Missouri",
+    "category": "African-American-owned Grounds crew in Missouri",
+    "description": "Provides lawn care, fertilization, tree and shrub care, and irrigation services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Grounds crew in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Quality Cut Lawn Care",
+    "address": "Columbia, MO",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Quality+Cut+Lawn+Care+in+Missouri",
+    "category": "African-American-owned Grounds crew in Missouri",
+    "description": "Offers lawn care, landscaping, paver patio installation, lawn fertilization, and irrigation services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Grounds crew in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
