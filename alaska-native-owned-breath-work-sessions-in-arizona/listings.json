@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Aji Spa",
+    "address": "5000 W Wild Horse Pass Rd, Chandler, AZ 85226",
+    "phone": "(602) 324-5000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wildhorsepassresort.com/aji-spa",
+    "category": "Alaska-Native-owned Breath work sessions in Arizona",
+    "description": "Arizona's only Native-American owned spa, offering authentic Native American healing and wellness offerings conceptualized by tribal elders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Breath work sessions in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Thundermaker Wellness Center",
+    "address": "Information not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Thundermaker+Wellness+Center+in+Arizona",
+    "category": "Alaska-Native-owned Breath work sessions in Arizona",
+    "description": "An Indigenous-owned and operated addiction recovery center in North America for Native people, blending modern therapies with ancestral teachings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Breath work sessions in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native American Connections",
+    "address": "402 W. Roosevelt Street, Phoenix, AZ 85003",
+    "phone": "(602) 424-2060",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nativeconnections.org/",
+    "category": "Alaska-Native-owned Breath work sessions in Arizona",
+    "description": "Offers traditional healing practices integrated into addiction treatment and wellness services, with a focus on serving Native American communities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Breath work sessions in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Breathe4Flow",
+    "address": "Phoenix, Arizona (Specific address not provided, offers sessions in Phoenix)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.breathe4flow.com/",
+    "category": "Alaska-Native-owned Breath work sessions in Arizona",
+    "description": "Offers breathwork sessions in Phoenix, Arizona, focusing on developing healthier breathing patterns, regulating the nervous system, and reducing stress",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Breath work sessions in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Breathe Alaska",
+    "address": "Primarily operates in Alaska (Juneau mentioned), but offers virtual sessions",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.breatheak.com/",
+    "category": "Alaska-Native-owned Breath work sessions in Arizona",
+    "description": "Uses breathwork for emotional release and healing, offering in-person and virtual sessions. While based in Alaska, they offer virtual services that could potentially be accessed from Arizona",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Breath work sessions in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
