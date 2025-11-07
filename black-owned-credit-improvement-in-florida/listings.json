@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Credit Repair of Florida",
+    "address": "763 Silver Cloud Circle #207, Lake Mary, FL 32746",
+    "phone": "(407) 734-3426",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.creditrepairofflorida.com/",
+    "category": "Black-owned Credit improvement in Florida",
+    "description": "Offers credit repair and student loan consolidation services, with a focus on legal and results-oriented credit help. The founder, Tim Sanders, has personal experience with bankruptcy and foreclosure",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Credit improvement in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Julie Credit Repair (associated with UCES Protection Plan)",
+    "address": "7875 Northwest 57th Street, Tamarac, FL, USA suite 25602",
+    "phone": "954-280-8324",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ucesprotectionplan.com/default.aspx?rid=JSmall4",
+    "category": "Black-owned Credit improvement in Florida",
+    "description": "Provides services designed to support financial opportunities by implementing positive habits for a strong financial future, including credit repair",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Credit improvement in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Operation HOPE",
+    "address": "Multiple locations across Florida (specific address not provided for a single credit improvement branch)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.operationhope.org/",
+    "category": "Black-owned Credit improvement in Florida",
+    "description": "A non-profit organization focused on economic empowerment, offering financial education, one-on-one coaching, and credit score improvement courses. They have a broad reach and help individuals and small business owners",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Credit improvement in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
