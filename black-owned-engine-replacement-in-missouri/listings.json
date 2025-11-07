@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Blackbird Motor Works",
+    "address": "3000 US-61, St. Peters, MO 63376",
+    "phone": "(636) 486-1111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://blackbirdmotorworks.com/",
+    "category": "Black-owned Engine replacement in Missouri",
+    "description": "A family-owned, full-service auto repair and sales business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine replacement in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Duke & Bob's Automotive",
+    "address": "1300 Emanuel Cleaver Blvd, Kansas City, MO 64131",
+    "phone": "(816) 931-7808",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dukeandbobs.com/",
+    "category": "Black-owned Engine replacement in Missouri",
+    "description": "Provides reliable and affordable automotive maintenance and repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine replacement in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "All-Star Automotive",
+    "address": "1200 N. Providence Rd, Columbia, MO 65203",
+    "phone": "(573) 445-7777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://allstarautomotivecolumbia.com/",
+    "category": "Black-owned Engine replacement in Missouri",
+    "description": "A trusted destination for auto repair services in Columbia, MO",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine replacement in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Erwin F. Schwarz, Ltd.",
+    "address": "2625 S. Brentwood Blvd, Brentwood, MO 63144",
+    "phone": "(314) 968-4250",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.schwarzltd.com/",
+    "category": "Black-owned Engine replacement in Missouri",
+    "description": "Specializes in European car needs, offering auto repair, tires, and car sales",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine replacement in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Exclusive Automotive",
+    "address": "1001 N. Main St, Ozark, MO 65721",
+    "phone": "(417) 581-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://exclusiveautomotive.com/",
+    "category": "Black-owned Engine replacement in Missouri",
+    "description": "A family-owned and operated auto repair shop specializing in European and luxury cars, but works on all makes and models",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine replacement in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
