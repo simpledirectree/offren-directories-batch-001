@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Wisconsin Vision",
+    "address": "Multiple locations, including 13380 W. Watertown Plank Road, Elm Grove, WI 53122",
+    "phone": "(262) 784-7777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wisconsinvision.com/",
+    "category": "Armenian-speaking Ophthalmology in Wisconsin",
+    "description": "Dr. Paul Bastermajian, an optometrist at Wisconsin Vision, speaks English and Armenian. He offers comprehensive eye exams, prescription glasses, and contact lenses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Ophthalmology in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
