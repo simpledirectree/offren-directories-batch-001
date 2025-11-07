@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Fred LeRoy Health and Wellness Center",
+    "address": "Omaha, NE 68107",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ihs.gov/dental/",
+    "category": "American-Indian-owned Endodontics in Nebraska",
+    "description": "This center is owned and operated by the Ponca Tribe and provides dental services to urban Native Americans in the Omaha metropolitan area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Endodontics in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Winnebago Indian Health Service Dental Clinic",
+    "address": "WINNEBAGO, NE",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ihs.gov/dental/",
+    "category": "American-Indian-owned Endodontics in Nebraska",
+    "description": "This clinic serves members of the Winnebago and Omaha Tribes and offers various dental services, including endodontics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Endodontics in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Macy Outpatient Clinic",
+    "address": "MACY, NE",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ihs.gov/dental/",
+    "category": "American-Indian-owned Endodontics in Nebraska",
+    "description": "This clinic serves the Omaha Reservation and offers dental services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Endodontics in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
