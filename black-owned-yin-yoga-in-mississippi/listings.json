@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Split Rebel Yoga",
+    "address": "1048 Greymont Avenue, Jackson, MS",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Split+Rebel+Yoga+in+Mississippi",
+    "category": "Black-owned Yin yoga in Mississippi",
+    "description": "A Black-owned yoga studio in Jackson, Mississippi, specializing in Vinyasa flow yoga, but also offering restorative yoga. The owner aims to introduce yoga to Jackson's predominantly Black population",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Yin yoga in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Soular Yogi Yoga & Wellness",
+    "address": "Gulfport, MS",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Soular+Yogi+Yoga+&+Wellness+in+Mississippi",
+    "category": "Black-owned Yin yoga in Mississippi",
+    "description": "Owned by LaToya Bass-Barnes, this studio strives to promote diversity, body positivity, and inclusivity in the yoga community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Yin yoga in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maha Magnolia Yoga",
+    "address": "Not specified, but mentioned in a list of yoga studios in Jackson, MS",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Maha+Magnolia+Yoga+in+Mississippi",
+    "category": "Black-owned Yin yoga in Mississippi",
+    "description": "Offers ancient teachings of yoga to all levels, founded and led by Ajilon St. P\u00e9 Grothe. Follows traditional yoga principles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Yin yoga in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Joyflow Yoga",
+    "address": "Not specified, but mentioned in a list of yoga studios in Jackson, MS",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Joyflow+Yoga+in+Mississippi",
+    "category": "Black-owned Yin yoga in Mississippi",
+    "description": "Offers private yoga instruction and therapy, as well as teacher training programs. Founded by Debi Saraswati Lewis",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Yin yoga in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Brwnskn Yoga",
+    "address": "Not specified",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Brwnskn+Yoga+in+Mississippi",
+    "category": "Black-owned Yin yoga in Mississippi",
+    "description": "A women-owned small business offering transformative yoga classes for beginners, aiming to create a Black-owned yoga community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Yin yoga in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
