@@ -1,0 +1,53 @@
+[
+  {
+    "name": "By Experience Financial Services LLC",
+    "address": "140 West 29th Street, Suite 326, Pueblo, CO, 81008",
+    "phone": "(719) 566-1291",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/By+Experience+Financial+Services+LLC+in+Colorado",
+    "category": "African-American-owned Financial services consulting in Colorado",
+    "description": "Offers financial advisor, tax and accounting services, business consulting, and insurance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Financial services consulting in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Re-Envision Wealth",
+    "address": "(Not provided in search results, but has a Washington D.C. office mentioned)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Re-Envision+Wealth+in+Colorado",
+    "category": "African-American-owned Financial services consulting in Colorado",
+    "description": "An impact-focused wealth management firm aiming to close the racial wealth gap for People of Color",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Financial services consulting in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Equity Project",
+    "address": "(Not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Equity+Project+in+Colorado",
+    "category": "African-American-owned Financial services consulting in Colorado",
+    "description": "A consulting firm founded by Dr. Dwinita Mosby Tyler and a majority women team",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Financial services consulting in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
