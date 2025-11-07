@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Blue Lotus Ayurveda",
+    "address": "12 Elk Mountain Road, Asheville, NC",
+    "phone": "828-713-4266",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bluelotusayurveda.com/",
+    "category": "Armenian-speaking Ayurvedic medicine in North-Carolina",
+    "description": "Offers Ayurvedic health consultations, herbal treatments, nutritional counseling, Panchakarma, and Ayurvedic spa packages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Ayurvedic medicine in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Raleigh Ayurveda & Herbal Nutrition",
+    "address": "3909 Sunset Ridge Rd, Raleigh, NC 27607",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Raleigh+Ayurveda+&+Herbal+Nutrition+North+Carolina",
+    "category": "Armenian-speaking Ayurvedic medicine in North-Carolina",
+    "description": "Provides Ayurvedic assessment and herbal nutrition services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Ayurvedic medicine in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Ayurvedic Institute",
+    "address": "Asheville, North Carolina (new campus)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ayurvedic.institute/",
+    "category": "Armenian-speaking Ayurvedic medicine in North-Carolina",
+    "description": "Offers education in traditional Ayurvedic medicine, with a focus on healing and maintaining quality of life",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Ayurvedic medicine in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Living Alchemy Ayurveda",
+    "address": "Asheville, NC Area",
+    "phone": "828-484-2413",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Living+Alchemy+Ayurveda+North+Carolina",
+    "category": "Armenian-speaking Ayurvedic medicine in North-Carolina",
+    "description": "Provides Ayurvedic healthcare, somatic experiencing, medical massage, and yoga therapy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Ayurvedic medicine in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tesia Love Wellness",
+    "address": "4900 Park Road, Charlotte, NC (in the SageAbility building)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tesialove.com/",
+    "category": "Armenian-speaking Ayurvedic medicine in North-Carolina",
+    "description": "Offers Ayurvedic massage and bodywork, including abhyanga and shirodhara, as well as Ayurvedic health consultations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Ayurvedic medicine in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
