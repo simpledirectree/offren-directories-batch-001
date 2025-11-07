@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Cayuse Native Solutions",
+    "address": "1750 W. 3rd Street, Suite 100, The Dalles, OR 97058",
+    "phone": "(541) 296-2150",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cayusenativesolutions.com/",
+    "category": "American-Indian-owned Vue.js development in Oregon",
+    "description": "Cayuse Native Solutions is a tribally owned company that offers a range of technology solutions, including website development and design, custom web apps, and custom mobile apps. They serve Native American Tribes, tribal entities, Native-owned businesses, and organizations serving Indigenous communities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Vue.js development in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
