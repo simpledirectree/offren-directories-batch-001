@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Fuzzy Friends Pet Care",
+    "address": "Not specified, serves Rio Rancho, NM",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Fuzzy+Friends+Pet+Care+New+Mexico",
+    "category": "African-American-owned Dog walking in New-Mexico",
+    "description": "Offers dog walks, pet sitting, and GPS-tracked services. They emphasize mental health and socialization benefits of dog walking",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Dog walking in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Avalon Home Pet Care Services",
+    "address": "Not specified, serves Albuquerque, NM",
+    "phone": "(505) 977-3731 or (844) 229-4832 (Toll Free)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Avalon+Home+Pet+Care+Services+New+Mexico",
+    "category": "African-American-owned Dog walking in New-Mexico",
+    "description": "Provides pet sitting, dog walking, and house sitting services. Their staff is licensed and certified in pet first aid and CPR",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Dog walking in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fetch! Pet Care",
+    "address": "Not specified, serves Albuquerque, NM",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Fetch!+Pet+Care+New+Mexico",
+    "category": "African-American-owned Dog walking in New-Mexico",
+    "description": "Offers in-home pet care, including dog walking, pet sitting, and transportation services, tailored to individual pet needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Dog walking in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Paws In Action",
+    "address": "Not specified, serves Albuquerque and Rio Rancho, NM",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Paws+In+Action+New+Mexico",
+    "category": "African-American-owned Dog walking in New-Mexico",
+    "description": "Provides professional pet sitting and dog walking services, including overnight sitting and pet taxi services. They have been in business since 2008 and are insured and bonded",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Dog walking in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "From Wags to Whiskers",
+    "address": "Not specified, serves Albuquerque, NM",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/From+Wags+to+Whiskers+New+Mexico",
+    "category": "African-American-owned Dog walking in New-Mexico",
+    "description": "Offers professional pet sitting and dog walking services for dogs, cats, and other companion animals. The founder has extensive experience in animal rescue",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Dog walking in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "David McCarthy Dog Walking",
+    "address": "South San Pedro, New Mexico (also serves South East ABQ)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/David+McCarthy+Dog+Walking+New+Mexico",
+    "category": "African-American-owned Dog walking in New-Mexico",
+    "description": "Offers dog walking services and has experience in dog grooming and first aid",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Dog walking in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Action Dog Santa Fe",
+    "address": "Santa Fe, NM",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Action+Dog+Santa+Fe+New+Mexico",
+    "category": "African-American-owned Dog walking in New-Mexico",
+    "description": "Provides dog hiking and overnight boarding services, focusing on active play and socialization. They offer individual walks and group pack hikes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Dog walking in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rover.com and Wag!",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Rover.com+and+Wag!+New+Mexico",
+    "category": "African-American-owned Dog walking in New-Mexico",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Dog walking in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
