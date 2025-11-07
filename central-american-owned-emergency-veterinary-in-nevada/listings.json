@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Animal Emergency Center of Las Vegas and Henderson",
+    "address": "4825 W Quail Ave, Las Vegas, NV 89118",
+    "phone": "(702) 457-8050",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.animalemergencylv.com/",
+    "category": "Central-American-owned Emergency veterinary in Nevada",
+    "description": "Offers emergency and critical care services for pets, with experienced veterinarians and staff available for after-hours needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Emergency veterinary in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "VEG Henderson",
+    "address": "150 N Stephanie St, Henderson, NV 89074",
+    "phone": "(702) 529-4850",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.veg.pet/location/henderson/",
+    "category": "Central-American-owned Emergency veterinary in Nevada",
+    "description": "A 24/7 emergency animal hospital providing urgent care for pets, equipped to handle a wide range of veterinary emergencies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Emergency veterinary in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "VEG Las Vegas",
+    "address": "5420 W Post Rd, Las Vegas, NV 89118",
+    "phone": "(702) 529-4850",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.veg.pet/location/las-vegas/",
+    "category": "Central-American-owned Emergency veterinary in Nevada",
+    "description": "Provides 24-hour emergency and urgent pet care with a focus on compassionate treatment and open communication with pet owners",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Emergency veterinary in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Durango Animal Hospital",
+    "address": "3615 S Durango Dr, Las Vegas, NV 89147",
+    "phone": "(702) 242-9044",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.durangoanimalhospital.com/",
+    "category": "Central-American-owned Emergency veterinary in Nevada",
+    "description": "Offers emergency care with an on-call veterinarian available after regular hours for critical situations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Emergency veterinary in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "UrgentVet Las Vegas West",
+    "address": "7130 W Sahara Ave Suite 101, Las Vegas, NV 89117",
+    "phone": "(702) 744-4454",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.urgentvet.com/location/las-vegas-west/",
+    "category": "Central-American-owned Emergency veterinary in Nevada",
+    "description": "Provides urgent care for non-life-threatening conditions, bridging the gap between a primary vet and an emergency animal hospital",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Emergency veterinary in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Veterinary Emergency + Critical Care",
+    "address": "8650 W Tropicana Avenue B-107, Las Vegas, NV 89139",
+    "phone": "(702) 871-1152",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.veccnv.com/",
+    "category": "Central-American-owned Emergency veterinary in Nevada",
+    "description": "A 24-hour emergency and critical care hospital with board-certified specialists, offering advanced diagnostics and compassionate care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Emergency veterinary in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "VCA Baring Boulevard Animal Hospital",
+    "address": "700 Baring Blvd, Sparks, NV 89434",
+    "phone": "(775) 358-6880",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://vcahospitals.com/baring-boulevard",
+    "category": "Central-American-owned Emergency veterinary in Nevada",
+    "description": "Offers urgent care services for pets needing immediate attention outside of regular business hours",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Emergency veterinary in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BluePearl Pet Hospital Reno",
+    "address": "6555 Sierra Highland Dr, Reno, NV 89506",
+    "phone": "(775) 358-8551",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.bluepearlvet.com/hospital/reno-nv/",
+    "category": "Central-American-owned Emergency veterinary in Nevada",
+    "description": "A specialty and emergency pet hospital equipped with advanced diagnostic imaging and monitoring tools for critical care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Emergency veterinary in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Northeast Animal Hospital",
+    "address": "4805 E Lake Mead Blvd, Las Vegas, NV 89115",
+    "phone": "(702) 437-1374",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.northeastanimalhospital.com/",
+    "category": "Central-American-owned Emergency veterinary in Nevada",
+    "description": "A full-service animal hospital that also welcomes emergency treatment cases, with a veterinarian experienced in serious conditions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Emergency veterinary in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Animal Emergency & Specialty Center",
+    "address": "5820 S Jones Blvd, Las Vegas, NV 89118",
+    "phone": "(702) 458-7700",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.animalemergencylv.com/",
+    "category": "Central-American-owned Emergency veterinary in Nevada",
+    "description": "Provides 24-hour emergency and critical care services with a dedicated team of professionals practicing evidence-based veterinary medicine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Emergency veterinary in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
