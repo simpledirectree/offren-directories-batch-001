@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Pagano Media",
+    "address": "100 Summer St, Boston, MA 02110",
+    "phone": "(617) 500-0000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.paganomedia.com/",
+    "category": "Bengali-speaking Digital design in Massachusetts",
+    "description": "Offers web design, video production, branding, SEO, and event planning services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Digital design in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Boston Web Partners",
+    "address": "101 Arch St, Boston, MA 02110",
+    "phone": "(617) 419-0520",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.bostonwebpartners.com/",
+    "category": "Bengali-speaking Digital design in Massachusetts",
+    "description": "Specializes in award-winning website design, branding, SEO consulting, and Google paid search",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Digital design in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Boston MA Web Design",
+    "address": "333 Washington St, Boston, MA 02108",
+    "phone": "(617) 500-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://bostonmawebdesign.com/",
+    "category": "Bengali-speaking Digital design in Massachusetts",
+    "description": "Provides web design, development, and SEO services with a focus on custom websites and integrated digital marketing strategies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Digital design in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Musemind",
+    "address": "101 Arch St, Boston, MA 02110",
+    "phone": "(617) 500-0000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.musemind.com/",
+    "category": "Bengali-speaking Digital design in Massachusetts",
+    "description": "A UX/UI design agency that builds responsive websites, focusing on user experience and business goals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Digital design in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yelling Mule",
+    "address": "333 Washington St, Boston, MA 02108",
+    "phone": "(617) 500-0000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.yellingmule.com/",
+    "category": "Bengali-speaking Digital design in Massachusetts",
+    "description": "An award-winning web design company offering custom website solutions, SEO, branding, and digital marketing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Digital design in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hashe Computer Solutions",
+    "address": "101 Arch St, Boston, MA 02110",
+    "phone": "(617) 500-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.hashe.com/",
+    "category": "Bengali-speaking Digital design in Massachusetts",
+    "description": "A web design firm specializing in custom, responsive, and SEO-friendly WordPress websites",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Digital design in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sitka Creations",
+    "address": "100 Summer St, Boston, MA 02110",
+    "phone": "(617) 500-0000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://sitkacreations.com/",
+    "category": "Bengali-speaking Digital design in Massachusetts",
+    "description": "A woman-owned design studio focusing on web development, digital marketing, and graphic design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Digital design in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "KMA Web Design",
+    "address": "333 Washington St, Boston, MA 02108",
+    "phone": "(617) 500-0000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://kmawebdesign.com/",
+    "category": "Bengali-speaking Digital design in Massachusetts",
+    "description": "Creates user-friendly websites and offers digital marketing services to help businesses attract customers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Digital design in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Neuron",
+    "address": "101 Arch St, Boston, MA 02110",
+    "phone": "(617) 500-0000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.neuron.nyc/",
+    "category": "Bengali-speaking Digital design in Massachusetts",
+    "description": "A leading UX/UI agency specializing in digital product design and strategy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Digital design in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "OctoCog",
+    "address": "9A Derby Square, Salem, MA 01970",
+    "phone": "(978) 414-5099",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.octocog.com/",
+    "category": "Bengali-speaking Digital design in Massachusetts",
+    "description": "Offers web design and development, digital marketing, and branding services, with a focus on making brands shine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Digital design in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
