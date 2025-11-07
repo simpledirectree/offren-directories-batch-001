@@ -1,0 +1,87 @@
+[
+  {
+    "name": "ThuLan Nail Retreat",
+    "address": "74 Park Rd, West Hartford, Connecticut, 06119",
+    "phone": "(860) 924-9608",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/ThuLan+Nail+Retreat+in+Connecticut",
+    "category": "Asian-owned Acrylic nails in Connecticut",
+    "description": "Offers manicures, pedicures, waxing, and other beauty services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Acrylic nails in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Naisi Nail Spa",
+    "address": "262 Boston Post Rd #6, Waterford, CT 06385",
+    "phone": "(860) 389-1613",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Naisi+Nail+Spa+in+Connecticut",
+    "category": "Asian-owned Acrylic nails in Connecticut",
+    "description": "Offers various nail and spa services, including eyebrow tinting, foot care, and eyelash extensions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Acrylic nails in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kiki Nails & Spa",
+    "address": "1421 Post Road, Fairfield, CT",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Kiki+Nails+&+Spa+in+Connecticut",
+    "category": "Asian-owned Acrylic nails in Connecticut",
+    "description": "Offers a range of nail and spa services, including manicures, gel manicures, and spa pedicures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Acrylic nails in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Nail Bar CT",
+    "address": "124 Mill St, Berlin, CT 06037",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Nail+Bar+CT+in+Connecticut",
+    "category": "Asian-owned Acrylic nails in Connecticut",
+    "description": "Offers nail designs and deluxe nail care services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Acrylic nails in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The SoNo Nails & Spa",
+    "address": "100 N Water St, Norwalk, CT 06854",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+SoNo+Nails+&+Spa+in+Connecticut",
+    "category": "Asian-owned Acrylic nails in Connecticut",
+    "description": "Offers nail salon services with a focus on meticulous care and modern elegance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Acrylic nails in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
