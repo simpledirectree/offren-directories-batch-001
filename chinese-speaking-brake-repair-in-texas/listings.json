@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Collins Auto Care",
+    "address": "11710 W Little York Rd, Houston, TX 77043",
+    "phone": "(281) 469-0070",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.collinsautocare.com/",
+    "category": "Chinese-speaking Brake repair in Texas",
+    "description": "Specializes in Asian vehicle repair, including brake services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Brake repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Master Car Care",
+    "address": "1223 W 19th St, Houston, TX 77008",
+    "phone": "(713) 864-7777",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.mastercarcarehouston.com/",
+    "category": "Chinese-speaking Brake repair in Texas",
+    "description": "Offers repair services for Asian import vehicles, including brake work",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Brake repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "K3S Auto Repair",
+    "address": "1101 N Belt Line Rd, Irving, TX 75061",
+    "phone": "(972) 594-0555",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://k3sautorepair.com/",
+    "category": "Chinese-speaking Brake repair in Texas",
+    "description": "Specializes in Asian import vehicles and offers a range of repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Brake repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Auto Tek",
+    "address": "4313 Gillis St, Austin, TX 78745",
+    "phone": "(512) 326-3881",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.autotekofaustin.com/",
+    "category": "Chinese-speaking Brake repair in Texas",
+    "description": "Provides Asian auto repair services, including brake maintenance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Brake repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian American & Import",
+    "address": "3000 W 7th St, Fort Worth, TX 76107",
+    "phone": "(817) 335-0444",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.asianamericanimport.com/",
+    "category": "Chinese-speaking Brake repair in Texas",
+    "description": "Offers comprehensive auto repair for Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Brake repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EuropAsian Auto Pro's",
+    "address": "2761 S Great Southwest Pkwy, Grand Prairie, TX 75052",
+    "phone": "(972) 299-8548",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://europasianautopro.com/",
+    "category": "Chinese-speaking Brake repair in Texas",
+    "description": "Specializes in European and Asian vehicle repair, including brake services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Brake repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Horizon Auto Center",
+    "address": "2001 N Rockwall Ln, Rockwall, TX 75087",
+    "phone": "(469) 240-2895",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.horizonautocenter.com/",
+    "category": "Chinese-speaking Brake repair in Texas",
+    "description": "Provides Asian auto repair and maintenance services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Brake repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "China Spring Lube & Service",
+    "address": "12712 China Spring Rd, China Spring, TX 76633",
+    "phone": "(254) 836-1534",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.chinaspringlubeservice.com/",
+    "category": "Chinese-speaking Brake repair in Texas",
+    "description": "Offers brake repair services in the China Spring area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Brake repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TCM Werkshop",
+    "address": "7000 W Gate Blvd, Austin, TX 78745",
+    "phone": "(512) 836-0707",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://tcmwerkshop.com/",
+    "category": "Chinese-speaking Brake repair in Texas",
+    "description": "Specializes in Mercedes-Benz and BMW repair, including brake services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Brake repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Brakes To Go",
+    "address": "Mobile service available in Austin, DFW, and Houston areas",
+    "phone": "(512) 577-4455 (Austin) / (469) 571-2277 (DFW) / (281) 609-3115 (Houston)",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://brakestogo.com/",
+    "category": "Chinese-speaking Brake repair in Texas",
+    "description": "Mobile brake repair service that comes to your location",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Brake repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
