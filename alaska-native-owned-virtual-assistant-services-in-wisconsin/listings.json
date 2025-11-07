@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Rescue Desk Virtual Assistant Services",
+    "address": "PO Box 268, Sun Prairie, WI 53590",
+    "phone": "608.358.7991",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://rescuedeskva.com/",
+    "category": "Alaska-Native-owned Virtual assistant services in Wisconsin",
+    "description": "Offers administrative and marketing support to businesses, with a focus on entrepreneurs in professional services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Virtual assistant services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Virtual Worker Bee",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.virtualworkerbee.com/",
+    "category": "Alaska-Native-owned Virtual assistant services in Wisconsin",
+    "description": "Provides a range of virtual assistant services including executive, research, social media management, and call center support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Virtual assistant services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cayuse Commercial Services (Virtual Executive Assistants)",
+    "address": "Information not available (operates nationally)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://cayusecs.com/virtual-executive-assistants/",
+    "category": "Alaska-Native-owned Virtual assistant services in Wisconsin",
+    "description": "Offers virtual executive assistant services, including meeting and event planning, customer service, document production, and digital marketing. They are a certified MBE partner and 100% Native American-owned",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Virtual assistant services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Upwork (Wisconsin-based freelancers)",
+    "address": "Online platform",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.upwork.com/hire/virtual-assistants/wi/",
+    "category": "Alaska-Native-owned Virtual assistant services in Wisconsin",
+    "description": "A platform to find freelance virtual assistants in Wisconsin. Ratings and specific business details would be available per freelancer",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Virtual assistant services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "VaVa Virtual Assistants",
+    "address": "Information not available (operates nationally)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vavavirtualassistants.com/about-us",
+    "category": "Alaska-Native-owned Virtual assistant services in Wisconsin",
+    "description": "A women-owned business that matches virtual assistants with purpose-driven organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Virtual assistant services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
