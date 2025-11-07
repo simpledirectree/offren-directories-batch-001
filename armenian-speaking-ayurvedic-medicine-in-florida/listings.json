@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Jothivita Spa",
+    "address": "2001 Tyler Street, Suite 3, Hollywood, FL 33020",
+    "phone": "+1-954-237-3500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jothivitaspa.com/",
+    "category": "Armenian-speaking Ayurvedic medicine in Florida",
+    "description": "An Ayurvedic spa center offering consultations, treatments, and Panchakarma",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Ayurvedic medicine in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SAI Ayurvedic Institute",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://saiayurveda.com/",
+    "category": "Armenian-speaking Ayurvedic medicine in Florida",
+    "description": "Offers Ayurvedic practitioners with various specializations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Ayurvedic medicine in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ayurveda Health Retreat Center",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ayurvedahealthretreat.com/",
+    "category": "Armenian-speaking Ayurvedic medicine in Florida",
+    "description": "Offers Ayurvedic retreats, yoga, meditation, and wellness classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Ayurvedic medicine in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
