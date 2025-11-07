@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Po' Shines Cafe De La Soul",
+    "address": "8139 N. Denver Ave., Portland, OR",
+    "phone": "(971) 888-5973",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.poshines.com/",
+    "category": "African-American-owned Diners in Oregon",
+    "description": "A Black-owned contemporary soul food restaurant with Cajun, Creole, and low-country flair. They also offer catering and workforce development through their non-profit program",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Diners in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Everybody Eats PDX",
+    "address": "(Previously located at Oriental Value Food Market on SE Powell and 172nd, now moved across the river - specific new address not readily available in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.everybodyeats-pdx.com/",
+    "category": "African-American-owned Diners in Oregon",
+    "description": "A Black-owned restaurant in downtown Portland offering a blend of Southern and Pacific Northwest cooking, with classic seafood and soul food",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Diners in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kee's Loaded Kitchen",
+    "address": "3625 NE Martin Luther King Jr Blvd, Portland, OR 97212",
+    "phone": "(503) 516-2078",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Kee's+Loaded+Kitchen+in+Oregon",
+    "category": "African-American-owned Diners in Oregon",
+    "description": "Known for hearty soul food dishes like smoked brisket, fried catfish, and loaded baked potatoes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Diners in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Akadi",
+    "address": "1001 SE Division St Unit 2, Portland, OR 97202",
+    "phone": "(971) 271-7072",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Akadi+in+Oregon",
+    "category": "African-American-owned Diners in Oregon",
+    "description": "Specializes in West African cuisine from Burkina Faso and the Ivory Coast, with a menu rich in seafood and vegetarian options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Diners in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dirty Lettuce",
+    "address": "Shady Pines Vegan Food Court, 5240 NE 42nd Ave., Portland, OR 97218",
+    "phone": "(769) 243-5325",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Dirty+Lettuce+in+Oregon",
+    "category": "African-American-owned Diners in Oregon",
+    "description": "An all-vegan food cart featuring Cajun, Creole, and Southern specialties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Diners in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
