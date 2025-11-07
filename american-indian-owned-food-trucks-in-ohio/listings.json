@@ -1,0 +1,19 @@
+[
+  {
+    "name": "NAICCO Cuisine",
+    "address": "While NAICCO Cuisine operates as a food truck and its location varies, it is based in Columbus, Ohio",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.naicco.com/",
+    "category": "American-Indian-owned Food trucks in Ohio",
+    "description": "NAICCO Cuisine is a Native American-owned and operated food trailer offering Native American street food such as Fry Bread, NDN Tacos, NDN Taco Bowls, and Buffalo Burgers. It aims to promote Native American culture and cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Food trucks in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
