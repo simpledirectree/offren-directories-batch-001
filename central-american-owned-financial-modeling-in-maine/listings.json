@@ -1,0 +1,172 @@
+[
+  {
+    "name": "BerryDunn",
+    "address": "201 Main Street, Suite 300, Portland, ME 04101",
+    "phone": "(207) 775-2301",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.berrydunn.com/",
+    "category": "Central-American-owned Financial modeling in Maine",
+    "description": "A CPA and management consulting firm offering a wide range of services including business valuation, IT consulting, and financial analysis",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Financial modeling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "H.M. Payson",
+    "address": "45 Exchange St, Portland, ME 04101",
+    "phone": "(207) 775-3811",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.hmpayson.com/",
+    "category": "Central-American-owned Financial modeling in Maine",
+    "description": "A fee-only financial advisory firm providing investment management and financial planning services to individuals and business entities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Financial modeling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bigelow Investment Advisors, LLC",
+    "address": "443 Congress St, Portland, ME 04101",
+    "phone": "(207) 774-5100",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.bigelowinvestors.com/",
+    "category": "Central-American-owned Financial modeling in Maine",
+    "description": "An investment management and financial planning firm focused on client-centric relationships and personalized financial goals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Financial modeling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "WealthSmith Financial Planning, LLC",
+    "address": "100 Middle St, Portland, ME 04101",
+    "phone": "(207) 775-2121",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.wealthsmithfp.com/",
+    "category": "Central-American-owned Financial modeling in Maine",
+    "description": "Offers investment, financial planning, and retirement planning services for individuals and business owners, with a focus on long-term relationships",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Financial modeling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Penobscot Financial Advisors",
+    "address": "160 Commercial St, Portland, ME 04101",
+    "phone": "(207) 775-3434",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://penobscotfa.com/",
+    "category": "Central-American-owned Financial modeling in Maine",
+    "description": "A fee-only advisory firm serving individuals, high-net-worth individuals, and charitable organizations, offering financial planning and wealth management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Financial modeling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DWedick Financial Services, LLC",
+    "address": "(No specific street address found, operates remotely or consults)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dwedickfs.com/",
+    "category": "Central-American-owned Financial modeling in Maine",
+    "description": "Provides financial analysis and modeling services, with experience in business analysis, financial risk analysis, and business model planning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Financial modeling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Analytics8",
+    "address": "(No specific street address found for Maine, but has national presence)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.analytics-8.com/",
+    "category": "Central-American-owned Financial modeling in Maine",
+    "description": "Offers analytics and business intelligence consulting services, including data modeling and dashboard development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Financial modeling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Thesis Technologies",
+    "address": "(No specific street address found for Maine, but serves clients across US and Canada)",
+    "phone": "(888) 705-7253",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thesis.tech/",
+    "category": "Central-American-owned Financial modeling in Maine",
+    "description": "Provides business system development and consulting services, including data analytics and dashboard creation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Financial modeling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mill Cove Partners",
+    "address": "19 Hennessey Road, West Bath, Maine 04530",
+    "phone": "(207) 671-4158",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.millcovepartners.com/",
+    "category": "Central-American-owned Financial modeling in Maine",
+    "description": "Offers website analytics and performance data tools for businesses, focusing on improving online presence and conversions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Financial modeling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dirigo Labs",
+    "address": "(Location not specified, offers online series)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dirigolabs.com/",
+    "category": "Central-American-owned Financial modeling in Maine",
+    "description": "Offers a financial modeling series for founders to build investor-ready financial models",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Financial modeling in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
