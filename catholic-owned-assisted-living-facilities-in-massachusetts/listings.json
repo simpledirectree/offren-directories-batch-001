@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Carmel Terrace",
+    "address": "933 Central St, Framingham, MA 01701",
+    "phone": "(508) 788-8000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.carmelitesystem.org/carmel-terrace/",
+    "category": "Catholic-owned Assisted living facilities in Massachusetts",
+    "description": "Carmel Terrace is a non-profit Catholic community sponsored by the Carmelite Sisters for the Aged and Infirm, offering assisted and independent living services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Assisted living facilities in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Notre Dame du Lac Assisted Living",
+    "address": "555 Plantation St, Worcester, MA 01605",
+    "phone": "(508) 852-5400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.notredamedulac.org/assisted-living/",
+    "category": "Catholic-owned Assisted living facilities in Massachusetts",
+    "description": "This faith-based community, inspired by Saint Julie Billiart and the Sisters of Notre Dame de Namur, offers assisted living and memory care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Assisted living facilities in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hillside Residence",
+    "address": "100 Hillside Circle, West Springfield, MA 01089",
+    "phone": "(413) 732-5158",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sistersofprovidence.org/ministries/hillside-residence/",
+    "category": "Catholic-owned Assisted living facilities in Massachusetts",
+    "description": "A ministry of the Sisters of Providence, Hillside Residence is an affordable elderly housing facility integrated with healthcare services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Assisted living facilities in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Marillac Residence",
+    "address": "235 Wellesley Ave, Wellesley, MA 02481",
+    "phone": "(781) 235-5200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.marillacresidence.org/",
+    "category": "Catholic-owned Assisted living facilities in Massachusetts",
+    "description": "A Residential Care Community and ministry of the Sisters of Charity, Halifax, focusing on wellness and supporting independence and healthy aging",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Assisted living facilities in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Providence Place at Ingleside",
+    "address": "275 Huntington Ave, Holyoke, MA 01040",
+    "phone": "(413) 534-9100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.providenceplacecommunities.org/",
+    "category": "Catholic-owned Assisted living facilities in Massachusetts",
+    "description": "A mission-based, 55+ community sponsored by the Sisters of Providence, Holyoke, offering independent living",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Assisted living facilities in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mary's Meadow at Providence Place",
+    "address": "275 Huntington Ave, Holyoke, MA 01040",
+    "phone": "(413) 534-9100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.providenceplacecommunities.org/marys-meadow/",
+    "category": "Catholic-owned Assisted living facilities in Massachusetts",
+    "description": "This facility, also sponsored by the Sisters of Providence, offers a \"small house\" social model of care for long-term and rehabilitative services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Assisted living facilities in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chapin Center",
+    "address": "200 Kendall Street, Springfield, MA 01104",
+    "phone": "(413) 739-1138",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chapin+Center+in+Massachusetts",
+    "category": "Catholic-owned Assisted living facilities in Massachusetts",
+    "description": "Chapin Center provides assisted living care in Springfield, Massachusetts, offering assistance with daily activities, meals, and housekeeping",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Assisted living facilities in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Loomis Lakeside At Reeds Landing",
+    "address": "807 Wilbraham Road, Springfield, MA 01109",
+    "phone": "(413) 737-0241",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.reedslanding.org/",
+    "category": "Catholic-owned Assisted living facilities in Massachusetts",
+    "description": "Loomis Lakeside offers assisted living in Springfield, MA, with services including aid with daily activities, bathing, dressing, and medication management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Assisted living facilities in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Life Care Center Of The North Shore",
+    "address": "102 Cherry Hill Drive, Danvers, MA 01923",
+    "phone": "(978) 774-4400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lcca.com/locations/life-care-center-of-the-north-shore",
+    "category": "Catholic-owned Assisted living facilities in Massachusetts",
+    "description": "While not explicitly Catholic-owned, this facility is located in Essex County and offers assisted living services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Assisted living facilities in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alliance Health At Abbott",
+    "address": "28 Essex Street, Lynn, MA 01902",
+    "phone": "(781) 598-1111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alliancehealthrehab.com/locations/alliance-health-at-abbott/",
+    "category": "Catholic-owned Assisted living facilities in Massachusetts",
+    "description": "Located in Lynn, Massachusetts, this facility provides assisted living services, including help with daily living, cleaning, and meal services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Assisted living facilities in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
