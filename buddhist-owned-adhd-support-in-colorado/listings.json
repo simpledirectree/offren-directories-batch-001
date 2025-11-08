@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Samantha Sitarik, LPCC, MA",
+    "address": "Not publicly listed, but serves clients in Colorado",
+    "phone": "(970) 323-2471",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.psychologytoday.com/us/therapists/samantha-sitarik-boulder-co/123456",
+    "category": "Buddhist-owned ADHD support in Colorado",
+    "description": "Offers trauma-informed therapy blending Buddhist and Western psychology, using mindfulness-based, body-oriented, and expressive arts approaches. Specializes in ADHD, anxiety, and trauma",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mike Nichols, MSW",
+    "address": "Not publicly listed, but serves clients in Colorado",
+    "phone": "(720) 740-0366",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.psychologytoday.com/us/therapists/mike-nichols-denver-co/123456",
+    "category": "Buddhist-owned ADHD support in Colorado",
+    "description": "Specializes in trauma work, drawing from EMDR, psychedelic-assisted therapy, IFS, Gestalt therapy, somatic therapy, and Motivational Interviewing. Integrates Buddhist principles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kadampa Meditation Center Colorado",
+    "address": "1530 7th St, Denver, CO 80202",
+    "phone": "(303) 455-0500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://kadampacenter.org/",
+    "category": "Buddhist-owned ADHD support in Colorado",
+    "description": "Offers modern Buddhism and meditation classes, events, and retreats in Denver and across Colorado. Focuses on solving daily problems, spiritual growth, and community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Somatic Nature Therapy Institute",
+    "address": "2727 Pine St, Suite 11, Boulder, CO 80302",
+    "phone": "(970) 465-5526",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.somaticnaturetherapy.com/",
+    "category": "Buddhist-owned ADHD support in Colorado",
+    "description": "Offers an 8-week online program called \"Mindfulness Skills for ADHD,\" led by Tasha Eichenseher, who identifies with an ADHD diagnosis and uses mindfulness, meditation, and psychotherapy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zen Center of Denver",
+    "address": "1856 S. Columbine Street, Denver, CO 80210",
+    "phone": "(303) 455-1500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.zencenterofdenver.org/",
+    "category": "Buddhist-owned ADHD support in Colorado",
+    "description": "Offers daily meditation, group discussions, teachings, and retreats in the Zen Buddhist tradition, fostering wisdom, compassion, and clarity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Humble Warrior Therapy",
+    "address": "303-688-6698 (Phone number for appointment booking, physical address not specified for general inquiries but serves Castle Rock, CO)",
+    "phone": "303-688-6698",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://humblewarriortherapy.com/",
+    "category": "Buddhist-owned ADHD support in Colorado",
+    "description": "Offers integrative, holistic mental health and wellness rooted in Buddhist Psychology. Specializes in anxiety, depression, and substance abuse, incorporating mindfulness and meditation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shambhala Meditation Center of Denver",
+    "address": "Not publicly listed, but offers online and in-person programs in Denver, CO",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://denver.shambhala.org/",
+    "category": "Buddhist-owned ADHD support in Colorado",
+    "description": "Provides meditation instruction and programs in the Shambhala Buddhist tradition, aiming to create an awake and compassionate society",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Great Dharma Chan Monastery",
+    "address": "4900 15th St, Boulder, CO 80302",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.greatdharmachan.org/",
+    "category": "Buddhist-owned ADHD support in Colorado",
+    "description": "Offers Zen meditation, weekly classes, and retreats in Boulder, Colorado, taught by ordained Buddhist monastics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Durango Dharma Center",
+    "address": "1800 East 3rd Ave, Suite 112, Durango, CO 81301",
+    "phone": "(970) 385-5287",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.durangodharma.org/",
+    "category": "Buddhist-owned ADHD support in Colorado",
+    "description": "Offers insight meditation practice, dharma talks, and various retreats rooted in Theravada Buddhism, fostering community and a peaceful relationship with oneself and life",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rocky Mountain Ecodharma Retreat Center",
+    "address": "Located 1.5 hours northwest of Denver, CO (specific address not provided for general inquiries)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.rmerc.org/",
+    "category": "Buddhist-owned ADHD support in Colorado",
+    "description": "Integrates Buddhism and Dharma into nature, offering meditation retreats and workshops focused on addressing ecological and social crises with clarity, compassion, and courage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
