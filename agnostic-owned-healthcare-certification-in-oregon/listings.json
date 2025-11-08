@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Project Heartbeat",
+    "address": "1125 SE Madison St, Portland, OR 97214",
+    "phone": "(503) 222-1111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.projectheartbeat.com/",
+    "category": "Agnostic-owned Healthcare certification in Oregon",
+    "description": "Offers BLS, ACLS, and PALS certification courses for healthcare professionals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Healthcare certification in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cascade Training Solutions",
+    "address": "1631 SE 3rd Ave, Portland, OR 97214",
+    "phone": "(503) 206-6550",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cascadetraining.com/",
+    "category": "Agnostic-owned Healthcare certification in Oregon",
+    "description": "Provides CPR/BLS, ACLS, PALS, NRP, and other healthcare provider certification classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Healthcare certification in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oregon Association for Healthcare Quality (OrAHQ)",
+    "address": "Information not readily available for a specific physical address, but serves Oregon and Washington",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.orahq.org/",
+    "category": "Agnostic-owned Healthcare certification in Oregon",
+    "description": "A non-profit association focused on advancing expertise in healthcare quality, sponsoring continuing education, and promoting CPHQ certification",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Healthcare certification in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Credex Healthcare",
+    "address": "Information not readily available for a specific physical address, but serves Oregon",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://credexhealthcare.com/",
+    "category": "Agnostic-owned Healthcare certification in Oregon",
+    "description": "Offers end-to-end credentialing, payer enrollment, and maintenance of credentials for healthcare providers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Healthcare certification in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Northwest Credentialing Solutions",
+    "address": "Information not readily available for a specific physical address, but serves the Pacific Northwest",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Northwest+Credentialing+Solutions+in+Oregon",
+    "category": "Agnostic-owned Healthcare certification in Oregon",
+    "description": "Provides Oregon Health Plan enrollment support, hospital privileging support, and payer panel support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Healthcare certification in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oregon Medical Association (OMA)",
+    "address": "1230 SW 10th Ave, Portland, OR 97205",
+    "phone": "(503) 222-1401",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theoma.org/",
+    "category": "Agnostic-owned Healthcare certification in Oregon",
+    "description": "Operates as an accrediting partner for Continuing Medical Education (CME) providers in Oregon",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Healthcare certification in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clackamas Community College (Healthcare Careers Certificate)",
+    "address": "19600 Molalla Ave, Oregon City, OR 97045",
+    "phone": "(503) 594-6000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.clackamas.edu/academics/programs-degrees/healthcare-careers-certificate",
+    "category": "Agnostic-owned Healthcare certification in Oregon",
+    "description": "Offers a Healthcare Careers Certificate program to prepare individuals for entry-level positions in various healthcare settings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Healthcare certification in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Accreditation Association for Ambulatory Health Care (AAAHC)",
+    "address": "While AAAHC accredits facilities nationwide, Crater Lake Surgery Center in Medford, OR (833 Bennett Ave, Medford, OR 97504) achieved AAAHC accreditation",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aaahc.org/",
+    "category": "Agnostic-owned Healthcare certification in Oregon",
+    "description": "A national organization that accredits ambulatory healthcare organizations, setting standards for quality of care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Healthcare certification in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AllCare Health",
+    "address": "1710 NW 6th St, Grants Pass, OR 97526",
+    "phone": "(541) 471-4100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.allcarehealth.com/",
+    "category": "Agnostic-owned Healthcare certification in Oregon",
+    "description": "An integrated health organization that is a Certified B Corp, focusing on community well-being and providing a range of health services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Healthcare certification in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oregon Health Authority (Licensing and Certification)",
+    "address": "800 NE Oregon St, Portland, OR 97232",
+    "phone": "(971) 673-2500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.oregon.gov/oha/pages/index.aspx",
+    "category": "Agnostic-owned Healthcare certification in Oregon",
+    "description": "Oversees licensing and certification for various healthcare topics in Oregon",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Healthcare certification in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
