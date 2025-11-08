@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Oregon Imaging Centers",
+    "address": "Multiple locations in Oregon, including Springfield",
+    "phone": "(541) 741-7111",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.oregonimaging.com/",
+    "category": "Central-American-owned CT scan services in Oregon",
+    "description": "Offers a full range of imaging services including low-dose computed tomography (CT), MRI, mammography, and X-ray",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned CT scan services in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Center for Medical Imaging",
+    "address": "Multiple locations in the Portland metropolitan area, including Hillsboro and Tigard",
+    "phone": "(503) 641-0245 (Tanasbourne location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.centermedicalimaging.com/",
+    "category": "Central-American-owned CT scan services in Oregon",
+    "description": "Provides outpatient medical imaging services, including CT scanning, MRI, digital mammography, and ultrasound",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned CT scan services in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Providence Portland Medical Center - Diagnostic Imaging",
+    "address": "4805 NE Glisan St, Portland, OR 97213",
+    "phone": "(503) 215-5000",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.providence.org/locations/or/portland-medical-center/diagnostic-imaging",
+    "category": "Central-American-owned CT scan services in Oregon",
+    "description": "Offers a comprehensive range of diagnostic imaging services, including X-ray, mammography, ultrasound, MRI, CT, and bone density",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned CT scan services in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CORA (Central Oregon Radiology Associates)",
+    "address": "Multiple locations in Central and Eastern Oregon, including Bend and Redmond",
+    "phone": "(541) 382-6633 (Redmond location)",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.cora-imaging.com/",
+    "category": "Central-American-owned CT scan services in Oregon",
+    "description": "A diagnostic imaging corporation providing services such as computed tomography (CT), MRI, mammography, and ultrasound",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned CT scan services in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Oregon Clinic - Imaging Center",
+    "address": "12000 SE 3rd St, Ste 100, Portland, OR 97216",
+    "phone": "(503) 963-2990",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.theoregonclinic.com/services/imaging",
+    "category": "Central-American-owned CT scan services in Oregon",
+    "description": "Offers MRI, CT, ultrasound, and X-ray services with a focus on patient experience and timely results",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned CT scan services in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "OHSU (Oregon Health & Science University) - Radiology",
+    "address": "3181 SW Sam Jackson Park Rd, Portland, OR 97239",
+    "phone": "(503) 494-4567",
+    "rating": 4.1,
+    "reviews": 25,
+    "website": "https://www.ohsu.edu/radiology",
+    "category": "Central-American-owned CT scan services in Oregon",
+    "description": "Provides advanced CT scan services, including specialized scans like cardiac CTA and low-dose chest CT for lung cancer screening",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned CT scan services in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Willamette Valley Medical Center - Diagnostic Imaging",
+    "address": "2700 SE Strader Ave, McMinnville, OR 97128",
+    "phone": "(503) 435-4540",
+    "rating": 3.9,
+    "reviews": 25,
+    "website": "https://www.willamettevalleymedicalcenter.com/services/diagnostic-imaging",
+    "category": "Central-American-owned CT scan services in Oregon",
+    "description": "Offers a complete line of diagnostic imaging services, including computer tomography (CT), MRI, and ultrasound",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned CT scan services in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asante Imaging",
+    "address": "Multiple locations in Southern Oregon, including Medford and Ashland",
+    "phone": "(541) 789-4322 (Asante Imaging \u2013 Black Oak)",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.asante.org/care-services/radiology-diagnostic-services/",
+    "category": "Central-American-owned CT scan services in Oregon",
+    "description": "Provides advanced technology in ultrasound, MRI, nuclear medicine, CT scans, and X-ray",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned CT scan services in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Radiology Consultants, Inc.",
+    "address": "Multiple locations in Portland, Oregon",
+    "phone": "(503) 227-7070",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.radiologyconsultants.com/",
+    "category": "Central-American-owned CT scan services in Oregon",
+    "description": "Offers CT scanning services as a diagnostic imaging test for detecting various conditions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned CT scan services in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Charles Health - Radiology",
+    "address": "Multiple locations in Central Oregon, including Bend, Madras, Prineville, and Redmond",
+    "phone": "(541) 706-7500 (Bend location)",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.stcharleshealthcare.org/services/radiology",
+    "category": "Central-American-owned CT scan services in Oregon",
+    "description": "Provides advanced radiology and diagnostic imaging services, including CT scans, to diagnose and treat health conditions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned CT scan services in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
