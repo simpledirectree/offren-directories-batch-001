@@ -1,0 +1,172 @@
+[
+  {
+    "name": "SculptHouse",
+    "address": "3201 Cains Hill Place NW, Atlanta, GA 30305",
+    "phone": "(404) 549-3001",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.sculpthouse.com/",
+    "category": "Central-American-owned Boutique fitness studios in Georgia",
+    "description": "This studio offers a unique blend of Lagree Fitness and interval cardio on a treadmill for a high-intensity, low-impact workout",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Boutique fitness studios in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Training Room ATL",
+    "address": "1465 Howell Mill Road NW, Suite 300, Atlanta, GA 30318",
+    "phone": "(404) 800-1312",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.thetrainingroomatl.com/",
+    "category": "Central-American-owned Boutique fitness studios in Georgia",
+    "description": "A premier fitness facility offering personal training, group fitness, Pilates, infrared saunas, body scans, and nutrition services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Boutique fitness studios in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Club Pilates",
+    "address": "210 Robert C Daniel Jr Parkway, Ste C, Augusta, GA 30909",
+    "phone": "(762) 222-1220",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.clubpilates.com/augusta",
+    "category": "Central-American-owned Boutique fitness studios in Georgia",
+    "description": "Offers reformer-based Pilates classes, modernizing the original method with group practice and expanded equipment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Boutique fitness studios in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oxygen Fitness Studio",
+    "address": "3810 Washington Rd, Evans, GA 30809",
+    "phone": "(706) 922-7777",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.oxygenfitnessstudio.com/",
+    "category": "Central-American-owned Boutique fitness studios in Georgia",
+    "description": "A boutique fitness studio in Augusta offering Spin, Barre, Boot Camps, and Hot Yoga, as well as personal training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Boutique fitness studios in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Fitness Collective Atlanta",
+    "address": "1122 Old Chattahoochee Ave NW, Unit E, Atlanta, GA 30318",
+    "phone": "(404) 732-3795",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.thefitnesscollectiveatl.com/",
+    "category": "Central-American-owned Boutique fitness studios in Georgia",
+    "description": "An Atlanta-based boutique movement medicine studio offering result-driven fitness, alternative wellness, and holistic practices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Boutique fitness studios in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "REGYMEN Fitness Macon",
+    "address": "4057 Northside Dr, Macon, GA 31210",
+    "phone": "(478) 254-3000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.regymenfitness.com/locations/macon-ga/",
+    "category": "Central-American-owned Boutique fitness studios in Georgia",
+    "description": "Offers dynamic group workouts and results-driven training in a high-energy environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Boutique fitness studios in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Hub Savannah",
+    "address": "4505 Habersham St, Savannah, GA 31405",
+    "phone": "(912) 480-0123",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.thehubsavannah.com/",
+    "category": "Central-American-owned Boutique fitness studios in Georgia",
+    "description": "A fitness studio offering Yoga, Pilates, Barre, and Spin classes designed to strengthen the body and mind",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Boutique fitness studios in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mindset Fitness",
+    "address": "715 9th Ave, Suite G, Columbus, GA 31901",
+    "phone": "(706) 570-0070",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://mindsetfitness.fit/",
+    "category": "Central-American-owned Boutique fitness studios in Georgia",
+    "description": "A functional fitness gym in Columbus offering open gym, classes, and personal training with a focus on accountability and community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Boutique fitness studios in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clarity Fitness",
+    "address": "1122 Old Chattahoochee Ave NW, Unit E, Atlanta, GA 30318",
+    "phone": "(404) 913-4187",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.clarity.fitness/",
+    "category": "Central-American-owned Boutique fitness studios in Georgia",
+    "description": "Georgia's first body-positive fitness center offering open gym, classes, and personal training for all levels and abilities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Boutique fitness studios in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Body By Design",
+    "address": "10700 State Bridge Rd, Alpharetta, GA 30022",
+    "phone": "(770) 674-1111",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://bodybydesign.fitness/",
+    "category": "Central-American-owned Boutique fitness studios in Georgia",
+    "description": "A premier fitness studio focusing on customized training tailored to individual needs, offering semi-private and small group training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Boutique fitness studios in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
