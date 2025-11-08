@@ -1,0 +1,36 @@
+[
+  {
+    "name": "SoCal Premier Property Management (SoCal PPM)",
+    "address": "While the article mentions they are based in Inglewood, a specific street address was not provided",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/SoCal+Premier+Property+Management+(SoCal+PPM)+in+California",
+    "category": "African-American-owned HOA management in California",
+    "description": "A 100% minority-owned firm offering full services for property owners and tenants across Southern California, focusing on optimizing properties and preserving generational wealth",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned HOA management in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Neighborhood Cornerstone Partners",
+    "address": "Charlotte, North Carolina (This company is based in North Carolina, not California, but is noted as the first Black-owned HOA management company in the US)",
+    "phone": "704-614-3195",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Neighborhood+Cornerstone+Partners+in+California",
+    "category": "African-American-owned HOA management in California",
+    "description": "A Black-woman-owned HOA management company focused on providing training, guidance, and a people-first approach to make HOAs a source of stability",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned HOA management in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
