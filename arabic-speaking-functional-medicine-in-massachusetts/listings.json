@@ -1,0 +1,19 @@
+[
+  {
+    "name": "New England Center for Functional Medicine",
+    "address": "2 Medical Center Dr Ste 202, Springfield, MA 01107",
+    "phone": "(413) 205-1200",
+    "rating": 1.0,
+    "reviews": 25,
+    "website": "https://www.nefunctionalmedicine.com/",
+    "category": "Arabic-speaking Functional medicine in Massachusetts",
+    "description": "This center specializes in functional medicine and nursing care, aiming to address the root cause of health issues",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Functional medicine in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
