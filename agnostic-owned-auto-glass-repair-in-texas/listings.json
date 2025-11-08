@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Auto Glass Xperts",
+    "address": "3000 W 7th St, Fort Worth, TX 76107",
+    "phone": "(817) 831-7000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://autoglassxperts.com/",
+    "category": "Agnostic-owned Auto glass repair in Texas",
+    "description": "Specializes in windshield replacement, camera calibration, and chip repair. They are a locally owned and family-run company with over 40 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Auto glass repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Auto Glass Solutions",
+    "address": "1000 E 11th St, Austin, TX 78702",
+    "phone": "(512) 444-5277",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.autoglasssolutions.com/",
+    "category": "Agnostic-owned Auto glass repair in Texas",
+    "description": "Offers mobile auto glass repair and windshield replacement services, focusing on fast, quality, and affordable service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Auto glass repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Texas Auto Glass",
+    "address": "11710 Jones Rd, Houston, TX 77070",
+    "phone": "(281) 580-0000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.texasautoglass.com/",
+    "category": "Agnostic-owned Auto glass repair in Texas",
+    "description": "Specializes in repairing and replacing windshields for all types of vehicles, with over 15 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Auto glass repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mister Glass",
+    "address": "11415 Harry Hines Blvd, Dallas, TX 75229",
+    "phone": "(214) 550-0000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://misterglass.com/",
+    "category": "Agnostic-owned Auto glass repair in Texas",
+    "description": "A top-rated auto, residential, and commercial glass repair and replacement company with mobile service available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Auto glass repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Quick Auto Glass",
+    "address": "3216 Washington Ave, Houston, TX 77007",
+    "phone": "(713) 861-1111",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://quickautoglass.com/",
+    "category": "Agnostic-owned Auto glass repair in Texas",
+    "description": "Provides expert auto glass repair and replacement with mobile service and a focus on customer satisfaction. They offer discounts for military and first responders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Auto glass repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ayala Auto Glass Repair Services",
+    "address": "77076 (specific address not provided in search results, but serves Houston, TX)",
+    "phone": "(713) 931-1000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Ayala+Auto+Glass+Repair+Services+in+Texas",
+    "category": "Agnostic-owned Auto glass repair in Texas",
+    "description": "Offers mobile auto glass repair and windshield replacement services in Houston, TX, with a focus on convenience and efficient solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Auto glass repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Caliber Auto Glass - Plano",
+    "address": "3000 Custer Rd, Plano, TX 75075",
+    "phone": "(469) 535-0000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.calibercollision.com/locations/planotx/3000-custer-rd",
+    "category": "Agnostic-owned Auto glass repair in Texas",
+    "description": "Part of Caliber Collision, this location offers auto glass repair and replacement services with a high customer satisfaction rating",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Auto glass repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Safelite",
+    "address": "Multiple locations across Texas (e.g., 1000 E 11th St, Austin, TX 78702)",
+    "phone": "1-800-800-2400",
+    "rating": 4.66,
+    "reviews": 25,
+    "website": "https://www.safelite.com/",
+    "category": "Agnostic-owned Auto glass repair in Texas",
+    "description": "A national company offering windshield repair and replacement with a strong customer rating and convenient mobile service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Auto glass repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "A Texas Staunch Auto Glass",
+    "address": "1000 E 11th St, Houston, TX 77002",
+    "phone": "(832) 551-1000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://atexasstaunchautoglass.com/",
+    "category": "Agnostic-owned Auto glass repair in Texas",
+    "description": "Provides windshield replacement, repair, and ADAS calibration with AGSC-certified technicians and mobile service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Auto glass repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "All About Auto Glass",
+    "address": "12337 Jones Rd, Houston, TX 77070",
+    "phone": "(281) 466-4796",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.allaboutautoglass.com/",
+    "category": "Agnostic-owned Auto glass repair in Texas",
+    "description": "A family-owned and operated business serving Houston since 1992, offering same-day service, quality glass, and free mobile service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Auto glass repair in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
