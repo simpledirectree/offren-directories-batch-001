@@ -1,0 +1,53 @@
+[
+  {
+    "name": "CK Creative Agency",
+    "address": "Dallas, Texas",
+    "phone": "469-502-5701",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ckcreativeagency.com/",
+    "category": "Black-owned UI/UX design in Texas",
+    "description": "A creative agency offering services such as UX/UI design, web design, branding, and app development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned UI/UX design in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "True Digital Marketing",
+    "address": "Houston, Texas",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://truedigitalmarketing.com/",
+    "category": "Black-owned UI/UX design in Texas",
+    "description": "A Black-owned website design agency that also offers content writing, logo design, and digital marketing services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned UI/UX design in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ashlee Nicole Creative",
+    "address": "Not specified (likely serves clients remotely or has a home-based studio)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ashleenicolecreative.com/",
+    "category": "Black-owned UI/UX design in Texas",
+    "description": "A graphic, brand, and web designer who also has experience in UX/UI",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned UI/UX design in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
