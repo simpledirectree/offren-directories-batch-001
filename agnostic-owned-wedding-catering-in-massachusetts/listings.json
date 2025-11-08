@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Fireside Catering",
+    "address": "252 Cambridge St, Burlington, MA 01803",
+    "phone": "(781) 272-1200",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.firesidecatering.com/",
+    "category": "Agnostic-owned Wedding catering in Massachusetts",
+    "description": "Specializes in unique cuisine prepared with ingredients sourced from local farmers, including their own farm",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Wedding catering in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clambakes Etc.",
+    "address": "169 Route 6A, Sandwich, MA 02563",
+    "phone": "(508) 888-3450",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.clambakesetc.com/",
+    "category": "Agnostic-owned Wedding catering in Massachusetts",
+    "description": "Offers authentic New England clambakes and other seafood-focused catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Wedding catering in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Simple Fare Catering",
+    "address": "169 Main St, Medford, MA 02155",
+    "phone": "(781) 391-5200",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.simplefarecatering.com/",
+    "category": "Agnostic-owned Wedding catering in Massachusetts",
+    "description": "A wedding catering company serving events throughout the area with a focus on custom menus",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Wedding catering in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Calla Catering and Events LLC",
+    "address": "147 Main St, Natick, MA 01760",
+    "phone": "(508) 650-3550",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.callacatering.com/",
+    "category": "Agnostic-owned Wedding catering in Massachusetts",
+    "description": "A premier wedding catering company specializing in creating unforgettable dining experiences with custom menus",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Wedding catering in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sara's Cooking and Catering",
+    "address": "152 Howard St, Framingham, MA 01702",
+    "phone": "(508) 872-1700",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.sarascookingandcatering.com/",
+    "category": "Agnostic-owned Wedding catering in Massachusetts",
+    "description": "Offers exquisite quality food and amazing service for weddings, serving the Boston area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Wedding catering in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sirloin Catering",
+    "address": "100A Worcester St, Northborough, MA 01532",
+    "phone": "(508) 393-2233",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.sirloincatering.com/",
+    "category": "Agnostic-owned Wedding catering in Massachusetts",
+    "description": "Provides wedding catering services for nearly three decades, catering to both casual and elegant affairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Wedding catering in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Farmacy Catering",
+    "address": "170 Eastern Ave, Chelsea, MA 02150",
+    "phone": "(617) 889-0000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.farmacycatering.com/",
+    "category": "Agnostic-owned Wedding catering in Massachusetts",
+    "description": "A catering business specializing in delicious hors d'oeuvres and mouth-watering seafood options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Wedding catering in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hopkins Catering",
+    "address": "100 Elm St, Danvers, MA 01923",
+    "phone": "(978) 777-4500",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.hopkinscatering.com/",
+    "category": "Agnostic-owned Wedding catering in Massachusetts",
+    "description": "A chef-owned and operated business with over 45 years of experience, specializing in delicious, locally sourced food",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Wedding catering in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Boston Catering and Events",
+    "address": "100 Franklin St, Boston, MA 02110",
+    "phone": "(617) 500-0000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.bostoncateringandevents.com/",
+    "category": "Agnostic-owned Wedding catering in Massachusetts",
+    "description": "Offers full-service catering and event planning, known for exceptional food and service at weddings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Wedding catering in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Catered Affair",
+    "address": "100 Summer St, Boston, MA 02110",
+    "phone": "(617) 778-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.thecateredaffair.com/",
+    "category": "Agnostic-owned Wedding catering in Massachusetts",
+    "description": "A Boston and New England catering company known for brilliant food, flawless service, and stunning experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Wedding catering in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
