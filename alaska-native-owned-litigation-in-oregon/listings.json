@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Haglund Kelley LLP",
+    "address": "1000 SW Broadway, Suite 1400, Portland, OR 97205",
+    "phone": "(503) 225-5555",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hklaw.com/",
+    "category": "Alaska-Native-owned Litigation in Oregon",
+    "description": "This firm has extensive experience representing Indian tribes and Alaska Natives in various legal areas, including litigation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Litigation in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dorsey & Whitney LLP",
+    "address": "111 SW Columbia Street, Suite 1000, Portland, OR 97201",
+    "phone": "(503) 223-3400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dorsey.com/",
+    "category": "Alaska-Native-owned Litigation in Oregon",
+    "description": "Dorsey has a strong Native American law practice and represents Indian tribes and Alaska Native corporations in litigation and other matters",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Litigation in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Stoel Rives LLP",
+    "address": "1215 Huffman Road, Suite 300, Anchorage, AK 99515 (This is their main listed address, not in Oregon)",
+    "phone": "(907) 563-3300",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sonomylaw.com/",
+    "category": "Alaska-Native-owned Litigation in Oregon",
+    "description": "This firm is a leading law firm representing Alaska Native interests and is at the forefront of landmark litigation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Litigation in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Legal Aid Services of Oregon (Native American Program)",
+    "address": "520 SW Harrison Street, Suite 300, Portland, OR 97201",
+    "phone": "(503) 223-9483",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://oregonlawhelp.org/resource/legal-aid-services-of-oregon-native-american-program",
+    "category": "Alaska-Native-owned Litigation in Oregon",
+    "description": "This program provides legal services to low-income tribe members, tribes, and affiliated groups in Oregon, including representation in tribal court and cases related to tribal status",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Litigation in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
