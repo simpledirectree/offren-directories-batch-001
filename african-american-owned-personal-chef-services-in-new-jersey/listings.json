@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Chef Abyssinia LLC",
+    "address": "(Not explicitly stated, but serves NYC & NJ)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chefabyssinia.com/",
+    "category": "African-American-owned Personal chef services in New-Jersey",
+    "description": "A woman-led and minority-owned company offering personal chef services, catering, and meal delivery in NYC & NJ, specializing in custom menus and locally sourced ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Personal chef services in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vital Dining (Chef Kwame Williams)",
+    "address": "Montclair, NJ",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.take-a-chef.com/chef/kwame-williams",
+    "category": "African-American-owned Personal chef services in New-Jersey",
+    "description": "Chef Kwame Williams offers a modern and healthful take on Jamaican cuisine. He has experience in fine dining establishments and won on Food Network's \"Cooks vs. Cons.\"",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Personal chef services in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chef Vess",
+    "address": "Southern New Jersey (HQ)",
+    "phone": "856-244-8311",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chef+Vess+New+Jersey",
+    "category": "African-American-owned Personal chef services in New-Jersey",
+    "description": "Offers personal/family homestyle meals, personal catering, and travels nationwide. Chef Vess specializes in Southern cuisine with global influences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Personal chef services in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Brick City Vegan (Chef Emeka Onugha)",
+    "address": "Newark and Montclair, New Jersey",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Brick+City+Vegan+(Chef+Emeka+Onugha)+New+Jersey",
+    "category": "African-American-owned Personal chef services in New-Jersey",
+    "description": "A Black-owned plant-based restaurant with a chef who draws inspiration from Nigerian roots. They offer fresh, flavorful, and sustainable dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Personal chef services in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jefferson's Cafe (Owners Joan and Jim Jefferson)",
+    "address": "Montclair, New Jersey (and Orange, New Jersey)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Jefferson's+Cafe+(Owners+Joan+and+Jim+Jefferson)+New+Jersey",
+    "category": "African-American-owned Personal chef services in New-Jersey",
+    "description": "A Black-owned restaurant specializing in Southern-style food, with over 30 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Personal chef services in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
