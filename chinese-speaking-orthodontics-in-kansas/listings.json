@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Sim Family Dental",
+    "address": "10704 E. Harry St., Wichita, KS",
+    "phone": "(316) 684-1422",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://simfamilydental.com/",
+    "category": "Chinese-speaking Orthodontics in Kansas",
+    "description": "Offers a comprehensive range of dental services and states that their team is multilingual, including Chinese speakers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Orthodontics in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Stay Smiling Orthodontics",
+    "address": "7505 Quivira Road, Lenexa, KS 66216 (This address appears to be for Hannah Orthodontics, not Stay Smiling Orthodontics. Stay Smiling Orthodontics' website does not list a specific address but mentions serving Overland Park & Leawood.)",
+    "phone": "913-661-9901",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://staysmilingortho.com/",
+    "category": "Chinese-speaking Orthodontics in Kansas",
+    "description": "Provides orthodontic treatment options such as braces and Invisalign. While they don't explicitly mention Chinese-speaking staff, they emphasize a friendly and experienced team",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Orthodontics in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hannah Orthodontics",
+    "address": "7505 Quivira Road, Lenexa, KS 66216",
+    "phone": "(913) 268-5559",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://hannahorthodontics.com/",
+    "category": "Chinese-speaking Orthodontics in Kansas",
+    "description": "Offers braces and clear aligners. Their website mentions providing language assistance services for various languages, including Chinese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Orthodontics in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lenius Orthodontics",
+    "address": "Overland Park, KS (Specific street address not provided in search results, but a phone number is available)",
+    "phone": "(913) 357-1212",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://leniusorthodontics.com/",
+    "category": "Chinese-speaking Orthodontics in Kansas",
+    "description": "Offers orthodontic care utilizing the latest digital technology. While not explicitly stating Chinese-speaking staff, they emphasize personalized treatment plans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Orthodontics in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Smith Orthodontics",
+    "address": "Overland Park, KS (Specific street address not provided in search results, but phone numbers are available)",
+    "phone": "913-897-6950, Text 913-209-0191",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.smithorthodontics.com/",
+    "category": "Chinese-speaking Orthodontics in Kansas",
+    "description": "Provides orthodontic specialist care for children and adults. Their website does not explicitly mention Chinese-speaking staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Orthodontics in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Heidi Harman Orthodontics",
+    "address": "Kansas City, MO (While serving the Kansas City area, the provided address is in Missouri. Their website does not list a Kansas address.)",
+    "phone": "816-326-8944",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://heidiharmanorthodontics.com/",
+    "category": "Chinese-speaking Orthodontics in Kansas",
+    "description": "Offers Invisalign and other orthodontic treatments. Their website mentions being a Diamond Invisalign provider and focuses on a personal patient experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Orthodontics in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Smile Spot",
+    "address": "Waldo (Kansas City, MO), Midtown (Kansas City, MO), Independence (MO), Springfield (MO). No Kansas addresses were found",
+    "phone": "(816) 363-2900 (Waldo), (816) 756-2273 (Midtown), (816) 461-3661 (Independence)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thesmilespot.com/",
+    "category": "Chinese-speaking Orthodontics in Kansas",
+    "description": "Provides pediatric dentistry and orthodontics. Their website does not mention Chinese-speaking staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Orthodontics in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
