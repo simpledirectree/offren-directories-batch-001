@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Portland Physical Therapy",
+    "address": "16 Middle St, Portland, ME 04101",
+    "phone": "",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.portlandphysicaltherapy.com/",
+    "category": "Agnostic-owned Physical therapy in Maine",
+    "description": "Specializes in orthopedics, spine, post-surgical, and sports injuries, offering one-on-one patient-focused care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Physical therapy in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Performance Physical Therapy and Sports Rehab",
+    "address": "242 State St, Bangor, ME 04401 (also has a Brewer location)",
+    "phone": "(207) 947-0100 (Bangor location)",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.performanceptme.com/",
+    "category": "Agnostic-owned Physical therapy in Maine",
+    "description": "Offers individualized programs with consistent physical therapist care, focusing on improving mobility, motion, and providing alternatives to surgery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Physical therapy in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maine Strong Balance Center and Physical Therapy",
+    "address": "170 US-1, Scarborough, ME 04074",
+    "phone": "(207) 200-1700",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.mainestrongbalance.com/",
+    "category": "Agnostic-owned Physical therapy in Maine",
+    "description": "An interdisciplinary rehabilitation clinic specializing in neurologic, geriatric, and vestibular physical and occupational therapy, with a focus on balance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Physical therapy in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Back in Motion Physical Therapy",
+    "address": "100 Western Ave, Augusta, ME 04330 (multiple locations across Maine)",
+    "phone": "(207) 626-3131 (Augusta location)",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.backinmotionpt.com/",
+    "category": "Agnostic-owned Physical therapy in Maine",
+    "description": "Provides expert care and personalized treatment plans for a wide range of musculoskeletal injuries, aiming to improve pain management and quality of life",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Physical therapy in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alliance Physical Therapy",
+    "address": "1334 Washington Ave, Portland, ME 04103",
+    "phone": "(207) 536-0702",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.allianceptme.com/",
+    "category": "Agnostic-owned Physical therapy in Maine",
+    "description": "Utilizes unique treatment plans combining manipulation, dry needling, and corrective exercises for effective patient outcomes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Physical therapy in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Steady State Health",
+    "address": "173 Ocean Ave, Portland, ME 04103",
+    "phone": "(207) 613-4000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.steadystatehealth.com/",
+    "category": "Agnostic-owned Physical therapy in Maine",
+    "description": "Specializes in running rehab, CrossFit injuries, and pelvic floor physical therapy, offering personalized care for active individuals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Physical therapy in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hurt & Co Physical Therapy and Barbell Club",
+    "address": "71 US-1, Suite D, Scarborough, ME 04074",
+    "phone": "(207) 619-3203",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.hurtandco.com/",
+    "category": "Agnostic-owned Physical therapy in Maine",
+    "description": "Offers skilled physical therapy, personal training, and wellness services with a full-body approach, focusing on injury prevention and rehabilitation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Physical therapy in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kennebec Physical Therapy",
+    "address": "165 Water St, Hallowell, ME 04347",
+    "phone": "(207) 582-9898",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.kennebecphysicaltherapy.com/",
+    "category": "Agnostic-owned Physical therapy in Maine",
+    "description": "Specializes in orthopedic and sports injuries, providing high-quality care in a friendly environment with a focus on manual treatment techniques",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Physical therapy in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Reform Physical Therapy",
+    "address": "439 Lewiston Rd, Topsham, ME 04086 (multiple locations across Southern Maine)",
+    "phone": "(207) 725-4400 (Topsham location)",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.reformpt.com/",
+    "category": "Agnostic-owned Physical therapy in Maine",
+    "description": "A Maine-owned clinic focusing on treating the individual with personalized, one-on-one attention from experienced physical therapists",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Physical therapy in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Seacoast Physical Therapy",
+    "address": "17 Storer St, Kennebunk, ME 04043 (also has a Biddeford location)",
+    "phone": "(207) 985-0000 (Kennebunk location)",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.seacoastpt.com/",
+    "category": "Agnostic-owned Physical therapy in Maine",
+    "description": "Specializes in outpatient care for orthopedic and sports injuries, providing high-quality care in a friendly and encouraging environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Physical therapy in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
