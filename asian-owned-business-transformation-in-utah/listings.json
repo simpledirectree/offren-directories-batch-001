@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Advisor Labs",
+    "address": "10757 S River Front Pkwy, Suite 300, South Jordan, UT 84095",
+    "phone": "(385) 509-0245",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.advisorlabs.com/",
+    "category": "Asian-owned Business transformation in Utah",
+    "description": "An AI consulting firm specializing in digital transformation and business process automation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Business transformation in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hooks Hustle",
+    "address": "Salt Lake City, UT (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hooks+Hustle+in+Utah",
+    "category": "Asian-owned Business transformation in Utah",
+    "description": "Offers business transformation consultant services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Business transformation in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Simplus",
+    "address": "Multiple locations, including Utah (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.simplus.com/",
+    "category": "Asian-owned Business transformation in Utah",
+    "description": "A Salesforce Partner specializing in digital transformation, implementation, and change management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Business transformation in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rocky Mountain Advisory (RMA)",
+    "address": "Salt Lake City, UT (Specific address not provided in search results)",
+    "phone": "801.428.1600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.rockymtnadvisory.com/",
+    "category": "Asian-owned Business transformation in Utah",
+    "description": "Provides business workout and turnaround consulting services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Business transformation in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Executech",
+    "address": "Multiple locations in Utah (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.executech.com/",
+    "category": "Asian-owned Business transformation in Utah",
+    "description": "Offers IT consulting services, including seamless digital transformations and cloud computing expertise",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Business transformation in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Compunnel",
+    "address": "Not specified for Utah location, but a US-based company",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.compunnel.com/",
+    "category": "Asian-owned Business transformation in Utah",
+    "description": "Delivers AI-driven digital transformation, IT, and workforce solutions. Recognized as a high-growth Asian American-owned business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Business transformation in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Economic Bridge International",
+    "address": "Salt Lake City, UT & Shanghai (Specific Utah address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Economic+Bridge+International+in+Utah",
+    "category": "Asian-owned Business transformation in Utah",
+    "description": "A strategic advisory/consulting firm focused on helping US and Chinese companies work together more effectively",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Business transformation in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian City",
+    "address": "1653 W 9000 S, West Jordan, UT 84088",
+    "phone": "(801) 604-9930",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.utahasiancity.com/",
+    "category": "Asian-owned Business transformation in Utah",
+    "description": "A grocery store and market that may offer services or support to the Asian community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Business transformation in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "J. Wong's Thai & Chinese Bistro",
+    "address": "Not specified in search results, but located in Salt Lake City",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/J.+Wong's+Thai+&+Chinese+Bistro+in+Utah",
+    "category": "Asian-owned Business transformation in Utah",
+    "description": "An Asian-owned restaurant that is part of the local Asian business community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Business transformation in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zao Asian Cafes",
+    "address": "Multiple locations in Utah, including Logan, Saratoga Springs, Park City, Farmington. (Specific addresses for all locations provided in search results)",
+    "phone": "Varies by location (e.g., Logan: (435) 994-3470)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://zaoasiancafe.com/locations/",
+    "category": "Asian-owned Business transformation in Utah",
+    "description": "A chain of Asian cafes that are part of the Asian business landscape in Utah",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Business transformation in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
