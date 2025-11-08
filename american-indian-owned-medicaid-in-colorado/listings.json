@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Denver Indian Health and Family Services (DIHFS)",
+    "address": "2880 W Holden Pl, Denver, CO 80219",
+    "phone": "(303) 953-6600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dihfs.org/",
+    "category": "American-Indian-owned Medicaid in Colorado",
+    "description": "DIHFS is Denver's only Urban Indian Health Program, offering culturally appropriate primary care, dental care, behavioral health services, and assistance with health insurance enrollment for American Indian and Alaska Native individuals and families",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medicaid in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Southern Ute Health Center",
+    "address": "356 Ouray Drive, Ignacio, CO 81137",
+    "phone": "(970) 563-4581",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.southernute-nsn.gov/tribal-health/health-center/",
+    "category": "American-Indian-owned Medicaid in Colorado",
+    "description": "The Southern Ute Health Center provides comprehensive primary care, dental, behavioral health, and optometry services with a mission to elevate the health status of the people they serve",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medicaid in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ute Mountain Health Center",
+    "address": "232 Rustling Willow Street, Complex D, Towaoc, CO 81334",
+    "phone": "(970) 565-4441",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ihs.gov/albuquerque/healthcarefacilities/utemountainute/",
+    "category": "American-Indian-owned Medicaid in Colorado",
+    "description": "This Indian Health Service facility offers healthcare services to the Ute Mountain Ute community and surrounding areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medicaid in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
