@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Armoire",
+    "address": "4786 1st Ave South, Suite 105, Seattle, WA 98134",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://armoire.style/",
+    "category": "Agnostic-owned Fashion rental styling in Washington",
+    "description": "A Seattle-based clothing rental membership service offering a wide variety of designer pieces for various occasions. They also offer personal styling sessions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Fashion rental styling in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Center Stage Clothiers",
+    "address": "1400 Main Street, Vancouver, WA 98660",
+    "phone": "(360) 695-1400",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.centerstageclothiers.com/",
+    "category": "Agnostic-owned Fashion rental styling in Washington",
+    "description": "A premier costume and vintage apparel rental store in Vancouver, WA, offering a wide selection for theatrical productions, themed events, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Fashion rental styling in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Golden Room",
+    "address": "(Online-based with potential local pickup/drop-off in Vancouver, WA - check website for details)",
+    "phone": "",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.thegoldenroom.rent/",
+    "category": "Agnostic-owned Fashion rental styling in Washington",
+    "description": "Offers elegant and affordable dress rentals in Vancouver, WA, for various occasions, focusing on designer pieces and sustainable fashion choices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Fashion rental styling in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Generation Tux",
+    "address": "Online service with delivery to Tacoma, WA (and other locations)",
+    "phone": "1-800-414-5757",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.generationtux.com/",
+    "category": "Agnostic-owned Fashion rental styling in Washington",
+    "description": "An online tuxedo and suit rental service that delivers directly to your door, offering a wide selection of styles and a seamless fitting process. They serve Tacoma and surrounding areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Fashion rental styling in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Generation Tux",
+    "address": "Online service with delivery to Bellevue, WA (and other locations)",
+    "phone": "1-800-414-5757",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.generationtux.com/",
+    "category": "Agnostic-owned Fashion rental styling in Washington",
+    "description": "An online tuxedo and suit rental service offering convenient home delivery and a personalized fitting experience for events in Bellevue",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Fashion rental styling in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Generation Tux",
+    "address": "Online service with delivery to Spokane, WA (and other locations)",
+    "phone": "1-800-414-5757",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.generationtux.com/",
+    "category": "Agnostic-owned Fashion rental styling in Washington",
+    "description": "Provides online suit and tuxedo rentals with home delivery for customers in Spokane, WA, ensuring a high-quality and convenient experience for formal events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Fashion rental styling in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tuxedo Gallery",
+    "address": "1011 W 1st Ave, Spokane, WA 99201",
+    "phone": "(509) 747-2200",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://tuxedogallery.com/",
+    "category": "Agnostic-owned Fashion rental styling in Washington",
+    "description": "A Spokane-based provider of tuxedo and men's formal wear rentals, offering a large selection of styles and colors for weddings, proms, and special events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Fashion rental styling in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mr. Formal",
+    "address": "10303 NE 4th Plain Blvd, Vancouver, WA 98662",
+    "phone": "(360) 253-9637",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://mrformal.com/",
+    "category": "Agnostic-owned Fashion rental styling in Washington",
+    "description": "Offers a wide selection of suits and tuxedos for rent or purchase in Vancouver, WA, with a focus on personalized styling and tailoring services for various formal occasions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Fashion rental styling in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Style Stylist",
+    "address": "(Services offered in Seattle & Bellevue, WA - virtual consultations available)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.thestylestylist.com/",
+    "category": "Agnostic-owned Fashion rental styling in Washington",
+    "description": "A personal stylist and wardrobe consultant serving Seattle and Bellevue, offering services to help clients discover their unique style and build a wardrobe they love",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Fashion rental styling in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "KnewRadical Styling",
+    "address": "Tacoma, WA 98409",
+    "phone": "(253) 884-0057",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.knewradical.com/",
+    "category": "Agnostic-owned Fashion rental styling in Washington",
+    "description": "Offers personal shopping and styling services in Tacoma, WA, with a focus on helping clients find and style clothes that bring out their confidence. Services can be tailored and done virtually",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Fashion rental styling in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
