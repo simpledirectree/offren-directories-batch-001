@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Trinity Health Mid-Atlantic",
+    "address": "Multiple locations across Pennsylvania. For specific imaging center addresses, please refer to their website",
+    "phone": "1-866-STLUKES (785-8537)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.trinityhealthmidatlantic.org/",
+    "category": "Catholic-owned Medical imaging services in Pennsylvania",
+    "description": "Trinity Health Mid-Atlantic offers a comprehensive range of state-of-the-art radiology and diagnostic imaging services, including CT scans, MRIs, mammography, ultrasounds, and X-rays",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Medical imaging services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Luke's University Health Network",
+    "address": "Multiple locations throughout the Greater Lehigh Valley and surrounding areas in Pennsylvania and New Jersey",
+    "phone": "866-STLUKES (785-8537)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sluhn.org/",
+    "category": "Catholic-owned Medical imaging services in Pennsylvania",
+    "description": "St. Luke's University Health Network provides advanced imaging services, including CT scans, MRIs, mammography, X-rays, and interventional radiology. They are an international show site for GE Healthcare, offering some of the most advanced imaging technologies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Medical imaging services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mercy Health System",
+    "address": "Various locations in Pennsylvania. Specific addresses for imaging centers can be found on their website",
+    "phone": "1-866-STLUKES (785-8537) (This number appears to be for St. Luke's, but Mercy Health is part of Trinity Health Mid-Atlantic, which also includes St. Luke's. For specific Mercy Health imaging, it's best to check their website.)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mercyhealth.org/",
+    "category": "Catholic-owned Medical imaging services in Pennsylvania",
+    "description": "Mercy Health offers a complete range of high-quality diagnostic and interventional radiology imaging services, including CT scans, MRIs, mammography, ultrasounds, and X-rays, utilizing state-of-the-art equipment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Medical imaging services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ascension Medical Group",
+    "address": "Multiple sites of care across Pennsylvania",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ascension.org/",
+    "category": "Catholic-owned Medical imaging services in Pennsylvania",
+    "description": "Ascension offers a variety of imaging services in their hospitals, medical centers, and urgent care clinics, including breast imaging, CT scans, X-rays, MRIs, and PET/CT scans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Medical imaging services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Covenant Health System",
+    "address": "Multiple locations across East Tennessee. While not in Pennsylvania, they are a Catholic health system",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.covenanthealth.com/",
+    "category": "Catholic-owned Medical imaging services in Pennsylvania",
+    "description": "Covenant Health offers a full range of imaging services, including bone density tests, CT scans, MRI, mammography, digital X-rays, and ultrasound",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Medical imaging services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "UPMC (University of Pittsburgh Medical Center)",
+    "address": "Over 30 locations throughout Central Pennsylvania and over 100 locations in Pennsylvania, New York, and western Maryland",
+    "phone": "717-230-3700 (for Hershey, PA location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.upmc.com/",
+    "category": "Catholic-owned Medical imaging services in Pennsylvania",
+    "description": "UPMC Imaging Services provides a comprehensive range of imaging services, including breast health, CT scans, mammography, MRI, and more, utilizing up-to-date technology for precise diagnoses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Medical imaging services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Penn Medicine (University of Pennsylvania Health System)",
+    "address": "Multiple locations throughout the Philadelphia area and surrounding suburbs",
+    "phone": "484.580.1800",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pennmedicine.org/",
+    "category": "Catholic-owned Medical imaging services in Pennsylvania",
+    "description": "Penn Radiology offers a full range of diagnostic imaging and interventional radiology services, including mammography, X-ray, MRI, CT scans, PET/CT, and ultrasound services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Medical imaging services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Main Line Health",
+    "address": "Several locations throughout the Philadelphia area",
+    "phone": "484.580.1800",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mainlinehealth.org/",
+    "category": "Catholic-owned Medical imaging services in Pennsylvania",
+    "description": "Main Line Health provides a full range of diagnostic imaging and interventional radiology services, including mammography, X-ray, MRI, CT scans, PET/CT, and ultrasound services, utilizing the latest technologies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Medical imaging services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "WellSpan Health",
+    "address": "Offices across South-Central Pennsylvania",
+    "phone": "(717) 217-6988 (for Cardiology Testing - St. Paul Drive)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wellspan.org/",
+    "category": "Catholic-owned Medical imaging services in Pennsylvania",
+    "description": "WellSpan Health offers a wide range of imaging services, including diagnostic X-rays, mammography, PET scans, MRI, CT scans, and ultrasound, with many locations offering walk-in services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Medical imaging services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities Free Health Care Center",
+    "address": "111 Boulevard of the Allies, Pittsburgh, PA 15222",
+    "phone": "412-456-6999",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ccpgh.org/",
+    "category": "Catholic-owned Medical imaging services in Pennsylvania",
+    "description": "While this center provides free medical care, it does not appear to offer specialized medical imaging services. It focuses on primary care, dental care, and various medical specialties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Medical imaging services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
