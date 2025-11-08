@@ -1,0 +1,172 @@
+[
+  {
+    "name": "7Factor Software",
+    "address": "Atlanta, GA",
+    "phone": "(404) 907-5377",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.7factor.com/",
+    "category": "Baby-Boomer-owned Legacy system modernization in Georgia",
+    "description": "Custom software development, cloud consulting & SI, web development, and enterprise app modernization",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Legacy system modernization in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BlueFletch",
+    "address": "Atlanta, GA",
+    "phone": "",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.bluefletch.com/",
+    "category": "Baby-Boomer-owned Legacy system modernization in Georgia",
+    "description": "Mobile app development, custom software development, and enterprise app modernization",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Legacy system modernization in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sparq",
+    "address": "Atlanta, GA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://sparq.com/",
+    "category": "Baby-Boomer-owned Legacy system modernization in Georgia",
+    "description": "Custom software development, AI, enterprise app modernization, and IT strategy consulting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Legacy system modernization in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "KMS Technology",
+    "address": "Atlanta, GA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kms-technology.com/",
+    "category": "Baby-Boomer-owned Legacy system modernization in Georgia",
+    "description": "Custom software development, enterprise app modernization, mobile app development, and application testing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Legacy system modernization in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Telliant Systems, LLC",
+    "address": "Alpharetta, GA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.telliant.com/",
+    "category": "Baby-Boomer-owned Legacy system modernization in Georgia",
+    "description": "Web development, mobile app development, application testing, and enterprise app modernization",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Legacy system modernization in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Abel Solutions",
+    "address": "Alpharetta, GA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://abelsolutions.com/",
+    "category": "Baby-Boomer-owned Legacy system modernization in Georgia",
+    "description": "IT strategy consulting, cloud consulting & SI, ERP consulting and SI, and cybersecurity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Legacy system modernization in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sentry IT, LLC",
+    "address": "Roswell, GA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Sentry+IT,+LLC+in+Georgia",
+    "category": "Baby-Boomer-owned Legacy system modernization in Georgia",
+    "description": "IT strategy consulting, IT managed services, enterprise app modernization, and cybersecurity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Legacy system modernization in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Improving",
+    "address": "Atlanta, GA",
+    "phone": "(404) 551-1400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://improving.com/locations/atlanta/",
+    "category": "Baby-Boomer-owned Legacy system modernization in Georgia",
+    "description": "IT consulting services that help organizations modernize, integrate, and scale, with expertise in Microsoft technologies and cloud-based computing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Legacy system modernization in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wave Technology Solutions Group",
+    "address": "Atlanta, GA",
+    "phone": "(678) 890-4435",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wave-solutions.com/",
+    "category": "Baby-Boomer-owned Legacy system modernization in Georgia",
+    "description": "Business automation solutions, including back office modernization, intelligent information management, and enterprise content management systems. They also offer legacy system upgrades and replacements",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Legacy system modernization in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Innovative Technical Consulting, Inc. (ITC)",
+    "address": "3400 McClure Bridge Road, Bldg. C, Suite C, Duluth GA 30096",
+    "phone": "770-824-3100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.itc-atlanta.com/",
+    "category": "Baby-Boomer-owned Legacy system modernization in Georgia",
+    "description": "Specializes in legacy application modernization, including converting and migrating custom legacy applications to modern technologies, and deploying updated applications",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Legacy system modernization in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
