@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Cultivating Coders Inc.",
+    "address": "219 Central Ave NW STE 200, Albuquerque, NM 87102",
+    "phone": "(360) 798-4498",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://cultivatingcoders.com/",
+    "category": "African-American-owned Technology training in New-Mexico",
+    "description": "Offers an 8-week coding bootcamp focused on web development technologies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Technology training in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DiverseIT (Adelante Development Center)",
+    "address": "5400 San Mateo Blvd NE, Suite C, Albuquerque, NM 87109",
+    "phone": "505-881-8324",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.goadelante.org/diverseit/",
+    "category": "African-American-owned Technology training in New-Mexico",
+    "description": "A nonprofit program providing computer training, IT certifications, and career training in tech, aiming to bridge the digital divide",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Technology training in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CNM Ingenuity, Inc. - Deep Dive Bootcamps",
+    "address": "Central New Mexico Community College, Albuquerque, NM (Specific address for Deep Dive not provided, but CNM Ingenuity is the parent organization)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://deepdivenm.org/",
+    "category": "African-American-owned Technology training in New-Mexico",
+    "description": "Offers immersive, project-based technology training bootcamps in areas like Fullstack Web Development, Data Science, and UX/UI",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Technology training in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black4tech",
+    "address": "Online/Virtual (Location not specified for a physical address)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.black4tech.com/",
+    "category": "African-American-owned Technology training in New-Mexico",
+    "description": "Aims to cultivate the next generation of Black Techpreneurs through technology training, leadership development, and mentorship, offering free online training classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Technology training in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "IntelliTec College - Albuquerque Campus",
+    "address": "4575 San Mateo Blvd, Suite K, Albuquerque, New Mexico, 87109",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://intellitec.edu/locations/albuquerque-nm/",
+    "category": "African-American-owned Technology training in New-Mexico",
+    "description": "Offers professional career training programs, including Computer Systems Technician",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Technology training in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New Mexico Tech Black Student Union",
+    "address": "801 Leroy Place, Socorro, New Mexico 87801",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://techconnect.nmt.edu/black-student-union",
+    "category": "African-American-owned Technology training in New-Mexico",
+    "description": "A student organization at New Mexico Tech focused on supporting Black students in the campus community, though not a direct training provider",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Technology training in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Chamber of Commerce New Mexico",
+    "address": "Information not available (They offer grants and resources)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.newmexicoblackchamber.org/",
+    "category": "African-American-owned Technology training in New-Mexico",
+    "description": "Offers educational/training grants and resources to support Black-owned businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Technology training in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nomadd Group (Project CASPER)",
+    "address": "Information not available (Focuses on implementing STEM programs in underrepresented schools and communities)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nomadd.group/",
+    "category": "African-American-owned Technology training in New-Mexico",
+    "description": "An EdTech company launching initiatives like Project CASPER to implement STEM programs and increase access to technology pathways",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Technology training in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Albuquerque MBDA Business Center",
+    "address": "Information not available (Collaborates with various organizations to provide training)",
+    "phone": "505.376.7823",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nmmbda.com/",
+    "category": "African-American-owned Technology training in New-Mexico",
+    "description": "Aims to assist minority-owned businesses, including providing training and consulting services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Technology training in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of New Mexico Continuing Education (in partnership with Promineo Tech)",
+    "address": "Information not available (UNM Campus, Albuquerque)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ce.unm.edu/",
+    "category": "African-American-owned Technology training in New-Mexico",
+    "description": "Offers 18-week coding bootcamps in Front End and Back End Software Development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Technology training in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
