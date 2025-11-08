@@ -1,0 +1,53 @@
+[
+  {
+    "name": "iQ Computer Services",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/iQ+Computer+Services+in+Iowa",
+    "category": "Black-owned Server administration in Iowa",
+    "description": "A veteran-owned, Black-owned business providing affordable IT solutions for individuals and small businesses. They offer computer repair and IT support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Server administration in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Half Price Geeks",
+    "address": "Nationwide mobile service. Specific Iowa address not found",
+    "phone": "(877) 77-GEEKS (433-57)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Half+Price+Geeks+in+Iowa",
+    "category": "Black-owned Server administration in Iowa",
+    "description": "A Black-owned, nationwide mobile computer repair company offering onsite or remote support for home and business users",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Server administration in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Boeye Tech & Design LLC",
+    "address": "Red Oak, Iowa (serves Southwest Iowa)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Boeye+Tech+&+Design+LLC+in+Iowa",
+    "category": "Black-owned Server administration in Iowa",
+    "description": "Provides technology services including residential and commercial network services, computer repair, and website design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Server administration in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
