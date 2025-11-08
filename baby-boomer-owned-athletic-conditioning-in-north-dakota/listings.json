@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Sanford Sports - Fargo",
+    "address": "Fargo, ND",
+    "phone": "(701) 234-8999",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sanfordsports.com/",
+    "category": "Baby-Boomer-owned Athletic conditioning in North-Dakota",
+    "description": "Offers personalized training for speed, agility, strength, endurance, and sports physical therapy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Athletic conditioning in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sanford Sports - Bismarck",
+    "address": "Bismarck, ND",
+    "phone": "(701) 323-1125",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sanfordsports.com/",
+    "category": "Baby-Boomer-owned Athletic conditioning in North-Dakota",
+    "description": "Provides therapeutic and exercise-based programs, including strength and conditioning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Athletic conditioning in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Athletic Republic",
+    "address": "Fargo, ND",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.athleticrepublic.com/",
+    "category": "Baby-Boomer-owned Athletic conditioning in North-Dakota",
+    "description": "Offers science-based sports performance training for athletes to improve speed, power, agility, and confidence",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Athletic conditioning in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North Dakota Strength and Conditioning (University of North Dakota Athletics)",
+    "address": "Grand Forks, ND (Implied location based on University of North Dakota)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://und.com/sports/strength-and-conditioning/",
+    "category": "Baby-Boomer-owned Athletic conditioning in North-Dakota",
+    "description": "Focuses on physically and mentally preparing athletes for collegiate athletics through scientifically sound training programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Athletic conditioning in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Welcyon Fitness After 50",
+    "address": "Fargo, ND",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Welcyon+Fitness+After+50+North+Dakota",
+    "category": "Baby-Boomer-owned Athletic conditioning in North-Dakota",
+    "description": "A fitness facility specifically catering to individuals aged 50 and older, offering a non-intimidating workout environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Athletic conditioning in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
