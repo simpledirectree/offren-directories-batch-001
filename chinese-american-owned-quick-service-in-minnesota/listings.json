@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Fresh Wok",
+    "address": "4610 Nicollet Ave, Minneapolis, MN 55419",
+    "phone": "(612) 827-0505",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.freshwokmn.com/",
+    "category": "Chinese-American-owned Quick service in Minnesota",
+    "description": "Offers a wide menu including roast pork lo mein, wonton soup, and General Tso's chicken, with options for takeout and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Quick service in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chinese Express",
+    "address": "Minneapolis, MN 55408",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chinesexpress.com/",
+    "category": "Chinese-American-owned Quick service in Minnesota",
+    "description": "Provides online ordering for a variety of Chinese dishes, including lunch specials and combination platters",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Quick service in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mandarin Kitchen",
+    "address": "8766 Lyndale Ave S, Bloomington, MN 55420",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mandarin+Kitchen+in+Minnesota",
+    "category": "Chinese-American-owned Quick service in Minnesota",
+    "description": "Known for dim sum and is considered a popular choice for Chinese cuisine in the area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Quick service in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shuang Cheng",
+    "address": "1320 4th Street South East, Minneapolis, MN 55414",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Shuang+Cheng+in+Minnesota",
+    "category": "Chinese-American-owned Quick service in Minnesota",
+    "description": "A popular and authentic Chinese restaurant, noted for its extensive menu and often recommended by locals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Quick service in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Great Wall Chinese Restaurant",
+    "address": "Minneapolis, MN",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Great+Wall+Chinese+Restaurant+in+Minnesota",
+    "category": "Chinese-American-owned Quick service in Minnesota",
+    "description": "Offers Hunan, Szechuan, Peking, and Cantonese cuisine, with a focus on fresh ingredients and friendly service for dine-in, takeout, and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Quick service in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Peking Garden",
+    "address": "University Ave, Saint Paul, MN",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Peking+Garden+in+Minnesota",
+    "category": "Chinese-American-owned Quick service in Minnesota",
+    "description": "A long-standing favorite for Chinese food, with a history of moving locations but maintaining a loyal customer base",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Quick service in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hong Kong Noodle",
+    "address": "Dinkytown, Minneapolis, MN (Note: Mentioned as potentially moving to Bloomington)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hong+Kong+Noodle+in+Minnesota",
+    "category": "Chinese-American-owned Quick service in Minnesota",
+    "description": "A recommended spot for Chinese cuisine, particularly in the Dinkytown area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Quick service in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Grand Szechuan",
+    "address": "Bloomington, MN",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Grand+Szechuan+in+Minnesota",
+    "category": "Chinese-American-owned Quick service in Minnesota",
+    "description": "Praised for its authentic taste, comparable to food experienced in China",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Quick service in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hunan Restaurant",
+    "address": "Bloomington, MN",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hunan+Restaurant+in+Minnesota",
+    "category": "Chinese-American-owned Quick service in Minnesota",
+    "description": "A local favorite in Bloomington, known for staple Chinese dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Quick service in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Szechuan Spice",
+    "address": "3016 Lyndale Ave S, Minneapolis, MN 55408",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Szechuan+Spice+in+Minnesota",
+    "category": "Chinese-American-owned Quick service in Minnesota",
+    "description": "Recommended for its Kung Pao Chicken and soup dumplings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Quick service in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
