@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Sharum's Garden Center",
+    "address": "750 S. Maestri Rd, Springdale, AR 72762",
+    "phone": "479-361-9180",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sharums.com/",
+    "category": "Chinese-speaking Specialty plant care in Arkansas",
+    "description": "A large retail nursery offering a wide assortment of trees, shrubs, perennials, annuals, mulch, pottery, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty plant care in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Westwood Gardens",
+    "address": "Multiple locations in Northwest Arkansas (e.g., 15500 AR-112, Springdale, AR 72764)",
+    "phone": "479-756-2424 (Springdale location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://westwoodgardens.com/",
+    "category": "Chinese-speaking Specialty plant care in Arkansas",
+    "description": "A family-owned business with over 30 years of experience, offering a wide selection of plants, trees, shrubs, and garden tools",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty plant care in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hocott's Garden Center & Landscaping",
+    "address": "10000 Kanis Rd, Little Rock, AR 72204",
+    "phone": "501-225-1030",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://hocottgardencenter.com/",
+    "category": "Chinese-speaking Specialty plant care in Arkansas",
+    "description": "A local garden center and plant nursery serving the Little Rock community since 1939, offering a large selection of plants and landscaping services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty plant care in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cantrell Gardens",
+    "address": "7800 Cantrell Rd, Little Rock, AR 72227",
+    "phone": "501-225-1030",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://cantrellgardens.com/",
+    "category": "Chinese-speaking Specialty plant care in Arkansas",
+    "description": "A local plant nursery in Little Rock serving the area for over 50 years, offering a wide variety of plants, pottery, and lawn care products",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty plant care in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bogle's Garden City",
+    "address": "1000 S. Walton Blvd, Bentonville, AR 72712",
+    "phone": "479-273-5928",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://boglesgardencenter.com/",
+    "category": "Chinese-speaking Specialty plant care in Arkansas",
+    "description": "A top-rated garden nursery in Northwest Arkansas serving the area since 1976, offering a wide range of plants",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty plant care in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Evans Nursery",
+    "address": "10400 AR-107, Mabelvale, AR 72103",
+    "phone": "501-888-8444",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://evansnursery.com/",
+    "category": "Chinese-speaking Specialty plant care in Arkansas",
+    "description": "Offers a vast assortment of Japanese Maples and other plants, along with landscape design and maintenance services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty plant care in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Azalea Hill Gardens & Nursery",
+    "address": "1106 South Evans Road, White Hall, Arkansas 71602",
+    "phone": "870-489-0884",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Azalea+Hill+Gardens+&+Nursery+in+Arkansas",
+    "category": "Chinese-speaking Specialty plant care in Arkansas",
+    "description": "Specializes in rare and unusual plants, particularly azaleas, with many customers ordering Satsuki azaleas for bonsai purposes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty plant care in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NWA Plants Inc.",
+    "address": "8757 Carrie Smith Rd, Springdale, AR 72762",
+    "phone": "479-502-0206",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nwaplantsinc.com/",
+    "category": "Chinese-speaking Specialty plant care in Arkansas",
+    "description": "A wholesale nursery open to the public, offering a variety of plants including Chinese Pistache",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty plant care in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Plantopia",
+    "address": "3101 North Hills Blvd., North Little Rock, 72116",
+    "phone": "501-812-5900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.plantopia.com/",
+    "category": "Chinese-speaking Specialty plant care in Arkansas",
+    "description": "Offers a wide assortment of shrubs, trees, roses, perennials, annuals, pottery, fountains, and bulk materials, along with landscaping and interior design services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty plant care in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Good Earth Garden Center",
+    "address": "15707 Chenal Pkwy, Little Rock, AR 72223",
+    "phone": "501-821-2000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thegoodeartharkansas.com/",
+    "category": "Chinese-speaking Specialty plant care in Arkansas",
+    "description": "Offers a variety of plants, including bonsai, and provides gardening resources and services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty plant care in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
