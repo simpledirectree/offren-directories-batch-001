@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Dr. Ara Sadaniantz, MD",
+    "address": "1 Randall Sq Ste 305, Providence, RI 02904",
+    "phone": "(401) 223-0223",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.healthline.com/find-care/providers/ara-sadaniantz-md",
+    "category": "Armenian-speaking Cardiologists in Rhode-Island",
+    "description": "Dr. Sadaniantz is a board-certified cardiologist with 44 years of experience. He speaks Armenian and is affiliated with several hospitals in the region, including The Miriam Hospital and Our Lady of Fatima Hospital",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Cardiologists in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
