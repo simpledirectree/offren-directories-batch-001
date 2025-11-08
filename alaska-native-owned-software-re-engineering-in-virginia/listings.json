@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Three Saints Bay, LLC",
+    "address": "10000 Innovation Drive, Manassas, VA 20110",
+    "phone": "(703) 359-1100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://threesaintsbay.com/",
+    "category": "Alaska-Native-owned Software re-engineering in Virginia",
+    "description": "An Alaska Native Holding Company owned by Old Harbor Native Corporation, Three Saints Bay, LLC is a holding company for several 8(a), Alaska Native Corporation (ANC)-owned, Small Disadvantaged Business service companies. They provide services to federal and state government agencies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Software re-engineering in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ghostrock LLC",
+    "address": "4486 Pleasant Ave, Unit A, Norfolk, VA 23518",
+    "phone": "(757) 233-0200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ghostrock.threesaintsbay.com/",
+    "category": "Alaska-Native-owned Software re-engineering in Virginia",
+    "description": "A subsidiary of Three Saints Bay, LLC, Ghostrock is an 8(a) Certified Alaska Native Corporation (ANC)-owned, Small Disadvantaged Business (SDB). They specialize in technical and administrative acquisition program management, IT professionals, and technicians for C4I and Combat Systems",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Software re-engineering in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Akima",
+    "address": "Multiple locations, including Suffolk, VA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.akima.com/",
+    "category": "Alaska-Native-owned Software re-engineering in Virginia",
+    "description": "Akima is an Alaska Native Corporation (ANC) that provides a wide range of services, including IT and software solutions, to government and commercial clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Software re-engineering in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Truestone (an Akima company)",
+    "address": "Multiple locations, including Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.truestone.com/",
+    "category": "Alaska-Native-owned Software re-engineering in Virginia",
+    "description": "Truestone, an Akima company, is an Alaska Native Corporation (ANC) that offers federal lifecycle solutions and supports its shareholder communities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Software re-engineering in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Copper River Family of Companies",
+    "address": "Not specified, but serves federal clients",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://copperriver.com/",
+    "category": "Alaska-Native-owned Software re-engineering in Virginia",
+    "description": "Owned by the Native Village of Eyak, this group is a portfolio of industry-leading operating companies and a proud participant of the Small Business Administration's (SBA) 8(a) program, delivering innovative solutions and services to federal clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Software re-engineering in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sugpiat Group, LLC",
+    "address": "Not specified, but serves the US Federal Marketplace",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://sugpiatgroup.com/",
+    "category": "Alaska-Native-owned Software re-engineering in Virginia",
+    "description": "A small disadvantaged Alaska Native Corporation comprised of \"Real People, providing Real Solutions to the Government.\" They leverage \"The Alaska Native Corporation Contracting Advantage\" for government contracts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Software re-engineering in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CECSoft",
+    "address": "11480 Sunset Hills Road Suite 200W, Reston, VA 20190",
+    "phone": "+1 703.481.2500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cecsoft.com/",
+    "category": "Alaska-Native-owned Software re-engineering in Virginia",
+    "description": "CECSoft offers software re-engineering services to achieve shorter development cycles and faster time to market",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Software re-engineering in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bowhead Support Services Inc.",
+    "address": "Not specified, but operates in Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bowheadsupport.com/",
+    "category": "Alaska-Native-owned Software re-engineering in Virginia",
+    "description": "Provides IT support and program management services, including software development and system engineering, for government and defense agencies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Software re-engineering in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "W R Systems Ltd.",
+    "address": "Not specified, but operates in Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wr-systems.com/",
+    "category": "Alaska-Native-owned Software re-engineering in Virginia",
+    "description": "Offers computer, electrical, mechanical, software, and system engineering services, including testing and repair for various equipment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Software re-engineering in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AForge LLC",
+    "address": "Lorton, VA 22079",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aforgellc.com/",
+    "category": "Alaska-Native-owned Software re-engineering in Virginia",
+    "description": "Provides consulting, strategic planning, software or hardware procurement, and research and development services, with capabilities in advanced manufacturing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Software re-engineering in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
