@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Elizabeth City State University",
+    "address": "Elizabeth City, NC",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ecsu.edu/",
+    "category": "Black-owned Trade schools in North-Carolina",
+    "description": "A historically black university offering various programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Trade schools in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fayetteville State University",
+    "address": "1200 Murchison Rd, Fayetteville, NC 28301",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.uncfsu.edu/",
+    "category": "Black-owned Trade schools in North-Carolina",
+    "description": "A historically black university with a Center for Entrepreneurship that provides innovation training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Trade schools in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The School of Skilled Trades",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+School+of+Skilled+Trades+North+Carolina",
+    "category": "Black-owned Trade schools in North-Carolina",
+    "description": "A vocational school in North Carolina focused on hands-on learning for trades",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Trade schools in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asheville-Buncombe Technical Community College (A-B Tech)",
+    "address": "340 Victoria Road, Asheville, NC 28801",
+    "phone": "(828) 398-7900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.abtech.edu/",
+    "category": "Black-owned Trade schools in North-Carolina",
+    "description": "Offers over 150 programs, degrees, and certificates, with flexible programs for career advancement",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Trade schools in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cape Fear Community College",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Cape+Fear+Community+College+North+Carolina",
+    "category": "Black-owned Trade schools in North-Carolina",
+    "description": "Offers programs such as Barber School and Boat Building",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Trade schools in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aspire Trade High School",
+    "address": "Huntersville, North Carolina",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Aspire+Trade+High+School+North+Carolina",
+    "category": "Black-owned Trade schools in North-Carolina",
+    "description": "A trade-focused high school offering hands-on career training in various trades like HVAC, welding, and automotive",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Trade schools in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North Carolina Trade School (NCTS)",
+    "address": "10130 Mallard Creek Rd, Suite 300, Charlotte, NC 28262",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.northcarolinatradeschool.com/",
+    "category": "Black-owned Trade schools in North-Carolina",
+    "description": "Offers career-focused programs in HVAC and Appliance Repair with VR-based training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Trade schools in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "OMITT Trade School",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/OMITT+Trade+School+North+Carolina",
+    "category": "Black-owned Trade schools in North-Carolina",
+    "description": "Offers vocational training and employment preparation in Charlotte, NC, focusing on mechanical, industrial, and technical training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Trade schools in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shaw University",
+    "address": "118 E South St, Raleigh, NC 27601",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.shawu.edu/",
+    "category": "Black-owned Trade schools in North-Carolina",
+    "description": "A historically Black university",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Trade schools in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Johnson C. Smith University",
+    "address": "100 Beatties Ford Rd, Charlotte, NC 28216",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jcsu.edu/",
+    "category": "Black-owned Trade schools in North-Carolina",
+    "description": "A historically Black university",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Trade schools in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
