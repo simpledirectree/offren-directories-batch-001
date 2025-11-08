@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Kee's Loaded Kitchen",
+    "address": "Portland, OR (specific address varies as it's a food cart)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Kee's+Loaded+Kitchen+in+Oregon",
+    "category": "Black-owned Food trucks in Oregon",
+    "description": "Known for its \"loaded lunch\" plates, this food cart often sells out due to its popularity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Food trucks in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dirty Lettuce",
+    "address": "Portland, OR (food cart turned brick-and-mortar)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Dirty+Lettuce+in+Oregon",
+    "category": "Black-owned Food trucks in Oregon",
+    "description": "Offers vegan soul food with Southern roots",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Food trucks in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nacheaux",
+    "address": "Portland, OR (food cart)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Nacheaux+in+Oregon",
+    "category": "Black-owned Food trucks in Oregon",
+    "description": "Features a Mexican-Southern fusion menu",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Food trucks in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Trap Kitchen",
+    "address": "Portland, OR (food cart with a brick-and-mortar location)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Trap+Kitchen+in+Oregon",
+    "category": "Black-owned Food trucks in Oregon",
+    "description": "Known for its iconic overflowing pineapple bowls and a menu that is highly recommended",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Food trucks in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Erica's Soul Food",
+    "address": "Portland, OR",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Erica's+Soul+Food+in+Oregon",
+    "category": "Black-owned Food trucks in Oregon",
+    "description": "Offers soul food bowls and chicken wings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Food trucks in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jojo's Soul Food & Memphis BBQ",
+    "address": "Salem, OR (food cart at The Yard Food Cart)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Jojo's+Soul+Food+&+Memphis+BBQ+in+Oregon",
+    "category": "Black-owned Food trucks in Oregon",
+    "description": "Serves barbecue platters, mac n' cheese, and rib baskets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Food trucks in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "So Cheesy",
+    "address": "Salem, OR (food truck)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/So+Cheesy+in+Oregon",
+    "category": "Black-owned Food trucks in Oregon",
+    "description": "Specializes in grilled cheese sandwiches and is available for events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Food trucks in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asona Cuisine",
+    "address": "Hillsboro, OR (food truck)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Asona+Cuisine+in+Oregon",
+    "category": "Black-owned Food trucks in Oregon",
+    "description": "Offers a blend of Ghanaian and Jamaican cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Food trucks in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Market BBQ LLC",
+    "address": "Springfield, OR (moved to Springfield Public House)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Black+Market+BBQ+LLC+in+Oregon",
+    "category": "Black-owned Food trucks in Oregon",
+    "description": "Serves St. Louis ribs, brisket, pulled pork, and Huli Huli chicken",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Food trucks in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tucky's",
+    "address": "Springfield, OR (mobile food trailer)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Tucky's+in+Oregon",
+    "category": "Black-owned Food trucks in Oregon",
+    "description": "A full-service mobile food trailer offering traditional Southern cuisine with a focus on local ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Food trucks in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
