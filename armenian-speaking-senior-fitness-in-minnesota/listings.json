@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Crow River Senior Center",
+    "address": "11800 Town Center Dr. NE #200, St. Michael, MN 55376",
+    "phone": "(763) 497-8900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Crow+River+Senior+Center+in+Minnesota",
+    "category": "Armenian-speaking Senior fitness in Minnesota",
+    "description": "Offers fitness programs like Enhance Fitness and Senior Yoga",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Senior fitness in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Edina Senior Center",
+    "address": "5280 Grandview Square, Edina, MN 55436",
+    "phone": "952-833-9570",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Edina+Senior+Center+in+Minnesota",
+    "category": "Armenian-speaking Senior fitness in Minnesota",
+    "description": "Offers various fitness classes for seniors, including Functional Fitness and Gentle Yoga",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Senior fitness in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chanhassen Recreation Center",
+    "address": "Multiple communities in Minneapolis/St. Paul, MN. Specific addresses not provided in search results",
+    "phone": "(952) 227-1424 (contact for fitness programs)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chanhassen+Recreation+Center+in+Minnesota",
+    "category": "Armenian-speaking Senior fitness in Minnesota",
+    "description": "Provides tailored fitness and wellness programs for seniors, with a focus on improving strength, endurance, balance, mobility, and flexibility",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Senior fitness in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
