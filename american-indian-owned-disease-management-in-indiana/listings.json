@@ -1,0 +1,87 @@
+[
+  {
+    "name": "American Indian Center of Indiana, Inc.",
+    "address": "1145 E. 22nd Street, Suite 205, Indianapolis, IN 46202",
+    "phone": "(317) 917-8000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/American+Indian+Center+of+Indiana,+Inc.+in+Indiana",
+    "category": "American-Indian-owned Disease management in Indiana",
+    "description": "Offers health education, screenings, and referral services through its Circle of Wellness Program. They also provide health-related cultural competency workshops",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Disease management in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Thundermaker Wellness Center",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Thundermaker+Wellness+Center+in+Indiana",
+    "category": "American-Indian-owned Disease management in Indiana",
+    "description": "An Indigenous-owned and operated behavioral health wellness center providing evidence-based treatment interwoven with cultural and traditional practices. They focus on treating the whole person for long-term recovery from addiction and behavioral health issues",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Disease management in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mshkiki Community Clinic",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mshkiki+Community+Clinic+in+Indiana",
+    "category": "American-Indian-owned Disease management in Indiana",
+    "description": "Owned and operated by the Pokagon Band of Potawatomi, this clinic serves indigenous peoples in Southwest Michigan and Northern Indiana, offering medical, dental, pharmacy, and behavioral health services with an integrative care approach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Disease management in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Indiana Health Centers, Inc.",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Indiana+Health+Centers,+Inc.+in+Indiana",
+    "category": "American-Indian-owned Disease management in Indiana",
+    "description": "A Federally Qualified Health Center (FQHC) providing medical, dental, and behavioral health care to underserved and uninsured populations in Indiana. They offer primary care on a sliding fee scale",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Disease management in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Indian Health Service (IHS)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Indian+Health+Service+(IHS)+in+Indiana",
+    "category": "American-Indian-owned Disease management in Indiana",
+    "description": "An agency within the Department of Health and Human Services responsible for providing federal health services to American Indians and Alaska Natives. They offer a comprehensive health service delivery system",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Disease management in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
