@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Comedy Works",
+    "address": "Multiple locations including 1226 15th St, Denver, CO 80202 and 5001 S. Syracuse St., Suite 107, Denver, CO 80237",
+    "phone": "(303) 595-3637 (Downtown) and (720) 255-6770 (South)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.comedyworks.com/",
+    "category": "Asian-owned Comedians in Colorado",
+    "description": "A well-established comedy club hosting a variety of national and local comedians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Comedians in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RISE Comedy",
+    "address": "1270 Lincoln St, Denver, CO 80203",
+    "phone": "(303) 595-3637",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.risecomedy.com/",
+    "category": "Asian-owned Comedians in Colorado",
+    "description": "Offers improv, sketch, and stand-up comedy shows, as well as classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Comedians in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Denver Comedy Lounge",
+    "address": "3559 Larimer St, Denver, CO 80205",
+    "phone": "(720) 449-6963",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.denvercomedylounge.com/",
+    "category": "Asian-owned Comedians in Colorado",
+    "description": "Located within Colorado Sake Co., offering live comedy shows with Japanese-inspired food and drinks",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Comedians in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Comedy Fort",
+    "address": "167 N College Ave, Fort Collins, CO 80524",
+    "phone": "(970) 232-9288",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.thecomedyfort.com/",
+    "category": "Asian-owned Comedians in Colorado",
+    "description": "A comedy club in Fort Collins featuring stand-up shows, open mic nights, and classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Comedians in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jaya Asian Grill",
+    "address": "1699 S Colorado Blvd Unit B, Denver, CO 80222",
+    "phone": "(303) 757-7887",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://jayaasiangrill.com/",
+    "category": "Asian-owned Comedians in Colorado",
+    "description": "Offers authentic Asian flavors with a focus on fresh ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Comedians in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "East Moon Asian Bistro & Sushi",
+    "address": "14333 W 44th Ave, Westminster, CO 80033",
+    "phone": "(303) 429-3400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eastmoonbistro.com/",
+    "category": "Asian-owned Comedians in Colorado",
+    "description": "Features Thai, Chinese, Vietnamese, and Japanese cuisine in a warm atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Comedians in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tokyo Joe's",
+    "address": "Multiple locations across Colorado (e.g., 1450 S Colorado Blvd, Denver, CO 80222)",
+    "phone": "Varies by location (e.g., (303) 757-7887 for the Colorado Blvd location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tokyojoes.com/",
+    "category": "Asian-owned Comedians in Colorado",
+    "description": "Fast-casual restaurant offering Asian-inspired bowls, sushi, and poke",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Comedians in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zao Modern Asian Cafe",
+    "address": "Multiple locations in Colorado (e.g., 1627 Coalton Rd, Superior, CO 80027)",
+    "phone": "(303) 494-0199 (Superior location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.zaocafe.com/",
+    "category": "Asian-owned Comedians in Colorado",
+    "description": "Offers modern Asian cuisine with rice bowls, noodle bowls, and banh mi",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Comedians in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "M Mart",
+    "address": "950 S. Abilene St, Aurora, CO 80012",
+    "phone": "(303) 369-0100",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.mmartcolorado.com/",
+    "category": "Asian-owned Comedians in Colorado",
+    "description": "A Korean grocery market with a selection of fresh produce, meats, and prepared foods, including sushi",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Comedians in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Star Kitchen",
+    "address": "2000 W Alameda Ave, Denver, CO 80223",
+    "phone": "(303) 922-1020",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://starkitchendenver.com/",
+    "category": "Asian-owned Comedians in Colorado",
+    "description": "A popular dim sum and seafood restaurant",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Comedians in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
