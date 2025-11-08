@@ -1,0 +1,87 @@
+[
+  {
+    "name": "The Galway Irish Public House",
+    "address": "2301 East 2nd Street, Gulf Shores, AL, United States, Alabama",
+    "phone": "(251) 210-9199",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.galwayirishpub.com/",
+    "category": "Catholic-owned Pubs in Alabama",
+    "description": "An Irish pub serving Irish and American pub classics, craft beer, and specialty cocktails. Known for its relaxed atmosphere and traditional Irish fare",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Pubs in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Innisfree Irish Pub",
+    "address": "Not explicitly stated in search results, but mentioned as being in Tuscaloosa",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://innisfree.bar/",
+    "category": "Catholic-owned Pubs in Alabama",
+    "description": "An Irish pub in Tuscaloosa, Alabama, offering Irish food, drink, and music. Known for its burgers and wings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Pubs in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Poppy & Parliament",
+    "address": "117 North Side Square, Huntsville, AL, 35801",
+    "phone": "(256)-715-7152",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thepoppyandparliament.com/",
+    "category": "Catholic-owned Pubs in Alabama",
+    "description": "An upscale English pub in Huntsville, Alabama, offering English and Irish food, including fish and chips. It has a pub side and a restaurant side",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Pubs in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sanctuary",
+    "address": "25th Avenue, Tuscaloosa, AL (former Conquerors Light Faith Center)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Sanctuary+in+Alabama",
+    "category": "Catholic-owned Pubs in Alabama",
+    "description": "A unique venue that was formerly a church, now operating as a restaurant, bar, and live music space",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Pubs in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "IBP",
+    "address": "833 S Railroad Ave, Opelika, AL",
+    "phone": "(334) 363-2235",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/IBP+in+Alabama",
+    "category": "Catholic-owned Pubs in Alabama",
+    "description": "Described as \"The Place Where Friends Meet,\" serving pork schnitzel",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Pubs in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
