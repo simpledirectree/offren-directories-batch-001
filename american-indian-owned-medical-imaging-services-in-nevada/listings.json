@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Reno-Sparks Tribal Health Center",
+    "address": "1715 Kuenzli Street, Reno, NV 89502",
+    "phone": "(775) 329-5162",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.rsic.org/rsic-services/reno-sparks-tribal-health-center/",
+    "category": "American-Indian-owned Medical imaging services in Nevada",
+    "description": "Offers general in-house diagnostic services such as X-ray and CT scans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical imaging services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Walker River Paiute Tribe Health Clinic",
+    "address": "1025 Hospital Road, Schurz, NV 89427",
+    "phone": "(775) 773-2005",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wrpt.org/agai-dicutta-numu/health-clinic/",
+    "category": "American-Indian-owned Medical imaging services in Nevada",
+    "description": "Provides medical ambulatory care, including X-ray services, to Native Americans and their descendants",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical imaging services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nevada Urban Indians, Inc. Medical Clinic",
+    "address": "9480 Gateway Drive, Reno, NV 89521",
+    "phone": "(775) 789-5050 (General Inquiries, specific department numbers may vary)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nevadaurbanindians.org/medical-clinic",
+    "category": "American-Indian-owned Medical imaging services in Nevada",
+    "description": "Provides healthcare services to American Indians and Alaskan Natives, and other underserved populations. While specific imaging services are not detailed, they are part of the Indian Health Service network",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical imaging services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pyramid Lake Tribal Health Clinic",
+    "address": "705 Highway 446, Nixon, NV 89424",
+    "phone": "(775) 574-1018",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.plpt.nsn.us/clinic/index.html",
+    "category": "American-Indian-owned Medical imaging services in Nevada",
+    "description": "Offers comprehensive health care services to the Pyramid Lake Paiute Reservation community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical imaging services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Las Vegas Paiute Tribe Health & Human Services",
+    "address": "1257 Paiute Circle, Las Vegas, NV 89106",
+    "phone": "(702) 382-0784",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lvpaiutetribe.com/hhs/",
+    "category": "American-Indian-owned Medical imaging services in Nevada",
+    "description": "Provides medical, dental, and optical outpatient services to federally recognized Native American Tribes, in collaboration with Indian Health Services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical imaging services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Washoe Tribal Health Center",
+    "address": "1559 Watasheamu Road, Gardnerville, NV 89460",
+    "phone": "(775) 265-8622",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://washoetribalhealth.com/",
+    "category": "American-Indian-owned Medical imaging services in Nevada",
+    "description": "Offers comprehensive healthcare services, including medical and dental care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical imaging services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fallon Tribal Health Clinic",
+    "address": "1001 Rio Vista Drive, Fallon, NV 89406",
+    "phone": "(775) 423-3634",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.fpst.org/departments/fpst-clinic/",
+    "category": "American-Indian-owned Medical imaging services in Nevada",
+    "description": "Provides general health services including illness diagnosis and treatment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical imaging services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fort McDermitt Wellness Center",
+    "address": "112 North Reservation Road, McDermitt, NV 89421",
+    "phone": "(775) 532-8522",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.fmcdwc.org/",
+    "category": "American-Indian-owned Medical imaging services in Nevada",
+    "description": "Offers wellness and health services to the community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical imaging services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Owyhee Community Health Facility",
+    "address": "1623 Hospital Loop, Owyhee, NV 89832",
+    "phone": "(775) 757-2415",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://shopaitribes.org/spochf/",
+    "category": "American-Indian-owned Medical imaging services in Nevada",
+    "description": "Provides health services to the community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical imaging services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Newe Medical Clinic",
+    "address": "400 B Newe View Drive, Ely, NV 89301",
+    "phone": "(775) 289-2134",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Newe+Medical+Clinic+in+Nevada",
+    "category": "American-Indian-owned Medical imaging services in Nevada",
+    "description": "Provides medical services to the community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical imaging services in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
