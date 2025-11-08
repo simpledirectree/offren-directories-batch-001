@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Gloriam Marketing",
+    "address": "Not explicitly listed, but they offer services nationwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://gloriammarketing.com/",
+    "category": "Catholic-owned Email marketing in New-Mexico",
+    "description": "A Catholic marketing agency that helps Catholic organizations reach their target audience through various services, including email marketing. They emphasize starting with prayer and highlighting the \"True, Good, and Beautiful\" of their clients' organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Email marketing in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Seraphym Designs",
+    "address": "223 N. Guadalupe St., Suite 586, Santa Fe, NM 87501",
+    "phone": "+1 4805771817",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.seraphymdesigns.com/",
+    "category": "Catholic-owned Email marketing in New-Mexico",
+    "description": "Offers Catholic marketing services and is associated with the Catholic Marketing Network, which lists email marketing as a service. They also create Catholic-themed rosaries and jewelry",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Email marketing in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
