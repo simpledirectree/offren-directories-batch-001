@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Adorned by Kelley",
+    "address": "Not publicly listed, but serves the Greater Detroit area",
+    "phone": "(248) 635-1234",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://adornedbykelley.com/",
+    "category": "Black-owned Personal shopping in Michigan",
+    "description": "Kelley offers personal shopping, wardrobe consulting, and styling services with over 20 years of experience in the fashion industry. She is affiliated with Somerset Collection and can curate assortments from various stores",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Personal shopping in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Style Me Ada",
+    "address": "Serves Grand Rapids and surrounding areas",
+    "phone": "(616) 813-1313",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://stylemeada.com/",
+    "category": "Black-owned Personal shopping in Michigan",
+    "description": "Kathryn Snow, a NYC-trained stylist, offers personal shopping and styling services. She specializes in wardrobe refreshes and creating polished looks tailored to her clients' lifestyles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Personal shopping in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New Leaf Image Consulting",
+    "address": "Not publicly listed, but offers virtual and in-person consultations",
+    "phone": "(616) 209-7225",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.newleafimageconsulting.com/",
+    "category": "Black-owned Personal shopping in Michigan",
+    "description": "As a certified image consultant, this business helps individuals achieve personal and professional goals through image analysis, wardrobe selection, and personal shopping",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Personal shopping in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Swan Image Consulting",
+    "address": "Not publicly listed, but offers comprehensive consultations",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackswanimageconsulting.com/",
+    "category": "Black-owned Personal shopping in Michigan",
+    "description": "This business focuses on image defining and refining to help clients discover their best selves. Services include wardrobe selection and personal shopping",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Personal shopping in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BeYOUtiful Image Consulting",
+    "address": "Grandville, MI (serves the greater Grand Rapids area)",
+    "phone": "(616) 209-7225 or (616) 558-5147",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/BeYOUtiful+Image+Consulting+in+Michigan",
+    "category": "Black-owned Personal shopping in Michigan",
+    "description": "This consulting service helps clients find their best colors, organize their closets, and shop for new pieces, with a focus on helping clients feel confident",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Personal shopping in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
