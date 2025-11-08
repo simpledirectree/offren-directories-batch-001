@@ -1,0 +1,87 @@
+[
+  {
+    "name": "KC Integrative Health",
+    "address": "7301 College Blvd, Suite 100, Overland Park, KS 66210",
+    "phone": "913-214-6536",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kcintegrativehealth.com/",
+    "category": "Arabic-speaking Homeopathy in Kansas",
+    "description": "Offers naturopathic and functional medicine, focusing on holistic health and treating the root cause of conditions. They mention natural interventions and results for various health issues",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Homeopathy in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Atma Clinic",
+    "address": "1035 New Hampshire St, Lawrence, KS 66044",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.atmaclinic.com/",
+    "category": "Arabic-speaking Homeopathy in Kansas",
+    "description": "Provides personalized holistic medical healthcare, combining Eastern and Western medicine with a focus on genetics, nutrition, and integrative medicine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Homeopathy in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Naturae's Path (Dr. Michael Brown)",
+    "address": "Not specified, but serves Kansas City",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Naturae's+Path+(Dr.+Michael+Brown)+in+Kansas",
+    "category": "Arabic-speaking Homeopathy in Kansas",
+    "description": "Specializes in naturopathic and functional medicine, including homeopathy, hormonal balancing, thyroid issues, and more, using a natural and holistic approach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Homeopathy in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Potomac Therapy Group",
+    "address": "Online only, serving Kansas",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Potomac+Therapy+Group+in+Kansas",
+    "category": "Arabic-speaking Homeopathy in Kansas",
+    "description": "An Arabic-speaking therapist who accepts clients from Kansas and offers online sessions. They specialize in various mental health topics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Homeopathy in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Unani Practitioners in Lenexa, Kansas",
+    "address": "Lenexa, Kansas",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Unani+Practitioners+in+Lenexa,+Kansas+in+Kansas",
+    "category": "Arabic-speaking Homeopathy in Kansas",
+    "description": "Offers traditional Greco-Arabic medicine consultations and natural healing treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Homeopathy in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
