@@ -1,0 +1,53 @@
+[
+  {
+    "name": "King BBQ",
+    "address": "2029 Carver Ave, North Charleston, SC 29405",
+    "phone": "843-952-9993",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eatkingbbq.com/",
+    "category": "Chinese-American-owned BBQ catering in South-Carolina",
+    "description": "Offers Chinatown BBQ with a Southern spin, inspired by traditional Chinese barbecue. They provide catering services for on-site and off-site events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned BBQ catering in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jackrabbit Filly",
+    "address": "1083 East Montague Avenue, North Charleston, SC 29405",
+    "phone": "843-460-0037",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jackrabbitfilly.com/",
+    "category": "Chinese-American-owned BBQ catering in South-Carolina",
+    "description": "A New Chinese American restaurant that is the sister restaurant to King BBQ. They may offer catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned BBQ catering in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lieu's Chinese Bistro",
+    "address": "Information not available",
+    "phone": "(864) 675-9898",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lieuschinesebistro.com/catering/",
+    "category": "Chinese-American-owned BBQ catering in South-Carolina",
+    "description": "Offers Chinese restaurant catering services to the Upstate South Carolina area with 24-hour notice",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned BBQ catering in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
