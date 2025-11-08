@@ -1,0 +1,172 @@
+[
+  {
+    "name": "India Garden Restaurant",
+    "address": "207 N Delaware St, Indianapolis, IN 46204",
+    "phone": "317-634-6060",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.indiagardenindianapolis.com/",
+    "category": "Bengali-speaking Diners in Indiana",
+    "description": "Offers a variety of Indian dishes with a focus on flavorful options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Diners in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Delhi Palace",
+    "address": "4015 Pendleton Pike, Indianapolis, IN 46226",
+    "phone": "(317) 543-4000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://delhipalaceindianapolis.com/",
+    "category": "Bengali-speaking Diners in Indiana",
+    "description": "Known for its delicious Chicken Tikka and Garlic Naan, with a reputation for not disappointing customers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Diners in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chowrastha Indian Eatery",
+    "address": "7420 Michigan Rd, Indianapolis, IN 46268",
+    "phone": "(317) 429-0000",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://chowrasthaindian.com/",
+    "category": "Bengali-speaking Diners in Indiana",
+    "description": "Offers excellent Indian food, including butter chicken and basmati rice, with generous portion sizes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Diners in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Haveli Indian Restaurant",
+    "address": "7940 E US Hwy 36, Avon, IN 46123",
+    "phone": "(317) 271-0000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://haveliindianrestaurant.com/",
+    "category": "Bengali-speaking Diners in Indiana",
+    "description": "Serves fresh and delicious Indian dishes, aiming to provide an amazing dining experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Diners in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bawarchi Indian Cuisine",
+    "address": "7777 Shadeland Ave, Indianapolis, IN 46250",
+    "phone": "(317) 608-0000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://bawarchiindiancuisine.com/",
+    "category": "Bengali-speaking Diners in Indiana",
+    "description": "Offers authentic Indian dishes, including Hyderabadi Dum Biryani, with dine-in, takeout, and delivery options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Diners in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Desi Bazar",
+    "address": "916 E Main St Suite #118, Greenwood, IN 46143",
+    "phone": "(317) 709-7800",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.desibazar.com/",
+    "category": "Bengali-speaking Diners in Indiana",
+    "description": "Recognized for its outstanding food, excellent service, and friendly staff, offering authentic Indian flavors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Diners in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "India Palace Restaurant And Banquet Hall",
+    "address": "4213 Lafayette Rd, Indianapolis, IN 46254",
+    "phone": "(317) 299-0100",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://indiapalaceindianapolis.com/",
+    "category": "Bengali-speaking Diners in Indiana",
+    "description": "Offers a variety of Indian cuisine and banquet facilities for events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Diners in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Royal Indian Restaurant And Banquet Hall",
+    "address": "4530 Southport Crossing Dr, Indianapolis, IN 46237",
+    "phone": "(317) 888-1111",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://royalindianrestaurant.com/",
+    "category": "Bengali-speaking Diners in Indiana",
+    "description": "Provides Indian cuisine and banquet services, known for its authentic flavors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Diners in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Amber Indian Restaurant (82nd St)",
+    "address": "5929 E 82nd St, Indianapolis, IN 46250",
+    "phone": "(317) 570-0000",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://amberindianrestaurant.com/",
+    "category": "Bengali-speaking Diners in Indiana",
+    "description": "Offers a wide range of Indian dishes in a welcoming atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Diners in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Amber Indian Restaurant (Carmel)",
+    "address": "12510 N Meridian St, Carmel, IN 46032",
+    "phone": "(317) 575-0000",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://amberindianrestaurant.com/",
+    "category": "Bengali-speaking Diners in Indiana",
+    "description": "A sister location to the 82nd St. restaurant, offering similar authentic Indian cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Diners in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
