@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Cayuse Native Solutions",
+    "address": "1001 SE 2nd St, Pendleton, OR 97801",
+    "phone": "(541) 278-0100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cayusenativesolutions.com/",
+    "category": "American-Indian-owned C#/.NET development in Oregon",
+    "description": "Cayuse Native Solutions is a tribally owned company that offers a range of IT services, including website development, custom web and mobile apps, IT support, and cybersecurity. They specialize in providing solutions for Native American Tribes, tribal entities, and organizations serving Indigenous communities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned C#/.NET development in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
