@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Li Wah",
+    "address": "2999 Payne Ave #102, Cleveland, OH 44114",
+    "phone": "(216) 400-6936",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "http://www.liwahrestaurant.com",
+    "category": "Chinese-speaking Specialty restaurants in Ohio",
+    "description": "A Cleveland institution known for its classic dim sum, Li Wah has been serving traditional dishes for years and continues to draw crowds",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty restaurants in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "LJ Shanghai",
+    "address": "3142 Superior Ave, Cleveland, OH 44114",
+    "phone": "(216) 400-6936",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/LJ+Shanghai+in+Ohio",
+    "category": "Chinese-speaking Specialty restaurants in Ohio",
+    "description": "Celebrated as the best Chinese restaurant in Ohio, LJ Shanghai is renowned for its melt-in-your-mouth soup dumplings and attentive service, offering Shanghai-inspired dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty restaurants in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sichuan Gourmet",
+    "address": "1735 East 36th Street, Cleveland, OH 44114",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Sichuan+Gourmet+in+Ohio",
+    "category": "Chinese-speaking Specialty restaurants in Ohio",
+    "description": "This restaurant is known for its tongue-tingling Sichuan peppercorn dishes that perfectly balance spice and flavor, offering classics like spicy fish fillet and Kung Pao chicken",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty restaurants in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wanton Gourmet & Barbecue",
+    "address": "3211 Payne Avenue, Cleveland, OH 44114",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Wanton+Gourmet+&+Barbecue+in+Ohio",
+    "category": "Chinese-speaking Specialty restaurants in Ohio",
+    "description": "This spot is praised for its authentic Hong Kong-style eats, including legendary roast duck, barbecue pork, and shrimp wonton soup",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty restaurants in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "China Bell Restaurant",
+    "address": "1947 Stringtown Rd, Grove City, OH 43123",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/China+Bell+Restaurant+in+Ohio",
+    "category": "Chinese-speaking Specialty restaurants in Ohio",
+    "description": "A highly-rated Chinese restaurant in Ohio, known for its flavorful dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty restaurants in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "QQ Kitchen",
+    "address": "3324 Secor Rd #4, Toledo, OH 43606",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/QQ+Kitchen+in+Ohio",
+    "category": "Chinese-speaking Specialty restaurants in Ohio",
+    "description": "This restaurant is listed among the top Chinese restaurants in Ohio, noted for its quality cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty restaurants in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CJ Chan",
+    "address": "536 Wilmington Ave, Dayton, OH 45420",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/CJ+Chan+in+Ohio",
+    "category": "Chinese-speaking Specialty restaurants in Ohio",
+    "description": "CJ Chan is recognized as one of the top Chinese restaurants in Ohio, offering a diverse menu",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty restaurants in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "King Wah",
+    "address": "20668 Center Ridge Rd, Rocky River, OH 44116",
+    "phone": "(440) 331-0330",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kingwahrestaurant.biz",
+    "category": "Chinese-speaking Specialty restaurants in Ohio",
+    "description": "King Wah is a popular spot in Rocky River known for its welcoming atmosphere and classic Chinese dishes, receiving accolades such as the Silver Spoon Awards in 2021, 2022, and 2023",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty restaurants in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "China Dynasty Asian Bistro",
+    "address": "Dayton, Ohio (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/China+Dynasty+Asian+Bistro+in+Ohio",
+    "category": "Chinese-speaking Specialty restaurants in Ohio",
+    "description": "This restaurant is considered Dayton's best Chinese restaurant, specializing in Szechuan, Hunan, and Mandarin cuisine, as well as Thai food",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty restaurants in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Coco Cuisine",
+    "address": "751 Bethel Rd, Columbus, OH 43214",
+    "phone": "(614) 502-0036",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cococuisinecolumbus.com/",
+    "category": "Chinese-speaking Specialty restaurants in Ohio",
+    "description": "Awarded \"Best Hot Pot Restaurant in Columbus, OH by GURU\" in 2025, Coco Cuisine offers a fusion of Cantonese and Szechuan flavors, including Szechuan Hotpot and Dim Sum",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Specialty restaurants in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
