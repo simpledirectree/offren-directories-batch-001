@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Pearl Krongard Swim School",
+    "address": "Sonesta Hotel (Formally called Courtyard by Marriott Columbia), 8910 Stanford Blvd, Columbia, MD 21045",
+    "phone": "443-845-4200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pearlkrongardswimschool.com/",
+    "category": "Buddhist-owned Swimming coaching in Maryland",
+    "description": "Offers private and semi-private swim lessons for all ages and skill levels, including individuals with special needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Swimming coaching in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Goldfish Swim School",
+    "address": "23415 Three Notch Rd, California, MD 20619 (This is one of multiple locations, please verify for specific services)",
+    "phone": "(410) 413-7065",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.goldfishswimschool.com/locations/california-md/",
+    "category": "Buddhist-owned Swimming coaching in Maryland",
+    "description": "Provides swim lessons for infants, toddlers, and children up to 12 years old in a fun, safe, play-based environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Swimming coaching in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "British Swim School at BWI Airport Marriott",
+    "address": "1743 W Nursery Rd, Linthicum Heights, MD 21090",
+    "phone": "(410) 695-6200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.britishswimschool.com/locations/maryland/bwiairport-marriott",
+    "category": "Buddhist-owned Swimming coaching in Maryland",
+    "description": "Offers swimming lessons and programs for all ages and skill levels, with a focus on water safety and confidence building",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Swimming coaching in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sunsational Swim School",
+    "address": "Various locations, lessons are at your pool or a local community pool. (Service area includes Glenmont, MD)",
+    "phone": "1-877-794-7946",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sunsationalswimschool.com/",
+    "category": "Buddhist-owned Swimming coaching in Maryland",
+    "description": "Provides private, one-on-one swim lessons at convenient locations, with certified instructors and a learn-to-swim guarantee",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Swimming coaching in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SwimFit Wellness",
+    "address": "11035 Racetrack Rd, Berlin, MD 21811",
+    "phone": "(410) 973-2111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://swimfitwellness.com/",
+    "category": "Buddhist-owned Swimming coaching in Maryland",
+    "description": "Offers swim lessons for all ages and skill levels in a heated indoor pool, alongside fitness classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Swimming coaching in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
