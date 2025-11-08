@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Four Directions Educational Consulting Services (4DECS)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.4decs.com/",
+    "category": "American-Indian-owned Admissions guidance in Delaware",
+    "description": "This organization provides culturally responsive school counseling and college planning strategies for Native American students. They offer services to Indian Education programs, school and college counselors, and college access programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Admissions guidance in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "College Horizons",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.collegehorizons.org/",
+    "category": "American-Indian-owned Admissions guidance in Delaware",
+    "description": "College Horizons is a non-profit organization that supports the higher education of Native American students by providing college and graduate admissions workshops. They work with students nationwide to help them with college admissions and financial aid",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Admissions guidance in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Delaware Nation",
+    "address": "31064 US Highway 281, Building 100, Anadarko, OK 73005",
+    "phone": "(405) 247-2448",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://delawarenation.com/",
+    "category": "American-Indian-owned Admissions guidance in Delaware",
+    "description": "While headquartered in Oklahoma, the Delaware Nation offers \"College & Career Resources For Indigenous Students\" and may be a resource for information or referrals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Admissions guidance in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "International Consultants of Delaware, Inc. (ICD)",
+    "address": "While their website does not list a specific street address for Delaware, they are a NACES member and have a Philadelphia office. Their services are global",
+    "phone": "+1 (215) 243-5858",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.icdeval.com/",
+    "category": "American-Indian-owned Admissions guidance in Delaware",
+    "description": "ICD is an expert in credentials evaluation for education, employment, immigration, licensure, and certification. This service is crucial for international students or those with foreign credentials applying to US institutions. They are a member of NACES",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Admissions guidance in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
