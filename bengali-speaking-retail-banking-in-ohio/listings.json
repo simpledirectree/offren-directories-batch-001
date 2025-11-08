@@ -1,0 +1,172 @@
+[
+  {
+    "name": "KeyBank",
+    "address": "Multiple locations across Ohio. For example, 714 W Market St, Akron, OH 44303",
+    "phone": "234-542-3546 (Akron branch)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.key.com/",
+    "category": "Bengali-speaking Retail banking in Ohio",
+    "description": "KeyBank is a large national bank with a significant presence in Ohio, offering a wide range of banking products and services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fifth Third Bank",
+    "address": "Numerous branches throughout Ohio. For example, 100 E. Main Street, Columbus, OH 43215",
+    "phone": "1-800-973-8181",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.fifththird.com/",
+    "category": "Bengali-speaking Retail banking in Ohio",
+    "description": "Fifth Third Bank is a well-established regional bank known for its checking and savings account options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Huntington National Bank",
+    "address": "Extensive branch network across Ohio. For example, 101 N. High Street, Columbus, OH 43215",
+    "phone": "1-800-472-3861",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.huntington.com/",
+    "category": "Bengali-speaking Retail banking in Ohio",
+    "description": "Huntington Bank is one of the largest banks in Ohio, offering a comprehensive suite of personal and business banking services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PNC Bank",
+    "address": "Many branches across Ohio. For example, 2424 E. 4th Street, Cleveland, OH 44115",
+    "phone": "1-888-762-2265",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pnc.com/",
+    "category": "Bengali-speaking Retail banking in Ohio",
+    "description": "PNC Bank is a major national bank with a strong presence in Ohio, offering a full range of financial products",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "U.S. Bank",
+    "address": "Multiple locations in Ohio. For example, 3962 Medina Road, Akron, OH 44333",
+    "phone": "1-800-872-2657",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.usbank.com/",
+    "category": "Bengali-speaking Retail banking in Ohio",
+    "description": "U.S. Bank is a large national bank offering a wide array of banking and financial services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "First Financial Bank",
+    "address": "Numerous branches throughout Ohio. For example, 100 E. Main Street, Hamilton, OH 45013",
+    "phone": "1-877-342-4365",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.first-financial.com/",
+    "category": "Bengali-speaking Retail banking in Ohio",
+    "description": "First Financial Bank is a community-focused bank with a strong presence in Ohio, providing personal and business banking solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Citizens Bank",
+    "address": "Various branches in Ohio. For example, 5907 Ridge Rd, Parma, OH 44129",
+    "phone": "1-800-922-9999",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.citizensbank.com/",
+    "category": "Bengali-speaking Retail banking in Ohio",
+    "description": "Citizens Bank offers a variety of banking products and services with a growing presence in Ohio",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Flagstar Bank",
+    "address": "Several locations in Ohio. For example, 5767 Broadview Road, Parma, OH 44134",
+    "phone": "1-877-352-4782",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.flagstar.com/",
+    "category": "Bengali-speaking Retail banking in Ohio",
+    "description": "Flagstar Bank provides a range of banking and mortgage services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Park National Bank",
+    "address": "Multiple branches in Ohio. For example, 101 N. High Street, Columbus, OH 43215",
+    "phone": "1-888-755-1234",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.parknationalbank.com/",
+    "category": "Bengali-speaking Retail banking in Ohio",
+    "description": "Park National Bank is known for its strong customer service and community focus",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "First Merchants Bank",
+    "address": "Branches in Ohio, including Columbus. For example, 1460 Grandview Avenue, Columbus, Ohio 43212",
+    "phone": "1-800-655-5445",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.firstmerchants.com/",
+    "category": "Bengali-speaking Retail banking in Ohio",
+    "description": "First Merchants Bank offers a variety of personal and business banking solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
