@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Dan's Fan City",
+    "address": "1059 Rockville Pike, Rockville, MD 20852",
+    "phone": "(301) 424-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://dansfancity.com/",
+    "category": "Central-American-owned Ceiling fans in Maryland",
+    "description": "A store specializing in ceiling fans, offering a variety of styles, including those with lights, and a custom fan builder",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Ceiling fans in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ferguson HVAC Supply Store",
+    "address": "9611 Pulaski Park Drive Suite 315, Baltimore, MD 21220-1435",
+    "phone": "(410) 687-7980",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ferguson.com/locations/baltimore-md-hvac",
+    "category": "Central-American-owned Ceiling fans in Maryland",
+    "description": "A leading distributor of residential and commercial heating and cooling supplies, including HVAC equipment and related products",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Ceiling fans in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lowe's of Gaithersburg",
+    "address": "16510 Southlawn Drive, Gaithersburg, MD 20877",
+    "phone": "(301) 590-2500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lowes.com/store/md-gaithersburg/0223",
+    "category": "Central-American-owned Ceiling fans in Maryland",
+    "description": "A home improvement store offering a wide range of products, including lighting and ceiling fans, tools, and supplies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Ceiling fans in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Home Depot (Owings Mills)",
+    "address": "9818 Reisterstown Rd, Owings Mills, MD 21117",
+    "phone": "(410) 356-1037",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.homedepot.com/store/retail-store-catalog/MD/Owings-Mills/2117",
+    "category": "Central-American-owned Ceiling fans in Maryland",
+    "description": "A home improvement retailer offering a wide selection of tools, construction products, home decor, and appliances, including ceiling fans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Ceiling fans in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lowe's of White Marsh",
+    "address": "5300 Campbell Blvd, Baltimore, MD 21236",
+    "phone": "(410) 933-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lowes.com/store/md-white-marsh/2409",
+    "category": "Central-American-owned Ceiling fans in Maryland",
+    "description": "A home improvement store offering a variety of home items and services, including lighting and ceiling fans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Ceiling fans in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lowe's of Catonsville",
+    "address": "5900 Baltimore National Pike, Baltimore, MD 21228",
+    "phone": "(410) 747-0100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lowes.com/store/md-catonsville/0219",
+    "category": "Central-American-owned Ceiling fans in Maryland",
+    "description": "Offers HVAC supplies and a range of heating, ventilation, and air conditioning systems",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Ceiling fans in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Visual Comfort Baltimore Showroom",
+    "address": "1300 Russell Street, Baltimore, MD 21230",
+    "phone": "(410) 752-4400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.visualcomfort.com/locations/baltimore",
+    "category": "Central-American-owned Ceiling fans in Maryland",
+    "description": "A designer lighting showroom that also features a collection of ceiling fans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Ceiling fans in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ceiling Fans & Exhaust Fans & Supplies (Bel Air)",
+    "address": "2105 N Fountain Green Rd, Bel Air, MD 21015",
+    "phone": "(410) 879-7777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.belairfans.com/",
+    "category": "Central-American-owned Ceiling fans in Maryland",
+    "description": "Offers a large selection of ceiling and exhaust fans for various rooms and outdoor spaces",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Ceiling fans in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kendall Hardware",
+    "address": "12260 Clarksville Pike, Clarksville, MD 21029",
+    "phone": "(410) 531-2111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Kendall+Hardware+in+Maryland",
+    "category": "Central-American-owned Ceiling fans in Maryland",
+    "description": "A hardware store that may carry a selection of ceiling fans and related supplies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Ceiling fans in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "R.E. Michel Company (Baltimore)",
+    "address": "1030 Greenmount Avenue, Baltimore, MD 21202-4220",
+    "phone": "(410) 685-8371",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.remichel.com/locations/baltimore-md/",
+    "category": "Central-American-owned Ceiling fans in Maryland",
+    "description": "An HVAC wholesale distributor that carries a range of HVAC equipment and supplies, which may include ceiling fans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Ceiling fans in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
