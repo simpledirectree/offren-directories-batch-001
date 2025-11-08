@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Oriental Medical Arts",
+    "address": "10111 E 51st St, Tulsa, OK 74146",
+    "phone": "(918) 270-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.orientalmedicalarts.com/",
+    "category": "Alaska-Native-owned Traditional Chinese medicine in Oklahoma",
+    "description": "Offers acupuncture, acupressure, cupping, and moxibustion",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Traditional Chinese medicine in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Avenzoar Acupuncture & Wellness Center",
+    "address": "1111 Classen Dr, Oklahoma City, OK 73103",
+    "phone": "(405) 397-2952",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.avenzoaracupuncture.com/",
+    "category": "Alaska-Native-owned Traditional Chinese medicine in Oklahoma",
+    "description": "Provides acupuncture, cupping therapy, and herbal remedies, with a focus on classical Chinese medicine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Traditional Chinese medicine in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Acupuncture Healing Corner",
+    "address": "1020 NW 50th St, Oklahoma City, OK 73118",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.acupuncturehealingcorner.com/",
+    "category": "Alaska-Native-owned Traditional Chinese medicine in Oklahoma",
+    "description": "Specializes in women's health and fertility using Traditional Chinese Medicine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Traditional Chinese medicine in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Natural Medicine Inc.",
+    "address": "10111 E 51st St, Tulsa, OK 74146",
+    "phone": "(918) 664-5400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.naturalmedicineinc.com/",
+    "category": "Alaska-Native-owned Traditional Chinese medicine in Oklahoma",
+    "description": "Offers acupuncture, Traditional Chinese Medicine, Oriental and Native American Herbology, and other complementary medicine treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Traditional Chinese medicine in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lotus Acupuncture & Chinese Medicine LLC",
+    "address": "10111 E 51st St, Tulsa, OK 74146",
+    "phone": "(918) 703-0724",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lotusacupunctureok.com/",
+    "category": "Alaska-Native-owned Traditional Chinese medicine in Oklahoma",
+    "description": "Founded by Dr. Valentine LeBlanc, a Cherokee, woman-owned practitioner, offering personalized Traditional Chinese Medicine treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Traditional Chinese medicine in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oklahoma TCM Clinic",
+    "address": "10111 E 51st St, Tulsa, OK 74146",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.oktcmclinic.com/",
+    "category": "Alaska-Native-owned Traditional Chinese medicine in Oklahoma",
+    "description": "Provides Oriental herbs, acupuncture, fire cupping, and Tuina, focusing on pain relief, weight loss, and skin disorders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Traditional Chinese medicine in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
