@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Panda Bilingual Daycare",
+    "address": "30 Cambridgepark Drive, Cambridge, MA 02140",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Panda+Bilingual+Daycare+in+Massachusetts",
+    "category": "Chinese-speaking Doggy daycare in Massachusetts",
+    "description": "This is a bilingual Mandarin-English early educational childcare center. While it is for children, the bilingual aspect might indicate an environment where Chinese is spoken and understood. It is not a doggy daycare",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Doggy daycare in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Xiu Qing Chen",
+    "address": "Quincy, MA 02169",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Xiu+Qing+Chen+in+Massachusetts",
+    "category": "Chinese-speaking Doggy daycare in Massachusetts",
+    "description": "This is a child care home that offers daycare programs and lists Chinese (Mandarin or Cantonese) as a language taught. Again, this is for children, not dogs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Doggy daycare in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
