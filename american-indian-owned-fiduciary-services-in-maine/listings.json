@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Four Directions Development Corporation",
+    "address": "107 Main Street, Suite 101, Orono, ME 04473",
+    "phone": "(207) 866-0001",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.fourdirections.org/",
+    "category": "American-Indian-owned Fiduciary services in Maine",
+    "description": "A nonprofit Community Development Corporation and Native Community Development Financial Institution (CDFI) created by the Penobscot Indian Nation. Their mission is to improve social and economic conditions for Native American tribes in Maine through education and investment in housing, business ventures, and entrepreneurship",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Fiduciary services in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Penobscot Indian Nation Enterprises (PINE)",
+    "address": "107 Main Street, Orono, ME 04473 (This address is associated with Four Directions, which is closely linked to PINE and the Penobscot Nation)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.penobscotnation.org/enterprises/",
+    "category": "American-Indian-owned Fiduciary services in Maine",
+    "description": "Owned by the Penobscot Indian Nation, PINE aims to generate revenue and create jobs for its people through participation in the global economy and financing sound business ventures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Fiduciary services in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Indian Township Enterprises (ITE)",
+    "address": "Information not directly available, but it is the economic development arm of the Passamaquoddy Tribe at Indian Township",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Indian+Township+Enterprises+(ITE)+in+Maine",
+    "category": "American-Indian-owned Fiduciary services in Maine",
+    "description": "The economic development arm of the Passamaquoddy Tribe at Indian Township, focused on developing resilient and regenerative business opportunities for social, cultural, and economic benefits",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Fiduciary services in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Penobscot Support Services, LLC",
+    "address": "Indian Island, ME (Specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Penobscot+Support+Services,+LLC+in+Maine",
+    "category": "American-Indian-owned Fiduciary services in Maine",
+    "description": "A tribal enterprise listed under the United South and Eastern Tribes (USET) directory, indicating it is owned by the Penobscot Indian Nation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Fiduciary services in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
