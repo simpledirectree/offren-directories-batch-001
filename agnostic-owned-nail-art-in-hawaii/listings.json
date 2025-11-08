@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Salon Cherie",
+    "address": "1221 Kapiolani Blvd, Honolulu, HI 96814",
+    "phone": "(808) 941-4444",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.saloncheriehi.com/",
+    "category": "Agnostic-owned Nail art in Hawaii",
+    "description": "Specializes in Japanese gel nail art and offers a wide variety of exclusive nail accessories",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Nail art in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NAILERY HAWAII",
+    "address": "333 Keahole Street Unit 2E4, Honolulu, HI 96825",
+    "phone": "(808) 394-0603",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://naileryhawaii.com/",
+    "category": "Agnostic-owned Nail art in Hawaii",
+    "description": "Offers exquisite nail care and customized nail art by award-winning artist Dexter Do and his team",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Nail art in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lux Nails Salon",
+    "address": "438 Hobron Ln, Honolulu, HI 96815",
+    "phone": "(808) 941-4444",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://luxnailshonolulu.com/",
+    "category": "Agnostic-owned Nail art in Hawaii",
+    "description": "A top-notch nail salon in Honolulu offering a luxurious and modern space for various nail art services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Nail art in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lily's Nail Spa & Hair Salon",
+    "address": "1446 Kona St, Honolulu, HI 96814",
+    "phone": "(808) 942-1668",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://lilysnailspahawaii.com/",
+    "category": "Agnostic-owned Nail art in Hawaii",
+    "description": "Offers a variety of skincare, beauty, and rejuvenation services, including manicures and pedicures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Nail art in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Serene Nails",
+    "address": "1130 Auahi St, Honolulu, HI 96814",
+    "phone": "(808) 591-1111",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://serenenailshawaii.com/",
+    "category": "Agnostic-owned Nail art in Hawaii",
+    "description": "Provides a luxurious, clean, and tranquil environment with a comprehensive range of professional beauty services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Nail art in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kalona Salon & Spa",
+    "address": "78-7039 Alii Dr, Kailua-Kona, HI 96740",
+    "phone": "(808) 322-2500",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.kalonasalon.com/",
+    "category": "Agnostic-owned Nail art in Hawaii",
+    "description": "Offers a range of beauty and well-being services, including unique manicures and pedicures on the Big Island",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Nail art in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blissful Nails & Spa",
+    "address": "3605 Waialae Ave, Honolulu, HI 96816",
+    "phone": "(808) 737-0007",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://blissfulnailsandspa.com/",
+    "category": "Agnostic-owned Nail art in Hawaii",
+    "description": "A full-service beauty parlor offering nail services, waxing, facials, and lash extensions in a relaxing atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Nail art in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mai's Nail Salon",
+    "address": "1123 Makawao Ave, Makawao, HI 96768",
+    "phone": "(808) 793-3421",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.maisnailsalonmaui.com/",
+    "category": "Agnostic-owned Nail art in Hawaii",
+    "description": "Located in upcountry Maui, offering manicures, pedicures, acrylics, and gel nails in a relaxed, aloha-filled atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Nail art in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Happy Nails Kihei",
+    "address": "1215 S Kihei Rd, Kihei, HI 96753",
+    "phone": "(808) 875-0809",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://happynailskihei.com/",
+    "category": "Agnostic-owned Nail art in Hawaii",
+    "description": "A full-service nail salon in Kihei, Maui, providing a comfortable environment with no hidden charges",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Nail art in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "No Ka Oi Nails and Spa",
+    "address": "1881 S Kihei Rd, Kihei, HI 96753",
+    "phone": "(808) 879-0288",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://nokaoi-nails.com/",
+    "category": "Agnostic-owned Nail art in Hawaii",
+    "description": "Offers top-of-the-line manicures and pedicures on Maui with a commitment to safe and clean regulations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Nail art in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
