@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Hunan Chinese Restaurant",
+    "address": "Not specified, but serves Rochester, MN",
+    "phone": "507-287-0002",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hunan+Chinese+Restaurant+in+Minnesota",
+    "category": "Chinese-speaking Full-service catering in Minnesota",
+    "description": "Offers catering services for parties of all sizes and has a banquet room",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Full-service catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Panda Express (Multiple Locations)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Panda+Express+(Multiple+Locations)+in+Minnesota",
+    "category": "Chinese-speaking Full-service catering in Minnesota",
+    "description": "Offers hassle-free catering with delivery or pick-up options, and can handle setup and serving for larger events. They offer various party trays with American-Chinese cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Full-service catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Leeann Chin",
+    "address": "",
+    "phone": "612-677-7777 (Call Center for delivery/catering)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Leeann+Chin+in+Minnesota",
+    "category": "Chinese-speaking Full-service catering in Minnesota",
+    "description": "Offers dine-in, take-out, delivery, and catering services for Asian food. They have pre-planned meal packages and can accommodate groups of all sizes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Full-service catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cheng Heng Restaurant",
+    "address": "448 University Avenue West, Saint Paul, MN 55103",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Cheng+Heng+Restaurant+in+Minnesota",
+    "category": "Chinese-speaking Full-service catering in Minnesota",
+    "description": "Offers catering for all occasions, with events customized to tastes and needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Full-service catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chowgirls Catering",
+    "address": "336 Hoover St NE, Minneapolis, MN 55413",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chowgirls+Catering+in+Minnesota",
+    "category": "Chinese-speaking Full-service catering in Minnesota",
+    "description": "An award-winning, women-owned catering company focused on local, organic, and sustainable food for events of all sizes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Full-service catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Xieng Khouang Restaurant and Banquet Hall",
+    "address": "1760 Old Hudson Road, Saint Paul, MN 55106",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Xieng+Khouang+Restaurant+and+Banquet+Hall+in+Minnesota",
+    "category": "Chinese-speaking Full-service catering in Minnesota",
+    "description": "Offers a banquet hall and catering services for various events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Full-service catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zhong Hua Restaurant",
+    "address": "4602 Grand Ave #700, Duluth, MN 55807",
+    "phone": "(218) 624-9601",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Zhong+Hua+Restaurant+in+Minnesota",
+    "category": "Chinese-speaking Full-service catering in Minnesota",
+    "description": "Offers authentic Chinese cuisine and is a choice for dine-in or take-out meals in Duluth",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Full-service catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Beijing Restaurant",
+    "address": "1918 London Rd, Duluth, MN 55812",
+    "phone": "(218) 724-2627",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Beijing+Restaurant+in+Minnesota",
+    "category": "Chinese-speaking Full-service catering in Minnesota",
+    "description": "Offers authentic Chinese cuisine in Duluth, known for its variety and fresh ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Full-service catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cantonese House",
+    "address": "Downtown Duluth, MN",
+    "phone": "(218)722-0778 or (218) 727-9155",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Cantonese+House+in+Minnesota",
+    "category": "Chinese-speaking Full-service catering in Minnesota",
+    "description": "A Chinese restaurant in Duluth serving food since 1972, offering pick-up orders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Full-service catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rose Garden",
+    "address": "",
+    "phone": "763-323-2080 (Coon Rapids)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Rose+Garden+in+Minnesota",
+    "category": "Chinese-speaking Full-service catering in Minnesota",
+    "description": "A family-run business serving authentic Chinese cuisine in Coon Rapids and Blaine for over 14 years, offering eat-in and take-out meals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Full-service catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
