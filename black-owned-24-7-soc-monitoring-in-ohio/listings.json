@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Secure & Protect",
+    "address": "P.O. Box 1175 #18559, Cincinnati OH 45201",
+    "phone": "513-623-0679",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Secure+&+Protect+in+Ohio",
+    "category": "Black-owned 24/7 SOC monitoring in Ohio",
+    "description": "This is the largest Black-owned ADT Authorized Dealer in the Midwest, specializing in home security and automation with 24/7 monitoring from ADT",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned 24/7 SOC monitoring in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
