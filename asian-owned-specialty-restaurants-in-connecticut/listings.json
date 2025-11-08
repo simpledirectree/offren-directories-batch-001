@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Pho Saigon",
+    "address": "989 New Britain Ave, West Hartford, CT 06110",
+    "phone": "+1 (860) 953-1122",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.phosaigonct.net/",
+    "category": "Asian-owned Specialty restaurants in Connecticut",
+    "description": "A Vietnamese restaurant offering authentic dishes, fresh ingredients, and a welcoming atmosphere. They specialize in pho and other traditional Vietnamese cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sichuan Alley Bistro",
+    "address": "625 New Park Ave, Suite G, West Hartford, CT 06110",
+    "phone": "(860) 206-0077",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.sichuanalley.com/",
+    "category": "Asian-owned Specialty restaurants in Connecticut",
+    "description": "This restaurant offers modernized Chinese cuisine with a focus on vibrant Sichuan flavors, including dishes like Kung Pao chicken and Mapo Tofu",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Housaku Asian Fusion",
+    "address": "317 Federal Rd D2, Brookfield, CT 06804",
+    "phone": "(203) 775-5558",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://housakuasianfusion.com/",
+    "category": "Asian-owned Specialty restaurants in Connecticut",
+    "description": "An Asian fusion restaurant that blends Japanese, Thai, and Chinese cuisines, offering a wide variety of dishes from sushi to stir-fries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yoko Kitchen",
+    "address": "157 Main St, New Britain, CT 06051",
+    "phone": "(860) 832-8000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.yokokitchen.com/",
+    "category": "Asian-owned Specialty restaurants in Connecticut",
+    "description": "Voted a top Chinese restaurant in Connecticut, Yoko Kitchen offers a wide menu of classic and innovative Chinese dishes, available for dine-in, takeout, and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pho Vietnam",
+    "address": "56 Padanaram Road, Danbury, CT 06811",
+    "phone": "(203) 794-1188",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.phovietnamct.com/",
+    "category": "Asian-owned Specialty restaurants in Connecticut",
+    "description": "A family-owned Vietnamese restaurant known for its authentic dishes, fresh produce, and choice meats and seafood",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "FIN Japanese Restaurant",
+    "address": "100 Post Rd, Fairfield, CT 06824",
+    "phone": "(203) 255-0111",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.finjapanese.com/",
+    "category": "Asian-owned Specialty restaurants in Connecticut",
+    "description": "Offers authentic and delicious Japanese cuisine, including a variety of high-quality fresh sushi, in Fairfield, CT",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New Haven Taste of China",
+    "address": "167 Orange St, New Haven, CT 06510",
+    "phone": "(203) 745-5872",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.newhaventasteofchina.com/",
+    "category": "Asian-owned Specialty restaurants in Connecticut",
+    "description": "This restaurant serves authentic Sichuan flavors with a diverse menu of traditional Chinese dishes in a cozy atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chef Jiang",
+    "address": "1600 SE Rd Suite 6, Farmington, CT 06032",
+    "phone": "(860) 352-5353",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.chefjiang.com/",
+    "category": "Asian-owned Specialty restaurants in Connecticut",
+    "description": "Known for delicious, innovative Chinese cuisine made with carefully selected ingredients, offering a friendly atmosphere and excellent service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sakura of Westport",
+    "address": "680 Post Road E., Westport, CT 06880",
+    "phone": "(203) 222-0802",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.sakurarestaurant.com/",
+    "category": "Asian-owned Specialty restaurants in Connecticut",
+    "description": "A Japanese restaurant offering hibachi, sushi, and other Japanese dishes in a pleasant environment with excellent service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mai Thai Restaurant",
+    "address": "1050 Post Rd, Fairfield, CT 06824",
+    "phone": "(203) 259-0777",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.maethai-ct.com/",
+    "category": "Asian-owned Specialty restaurants in Connecticut",
+    "description": "Voted the best Thai restaurant in Connecticut, Mai Thai offers authentic dishes like pad thai and curry, known for fresh ingredients and flavorful recipes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty restaurants in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
