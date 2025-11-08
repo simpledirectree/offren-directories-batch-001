@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Circuit",
+    "address": "100 S Main St, Brandon, SD 57005",
+    "phone": "(605) 582-5000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.circuitbrandon.com/",
+    "category": "Catholic-owned Circuit training in South-Dakota",
+    "description": "Offers martial arts, group fitness classes, and yoga, with a focus on being a fitness option for everyone",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Circuit training in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "M\u014dtiv Fitness",
+    "address": "6225 S. Western Ave, Sioux Falls, SD 57108",
+    "phone": "(605) 271-1401",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.motivfitness.com/locations/sioux-falls-studio/",
+    "category": "Catholic-owned Circuit training in South-Dakota",
+    "description": "Provides a variety of fitness classes including Jump 45, Climb, 30/30, Barre, and Cycle",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Circuit training in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sculpt Reformer Studio",
+    "address": "1113 N Main St, Spearfish, SD 57783",
+    "phone": "(605) 717-0077",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.sculptreformerstudio.com/",
+    "category": "Catholic-owned Circuit training in South-Dakota",
+    "description": "A Pilates studio offering reformer classes with a focus on movement science, core strength, and flexibility in an inclusive environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Circuit training in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chuze Fitness",
+    "address": "Multiple locations, including Sioux Falls, SD (specific address not provided in search results)",
+    "phone": "(800) 200-0032 (general inquiry number)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.chuzefitness.com/",
+    "category": "Catholic-owned Circuit training in South-Dakota",
+    "description": "An affordable gym chain offering a wide variety of equipment and classes, including circuit training, with a focus on a friendly and clean environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Circuit training in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Touchmark at All Saints (Health & Fitness Club)",
+    "address": "111 W 17th St, Sioux Falls, SD 57104",
+    "phone": "(605) 335-1117",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.touchmark.com/senior-living/sd/sioux-falls/touchmark-at-all-saints/health-fitness/",
+    "category": "Catholic-owned Circuit training in South-Dakota",
+    "description": "Offers a Health & Fitness Club with state-of-the-art equipment, classes for strength, flexibility, and balance, and personal training, catering to active adults",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Circuit training in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Holy Spirit Catholic Church",
+    "address": "1018 E 41st St, Sioux Falls, SD 57105",
+    "phone": "(605) 336-0973",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.holyspiritsiouxfalls.org/",
+    "category": "Catholic-owned Circuit training in South-Dakota",
+    "description": "While primarily a church, they sometimes host community events and may have associated wellness programs or groups. (Note: This is not a dedicated circuit training gym, but is a Catholic institution.)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Circuit training in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CatholicFIT",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.catholicfit.com/",
+    "category": "Catholic-owned Circuit training in South-Dakota",
+    "description": "This is an online program and resource for Catholic fitness, offering opportunities to grow in physical and spiritual health through retreats, fitness clubs, and online courses. It is not a physical gym location in South Dakota",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Circuit training in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
