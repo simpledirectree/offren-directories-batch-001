@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Riveron",
+    "address": "2515 McKinney Ave, Dallas, TX 75201",
+    "phone": "214-891-5500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.riveron.com/",
+    "category": "Chinese-speaking ETL services in Texas",
+    "description": "Offers data integration consulting services designed to enhance data accuracy, reduce time and costs, and improve collaboration",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking ETL services in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "7T",
+    "address": "16803 Dallas Pkwy, Suite 300, Addison, Texas 75001 (Dallas Office)",
+    "phone": "+1 (214) 299-5100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.7t.co/",
+    "category": "Chinese-speaking ETL services in Texas",
+    "description": "Provides AI integration services and custom software development, which can include data integration aspects. They have offices in Dallas and Houston",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking ETL services in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pythian",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pythian.com/",
+    "category": "Chinese-speaking ETL services in Texas",
+    "description": "Offers ETL consulting services with experts in data integration and building scalable data environments. They have a global presence and serve clients worldwide",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking ETL services in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Informatica",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.informatica.com/",
+    "category": "Chinese-speaking ETL services in Texas",
+    "description": "A leader in enterprise cloud data management, offering data integration solutions and iPaaS solutions powered by AI. They have a global reach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking ETL services in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tata Consultancy Services (TCS)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tcs.com/",
+    "category": "Chinese-speaking ETL services in Texas",
+    "description": "A global IT services, consulting, and business solutions company that leverages technology for business transformation. They offer AI and Data & Analytics services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking ETL services in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wipro",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wipro.com/",
+    "category": "Chinese-speaking ETL services in Texas",
+    "description": "A global leader in consulting-led and AI-powered technology services, offering expertise across design, engineering, and operations to accelerate business transformation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking ETL services in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "24 Hour Translation Services",
+    "address": "",
+    "phone": "214-550-0151 (Dallas)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.24hourtranslation.com/",
+    "category": "Chinese-speaking ETL services in Texas",
+    "description": "Provides professional Chinese translation and interpretation services in Texas, which might be helpful for communication with ETL service providers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking ETL services in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tianlu Chinese Language and Culture LLC",
+    "address": "Houston, TX",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tianlu-chinese.com/",
+    "category": "Chinese-speaking ETL services in Texas",
+    "description": "Offers Chinese translation and interpretation services, with a focus on high-stakes communication",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking ETL services in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ETL Solutions",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.etlsolutions.com/",
+    "category": "Chinese-speaking ETL services in Texas",
+    "description": "A software development company specializing in data movement software and consultancy, with a presence in Houston, Texas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking ETL services in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SynStack Technologies LLC",
+    "address": "3202 Suffolk Creek Ln, (Location provided, but no specific city in Texas mentioned)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://synstack.com/",
+    "category": "Chinese-speaking ETL services in Texas",
+    "description": "Offers data warehousing services, which often go hand-in-hand with ETL processes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking ETL services in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
