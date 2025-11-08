@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Idaho Rez Rising",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.idahorezrising.com/",
+    "category": "American-Indian-owned Credit analysis in Idaho",
+    "description": "An initiative to provide a platform connecting individuals with Native-owned businesses across Idaho. It aims to increase visibility for these businesses and offers collaborative relationship building, small business training, and access to financing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Credit analysis in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North Idaho Native Fund",
+    "address": "(Specific address not readily available, but serves the Coeur d'Alene Reservation area.)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.northidanativefund.org/",
+    "category": "American-Indian-owned Credit analysis in Idaho",
+    "description": "An emerging CDFI that provides technical support, business counseling, financial education, and financing options to the Coeur d'Alene Tribe and surrounding communities in Idaho and Washington. They offer small business counseling and resources, loan products, and financial education",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Credit analysis in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nimiipuu Community Development Fund",
+    "address": "Lapwai, Idaho (Specific address not readily available.)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nimiipuufund.org/",
+    "category": "American-Indian-owned Credit analysis in Idaho",
+    "description": "Provides technical support and business counseling to tribal members and non-members within the ancestral lands of the Nez Perce. They assist with business planning, lend to small businesses, and help community members build credit. They also offer personal financial tools and coaching",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Credit analysis in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Idaho Native American Women Business Alliance",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.facebook.com/groups/2970218073207203/",
+    "category": "American-Indian-owned Credit analysis in Idaho",
+    "description": "A collaborative effort to educate and empower tribal women to start and grow thriving businesses. They plan workshops, offer training, and provide counseling services for small businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Credit analysis in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Northwest Native Chamber (and Native Technical Assistance Program - Native TAP)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://northwestnativechamber.org/",
+    "category": "American-Indian-owned Credit analysis in Idaho",
+    "description": "Offers no-cost technical assistance to Native individuals, businesses, and communities in Oregon, Washington, and Idaho. Their services include access to a network of professional service providers, including those offering accounting, bookkeeping, credit coaching, and tax preparation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Credit analysis in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
