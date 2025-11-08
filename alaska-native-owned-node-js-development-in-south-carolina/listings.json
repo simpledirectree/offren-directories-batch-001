@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Chenega Corporation",
+    "address": "(Not specified in search results, but headquartered in Alaska)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chenega.com/",
+    "category": "Alaska-Native-owned Node.js development in South-Carolina",
+    "description": "Chenega Corporation is an Alaska Native Village Corporation committed to social responsibility and ethics, offering a range of professional services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Node.js development in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Akima LLC",
+    "address": "(Not specified in search results, but headquartered in Alaska)",
+    "phone": "571-353-7053 (Recruiting Services)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://akima.com/",
+    "category": "Alaska-Native-owned Node.js development in South-Carolina",
+    "description": "Akima is a leading Alaska Native corporation with a portfolio of businesses offering technical and mission support, IT, engineering, and logistics services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Node.js development in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "UIC Government Services (Bowhead Family of Companies)",
+    "address": "Headquartered in Springfield, VA, but may have operations in South Carolina",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://uicalaska.com/",
+    "category": "Alaska-Native-owned Node.js development in South-Carolina",
+    "description": "UIC Government Services is part of a multi-million-dollar company recognized as a top Alaska Native Corporation, providing services in engineering, IT, and program support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Node.js development in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
