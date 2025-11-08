@@ -1,0 +1,172 @@
+[
+  {
+    "name": "SweetWater Brewing Company",
+    "address": "195 Ottley Dr NE, Atlanta, GA 30324",
+    "phone": "(404) 691-2537",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://sweetwaterbrew.com/",
+    "category": "American-Indian-owned Breweries in Georgia",
+    "description": "Atlanta's largest craft brewery, known for its wide range of beers and lively atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breweries in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Monday Night Brewing",
+    "address": "670 Trabert Ave NW, Atlanta, GA 30318",
+    "phone": "(404) 352-7703",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mondaynightbrewing.com/",
+    "category": "American-Indian-owned Breweries in Georgia",
+    "description": "This Atlanta-based brewery focuses on balanced, flavorful ales and has multiple locations, including \"The Garage\" for barrel-aged and sour beers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breweries in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Three Taverns Brewery",
+    "address": "121 New St, Decatur, GA 30030",
+    "phone": "(404) 600-3355",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.threetavernsbrewery.com/",
+    "category": "American-Indian-owned Breweries in Georgia",
+    "description": "Known for its interpretation of traditional Belgian-style beers with an American twist, Three Taverns has a taproom called \"The Parlour\" in Decatur",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breweries in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Orpheus Brewing",
+    "address": "1440 Dutch Valley Pl NE, Atlanta, GA 30324",
+    "phone": "(404) 347-1777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://orpheusbrewing.com/",
+    "category": "American-Indian-owned Breweries in Georgia",
+    "description": "This Atlanta brewery specializes in sour and saison beer styles, with a location near the Atlanta BeltLine's Eastside Trail",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breweries in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Terrapin Beer Co.",
+    "address": "265 Newton Bridge Rd, Athens, GA 30607",
+    "phone": "(706) 549-3377",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://terrapinbeer.com/",
+    "category": "American-Indian-owned Breweries in Georgia",
+    "description": "Founded in 2002, Terrapin Beer Co. offers a wide range of craft beers and is known for its live music events and pet-friendly outdoor space",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breweries in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Scofflaw Brewing Company",
+    "address": "1738 MacArthur Blvd NW, Atlanta, GA 30318",
+    "phone": "(404) 343-2832",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://scofflawbeer.com/",
+    "category": "American-Indian-owned Breweries in Georgia",
+    "description": "Recognized for its high-gravity stouts and sours, Scofflaw Brewing Co. has multiple locations and is committed to being a force for good in the community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breweries in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wild Heaven Beer",
+    "address": "1010 White St SW, Atlanta, GA 30310 (West End Brewery) and 135B Maple Street, Decatur, GA 30030 (Original Brewery)",
+    "phone": "(404) 254-2232 (West End) and (404) 997-8589 (Avondale)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://wildheavenbeer.com/",
+    "category": "American-Indian-owned Breweries in Georgia",
+    "description": "Wild Heaven Beer brews culinary and botanically-driven beers and has three taproom locations, offering a variety of craft beers, ciders, and wines",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breweries in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arches Brewing",
+    "address": "2903 RN Martin St, East Point, GA 30344",
+    "phone": "(678) 653-2739",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://archesbrewing.com/",
+    "category": "American-Indian-owned Breweries in Georgia",
+    "description": "Located in East Point, Arches Brewing focuses on traditional lagers and inspired ales, with a taproom and onsite kitchen",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breweries in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cherokee Brewing + Pizza Company",
+    "address": "207-B W Cuyler St, Dalton, GA 30720",
+    "phone": "(706) 529-9478",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cherokeebrewingandpizzaco.com/",
+    "category": "American-Indian-owned Breweries in Georgia",
+    "description": "This Dalton establishment offers brick oven pizza and a wide selection of craft beers, with a focus on local brews and Southern roots",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breweries in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Red Hare Brewing & Distilling",
+    "address": "1998 Delk Industrial Blvd SE, Marietta, GA 30067",
+    "phone": "(678) 401-0600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://redharebrewing.com/",
+    "category": "American-Indian-owned Breweries in Georgia",
+    "description": "Red Hare Brewing Company, established in 2011, was one of the first craft breweries in Georgia to can their beer and offers a variety of year-round and seasonal brews",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breweries in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
