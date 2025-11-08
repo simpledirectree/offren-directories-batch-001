@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Quantum Vision",
+    "address": "352 Christopher Ave., Suite B, Gaithersburg, Maryland 20879",
+    "phone": "240-654-4202",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.quantumvision.com/",
+    "category": "Bengali-speaking Data warehousing in Maryland",
+    "description": "Offers data warehousing, business intelligence assessment, data quality and governance, financial planning and analysis, data modeling, BI reporting, and analytics services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Data warehousing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
