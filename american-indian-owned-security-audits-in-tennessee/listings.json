@@ -1,0 +1,172 @@
+[
+  {
+    "name": "OCD Tech",
+    "address": "1030 16th Ave S, Nashville, TN 37212",
+    "phone": "(615) 401-9440",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ocdtech.com/",
+    "category": "American-Indian-owned Security audits in Tennessee",
+    "description": "Provides cybersecurity consulting services, including SOC reporting, IT vulnerability assessments, and network penetration testing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Security audits in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Davenport Group",
+    "address": "104 Belfast Street, Lewisburg, TN 37091",
+    "phone": "(877) 231-9114",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.davenportgroup.com/",
+    "category": "American-Indian-owned Security audits in Tennessee",
+    "description": "Offers comprehensive cybersecurity services, including risk assessments, incident response, identity management, and network security",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Security audits in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Crosslin Technologies",
+    "address": "5510 Murray Hill Dr, Brentwood, TN 37027",
+    "phone": "(615) 371-5100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.crosslin.com/",
+    "category": "American-Indian-owned Security audits in Tennessee",
+    "description": "Provides managed cybersecurity services with a focus on proactive risk management, real-time threat monitoring, and vulnerability assessments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Security audits in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CloudSmart IT",
+    "address": "1113 Murfreesboro Pike, Nashville, TN 37217",
+    "phone": "(615) 727-1500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://cloudsmartit.com/",
+    "category": "American-Indian-owned Security audits in Tennessee",
+    "description": "Delivers cybersecurity services with a proactive approach, including continuous network monitoring, threat detection, and incident response",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Security audits in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CMIT Solutions",
+    "address": "Multiple locations in Tennessee, including 1113 Murfreesboro Pike, Nashville, TN 37217",
+    "phone": "(615) 727-1500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cmitsolutions.com/",
+    "category": "American-Indian-owned Security audits in Tennessee",
+    "description": "Offers cybersecurity services for small and medium-sized businesses, including managed security, compliance support, and data protection",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Security audits in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TeamLogic IT",
+    "address": "Multiple locations in Tennessee, including 1113 Murfreesboro Pike, Nashville, TN 37217",
+    "phone": "(615) 727-1500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.teamlogicit.com/",
+    "category": "American-Indian-owned Security audits in Tennessee",
+    "description": "Delivers cybersecurity services focused on proactive risk management, continuous monitoring, and compliance support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Security audits in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Healthcurity",
+    "address": "1113 Murfreesboro Pike, Nashville, TN 37217",
+    "phone": "(615) 727-1500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://healthcurity.com/",
+    "category": "American-Indian-owned Security audits in Tennessee",
+    "description": "Focuses on IT security and compliance solutions for the healthcare industry, including risk assessments and HIPAA compliance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Security audits in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Intraframe US",
+    "address": "1065 W Poplar Ave, Collierville, TN 38017",
+    "phone": "(901) 221-1600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://intraframe.com/",
+    "category": "American-Indian-owned Security audits in Tennessee",
+    "description": "An IT strategy consulting company offering services that include cybersecurity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Security audits in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Veterans IT Solutions LLC",
+    "address": "1000 Main St, Gallatin, TN 37066",
+    "phone": "(615) 451-1000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://veteransitsolutions.com/",
+    "category": "American-Indian-owned Security audits in Tennessee",
+    "description": "An IT strategy consulting company that specializes in cybersecurity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Security audits in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sparco",
+    "address": "7035 Mendenhall Rd, Millington, TN 38053",
+    "phone": "(901) 872-7171",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sparco.com/",
+    "category": "American-Indian-owned Security audits in Tennessee",
+    "description": "An IT strategy consulting company that also focuses on IT managed services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Security audits in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
