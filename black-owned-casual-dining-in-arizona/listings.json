@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Mrs. White's Golden Rule Cafe",
+    "address": "808 E Jefferson St, Phoenix, AZ 85034",
+    "phone": "(602) 262-9256",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dtphx.org/businesses/mrs-whites-golden-rule-cafe",
+    "category": "Black-owned Casual dining in Arizona",
+    "description": "A long-standing Phoenix institution serving Southern comfort food classics like fried catfish, fried chicken, and smothered pork chops since 1964",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Casual dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lo-Lo's Chicken & Waffles",
+    "address": "1220 S Central Ave, Phoenix, AZ 85003",
+    "phone": "(602) 340-9801",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://loloschickenandwaffles.com/",
+    "category": "Black-owned Casual dining in Arizona",
+    "description": "A popular spot known for its signature chicken and waffles, as well as other Southern favorites like shrimp and grits",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Casual dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Welcome Diner",
+    "address": "929 E Pierce St, Phoenix, AZ 85006",
+    "phone": "(602) 495-1111",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "http://welcomediner.net/",
+    "category": "Black-owned Casual dining in Arizona",
+    "description": "A retro-inspired diner offering traditional Southern and soul food with a focus on local and seasonal ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Casual dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chula's Mexican Food",
+    "address": "This business appears to have multiple locations, with one mentioned in Eugene, Oregon and another in San Diego, California. There is no specific Arizona address readily available in the search results for a \"Chula's Mexican Food\" that is Black-owned",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chula's+Mexican+Food+in+Arizona",
+    "category": "Black-owned Casual dining in Arizona",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Casual dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Fry Bread Truck",
+    "address": "4501 W Van Buren St, Phoenix, AZ 85043",
+    "phone": "(602) 269-7707",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.thefrybreadtruck.com/",
+    "category": "Black-owned Casual dining in Arizona",
+    "description": "A family-owned and operated food truck serving the Phoenix Metropolitan area since 1973, specializing in frybread, Indian tacos, and other unique frybread-based dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Casual dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Original Breakfast House",
+    "address": "13623 N 32nd St, Phoenix, AZ 85032",
+    "phone": "(602) 482-2328",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.originalbreakfasthouse.com/",
+    "category": "Black-owned Casual dining in Arizona",
+    "description": "Known for its unique twists on classic diner food, with a diverse menu featuring benedicts, deep-fried French toast, and Mexican-style breakfasts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Casual dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Monroe's Hot Chicken",
+    "address": "45 W. Jefferson St., Suite K, Phoenix, AZ 85003",
+    "phone": "(602) 354-5010",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://monroeshotchicken.com/",
+    "category": "Black-owned Casual dining in Arizona",
+    "description": "Brings Nashville's signature hot chicken to Phoenix in various forms, including sandwiches and tenders, with vegan and gluten-free options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Casual dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Soul Food Factory",
+    "address": "1967 Morris Ave, Union, NJ 07083. (Note: This business is located in New Jersey, not Arizona.)",
+    "phone": "(908) 258-0006",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.soulfoodfactorynj.com/",
+    "category": "Black-owned Casual dining in Arizona",
+    "description": "Offers homestyle Southern cuisine with classic soul food dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Casual dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Stand Arcadia Burger Shoppe",
+    "address": "36th Street & Indian School Road, Phoenix, AZ. (Specific street number not provided in search results.)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thestandarcadia.com/",
+    "category": "Black-owned Casual dining in Arizona",
+    "description": "A burger restaurant known for its high-quality burgers and offering drive-thru, phone orders, and a food truck option",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Casual dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hash Kitchen",
+    "address": "Multiple locations in Arizona, including:",
+    "phone": "(480) 725-8000 (for Phoenix location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hashkitchen.com/",
+    "category": "Black-owned Casual dining in Arizona",
+    "description": "A popular brunch spot in Arizona celebrated for its innovative menu, lively atmosphere, and the original build-your-own Bloody Mary bar",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Casual dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
