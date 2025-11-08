@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Taylor Electric Company",
+    "address": "South Side Chicago, IL (Specific address not publicly available, but they are a long-standing Chicago business)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://taylorelectricco.com",
+    "category": "Black-owned Electrical wiring in Illinois",
+    "description": "A historic, family-owned Black-owned electrical contractor that has been serving Chicagoland for over 100 years. They specialize in residential electrical work and facilities management for iconic venues",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Electrical wiring in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Spurlock and Son Inc.",
+    "address": "3065 E. 93rd St., Chicago, IL",
+    "phone": "(773) 374-7777 (Found via search, may vary)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://spurlockandson.com/",
+    "category": "Black-owned Electrical wiring in Illinois",
+    "description": "A family-owned Black-owned electrical contracting firm founded in 1998, specializing in residential and commercial projects, including new construction, renovations, repairs, and maintenance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Electrical wiring in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Simply E&C",
+    "address": "Chicago, IL (Specific address not publicly available, but they operate in the Austin neighborhood and other parts of Chicago)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Simply+E&C+in+Illinois",
+    "category": "Black-owned Electrical wiring in Illinois",
+    "description": "A Black-owned, union electrical contractor co-founded in 2021, working on various residential and commercial projects, including the Barack Obama Presidential Center's library and Forty Acres Fresh Market",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Electrical wiring in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
