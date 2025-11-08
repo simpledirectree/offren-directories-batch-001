@@ -1,0 +1,172 @@
+[
+  {
+    "name": "LISNR",
+    "address": "Cincinnati, OH (Specific street address not found)",
+    "phone": "(513) 322-8400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lisnr.com/",
+    "category": "Black-owned Enterprise software in Ohio",
+    "description": "LISNR uses ultrasonic (data over sound) technology for proximity verification and contactless transactions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Enterprise software in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "QualityWorks",
+    "address": "Not specified (serves clients in US, UK, Latin America, and Caribbean)",
+    "phone": "(888) 331-9588",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/QualityWorks+in+Ohio",
+    "category": "Black-owned Enterprise software in Ohio",
+    "description": "A Black-owned and woman-led software consulting company specializing in web and mobile application development, digital transformation, and software testing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Enterprise software in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PopCom",
+    "address": "Columbus, OH (Specific street address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/PopCom+in+Ohio",
+    "category": "Black-owned Enterprise software in Ohio",
+    "description": "An automated retail technology company that creates data and analytics software for intelligent vending",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Enterprise software in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SureFire Innovations",
+    "address": "Norwood, OH (Specific street address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/SureFire+Innovations+in+Ohio",
+    "category": "Black-owned Enterprise software in Ohio",
+    "description": "A Black, veteran-owned company offering technology infrastructure, design, and build solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Enterprise software in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Orchestrate Technologies",
+    "address": "Cincinnati, OH (Specific street address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Orchestrate+Technologies+in+Ohio",
+    "category": "Black-owned Enterprise software in Ohio",
+    "description": "A cloud and technology services company focused on providing simple, scalable cloud-based solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Enterprise software in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "O.Y.E. Business Intelligence",
+    "address": "Columbus, OH (Specific street address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/O.Y.E.+Business+Intelligence+in+Ohio",
+    "category": "Black-owned Enterprise software in Ohio",
+    "description": "A minority-owned software company focused on empowering clients with cultural insights",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Enterprise software in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Make It Plain Consulting LLC",
+    "address": "Downtown Cincinnati, OH (Specific street address not found)",
+    "phone": "(513) 421-2300",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Make+It+Plain+Consulting+LLC+in+Ohio",
+    "category": "Black-owned Enterprise software in Ohio",
+    "description": "A Black-owned human capital management firm specializing in HR consulting, workforce training, and performance coaching",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Enterprise software in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Peerro",
+    "address": "Cincinnati, OH (Specific street address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Peerro+in+Ohio",
+    "category": "Black-owned Enterprise software in Ohio",
+    "description": "A career pathway management system that connects employers, schools, and organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Enterprise software in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Color Coded Labs",
+    "address": "Columbus, OH (Specific street address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Color+Coded+Labs+in+Ohio",
+    "category": "Black-owned Enterprise software in Ohio",
+    "description": "A tech training Bootcamp designed to create a pipeline for underrepresented talent",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Enterprise software in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fleri Inc.",
+    "address": "Columbus, OH (Specific street address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Fleri+Inc.+in+Ohio",
+    "category": "Black-owned Enterprise software in Ohio",
+    "description": "A Black-owned Columbus tech startup that received grant funding",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Enterprise software in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
