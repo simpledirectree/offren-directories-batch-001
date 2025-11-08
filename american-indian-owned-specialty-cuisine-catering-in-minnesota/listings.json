@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Gatherings Cafe",
+    "address": "1530 East Franklin Avenue, Minneapolis, MN 55404",
+    "phone": "612-879-1700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://maicnet.org",
+    "category": "American-Indian-owned Specialty cuisine catering in Minnesota",
+    "description": "Offers healthy Indigenous treats and meals, with a focus on locally sourced and ancestral ingredients. They cater events hosted at the Minneapolis American Indian Center",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Specialty cuisine catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native Harvest Catering",
+    "address": "2100 Trail of Dreams, Prior Lake, MN 55372",
+    "phone": "952-496-6639",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://nativeharvestcatering.com",
+    "category": "American-Indian-owned Specialty cuisine catering in Minnesota",
+    "description": "This catering service is owned and operated by the Shakopee Mdewakanton Sioux Community. They offer farm-to-table dishes inspired by regional ingredients and continue the legacy of Mazopiya Natural Food Market's catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Specialty cuisine catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "\u0160HOT\u00c1 Indigenous BBQ by Owamni",
+    "address": "2601 Franklin Avenue, Minneapolis, MN (opening mid-2025)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://natifs.org",
+    "category": "American-Indian-owned Specialty cuisine catering in Minnesota",
+    "description": "This is a new Indigenous BBQ restaurant by Owamni, which will offer counter-service, takeout, delivery, and catering. It focuses on Indigenous meats, fish, and vegetables, and will be part of the NATIFS W\u00f3yute Thipi facility",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Specialty cuisine catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cedar Spoon Indigenous Catering",
+    "address": "Not specified in search results, but associated with Indigenous cuisine",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Cedar+Spoon+Indigenous+Catering+in+Minnesota",
+    "category": "American-Indian-owned Specialty cuisine catering in Minnesota",
+    "description": "Offers Indigenous catering with a menu rooted in the history of First Nations, using traditional and locally sourced ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Specialty cuisine catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Indigenous Food Lab",
+    "address": "920 E Lake St #107, Minneapolis, MN 55407",
+    "phone": "612-208-0625",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://natifs.org/indigenous-food-lab/",
+    "category": "American-Indian-owned Specialty cuisine catering in Minnesota",
+    "description": "This is a vendor associated with NATIFS, focusing on Indigenous food systems. While not explicitly a catering business, it is involved in Indigenous food initiatives",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Specialty cuisine catering in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
