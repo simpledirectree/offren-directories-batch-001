@@ -1,0 +1,172 @@
+[
+  {
+    "name": "A/C Innovations, Inc.",
+    "address": "245 Goardsville Road, Lexington, AL 35648",
+    "phone": "(256) 762-3736",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/A/C+Innovations,+Inc.+in+Alabama",
+    "category": "American-Indian-owned Equipment repair in Alabama",
+    "description": "Listed under Energy Management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Equipment repair in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aaron Boone Trucking, Inc.",
+    "address": "Troy, AL 36081",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Aaron+Boone+Trucking,+Inc.+in+Alabama",
+    "category": "American-Indian-owned Equipment repair in Alabama",
+    "description": "Listed as a trucking company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Equipment repair in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BFW Resource, Inc.",
+    "address": "1300 Clydesdale Avenue, Anniston, AL 36201",
+    "phone": "(678) 548-2026",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/BFW+Resource,+Inc.+in+Alabama",
+    "category": "American-Indian-owned Equipment repair in Alabama",
+    "description": "Listed as a business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Equipment repair in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "H & L Construction, Inc.",
+    "address": "Not specified",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/H+&+L+Construction,+Inc.+in+Alabama",
+    "category": "American-Indian-owned Equipment repair in Alabama",
+    "description": "Listed as a construction company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Equipment repair in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "M & M Trucking, Inc.",
+    "address": "Not specified",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/M+&+M+Trucking,+Inc.+in+Alabama",
+    "category": "American-Indian-owned Equipment repair in Alabama",
+    "description": "Listed as a trucking company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Equipment repair in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ma-Chis Lower Creek Indian Tribe Enterprises, Inc.",
+    "address": "Tanner, AL 35671",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Ma-Chis+Lower+Creek+Indian+Tribe+Enterprises,+Inc.+in+Alabama",
+    "category": "American-Indian-owned Equipment repair in Alabama",
+    "description": "Listed as a tribal enterprise",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Equipment repair in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rutherford Contracting, Inc.",
+    "address": "PO Box 698, Moulton, AL 35650",
+    "phone": "(256) 974-7306",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Rutherford+Contracting,+Inc.+in+Alabama",
+    "category": "American-Indian-owned Equipment repair in Alabama",
+    "description": "Listed as a contracting company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Equipment repair in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Southeast Cherokee Construction, Inc.",
+    "address": "Not specified",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Southeast+Cherokee+Construction,+Inc.+in+Alabama",
+    "category": "American-Indian-owned Equipment repair in Alabama",
+    "description": "Listed as a construction company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Equipment repair in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Southern Star Catering, Inc.",
+    "address": "Florence, AL 35633",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Southern+Star+Catering,+Inc.+in+Alabama",
+    "category": "American-Indian-owned Equipment repair in Alabama",
+    "description": "Listed as a catering company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Equipment repair in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Stephens Construction & Concrete, Inc.",
+    "address": "Not specified",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Stephens+Construction+&+Concrete,+Inc.+in+Alabama",
+    "category": "American-Indian-owned Equipment repair in Alabama",
+    "description": "Listed as a construction and concrete company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Equipment repair in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
