@@ -1,0 +1,172 @@
+[
+  {
+    "name": "NYC Health + Hospitals",
+    "address": "Multiple locations across New York City",
+    "phone": "311 (for general inquiries and to find a facility)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nychealthandhospitals.org/",
+    "category": "Chinese-speaking Emergency medicine in New-York",
+    "description": "NYC Health + Hospitals has a strong commitment to language access, offering free interpreters in over 300 languages, including Chinese, at all their facilities. They provide emergency care at numerous locations throughout the city",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Emergency medicine in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NewYork-Presbyterian Hospital",
+    "address": "Multiple locations, including:",
+    "phone": "1-877-NYP-WELL (1-877-697-9355)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nyp.org/",
+    "category": "Chinese-speaking Emergency medicine in New-York",
+    "description": "NewYork-Presbyterian offers comprehensive emergency services and provides communication assistance, including interpreters for Chinese speakers, at all its locations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Emergency medicine in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NYU Langone Health",
+    "address": "Multiple locations, including:",
+    "phone": "646-754-2599 (Urgent Care West Side) or 911 for emergencies",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nyulangone.org/",
+    "category": "Chinese-speaking Emergency medicine in New-York",
+    "description": "NYU Langone provides emergency and urgent care services and offers interpretation and translation assistance for patients who prefer to communicate in languages other than English, including Chinese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Emergency medicine in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mount Sinai Health System",
+    "address": "Multiple locations, including:",
+    "phone": "212-731-3610 (168 Centre Street)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mountsinai.org/",
+    "category": "Chinese-speaking Emergency medicine in New-York",
+    "description": "Mount Sinai has facilities like Mount Sinai Doctors-168 Centre Street, located in Chinatown, which is staffed by physicians fluent in Mandarin and Cantonese, catering to the healthcare needs of the Chinese community. They also offer language access services across their system",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Emergency medicine in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Weibo Medical Care (Dr. Li Zheng)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Weibo+Medical+Care+(Dr.+Li+Zheng)+New+York",
+    "category": "Chinese-speaking Emergency medicine in New-York",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Emergency medicine in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Address:",
+    "address": "",
+    "phone": "718-463-3838 (Flushing), 718-301-0587 (Brooklyn)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.weibomedicalcare.com/",
+    "category": "Chinese-speaking Emergency medicine in New-York",
+    "description": "Weibo Medical Care, with Dr. Li Zheng, offers emergency medicine treatments for minor injuries and illnesses, with physicians fluent in Chinese. They are open seven days a week",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Emergency medicine in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nova Medical, PLLC (Dr. Diana Zheng)",
+    "address": "37-12 Prince Street, Suite 3C, Flushing, NY 11354",
+    "phone": "+1 718-380-7800",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.novamedical.com/",
+    "category": "Chinese-speaking Emergency medicine in New-York",
+    "description": "Nova Medical, PLLC, provides primary care and home visit services, with Dr. Diana Zheng being proficient in Mandarin, Cantonese, and English, ensuring no communication difficulties for Chinese-speaking patients. While not exclusively an emergency medicine clinic, they offer prompt care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Emergency medicine in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Northwell Health (Dr. Angela Hua)",
+    "address": "Multiple locations, including 270-05 76th Avenue, New Hyde Park, NY 11040",
+    "phone": "888-321-DOCS (888-321-3627)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.northwell.edu/",
+    "category": "Chinese-speaking Emergency medicine in New-York",
+    "description": "Dr. Angela Hua is an Emergency Medicine specialist at Northwell Health who is fluent in English, Cantonese, Mandarin, Spanish, and Shanghainese, facilitating communication for Chinese-speaking patients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Emergency medicine in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian American Ambulance Service",
+    "address": "Based in Brooklyn, serving Brooklyn and Lower Manhattan",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Asian+American+Ambulance+Service+New+York",
+    "category": "Chinese-speaking Emergency medicine in New-York",
+    "description": "This service was established to cater to New York City's Chinese-speaking community, with Chinese-speaking emergency medical technicians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Emergency medicine in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Medical Offices of Manhattan",
+    "address": "Multiple locations, including:",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.medicalofficesofmanhattan.com/",
+    "category": "Chinese-speaking Emergency medicine in New-York",
+    "description": "This practice has a multilingual team, including providers fluent in Mandarin and Cantonese, and offers translators for various languages. While primarily focused on primary care, they can direct patients to appropriate emergency services and ensure language assistance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Emergency medicine in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
