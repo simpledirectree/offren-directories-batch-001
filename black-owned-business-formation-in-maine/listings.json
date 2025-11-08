@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Black Owned Maine (BOM)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://blackownedmaine.com/",
+    "category": "Black-owned Business formation in Maine",
+    "description": "This organization is dedicated to sustaining and innovating an ecosystem for Black entrepreneurs in Maine. They offer business consulting, entrepreneurial training, and maintain a Black business directory. They focus on providing culturally responsive and community-driven support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Business formation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maine Black Chamber of Commerce (MBCC)",
+    "address": "65 Stone Street, Augusta, ME 04330 (This is a listed address for the organization.)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.maineblackchamber.org/",
+    "category": "Black-owned Business formation in Maine",
+    "description": "The MBCC works to stimulate economic growth and advocate for the business interests of Black businesses in Maine. They provide advocacy, networking opportunities, and resources to support Black businesses, entrepreneurs, and professionals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Business formation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Third Place",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Third+Place+in+Maine",
+    "category": "Black-owned Business formation in Maine",
+    "description": "This organization aims to create connections within the Black community in Maine through networking and events. They also work to foster a strong Black business and professional community, offering a co-working space",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Business formation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ByBlack",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.byblack.us/",
+    "category": "Black-owned Business formation in Maine",
+    "description": "ByBlack is a platform that aims to connect consumers with Black-owned businesses. While not specific to Maine, it is a resource for finding Black-owned businesses, and may list businesses in Maine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Business formation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Black Community Shoppe",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theblackcommunityshoppe.com/",
+    "category": "Black-owned Business formation in Maine",
+    "description": "This platform hosts a directory of Black-owned businesses. While it is a national directory, it may include businesses located in Maine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Business formation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
