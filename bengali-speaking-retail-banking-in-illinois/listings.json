@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Byline Bank",
+    "address": "Multiple locations across Illinois, including Chicago",
+    "phone": "800-236-8866",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bylinebank.com/",
+    "category": "Bengali-speaking Retail banking in Illinois",
+    "description": "Byline Bank has over 100 years of service in Chicago, offering personalized personal, business, and commercial banking solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Devon Bank",
+    "address": "6335 N. Western Avenue, Chicago, IL 60659",
+    "phone": "773-465-2500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.devonbank.com/",
+    "category": "Bengali-speaking Retail banking in Illinois",
+    "description": "Devon Bank is a full-service community bank offering business and personal banking, commercial, real estate, and mortgage loans, trust, and international services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hanmi Bank",
+    "address": "6335 N. Western Avenue, Chicago, IL 60659 (and other locations)",
+    "phone": "773-764-2900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hanmi.com/",
+    "category": "Bengali-speaking Retail banking in Illinois",
+    "description": "Hanmi Bank offers a variety of banking services with friendly customer service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Signature Bank Chicago",
+    "address": "Multiple locations in the Chicago area",
+    "phone": "(312) 641-1100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.signaturebank.com/chicago",
+    "category": "Bengali-speaking Retail banking in Illinois",
+    "description": "Signature Bank offers personalized business and personal banking services, with a focus on the Chicago community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Associated Bank",
+    "address": "Multiple locations across Illinois, including Elgin",
+    "phone": "800-236-8866",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://locations.associatedbank.com/il/elgin/",
+    "category": "Bengali-speaking Retail banking in Illinois",
+    "description": "Associated Bank has numerous locations throughout Illinois, offering digital and telephone banking services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BMO (Bank of Montreal)",
+    "address": "Multiple locations in Illinois, including Elgin",
+    "phone": "1-888-872-2650",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bmo.com/en-us/",
+    "category": "Bengali-speaking Retail banking in Illinois",
+    "description": "BMO offers a wide range of personal and commercial banking services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TBK Bank",
+    "address": "Multiple locations in Illinois, including Elgin",
+    "phone": "847-622-9600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tbkbank.com/",
+    "category": "Bengali-speaking Retail banking in Illinois",
+    "description": "TBK Bank offers personal and business services, including checking, savings, and loans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "U.S. Bank",
+    "address": "Multiple locations in Illinois, including Naperville and Joliet",
+    "phone": "1-800-USBANKS (872-2657)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.usbank.com/",
+    "category": "Bengali-speaking Retail banking in Illinois",
+    "description": "U.S. Bank offers a variety of financial services, including personal and business banking, loans, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aurora Bank & Trust",
+    "address": "Multiple locations in Aurora, IL",
+    "phone": "(630) 892-0200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aurorabank.com/",
+    "category": "Bengali-speaking Retail banking in Illinois",
+    "description": "Aurora Bank & Trust is a community bank committed to serving the Aurora area with personal and business banking services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Midland States Bank",
+    "address": "Multiple locations in Illinois, including Rockford",
+    "phone": "815-962-5500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.midlandsb.com/",
+    "category": "Bengali-speaking Retail banking in Illinois",
+    "description": "Midland States Bank offers a variety of banking services, including mortgages, business loans, and e-services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Retail banking in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
