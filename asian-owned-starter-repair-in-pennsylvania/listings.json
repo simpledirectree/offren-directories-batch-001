@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Allied Automotive",
+    "address": "5580 Quince Rd, Allentown, PA 18106",
+    "phone": "(610) 351-0020",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alliedautomotive.com/",
+    "category": "Asian-owned Starter repair in Pennsylvania",
+    "description": "Specializes in Asian vehicle repair, including Toyota, Subaru, Honda, and Lexus",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Starter repair in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chi Auto Repair",
+    "address": "439B Mill Rd, Bensalem Township, PA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chi+Auto+Repair+in+Pennsylvania",
+    "category": "Asian-owned Starter repair in Pennsylvania",
+    "description": "Family-run shop known for expertise in Asian vehicles like Honda, Acura, Toyota, and Lexus",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Starter repair in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nick's Towing and Auto",
+    "address": "292 S Greengate Road, Greensburg, PA 15601",
+    "phone": "724-836-7271",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Nick's+Towing+and+Auto+in+Pennsylvania",
+    "category": "Asian-owned Starter repair in Pennsylvania",
+    "description": "Full-service auto repair and preventative maintenance facility specializing in Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Starter repair in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nelson's Repair",
+    "address": "845 Frystown Rd, Myerstown, PA 17067",
+    "phone": "717-933-1414",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Nelson's+Repair+in+Pennsylvania",
+    "category": "Asian-owned Starter repair in Pennsylvania",
+    "description": "Specializes in Asian vehicle repairs, including Kia, Nissan, Subaru, and Toyota",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Starter repair in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "K & A Auto Body Shop",
+    "address": "429 S 61st Street, Philadelphia, PA",
+    "phone": "215-476-9299",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/K+&+A+Auto+Body+Shop+in+Pennsylvania",
+    "category": "Asian-owned Starter repair in Pennsylvania",
+    "description": "Full-service auto repair and preventative maintenance facility specializing in Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Starter repair in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MJ Automotive Service Center",
+    "address": "49 North Wren Dr, Pittsburgh, PA 15243",
+    "phone": "412-275-3289",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/MJ+Automotive+Service+Center+in+Pennsylvania",
+    "category": "Asian-owned Starter repair in Pennsylvania",
+    "description": "Specializes in Asian vehicle repairs, including Hyundai, Infiniti, and Kia",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Starter repair in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
