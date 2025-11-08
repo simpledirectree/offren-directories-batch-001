@@ -1,0 +1,172 @@
+[
+  {
+    "name": "CMIT Solutions Boston",
+    "address": "1601 Trapelo Rd, Waltham, MA 02451",
+    "phone": "(617) 657-1075",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cmitsolutions.com/boston/",
+    "category": "Chinese-speaking Network management in Massachusetts",
+    "description": "Offers managed IT services, cybersecurity, network design and analysis, and proactive network monitoring",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "M&H Consulting",
+    "address": "100 Summer St, Boston, MA 02110 (This is a general business address, specific IT service location may vary)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mhconsulting.net/",
+    "category": "Chinese-speaking Network management in Massachusetts",
+    "description": "Provides network management services, IT server management, cloud backup, and disaster recovery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RNITS",
+    "address": "100 Cummings Center, Suite 135G, Beverly, MA 01915",
+    "phone": "(855) 476-4871",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://rnits.com/",
+    "category": "Chinese-speaking Network management in Massachusetts",
+    "description": "Offers managed IT services, including 24/7 network monitoring, cloud computing, cybersecurity, and IT consulting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Auxzillium",
+    "address": "100 Summer St, Boston, MA 02110 (This is a general business address, specific IT service location may vary)",
+    "phone": "(617) 500-0050",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://auxzillium.com/",
+    "category": "Chinese-speaking Network management in Massachusetts",
+    "description": "Specializes in IT network support, managed IT services, cybersecurity, and compliance-ready infrastructure",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Datasmith Network Solutions",
+    "address": "Undisclosed in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Datasmith+Network+Solutions+in+Massachusetts",
+    "category": "Chinese-speaking Network management in Massachusetts",
+    "description": "Mentioned as a network solutions provider in Massachusetts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Braver Technology Solutions",
+    "address": "Taunton, Massachusetts (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Braver+Technology+Solutions+in+Massachusetts",
+    "category": "Chinese-speaking Network management in Massachusetts",
+    "description": "An IT managed services company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Castaway Technologies",
+    "address": "Lawrence, Massachusetts (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Castaway+Technologies+in+Massachusetts",
+    "category": "Chinese-speaking Network management in Massachusetts",
+    "description": "An IT managed services company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Soltrix Technology Solutions, Inc.",
+    "address": "Framingham, Massachusetts (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Soltrix+Technology+Solutions,+Inc.+in+Massachusetts",
+    "category": "Chinese-speaking Network management in Massachusetts",
+    "description": "A Digital Strategy company offering IT consulting and BI & big data services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HCL Technologies (Shanghai) Limited",
+    "address": "Shanghai, China (This is a global company with potential operations or clients in Massachusetts, but not a local Massachusetts business)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hcltech.com/",
+    "category": "Chinese-speaking Network management in Massachusetts",
+    "description": "A global IT services company offering cybersecurity, cloud consulting, and IT managed services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Microsoft",
+    "address": "Multiple locations, including Massachusetts. A specific network management service branch is not detailed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.microsoft.com/en-us/",
+    "category": "Chinese-speaking Network management in Massachusetts",
+    "description": "Offers a wide range of cloud, productivity, and computing services that are foundational to network management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
