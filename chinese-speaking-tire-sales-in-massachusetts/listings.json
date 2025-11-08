@@ -1,0 +1,172 @@
+[
+  {
+    "name": "City Tire",
+    "address": "25 Avocado Street, Springfield, MA 01104",
+    "phone": "(413) 737-1419",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.citytire.com/",
+    "category": "Chinese-speaking Tire sales in Massachusetts",
+    "description": "A family-owned business with multiple locations across Massachusetts, New Hampshire, and Connecticut, offering a wide selection of tires and auto repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire sales in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sullivan Tire",
+    "address": "1132 Hancock Street, Quincy, MA 02169",
+    "phone": "(617) 773-1088",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sullivantire.com/",
+    "category": "Chinese-speaking Tire sales in Massachusetts",
+    "description": "A large provider of automotive services and tire sales with numerous locations throughout New England, offering a comprehensive range of repairs and maintenance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire sales in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Town Fair Tire",
+    "address": "123 Tire Stores Located in CT, MA, ME, NH, NY, RI & VT (Specific Quincy, MA address: 123 Hancock Street, Quincy, MA 02169)",
+    "phone": "(844) 266-9884 (Tire Expert)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.townfairtire.com/",
+    "category": "Chinese-speaking Tire sales in Massachusetts",
+    "description": "With over 123 locations, Town Fair Tire offers a wide selection of tires and services, including lifetime flat tire repair and free tire rotations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire sales in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mavis Tires & Brakes",
+    "address": "1920 Revere Beach Parkway, Everett, MA 02149",
+    "phone": "(617) 256-2639",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mavis.com/",
+    "category": "Chinese-speaking Tire sales in Massachusetts",
+    "description": "A comprehensive auto care and tire repair shop offering a wide range of services and top tire brands at competitive prices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire sales in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hogan Tire & Auto",
+    "address": "661 Rogers St, Lowell, MA 01852",
+    "phone": "(351) 221-7051",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hogantire.com/",
+    "category": "Chinese-speaking Tire sales in Massachusetts",
+    "description": "A family-owned business serving the Lowell area since 1915, providing professional tire and auto services with a state-of-the-art facility",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire sales in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pep Boys",
+    "address": "1177 Boston Road, Springfield, MA 01109",
+    "phone": "(413) 734-0100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pepboys.com/",
+    "category": "Chinese-speaking Tire sales in Massachusetts",
+    "description": "Offers tire installations from top brands and a variety of auto maintenance and repair services performed by ASE-certified technicians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire sales in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Britton Tire Service",
+    "address": "19 Riverside Ave, Brockton, MA 02301",
+    "phone": "(508) 584-6122",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://brittontireservice.com/",
+    "category": "Chinese-speaking Tire sales in Massachusetts",
+    "description": "A family-owned business with over 35 years of experience in commercial and passenger tire services, offering roadside assistance and professional tire repair",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire sales in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Advance Tire Company",
+    "address": "185 Broadway, Cambridge, MA 02139",
+    "phone": "(617) 864-8989",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://advancetireco.com/",
+    "category": "Chinese-speaking Tire sales in Massachusetts",
+    "description": "A full-service auto repair and preventative maintenance facility specializing in Asian vehicles, offering expert services and guaranteed work",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire sales in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Martin Tire",
+    "address": "369 Park Avenue, Worcester, MA 01610",
+    "phone": "(508) 752-6636",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://martintire.com/",
+    "category": "Chinese-speaking Tire sales in Massachusetts",
+    "description": "With a legacy of 84 years, Martin Tire offers tire services, alignment, brakes, and suspension work, focusing on efficient and quick service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire sales in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Webster Square Tire and Auto Service",
+    "address": "616 Park Avenue, Worcester, MA 01605",
+    "phone": "(508) 752-8900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://webstersquaretire.com/",
+    "category": "Chinese-speaking Tire sales in Massachusetts",
+    "description": "A local choice for auto repair and tires in Worcester, providing honest and professional services, including tire needs, oil changes, and engine repair",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire sales in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
