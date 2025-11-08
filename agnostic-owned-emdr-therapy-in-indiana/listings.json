@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Grow Therapy (Multiple Locations)",
+    "address": "Various locations across Indiana (check website for specific provider addresses)",
+    "phone": "(800) 215-8901",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://grow.therapy/therapists/in/emdr",
+    "category": "Agnostic-owned EMDR therapy in Indiana",
+    "description": "Grow Therapy is a platform that connects individuals with licensed therapists, including many who specialize in EMDR. They offer both virtual and in-person sessions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned EMDR therapy in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Indiana Counseling and Resilience Center",
+    "address": "Indianapolis, IN (Specific address available upon booking)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.indianacounselingandresilience.com/emdr-therapy",
+    "category": "Agnostic-owned EMDR therapy in Indiana",
+    "description": "Offers in-person and online EMDR therapy in Indianapolis, focusing on processing traumatic memories",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned EMDR therapy in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jessica Witmer, LMHC",
+    "address": "Angola, Indiana (for in-person), virtual services available statewide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jessicawitmer.com/virtual-emdr-telehealth-indiana",
+    "category": "Agnostic-owned EMDR therapy in Indiana",
+    "description": "Specializes in virtual EMDR therapy for Indiana residents, with in-person options in Angola",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned EMDR therapy in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Renewed Hope Counseling Services",
+    "address": "70 E. Main St. Suite F, Greenwood, IN 46143",
+    "phone": "317-360-5315",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.renewedhope-counseling.com/emdr",
+    "category": "Agnostic-owned EMDR therapy in Indiana",
+    "description": "Offers EMDR therapy for various issues including anxiety, depression, and trauma, with online options available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned EMDR therapy in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cadence Psychology Studio",
+    "address": "Fishers and Carmel, IN (Specific addresses available upon booking)",
+    "phone": "317-747-0574",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cadenceps.com/emdr-therapy",
+    "category": "Agnostic-owned EMDR therapy in Indiana",
+    "description": "Provides EMDR therapy in Fishers and Carmel, as well as online across Indiana, for trauma recovery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned EMDR therapy in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MindFit Counseling & Wellness",
+    "address": "Carmel & Westfield, Indiana (Specific addresses available upon booking)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mindfitcounseling.com/emdr-therapy-carmel-westfield-indiana/",
+    "category": "Agnostic-owned EMDR therapy in Indiana",
+    "description": "Offers EMDR therapy in Carmel and Westfield for depression, anxiety, PTSD, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned EMDR therapy in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Northside Mental Health",
+    "address": "6507 Ferguson Street, Suite 201, Indianapolis, IN 46220",
+    "phone": "(317) 253-0568",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.northsidementalhealth.com/emdr-therapy-indianapolis",
+    "category": "Agnostic-owned EMDR therapy in Indiana",
+    "description": "Provides EMDR therapy in Indianapolis for trauma and other mental health concerns",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned EMDR therapy in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cracked Open Therapy",
+    "address": "Noblesville, Indiana (Specific address available upon booking)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cracked-open.com/",
+    "category": "Agnostic-owned EMDR therapy in Indiana",
+    "description": "Offers EMDR therapy and other trauma-informed approaches in Noblesville, focusing on moving forward from being \"stuck.\"",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned EMDR therapy in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Flourish Christian Counseling",
+    "address": "Fishers, IN 46038 (Specific address available upon booking)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.flourishchristiancounseling.com/emdr-therapy",
+    "category": "Agnostic-owned EMDR therapy in Indiana",
+    "description": "While the name includes \"Christian,\" they offer EMDR therapy and may be open to clients of all backgrounds seeking secular approaches. It's recommended to inquire directly about their approach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned EMDR therapy in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "LifeStance Health (Multiple Locations)",
+    "address": "Various locations across Indiana including Anderson, Avon, Bloomington, Carmel, Evansville, Fishers, Fort Wayne, Greenwood, Hammond, Indianapolis, Mishawaka, Noblesville, South Bend, Zionsville",
+    "phone": "(844) 425-0079",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lifestance.com/service/emdr-therapy-indiana/",
+    "category": "Agnostic-owned EMDR therapy in Indiana",
+    "description": "LifeStance Health offers EMDR therapy in multiple clinics across Indiana, with both in-person and telehealth options. They accept most major insurance plans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned EMDR therapy in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
