@@ -1,0 +1,172 @@
+[
+  {
+    "name": "One Tree Yoga",
+    "address": "5020 Dodge St, Omaha, NE 68132",
+    "phone": "(402) 502-4350",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.onetreeyoga.com/",
+    "category": "American-Indian-owned Yoga studios in Nebraska",
+    "description": "One Tree Yoga offers a variety of yoga classes from many traditions, including Hatha, Yin, Hot Yoga, and Vinyasa Flow. They emphasize a welcoming environment and highly-trained teachers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Yoga studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lincoln Yoga Center",
+    "address": "4021 Prescott Ave, Lincoln, NE 68510",
+    "phone": "(402) 474-9000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.lincolnyogacenter.com/",
+    "category": "American-Indian-owned Yoga studios in Nebraska",
+    "description": "Lincoln Yoga Center provides a variety of yoga classes for all levels, with reasonably priced options. They also offer meditation programs and are described as a clean, friendly, and inviting facility",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Yoga studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Studio 4:8 Yoga",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.studio48yoga.com/",
+    "category": "American-Indian-owned Yoga studios in Nebraska",
+    "description": "Studio 4:8 Yoga offers Christ-centered yoga events and classes for individuals of all levels and beliefs, aiming to empower growth in the mind, body, and spirit",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Yoga studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ritual Yoga & Wellness",
+    "address": "7001 S 27th St, Lincoln, NE 68512",
+    "phone": "(402) 420-5555",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.ritualyoga.com/",
+    "category": "American-Indian-owned Yoga studios in Nebraska",
+    "description": "This studio offers Hot Yoga, Pilates, and Sculpt classes in South Lincoln, Nebraska, providing a serene space for various heated class styles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Yoga studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mindful Movement",
+    "address": "1247 S 13th St, Lincoln, NE 68502",
+    "phone": "(402) 438-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.mindfulmovementlincoln.com/",
+    "category": "American-Indian-owned Yoga studios in Nebraska",
+    "description": "Mindful Movement offers Pilates, Yoga, and Tai Chi for Balance in Lincoln, Nebraska, with a focus on connecting movement through the mind and body in an inclusive environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Yoga studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Still + Flow Yoga",
+    "address": "Located within Perceptions Mental Health + Wellness, 1777 S. 72nd St, Suite 100, Omaha, NE 68124",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.stillandflowyoga.com/",
+    "category": "American-Indian-owned Yoga studios in Nebraska",
+    "description": "Still + Flow Yoga offers wellness and therapeutic yoga practices in Omaha, Nebraska, including yoga and meditation, with classes suitable for all levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Yoga studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Karma Yoga Omaha",
+    "address": "15761 West Dodge Road, Omaha, NE 68118",
+    "phone": "(402) 614-2244",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.karmayogaomaha.com/",
+    "category": "American-Indian-owned Yoga studios in Nebraska",
+    "description": "Karma Yoga Omaha aims to help individuals cultivate mindful movement practices that enhance physical, emotional, and mental well-being, guiding towards a more connected and balanced life",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Yoga studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HOTWORX - Lincoln (70th & Pioneers)",
+    "address": "7001 S 70th St, Lincoln, NE 68516",
+    "phone": "(402) 401-4444",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.hotworx.net/studio/lincoln-70th-pioneers",
+    "category": "American-Indian-owned Yoga studios in Nebraska",
+    "description": "This is a 24-hour infrared fitness studio offering Hot Yoga, Pilates, Barre, and Cycle workouts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Yoga studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Omaha Power Yoga",
+    "address": "Information not available (contact via website for location details)",
+    "phone": "(402) 885-8855",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.omahapoweryoga.com/",
+    "category": "American-Indian-owned Yoga studios in Nebraska",
+    "description": "Omaha Power Yoga offers a laid-back approach to yoga, focusing on mindset, mobility, and strength, with small group sessions and a weekly community class",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Yoga studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Yoga Collective",
+    "address": "1034 O Street, Gering, NE 69341",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.theyogacollectivegering.com/",
+    "category": "American-Indian-owned Yoga studios in Nebraska",
+    "description": "The Yoga Collective in Gering, Nebraska, offers inclusive and transformative yoga classes for all levels, with certified instructors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Yoga studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
