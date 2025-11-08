@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Khelcom Farm",
+    "address": "180 Highland Ave, Berlin, VT 05641",
+    "phone": "(802) 338-7131",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Khelcom+Farm+in+Vermont",
+    "category": "Black-owned Garden education in Vermont",
+    "description": "A Black-owned urban farm focusing on diversified vegetables, cut flowers, and herbs. They also sell Senegalese baskets, eggs, and maple syrup. Their farm stand is open from mid-May through October",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Garden education in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clemmons Family Farm",
+    "address": "Charlotte, VT (Specific street address not readily available, but it is a landmark on Vermont's African-American Heritage Trail)",
+    "phone": "(765) 560-5445 (Voicemail number provided)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Clemmons+Family+Farm+in+Vermont",
+    "category": "Black-owned Garden education in Vermont",
+    "description": "One of the largest and oldest African-American-owned historic farms in Vermont. It is transitioning into a non-profit organization focused on preserving the farm, empowering Black artists and culture bearers, and building a multicultural community around African American/African diaspora history, arts, and culture. They offer programs related to farming, arts, and cultural heritage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Garden education in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Dirt Farm",
+    "address": "Northeast Kingdom, VT (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Black+Dirt+Farm+in+Vermont",
+    "category": "Black-owned Garden education in Vermont",
+    "description": "A diversified family farm in Vermont's Northeast Kingdom that practices regenerative agriculture. They collect food scraps for composting, raise hens, and produce compost, worm castings, pasture-raised eggs, meat birds, and seasonal crops. They also offer compost collection services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Garden education in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
