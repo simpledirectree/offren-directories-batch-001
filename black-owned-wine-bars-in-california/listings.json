@@ -1,0 +1,172 @@
+[
+  {
+    "name": "1010 Wine & Events",
+    "address": "1010 N La Brea Ave, Inglewood, CA 90302",
+    "phone": "(310) 419-1010",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.1010wine.com/",
+    "category": "Black-owned Wine bars in California",
+    "description": "An upscale wine bar and restaurant offering a large selection of Black-owned wines, along with food, music, and events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Wine bars in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CoCo Noir Wine Shop & Bar",
+    "address": "360 13th Street, Oakland, CA 94612",
+    "phone": "(510) 295-4838",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://coconoirwine.com/",
+    "category": "Black-owned Wine bars in California",
+    "description": "A Black and women-owned wine shop and bar in downtown Oakland, focusing on wines from BIPOC, women, and small family-owned producers. They offer wine tastings, retail, and small plates",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Wine bars in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TAP Wine Lounge",
+    "address": "1011 Del Paso Blvd, Sacramento, CA 95815",
+    "phone": "(279) 345-2909",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.tapwinelounge.com/",
+    "category": "Black-owned Wine bars in California",
+    "description": "Sacramento's first Black woman-owned wine lounge, featuring Black boutique wines, local art, and cultural events. They also offer a \"Sippers Club\" for members",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Wine bars in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Offhand Wine Bar",
+    "address": "1012 Montana Ave, Santa Monica, CA 90403",
+    "phone": "(424) 302-1400",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.offhandwine.com/",
+    "category": "Black-owned Wine bars in California",
+    "description": "A Black-owned wine bar in Santa Monica serving natural wines, craft beers, and wine cocktails, with a relaxed atmosphere and weekend vinyl music",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Wine bars in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Covell",
+    "address": "4628 Hollywood Blvd, Los Angeles, CA 90027",
+    "phone": "(323) 660-4400",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://covell.la/",
+    "category": "Black-owned Wine bars in California",
+    "description": "A Black-owned wine and beer bar in Los Angeles known for its cozy atmosphere, knowledgeable staff, and personalized wine tasting experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Wine bars in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Pour Up Wine Bar",
+    "address": "210 G St, Antioch, CA 94509",
+    "phone": "(925) 755-0100",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.thepourupwinebar.com/",
+    "category": "Black-owned Wine bars in California",
+    "description": "This wine bar emphasizes wines from Black-owned winemakers and offers handcrafted wine cocktails",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Wine bars in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SIP Wine & Beer",
+    "address": "1947 Fern St, San Diego, CA 92104",
+    "phone": "(619) 201-8732",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://sipwineandbeer.com/",
+    "category": "Black-owned Wine bars in California",
+    "description": "Owned by Cassandra Schaeg, this San Diego establishment offers a space to enjoy wine and beer, and Schaeg also highlights other BIPOC food and beverage entrepreneurs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Wine bars in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Buvons Wine LB",
+    "address": "4926 2nd Ave, Long Beach, CA 90803",
+    "phone": "(562) 433-4000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://buvonswine.com/",
+    "category": "Black-owned Wine bars in California",
+    "description": "A women-owned natural wine bar, bottle shop, and restaurant in Long Beach, focusing on small-production wines and French-Mediterranean cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Wine bars in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Adega Azul Wine Bar",
+    "address": "1313 Gilman St, Berkeley, CA 94706",
+    "phone": "(510) 526-0100",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.adegaazul.com/",
+    "category": "Black-owned Wine bars in California",
+    "description": "This Berkeley wine bar offers a Brazilian-inspired ambiance with a curated selection of wines and small plates, aiming to make wine accessible and enjoyable",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Wine bars in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "WetStone Winebar",
+    "address": "1927 4th Ave, San Diego, CA 92101",
+    "phone": "(619) 235-0237",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.wetstonewinebar.com/",
+    "category": "Black-owned Wine bars in California",
+    "description": "A San Diego wine bar offering globally inspired small plates and an adventurous wine list, with a focus on award-winning sangrias in a unique atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Wine bars in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
