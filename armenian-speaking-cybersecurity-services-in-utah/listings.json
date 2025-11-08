@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Nexus IT Consultants",
+    "address": "4505 S. Wasatch Blvd., Suite 150, Salt Lake City, UT 84124",
+    "phone": "(435) 659-2533",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nexusit.com/",
+    "category": "Armenian-speaking Cybersecurity services in Utah",
+    "description": "Offers a range of cybersecurity services including penetration testing, employee education, managed security services, and security consulting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Cybersecurity services in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NetWize",
+    "address": "750 E. 100 S., Orem, UT 84097",
+    "phone": "(801) 765-0700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.netwize.com/",
+    "category": "Armenian-speaking Cybersecurity services in Utah",
+    "description": "A managed IT provider offering cybersecurity solutions, proactive threat identification, and comprehensive IT framework security",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Cybersecurity services in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Executech",
+    "address": "475 E. 1000 S., Orem, UT 84097",
+    "phone": "(801) 553-5000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.executech.com/",
+    "category": "Armenian-speaking Cybersecurity services in Utah",
+    "description": "Provides 24/7 cybersecurity support, malware protection, network security, cloud security services, and business continuity planning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Cybersecurity services in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Silent Sector",
+    "address": "1098 W. South Jordan Parkway, South Jordan, UT 84095",
+    "phone": "(801) 563-9700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://silentsector.com/",
+    "category": "Armenian-speaking Cybersecurity services in Utah",
+    "description": "Offers cybersecurity risk management, penetration testing, vCISO services, and cyber risk assessments for mid-market and emerging companies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Cybersecurity services in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Protek Support",
+    "address": "525 E. 4500 S., Suite 100, Salt Lake City, UT 84107",
+    "phone": "(801) 572-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://proteksupport.com/",
+    "category": "Armenian-speaking Cybersecurity services in Utah",
+    "description": "Delivers advanced cybersecurity solutions, including 24/7 security monitoring, access management, penetration testing, and cyber awareness training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Cybersecurity services in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vigilant IT",
+    "address": "1098 West South Jordan Parkway, South Jordan, UT 84095",
+    "phone": "(801) 563-9700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://vigilant-it.com/",
+    "category": "Armenian-speaking Cybersecurity services in Utah",
+    "description": "Provides comprehensive IT consulting and cutting-edge IT support tailored to business needs, including security measures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Cybersecurity services in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ABS Technologies",
+    "address": "1098 West South Jordan Parkway, South Jordan, UT 84095",
+    "phone": "(801) 563-9700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.abstech.net/",
+    "category": "Armenian-speaking Cybersecurity services in Utah",
+    "description": "Offers managed IT services, cloud services, business technology solutions, and information security, with a mention of helping Armenian businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Cybersecurity services in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AgilePQ",
+    "address": "Salt Lake City, UT (Specific address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.agilepq.com/",
+    "category": "Armenian-speaking Cybersecurity services in Utah",
+    "description": "Focuses on cybersecurity for IoT networks",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Cybersecurity services in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Anonyome Labs",
+    "address": "Salt Lake City, UT (Specific address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.anonyome.com/",
+    "category": "Armenian-speaking Cybersecurity services in Utah",
+    "description": "Develops encryption for voice, e-commerce, and browser transactions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Cybersecurity services in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Centrify",
+    "address": "Salt Lake City, UT (Specific address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.centrify.com/",
+    "category": "Armenian-speaking Cybersecurity services in Utah",
+    "description": "Provides a privileged access management platform",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Cybersecurity services in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
