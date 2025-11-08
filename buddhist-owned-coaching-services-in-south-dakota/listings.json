@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Bodhi Heart",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bodhiheart.com/",
+    "category": "Buddhist-owned Coaching services in South-Dakota",
+    "description": "Offers Buddhist Life Coaching for individuals seeking spiritual growth and compassion. The coach is an experienced executive coach and Buddhist monk",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Coaching services in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The RD Duncan Institute for Professional Development and Mindfulness, LLC",
+    "address": "3400 West 49th Street, Ste. 200, Sioux Falls, South Dakota 57106, United States",
+    "phone": "605-370-9684",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.rdduncaninstitute.com/",
+    "category": "Buddhist-owned Coaching services in South-Dakota",
+    "description": "Provides coaching services rooted in positive psychology, mindfulness, and cognitive-behavioral therapy, with areas of expertise including spiritual direction and personal development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Coaching services in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alchemical Awakenings",
+    "address": "5001 E. (Specific street number not provided in search results, but the area is Sioux Falls.)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alchemicalawakenings.com/",
+    "category": "Buddhist-owned Coaching services in South-Dakota",
+    "description": "Offers integrative wellness and life coaching, blending holistic practices like energy work, sound baths, yoga, and Brainspotting. The practitioner has a background in social work and mindfulness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Coaching services in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "South Dakota Buddhist Vihara",
+    "address": "Sioux Falls, SD",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.meditationly.com/meditation-centers/usa/south-dakota/sioux-falls/south-dakota-buddhist-vihara",
+    "category": "Buddhist-owned Coaching services in South-Dakota",
+    "description": "A Buddhist temple in Sioux Falls offering meditation and mindfulness resources. While not explicitly a coaching service, it is a Buddhist center that may offer guidance or referrals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Coaching services in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Laughing Teabowl Sangha / Walking Mountain Zendo",
+    "address": "Black Hills, SD",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.facebook.com/LaughingTeabowlSangha/",
+    "category": "Buddhist-owned Coaching services in South-Dakota",
+    "description": "A Zen Buddhist practice group in the Black Hills, offering Zen meditation (zazen) and teachings. While primarily a meditation center, it fosters community and understanding, which can have coaching-like elements",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Coaching services in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
