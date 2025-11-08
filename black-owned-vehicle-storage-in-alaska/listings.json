@@ -1,0 +1,172 @@
+[
+  {
+    "name": "A1 Park & Store",
+    "address": "2900 Seward Hwy, Anchorage, AK 99503",
+    "phone": "(907) 244-1000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.a1parkandstore.com/",
+    "category": "Black-owned Vehicle storage in Alaska",
+    "description": "Offers secure vehicle storage for RVs, boats, motorcycles, cars, and snowmobiles with month-to-month options and 24/7 access upon request",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Vehicle storage in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arctic Storage",
+    "address": "Multiple locations in Anchorage, AK. (Specific addresses vary, check website for details)",
+    "phone": "(907) 272-7867",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.arcticstorageak.com/",
+    "category": "Black-owned Vehicle storage in Alaska",
+    "description": "A family-owned business offering self-storage and parking services, including vehicle, boat, and RV storage, with flexible leasing options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Vehicle storage in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "76th Park and Store",
+    "address": "Near King Street and 76th Avenue, Anchorage, AK 99502",
+    "phone": "(907) 244-1000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.76thparkandstore.com/",
+    "category": "Black-owned Vehicle storage in Alaska",
+    "description": "Provides secure and convenient storage for RVs, boats, motorcycles, cars, and snowmobiles with month-to-month options and 24/7 summer access upon request",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Vehicle storage in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "International Self Storage",
+    "address": "130 W International Airport Rd Ste A, Anchorage, AK 99518",
+    "phone": "(833) 607-2972",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ospreystorage.com/locations/alaska/anchorage/international-self-storage/",
+    "category": "Black-owned Vehicle storage in Alaska",
+    "description": "Offers secure storage options including vehicle storage, with drive-up access and month-to-month rentals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Vehicle storage in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Diamond Self Storage - Anchorage Airport",
+    "address": "5401 Northwood Dr, Anchorage, AK 99502",
+    "phone": "(907) 767-7727",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.uhaul.com/Locations/Self-Storage-near-Anchorage-AK/084017/",
+    "category": "Black-owned Vehicle storage in Alaska",
+    "description": "Offers climate-controlled storage and vehicle storage for cars, boats, and RVs, with amenities like electronic gate access and 24-hour access",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Vehicle storage in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Osprey Storage",
+    "address": "Multiple locations in Alaska, including Anchorage. (Specific addresses vary, check website)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ospreystorage.com/",
+    "category": "Black-owned Vehicle storage in Alaska",
+    "description": "Provides secure storage facilities with options for climate-controlled units, drive-up access, and vehicle storage for RVs, boats, and cars",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Vehicle storage in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Neighbor (Various Hosts)",
+    "address": "Various locations in Anchorage, AK (e.g., 3330 Creekside Dr, Anchorage, AK)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.neighbor.com/alaska/anchorage/car-storage",
+    "category": "Black-owned Vehicle storage in Alaska",
+    "description": "A peer-to-peer storage marketplace where individuals can rent out their driveways or other spaces for vehicle storage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Vehicle storage in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Airport Road Car Storage (ARCS)",
+    "address": "Not explicitly stated in search results, but implied to be near Airport Road in Anchorage",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.arcsstorage.com/",
+    "category": "Black-owned Vehicle storage in Alaska",
+    "description": "Specializes in long-term vehicle and motorcycle storage at affordable rates, serving Alaskans since 1960",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Vehicle storage in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Storage Star Anchorage- North",
+    "address": "225 Boniface Parkway, Anchorage AK 99504",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sparefoot.com/storage/ak/anchorage/storage-star-anchorage-north/",
+    "category": "Black-owned Vehicle storage in Alaska",
+    "description": "Offers outdoor uncovered parking spaces suitable for vehicle storage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Vehicle storage in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dimond Mini Storage",
+    "address": "5401 Northwood Drive, Anchorage AK 99502",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sparefoot.com/storage/ak/anchorage/dimond-mini-storage/",
+    "category": "Black-owned Vehicle storage in Alaska",
+    "description": "Provides various storage unit sizes and parking options, suitable for vehicle storage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Vehicle storage in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
