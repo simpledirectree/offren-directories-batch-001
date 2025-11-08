@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Thomas Music Co.",
+    "address": "Lancaster, PA",
+    "phone": "(717) 537-1186",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thomasmusiccompany.com/",
+    "category": "Buddhist-owned Guitar lessons in Pennsylvania",
+    "description": "Offers guitar lessons in all styles for acoustic, electric, classical, and bass guitar for all ages and levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Guitar lessons in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Downingtown Music Academy",
+    "address": "Downingtown, PA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.downingtownmusicacademy.com/",
+    "category": "Buddhist-owned Guitar lessons in Pennsylvania",
+    "description": "Offers virtual and in-person guitar lessons for beginners and experienced players",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Guitar lessons in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Quarter Bend Guitar Studio",
+    "address": "Lancaster, PA",
+    "phone": "(717) 537-1186",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.quarterbendguitar.com/",
+    "category": "Buddhist-owned Guitar lessons in Pennsylvania",
+    "description": "Provides guitar lessons with experienced instructors, offering free assessments and flexible scheduling",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Guitar lessons in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Philly Music Lessons",
+    "address": "Philadelphia, PA (Studio lessons in Fishtown and South Philly; in-home lessons in Philadelphia and Lower Merion)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.phillymusiclessons.com/",
+    "category": "Buddhist-owned Guitar lessons in Pennsylvania",
+    "description": "Offers in-home, studio, and online guitar lessons with experienced instructors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Guitar lessons in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Delco Guitar Studios",
+    "address": "Morton, PA (near Morton SEPTA stop)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.delcoguitar.com/",
+    "category": "Buddhist-owned Guitar lessons in Pennsylvania",
+    "description": "Offers private and group guitar lessons, beginner-friendly with flexible scheduling",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Guitar lessons in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Guitar Center (Harrisburg)",
+    "address": "Harrisburg, PA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.guitarcenter.com/lessons/",
+    "category": "Buddhist-owned Guitar lessons in Pennsylvania",
+    "description": "Offers personalized guitar lesson plans with flexible scheduling and a supportive learning environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Guitar lessons in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sunburst School of Music",
+    "address": "Pittsburgh, PA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sunburstschoolofmusic.com/",
+    "category": "Buddhist-owned Guitar lessons in Pennsylvania",
+    "description": "Offers in-person and online music lessons, including guitar, for all ages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Guitar lessons in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pennsylvania Meditation Center",
+    "address": "Crystal Spring, PA",
+    "phone": "814-954-9011 (for Mindfulness Meditation for Kids class)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pameditation.org/",
+    "category": "Buddhist-owned Guitar lessons in Pennsylvania",
+    "description": "This is a Buddhist center offering meditation and mindfulness practices, not guitar lessons",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Guitar lessons in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chenrezig Tibetan Buddhist Center of Philadelphia",
+    "address": "Philadelphia, PA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chenrezigphiladelphia.org/",
+    "category": "Buddhist-owned Guitar lessons in Pennsylvania",
+    "description": "A Buddhist center focused on meditation and teachings, not guitar instruction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Guitar lessons in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jinyin Temple",
+    "address": "1 Fernwood Ln, East Stroudsburg, PA 18302",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jinyin-temple.org/",
+    "category": "Buddhist-owned Guitar lessons in Pennsylvania",
+    "description": "A Buddhist temple promoting world peace and spiritual development, not offering guitar lessons",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Guitar lessons in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
