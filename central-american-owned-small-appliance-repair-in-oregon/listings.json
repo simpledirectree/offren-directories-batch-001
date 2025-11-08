@@ -1,0 +1,172 @@
+[
+  {
+    "name": "All Tech Appliance",
+    "address": "Not specified, serves Portland area",
+    "phone": "(503) 762-1427",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alltechappliance.com/",
+    "category": "Central-American-owned Small appliance repair in Oregon",
+    "description": "Offers repair services for most major residential appliances, including dishwashers, washers, dryers, refrigerators, freezers, ovens, stoves, ranges, cooktops, and microwaves. They have been servicing the Portland area since 2010",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Small appliance repair in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HVAC & Appliance Repair Guys",
+    "address": "Not specified, serves Lake Oswego and the Portland Metro Area",
+    "phone": "(503) 512-5900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://hvacappliancerepairguys.com/",
+    "category": "Central-American-owned Small appliance repair in Oregon",
+    "description": "Specializes in maintaining and repairing all types of equipment, including HVAC and appliances. They have over 22 years of experience and offer 24/7 service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Small appliance repair in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oregon Appliance Repair",
+    "address": "Multiple locations, serving Bend and Portland, OR. Specific address for Bend: 1133 NW Wall St., ES-5 Bend, Oregon 97703",
+    "phone": "541-948-8835",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.oregonappliancerepair.com/",
+    "category": "Central-American-owned Small appliance repair in Oregon",
+    "description": "A family-owned appliance repair company serving Central Oregon and Portland. They specialize in fast, reliable, and affordable repair services for all major kitchen and laundry appliances",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Small appliance repair in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "C&R Appliance Services",
+    "address": "Serves Southern Oregon, including Medford, Grants Pass, and Ashland",
+    "phone": "(541) 842-2428",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://cr-appliance-services.business.site/",
+    "category": "Central-American-owned Small appliance repair in Oregon",
+    "description": "Provides appliance repair for commercial and residential appliances, as well as commercial laundry in Southern Oregon. They have years of experience with all major brands",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Small appliance repair in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Central Oregon Appliance",
+    "address": "Bend, OR",
+    "phone": "541-527-5918",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.centraloregonappliance.com/",
+    "category": "Central-American-owned Small appliance repair in Oregon",
+    "description": "Offers sales and service for quality appliances in Bend and Central Oregon, including refrigerators, ranges, dishwashers, washers, and dryers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Small appliance repair in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cortech Repairs (Central Oregon Repair Technicians)",
+    "address": "Operates in Central Oregon, serving areas like Bend, Redmond, and Sisters",
+    "phone": "(541) 516-8420",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cortechrepairs.com/",
+    "category": "Central-American-owned Small appliance repair in Oregon",
+    "description": "A family-owned business providing professional and local appliance repair services for all brands and household appliances in Central Oregon",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Small appliance repair in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "A Better Life Appliance Repair",
+    "address": "Serves Central Oregon, including Bend, La Pine, Redmond, and Sisters",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.abllife.com/",
+    "category": "Central-American-owned Small appliance repair in Oregon",
+    "description": "A licensed and insured appliance repair service specializing in diagnosing and repairing a wide range of appliances efficiently and professionally",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Small appliance repair in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Small Appliance Repair Oregon",
+    "address": "Services across Oregon, with options to get estimates for local repairs",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.smallappliancerepairoregon.com/",
+    "category": "Central-American-owned Small appliance repair in Oregon",
+    "description": "Offers repair services for various small appliances, including toasters, coffee machines, espresso machines, and power tools across Oregon",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Small appliance repair in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Service Center",
+    "address": "7215 NE Sandy Blvd, Portland, OR 97213",
+    "phone": "(503) 287-1230",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.portlandrepairfinder.com/services/the-service-center",
+    "category": "Central-American-owned Small appliance repair in Oregon",
+    "description": "Repairs home appliances, including microwaves and trash compactors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Small appliance repair in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AAA Technology Repair",
+    "address": "4955 SW Western Ave #B, Portland, OR",
+    "phone": "(503) 619-6619",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.portlandrepairfinder.com/services/aaa-technology-repair",
+    "category": "Central-American-owned Small appliance repair in Oregon",
+    "description": "Repairs computers, electronics, and small appliances, with a specialization in antique and unusual items",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Small appliance repair in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
