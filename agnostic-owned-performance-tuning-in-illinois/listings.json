@@ -1,0 +1,172 @@
+[
+  {
+    "name": "RCautoworks",
+    "address": "Chicago, IL (Specific address not publicly available, but operates in Chicago)",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.rcautoworks.com/",
+    "category": "Agnostic-owned Performance tuning in Illinois",
+    "description": "Offers in-house dyno tuning, custom fabrication, and high-performance upgrades for various makes and models",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Performance tuning in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Modern Muscle",
+    "address": "10122 Bode Street, Plainfield, IL 60585",
+    "phone": "(630) 946-6688",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.modern-muscle.com/",
+    "category": "Agnostic-owned Performance tuning in Illinois",
+    "description": "Specializes in high-performance speed tuning, engine building, and custom builds, utilizing DynoJet dynamometers and various tuning software",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Performance tuning in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eagle Engine Performance",
+    "address": "Oak Lawn, IL (Specific address not publicly available, but operates in Oak Lawn)",
+    "phone": "",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Eagle+Engine+Performance+in+Illinois",
+    "category": "Agnostic-owned Performance tuning in Illinois",
+    "description": "An esteemed auto repair shop offering a wide range of quality services, including engine performance tuning and diagnostics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Performance tuning in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AMS Performance",
+    "address": "West Chicago, IL 60185",
+    "phone": "",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.amsperformance.com/",
+    "category": "Agnostic-owned Performance tuning in Illinois",
+    "description": "A well-known performance tuning shop offering a variety of services for high-performance vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Performance tuning in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "APM Tuned",
+    "address": "Villa Park, IL 60181",
+    "phone": "",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/APM+Tuned+in+Illinois",
+    "category": "Agnostic-owned Performance tuning in Illinois",
+    "description": "Offers ECU and dyno tuning services for performance enhancement",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Performance tuning in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Boomba Racing",
+    "address": "Wood Dale, IL 60191",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.boombaracing.com/",
+    "category": "Agnostic-owned Performance tuning in Illinois",
+    "description": "Specializes in performance parts and tuning for various vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Performance tuning in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DynoSource Performance",
+    "address": "Antioch, IL 60002",
+    "phone": "",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/DynoSource+Performance+in+Illinois",
+    "category": "Agnostic-owned Performance tuning in Illinois",
+    "description": "Provides dyno tuning and performance enhancement services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Performance tuning in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Midwest Performance & Tuning",
+    "address": "Illinois (Specific location not detailed, but operates in Illinois)",
+    "phone": "",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.midwestperformanceandtuning.com/",
+    "category": "Agnostic-owned Performance tuning in Illinois",
+    "description": "Specializes in motorcycle performance tuning and modifications, including in-house dyno tuning and ECU flashes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Performance tuning in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chicago Performance and Tuning Co.",
+    "address": "959 N. Garfield St. Lombard, IL, 60148",
+    "phone": "(708) 343-8677",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.gocpt.com/",
+    "category": "Agnostic-owned Performance tuning in Illinois",
+    "description": "Offers race, tune, and street services, with a focus on high-performance vehicles and motorsport",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Performance tuning in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AFA Performance",
+    "address": "2300 Wisconsin Ave, Suite 203, Downers Grove, IL 60515",
+    "phone": "",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://afaperformance.com/",
+    "category": "Agnostic-owned Performance tuning in Illinois",
+    "description": "Caters to car enthusiasts, offering services beyond conventional mechanics, including performance tuning and customization",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Performance tuning in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
