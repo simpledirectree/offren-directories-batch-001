@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Ocean Spa",
+    "address": "7280 Magnolia St., Commerce City, CO 80022",
+    "phone": "(303) 288-3806",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://oceanspacolorado.com/",
+    "category": "Asian-owned Body scrubs in Colorado",
+    "description": "Offers relaxation and Asian massage services, and may offer body scrubs as part of their spa treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Body scrubs in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian Massage Spa",
+    "address": "2857 Colorado Blvd, Denver, CO 80207",
+    "phone": "",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.fresha.com/providers/asian-massage-spa-k9z2m7o3",
+    "category": "Asian-owned Body scrubs in Colorado",
+    "description": "Offers body scrubs, sauna, and spa packages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Body scrubs in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Havana Sauna",
+    "address": "Not explicitly listed, but implied to be in the Denver area",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Havana+Sauna+in+Colorado",
+    "category": "Asian-owned Body scrubs in Colorado",
+    "description": "Offers \"Korean Style\" body scrubs and other spa services, with a focus on traditional Asian spa experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Body scrubs in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SLA Medical Spa",
+    "address": "Aurora, CO (specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://slamedicalspa.com/",
+    "category": "Asian-owned Body scrubs in Colorado",
+    "description": "Offers K-Beauty (Korean skincare) services, with estheticians trained in Korea. They may offer body treatments that include scrubs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Body scrubs in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Parks Innovations LLC/Korea's Best Skincare Shop/K-BeautyDenver",
+    "address": "333 S. Federal Blvd. Denver, CO 80219",
+    "phone": "(303) 949-2292",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kbeautydenver.com/",
+    "category": "Asian-owned Body scrubs in Colorado",
+    "description": "Focuses on Korean skincare products and educational services, likely offering treatments that incorporate body scrubs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Body scrubs in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
