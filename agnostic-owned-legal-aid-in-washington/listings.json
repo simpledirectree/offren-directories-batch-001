@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Northwest Justice Project (NJP)",
+    "address": "",
+    "phone": "1-888-201-1014 (CLEAR Hotline)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nwjustice.org/",
+    "category": "Agnostic-owned Legal aid in Washington",
+    "description": "NJP provides legal assistance to eligible low-income families and individuals with civil (non-criminal) legal problems across Washington State. They offer advice, representation, and self-help materials",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Legal aid in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CLEAR (Coordinated Legal Education, Advice and Referral)",
+    "address": "",
+    "phone": "1-888-201-1014",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nwjustice.org/get-legal-help/",
+    "category": "Agnostic-owned Legal aid in Washington",
+    "description": "CLEAR is the statewide, centralized point of access for clients seeking free legal help in Washington. It is operated by the Northwest Justice Project",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Legal aid in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alliance for Equal Justice",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.equaljustice.wa.gov/",
+    "category": "Agnostic-owned Legal aid in Washington",
+    "description": "This is a network of organizations in Washington State that work to ensure people in poverty have access to civil legal help and to promote a fairer legal system. They can help connect you with services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Legal aid in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Central Washington Legal Aid (CWLA)",
+    "address": "(Specific address varies by location, but serves Yakima and surrounding counties)",
+    "phone": "1-888-204-1014",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.centralwashingtonlegalaid.org/",
+    "category": "Agnostic-owned Legal aid in Washington",
+    "description": "CWLA provides free civil legal services to low-income individuals and families in Central Washington, with an emphasis on underserved communities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Legal aid in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Snohomish County Legal Services (SCLS)",
+    "address": "(Serves Snohomish County)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://snocollaw.org/",
+    "category": "Agnostic-owned Legal aid in Washington",
+    "description": "SCLS provides free civil legal aid services to eligible low-income residents of Snohomish County, focusing on areas like family law and housing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Legal aid in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Communities Rise",
+    "address": "PO Box 28399, Seattle, WA 98118",
+    "phone": "206-324-5850",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://communities-rise.org/",
+    "category": "Agnostic-owned Legal aid in Washington",
+    "description": "Communities Rise connects nonprofits with volunteer attorneys for legal assistance and offers monthly legal clinics for eligible nonprofit organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Legal aid in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Washington Lawyers for the Arts",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thewla.org/",
+    "category": "Agnostic-owned Legal aid in Washington",
+    "description": "Provides legal assistance to artists and arts organizations in Washington",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Legal aid in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ACLU of Washington",
+    "address": "701 Pike St, Suite 1200, Seattle, WA 98101",
+    "phone": "206-343-0681",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aclu-wa.org/",
+    "category": "Agnostic-owned Legal aid in Washington",
+    "description": "Focuses on civil liberties and civil rights issues, offering legal advocacy and representation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Legal aid in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Columbia Legal Services",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.columbialegal.org/",
+    "category": "Agnostic-owned Legal aid in Washington",
+    "description": "Focuses on civil cases that affect a large number of low-income people, often addressing systemic issues",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Legal aid in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kitsap Legal Aid Services",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://kitsaplegalaid.org/",
+    "category": "Agnostic-owned Legal aid in Washington",
+    "description": "Provides legal services to low-income individuals and families in Kitsap County",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Legal aid in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
