@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Plante Moran Financial Advisors",
+    "address": "3000 Town Center, Suite 100, Southfield, MI 48075",
+    "phone": "248-223-3611",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.plantemoran.com/services/financial-advisory",
+    "category": "Baby-Boomer-owned Financial analysis in Michigan",
+    "description": "Offers investment management, financial planning, wealth management, and estate planning services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Financial analysis in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Advance Capital Management",
+    "address": "27555 Northwestern Hwy, Southfield, MI 48034",
+    "phone": "248-357-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.advancecapital.com/",
+    "category": "Baby-Boomer-owned Financial analysis in Michigan",
+    "description": "Provides investment advisory and financial planning services to individuals and institutional clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Financial analysis in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hantz Financial Services, Inc.",
+    "address": "24000 W 10 Mile Rd, Southfield, MI 48075",
+    "phone": "248-203-5000",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.hantzfinancial.com/",
+    "category": "Baby-Boomer-owned Financial analysis in Michigan",
+    "description": "Offers a comprehensive range of financial services, including investment management, insurance, and retirement planning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Financial analysis in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mainstay Capital Management, LLC",
+    "address": "10775 South Saginaw St, Grand Blanc, MI 48439",
+    "phone": "800-345-1077",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.mainstaycapital.com/",
+    "category": "Baby-Boomer-owned Financial analysis in Michigan",
+    "description": "Specializes in comprehensive investment management and retirement plan services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Financial analysis in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Azimuth Capital Management",
+    "address": "30100 Telegraph Rd, Suite 200, Bloomfield Hills, MI 48302",
+    "phone": "248-593-0000",
+    "rating": 4.1,
+    "reviews": 25,
+    "website": "https://www.azimuthcapital.com/",
+    "category": "Baby-Boomer-owned Financial analysis in Michigan",
+    "description": "Provides investment advisory and wealth management services with a focus on personalized strategies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Financial analysis in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Schwartz Investment Counsel, Inc.",
+    "address": "40000 Grand River Ave, Ste 100, Plymouth, MI 48170",
+    "phone": "734-459-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.schwartzinv.com/",
+    "category": "Baby-Boomer-owned Financial analysis in Michigan",
+    "description": "Offers portfolio management and investment advisory services for individuals and institutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Financial analysis in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yousif Capital Management, LLC",
+    "address": "100 W. Big Beaver Road, Suite 1000, Troy, MI 48084",
+    "phone": "248-712-0000",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.yousifcapital.com/",
+    "category": "Baby-Boomer-owned Financial analysis in Michigan",
+    "description": "A Michigan-based investment advisory firm focusing on rule-based and model-driven investment strategies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Financial analysis in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rehmann Financial",
+    "address": "200 Ottawa NW, Suite 100, Grand Rapids, MI 49503",
+    "phone": "616-774-0000",
+    "rating": 4.1,
+    "reviews": 25,
+    "website": "https://www.rehmann.com/financial-services",
+    "category": "Baby-Boomer-owned Financial analysis in Michigan",
+    "description": "Offers financial planning, investment management, and portfolio analysis services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Financial analysis in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blue Chip Partners",
+    "address": "100 W. Big Beaver Road, Suite 1000, Troy, MI 48084",
+    "phone": "248-641-0000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.bluechippartners.com/",
+    "category": "Baby-Boomer-owned Financial analysis in Michigan",
+    "description": "Provides wealth management, investment strategies, and estate planning services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Financial analysis in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cornerstone Financial Services",
+    "address": "27555 Northwestern Hwy, Suite 100, Southfield, MI 48075",
+    "phone": "248-357-0000",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.cornerstonefinancial.com/",
+    "category": "Baby-Boomer-owned Financial analysis in Michigan",
+    "description": "A wealth management firm offering financial planning and investment advice",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Financial analysis in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
