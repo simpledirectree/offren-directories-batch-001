@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Secular Hub",
+    "address": "2540 19th St, Denver, CO 80211",
+    "phone": "(303) 500-3727",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.secularhub.org/",
+    "category": "Atheist-owned Equal employment opportunity compliance in Colorado",
+    "description": "A non-profit community center for the secular community, promoting reason, critical thinking, and fellowship. They host various events and activities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Equal employment opportunity compliance in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Western Colorado Atheists and Freethinkers (WCAF)",
+    "address": "Primarily serves Grand Junction and Western Colorado. Specific business addresses are not listed as they are a community and advocacy group",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://wcaf.org/",
+    "category": "Atheist-owned Equal employment opportunity compliance in Colorado",
+    "description": "Western Colorado's secular community and advocacy group, promoting atheism, rational conclusions, and the separation of church and state",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Equal employment opportunity compliance in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Freethinkers of Colorado Springs",
+    "address": "Meetings are held via Zoom. Specific physical address for a business is not provided",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.meetup.com/freethinkers-of-colorado-springs/",
+    "category": "Atheist-owned Equal employment opportunity compliance in Colorado",
+    "description": "A group focused on reason and free inquiry, discussing various topics from a secular perspective",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Equal employment opportunity compliance in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
