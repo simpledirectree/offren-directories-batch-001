@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Panda Express",
+    "address": "Multiple locations across Brooklyn, Bronx, Queens, and Manhattan. For example, 423 Fulton Street, Brooklyn, NY 11201",
+    "phone": "Varies by location. (e.g., (718) 858-0588 for Brooklyn Dekalb Market location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pandaexpress.com/",
+    "category": "Asian-owned Quick service in New-York",
+    "description": "A popular chain offering American-Chinese fast-casual dining with a menu featuring Orange Chicken, Kung Pao Chicken, and other classic dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Quick service in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Xi'an Famous Foods",
+    "address": "Multiple locations throughout Manhattan, Brooklyn, and Queens. For example, 45 Bayard St, New York, NY 10013",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.xianfoods.com/",
+    "category": "Asian-owned Quick service in New-York",
+    "description": "This family-run restaurant specializes in authentic Western Chinese cuisine, known for its hand-pulled noodles, \"burgers,\" and spicy cumin lamb dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Quick service in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "QuickGrill Japan",
+    "address": "1445 Richmond Ave, Staten Island, NY 10314",
+    "phone": "(718) 227-9900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.seamless.com/menu/quickgrill-japan-1445-richmond-ave-staten-island/201889",
+    "category": "Asian-owned Quick service in New-York",
+    "description": "Offers a variety of Japanese dishes, including sushi rolls and teriyaki, in a quick-service format",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Quick service in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yum Yum Eastern",
+    "address": "3279 Richmond Ave, Staten Island, NY 10312",
+    "phone": "(718) 227-9900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.seamless.com/menu/yum-yum-eastern-3279-richmond-ave-staten-island/201889",
+    "category": "Asian-owned Quick service in New-York",
+    "description": "Serves a mix of Asian cuisines, including Chinese, Japanese, and Thai, with a focus on fresh and tasty dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Quick service in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Milu",
+    "address": "235 Kent Avenue, Brooklyn, NY 11249",
+    "phone": "(718) 384-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.milu.nyc/",
+    "category": "Asian-owned Quick service in New-York",
+    "description": "A fast-casual Chinese restaurant from an Eleven Madison Park alum, offering an affordable menu with protein and vegetable mains, rice, and sides",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Quick service in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lin's Asian Restaurant",
+    "address": "1506 Bronxdale Ave, Bronx, NY 10462",
+    "phone": "(718) 824-8888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.linsasianrestaurant.com/",
+    "category": "Asian-owned Quick service in New-York",
+    "description": "Offers a wide array of authentic Chinese, Japanese, and Thai food, including lunch specials and dinner options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Quick service in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "East Pacific",
+    "address": "2655 Richmond Ave, Staten Island, NY 10314",
+    "phone": "(718) 370-2225",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eastpacificny.com/",
+    "category": "Asian-owned Quick service in New-York",
+    "description": "A Pan-Asian restaurant offering a diverse menu from sushi to dim sum and pad Thai, known for flavorful dishes and friendly service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Quick service in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Peking Express",
+    "address": "134-12 Rockaway Blvd, Queens, NY 11420",
+    "phone": "(718) 527-8888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pekingexpressny.com/",
+    "category": "Asian-owned Quick service in New-York",
+    "description": "An Asian Fusion restaurant serving a range of flavorful dishes with fresh ingredients in a contemporary atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Quick service in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Xin Hi",
+    "address": "2051 Bartow Ave, Bronx, NY 10470",
+    "phone": "(718) 671-7777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.xinhiny.com/",
+    "category": "Asian-owned Quick service in New-York",
+    "description": "Offers a variety of Chinese dishes, including lunch specials and popular items like Shrimp Lo Mein and Sweet and Sour Chicken",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Quick service in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dim Sum Palace",
+    "address": "Multiple locations throughout New York City. For example, 123 William St, New York, NY 10038",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dimsumpalace.nyc/",
+    "category": "Asian-owned Quick service in New-York",
+    "description": "Known for authentic Cantonese cuisine and dim sum, offering a fine dining experience in an elegant atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Quick service in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
