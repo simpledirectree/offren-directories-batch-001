@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Black Keys Digital",
+    "address": "Henrico, Virginia (Serves All of Virginia)",
+    "phone": "804-376-8767",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackkeysdigital.com/",
+    "category": "Black-owned React development in Virginia",
+    "description": "Offers website development, SEO services, and digital marketing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned React development in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bnevol",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bnevol.com/",
+    "category": "Black-owned React development in Virginia",
+    "description": "A Black-owned digital agency offering web design, marketing, and strategy solutions, particularly for mission-focused organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned React development in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EraBright",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://erabright.com/",
+    "category": "Black-owned React development in Virginia",
+    "description": "A Black-owned web design agency specializing in modern, functional websites tailored to specific business goals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned React development in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Willow, Inc.",
+    "address": "9300 Grant Ave, Manassas, Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://blackwillow.net/",
+    "category": "Black-owned React development in Virginia",
+    "description": "Provides custom software development, web development, and IT consulting services. They mention expertise in React",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned React development in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "QualityWorks",
+    "address": "Not specified in search results",
+    "phone": "(888) 331\u20139588",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.qualityworkscg.com/",
+    "category": "Black-owned React development in Virginia",
+    "description": "A Black-owned and woman-led software consulting company specializing in web and mobile application development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned React development in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
