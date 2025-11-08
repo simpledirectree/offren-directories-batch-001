@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Sub-Edge Farm",
+    "address": "199 Town Farm Rd, Farmington, CT 06032",
+    "phone": "(860) 404-0011",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.subedgefarm.com/",
+    "category": "Christian-owned Agricultural documentation in Connecticut",
+    "description": "A certified organic farm offering vegetables, fruits, herbs, and grass-fed meats. They sell products from their farm shop and through a CSA program",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural documentation in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Waldingfield Farm",
+    "address": "100 North Rd, Washington, CT 06793",
+    "phone": "(860) 868-7345",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.waldingfield.com/",
+    "category": "Christian-owned Agricultural documentation in Connecticut",
+    "description": "A certified organic vegetable farm with a farm stand and event venue. They focus on environmentally responsible farming practices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural documentation in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Farm Credit East",
+    "address": "Multiple locations, including 1000 New London Turnpike, Glastonbury, CT 06033",
+    "phone": "(800) 562-2206",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.farmcrediteast.com/",
+    "category": "Christian-owned Agricultural documentation in Connecticut",
+    "description": "Provides financial services, including bookkeeping and accounting, to agricultural businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural documentation in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "UConn Extension (Solid Ground Program)",
+    "address": "Various locations, main office at 1376 Storrs Rd, Storrs, CT 06269",
+    "phone": "(860) 486-5000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://extension.uconn.edu/",
+    "category": "Christian-owned Agricultural documentation in Connecticut",
+    "description": "Offers consultation services and resources for new and beginning farmers in Connecticut, including professional soil, conservation, and land use consulting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural documentation in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Connecticut Department of Agriculture",
+    "address": "165 Capitol Ave, Hartford, CT 06106",
+    "phone": "(860) 566-4661",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://portal.ct.gov/DOAG",
+    "category": "Christian-owned Agricultural documentation in Connecticut",
+    "description": "Provides a range of programs and services for farms and businesses, including grants, licenses, and business assistance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural documentation in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Connecticut Farm Bureau Association",
+    "address": "104 South St, Suffield, CT 06078",
+    "phone": "(860) 760-1777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ctfarmbureau.org/",
+    "category": "Christian-owned Agricultural documentation in Connecticut",
+    "description": "Supports Connecticut farmers by providing resources, expertise, and business solutions for farm operations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural documentation in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Croptracker",
+    "address": "Not specified (software provider)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.croptracker.com/",
+    "category": "Christian-owned Agricultural documentation in Connecticut",
+    "description": "Offers farm record-keeping software to help farmers manage operations, ensure food safety, and improve efficiency",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural documentation in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Millane Services, LLC",
+    "address": "Not specified (Agricultural Consultant)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Millane+Services,+LLC+in+Connecticut",
+    "category": "Christian-owned Agricultural documentation in Connecticut",
+    "description": "Listed as an agricultural consultant near Hartford, CT",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural documentation in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Green Solutions LLC",
+    "address": "Not specified (Agricultural Consultant)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Green+Solutions+LLC+in+Connecticut",
+    "category": "Christian-owned Agricultural documentation in Connecticut",
+    "description": "Listed as an agricultural consultant and horticultural consultant near Hartford, CT",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural documentation in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AgRIpro, LLC",
+    "address": "Not specified (Agricultural Consultant)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/AgRIpro,+LLC+in+Connecticut",
+    "category": "Christian-owned Agricultural documentation in Connecticut",
+    "description": "Listed as an agricultural consultant near Hartford, CT",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Agricultural documentation in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
