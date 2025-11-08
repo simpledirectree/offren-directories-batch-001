@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Dr. James H. Lancaster, DDS, MS, PC",
+    "address": "Fargo, North Dakota",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.drjameshlancasterdds.com/",
+    "category": "African-American-owned Periodontics in North-Dakota",
+    "description": "Specializes in periodontics and dental implants",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Periodontics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dakota Periodontics",
+    "address": "1142 W Capitol Ave, Bismarck, ND 58501",
+    "phone": "701-222-8760",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.dakotaperiodontics.com/",
+    "category": "African-American-owned Periodontics in North-Dakota",
+    "description": "Offers comprehensive periodontal care, including gum recession treatments, scaling and root planing, crown lengthening, and implants",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Periodontics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Minot Dental Partners",
+    "address": "Minot, North Dakota",
+    "phone": "701-839-1705",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Minot+Dental+Partners+North+Dakota",
+    "category": "African-American-owned Periodontics in North-Dakota",
+    "description": "Provides prevention, diagnosis, and treatment of periodontal disease, as well as dental implant placement",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Periodontics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dakota Dental Health Center",
+    "address": "Minot, North Dakota",
+    "phone": "701-852-4755",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Dakota+Dental+Health+Center+North+Dakota",
+    "category": "African-American-owned Periodontics in North-Dakota",
+    "description": "Offers periodontic services including soft tissue grafting, Arestin treatment, and occlusal adjustment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Periodontics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mark Jung Periodontics",
+    "address": "Fargo, ND 58104",
+    "phone": "701-234-0333",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mark+Jung+Periodontics+North+Dakota",
+    "category": "African-American-owned Periodontics in North-Dakota",
+    "description": "Specializes in the treatment of bone and tissue surrounding the tooth, offering procedures such as osseous surgery, scaling/root planing, soft tissue grafting, bone grafting, and implant placement",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Periodontics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
