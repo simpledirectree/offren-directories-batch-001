@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Chef Guo",
+    "address": "135 E 50th St, New York, NY 10022",
+    "phone": "(212) 866-9888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chef-guo.com/",
+    "category": "Chinese-American-owned Personal chefs in New-York",
+    "description": "Specializes in personalized gourmet Chinese cuisine, rooted in ancient Chinese teachings and modern nutritional science. He has over forty years of culinary expertise and has catered to distinguished guests",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Personal chefs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zoey Xinyi Gong",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Zoey+Xinyi+Gong+New+York",
+    "category": "Chinese-American-owned Personal chefs in New-York",
+    "description": "A personal chef who bridges culinary artistry and Traditional Chinese Medicine, offering a fusion of flavors and healing. She uses seasonal ingredients and TCM herbs to create a balance of taste and wellness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Personal chefs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chef Chunyen Huang",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chef+Chunyen+Huang+New+York",
+    "category": "Chinese-American-owned Personal chefs in New-York",
+    "description": "A graduate of the Culinary Institute of America, specializing in Taiwanese, Japanese, and Chinese cuisine, as well as fusion cuisine. She is also skilled in vegetarian cuisine and holds a Qualifying Certificate in Food Protection from New York City",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Personal chefs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chef Jerry Wan",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chef+Jerry+Wan+New+York",
+    "category": "Chinese-American-owned Personal chefs in New-York",
+    "description": "A private chef in New York City who creates unforgettable dining experiences. He learned to prepare traditional Chinese dishes from his parents and has worked in various culinary establishments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Personal chefs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chef Maung",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chef+Maung+New+York",
+    "category": "Chinese-American-owned Personal chefs in New-York",
+    "description": "Specializes in sushi and Japanese cuisine, with 20 years of experience, including seven years in Tokyo. He offers a private chef experience with contemporary Asian favorites, using fresh, high-quality ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Personal chefs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sue Park (Sue Chef Inc.)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Sue+Park+(Sue+Chef+Inc.)+New+York",
+    "category": "Chinese-American-owned Personal chefs in New-York",
+    "description": "Offers customized meals, snacks, and meal kits, accommodating all dietary preferences. Her menus incorporate a variety of global flavors, including Asian cuisines like Korean, Japanese, and Chinese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Personal chefs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chef Jeffrey Pearson (JP Fine Foods LLC)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chef+Jeffrey+Pearson+(JP+Fine+Foods+LLC)+New+York",
+    "category": "Chinese-American-owned Personal chefs in New-York",
+    "description": "A Certified Executive Chef with over 20 years of professional experience, trained in French, Italian, Latin, and California cuisine with Asian influence. He offers luxury multi-course tasting menus for private events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Personal chefs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chef William Quinn",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chef+William+Quinn+New+York",
+    "category": "Chinese-American-owned Personal chefs in New-York",
+    "description": "A private chef who is fluent in Mandarin and comfortable cooking Chinese cuisine. He describes himself as creative and willing to take risks, blending new elements with old traditions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Personal chefs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chef Yu",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chef+Yu+New+York",
+    "category": "Chinese-American-owned Personal chefs in New-York",
+    "description": "Serves spicy Sichuan dishes, with specialties including Beef Tendon and marinated beef with hot pepper sauce. His restaurant is known for delicious and inexpensive lunch specials",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Personal chefs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gathar Private Chefs (Chinese Cuisine)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Gathar+Private+Chefs+(Chinese+Cuisine)+New+York",
+    "category": "Chinese-American-owned Personal chefs in New-York",
+    "description": "Gathar connects clients with private chefs in New York who can create a customized Chinese dining experience at home. They offer a range of Chinese dishes, from BBQ specialties to wok-tossed favorites",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Personal chefs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
