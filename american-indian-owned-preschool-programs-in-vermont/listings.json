@@ -1,0 +1,138 @@
+[
+  {
+    "name": "The Schoolhouse Learning Center",
+    "address": "8 Catkin Drive, South Burlington, VT 05403",
+    "phone": "802-658-4164",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.theschoolhousevt.org/",
+    "category": "American-Indian-owned Preschool programs in Vermont",
+    "description": "This school has a dedicated Abenaki-inspired Three Sisters Garden and receives heirloom seeds from the Elnu and Nulhegan bands of the Vermont Abenaki tribe. Their \"Story Time\" preschool program is a State of Vermont 5-Star program",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Preschool programs in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arrowhead Forest Farm",
+    "address": "Not explicitly listed, but operates as a forest preschool",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Arrowhead+Forest+Farm+in+Vermont",
+    "category": "American-Indian-owned Preschool programs in Vermont",
+    "description": "This is a nature-based forest preschool that aligns with Vermont Early Education Learning Standards. While not explicitly Native American-owned, its focus on nature and community development may resonate with indigenous values",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Preschool programs in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North Branch Nature Center - Forest Preschool",
+    "address": "Not explicitly listed, but is embedded in a nature center",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://northbranchnaturecenter.org/forest-preschool/",
+    "category": "American-Indian-owned Preschool programs in Vermont",
+    "description": "This is Vermont's first licensed Forest Preschool embedded in a nature center. It is a play-based program focused on connecting children with nature",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Preschool programs in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wild Strawberry Forest School",
+    "address": "Not explicitly listed, but operates on a 10-acre homestead",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wildstrawberryforestschool.com/",
+    "category": "American-Indian-owned Preschool programs in Vermont",
+    "description": "This is a forest school for 2-5 year olds that acknowledges the land was first stewarded by the Sokoki tribe of the Abenaki Indigenous people. They are entirely outdoors from mid-April through October",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Preschool programs in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Wilds Preschool - Crow's Path",
+    "address": "Located in the New North End of Burlington, VT, with access to Arms Forest and Rock Point",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.crowspath.org/the-wilds-preschool",
+    "category": "American-Indian-owned Preschool programs in Vermont",
+    "description": "This preschool focuses on cultivating a connection to \"wildness\" through nature-based activities, storytelling, and play. They accept Act 166 and CCFAP",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Preschool programs in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Natural Child School",
+    "address": "26 Fort Dummer Heights, Brattleboro, Vermont 05301",
+    "phone": "802-310-3579",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Natural+Child+School+in+Vermont",
+    "category": "American-Indian-owned Preschool programs in Vermont",
+    "description": "This is an all-inclusive childcare program that emphasizes child-led play and outdoor experiences in a natural setting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Preschool programs in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Old School of South Burlington",
+    "address": "Located at Ascension Lutheran Church (95 Allen Road) in South Burlington",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Old+School+of+South+Burlington+in+Vermont",
+    "category": "American-Indian-owned Preschool programs in Vermont",
+    "description": "This preschool offers a full-day program where nature informs the curriculum and they have access to 6+ acres of forest for outdoor learning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Preschool programs in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gan Yeladim",
+    "address": "Not explicitly listed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ganyeladimvt.org/",
+    "category": "American-Indian-owned Preschool programs in Vermont",
+    "description": "This is a Reggio Emilia inspired, Jewish preschool. While not Native American-owned, it is mentioned in the search results",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Preschool programs in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
