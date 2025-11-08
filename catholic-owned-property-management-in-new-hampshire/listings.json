@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Catholic Charities New Hampshire",
+    "address": "100 William Loeb Dr, Unit 3, Manchester, NH 03109",
+    "phone": "603-669-3030",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Charities+New+Hampshire+New+Hampshire",
+    "category": "Catholic-owned Property management in New-Hampshire",
+    "description": "Catholic Charities New Hampshire is a large social services organization providing a wide range of programs and services throughout the state, including affordable housing development and senior living communities. They address issues such as poverty, homelessness, food insecurity, mental health, and isolation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Property management in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Diocese of Manchester",
+    "address": "153 Ash Street, Manchester, NH 03104",
+    "phone": "603-669-3100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Diocese+of+Manchester+New+Hampshire",
+    "category": "Catholic-owned Property management in New-Hampshire",
+    "description": "The Diocese of Manchester has an Office of Real Estate that assists in the stewardship of diocesan properties, including development of policy, evaluation of projects, and ensuring the integrity of property tax exemptions. They also list real estate properties for sale",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Property management in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
