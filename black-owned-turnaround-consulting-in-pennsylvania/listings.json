@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Generative Consulting Partners",
+    "address": "200 South Broad St Suite 410, Philadelphia, PA 19102",
+    "phone": "(267) 788-6935",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.generativeconsultingpartners.com/",
+    "category": "Black-owned Turnaround consulting in Pennsylvania",
+    "description": "This Black-owned consulting firm is committed to co-creating effective operational and leadership programs for social sector leaders and organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Turnaround consulting in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
