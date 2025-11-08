@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Indigo Salon",
+    "address": "189 Battery Street, Burlington, VT 05401",
+    "phone": "(802) 658-2010",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.indigoburlington.com/",
+    "category": "Asian-owned Hair coloring in Vermont",
+    "description": "Consistently voted \"Best Hair Salon\" in Burlington, Indigo specializes in on-trend hair cutting and outstanding hair color services, including balayage, ombre, and highlights",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair coloring in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Salon Vermont",
+    "address": "340 Dorset Street, South Burlington, VT 05403 (also has a location at 34 Blair Park, Williston)",
+    "phone": "(802) 862-1110 (South Burlington)",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.salonvermont.com/",
+    "category": "Asian-owned Hair coloring in Vermont",
+    "description": "Salon Vermont features independent hair stylists who are pros in color and cuts, emphasizing a supportive and respectful community atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair coloring in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Talmo Hair Co.",
+    "address": "1 Mill Street, Suite 250, Burlington, VT 05401 (also has a location in Barre)",
+    "phone": "(802) 310-3114",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.talmohairco.com/",
+    "category": "Asian-owned Hair coloring in Vermont",
+    "description": "Known for its skilled stylists and use of Goldwell color, Talmo Hair Co. offers a range of coloring services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair coloring in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shear Heaven Salon & Day Spa",
+    "address": "100 State Street, Rutland, VT 05701",
+    "phone": "(802) 775-5565",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.shearheavensalon.com/",
+    "category": "Asian-owned Hair coloring in Vermont",
+    "description": "Voted \"Best of the Best\" in color services, Shear Heaven offers expert hair coloring and highlights",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair coloring in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Purple Sage Spa & Salon",
+    "address": "100 Dorset Street, Suite 1A, South Burlington, VT 05403",
+    "phone": "(802) 881-0011",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://purplesagevt.com/",
+    "category": "Asian-owned Hair coloring in Vermont",
+    "description": "Purple Sage offers a range of luxury hair services, including custom color, highlights, and balayage, with a focus on a relaxing and restorative experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair coloring in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lakeshore Hair",
+    "address": "155 W Lakeshore Dr, Colchester, VT 05446",
+    "phone": "(802) 655-3333",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.lakeshorehairvt.com/",
+    "category": "Asian-owned Hair coloring in Vermont",
+    "description": "This Colchester salon provides expert haircuts, coloring, and treatments in a warm and welcoming atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair coloring in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mirror Mirror",
+    "address": "3 Main St Suite 102, Burlington, VT 05401 (also has a location in Shelburne)",
+    "phone": "(802) 861-7500",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://mirrormirrorvt.com/",
+    "category": "Asian-owned Hair coloring in Vermont",
+    "description": "Mirror Mirror has master colorists and stylists specializing in blonding services, balayage, and custom cuts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair coloring in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Signature Styles Salon",
+    "address": "100 State Street, Montpelier, VT 05602",
+    "phone": "(802) 223-7272",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://signaturestylesvt.com/",
+    "category": "Asian-owned Hair coloring in Vermont",
+    "description": "Known for expertise in hair cutting techniques and natural curly hair, Signature Styles also offers a full range of color services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair coloring in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Orbit Hair Design",
+    "address": "100 Dorset Street, Suite 4B, South Burlington, VT 05403",
+    "phone": "(802) 860-6240",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://orbithairdesign.com/",
+    "category": "Asian-owned Hair coloring in Vermont",
+    "description": "Orbit Hair Design is Vermont's only Ouidad Certified salon and offers a variety of hair coloring and styling services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair coloring in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chop Shop Hair Design",
+    "address": "100 Dorset Street Suite 4C, South Burlington, VT 05403",
+    "phone": "(802) 660-4343",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.chopshophairdesign.com/",
+    "category": "Asian-owned Hair coloring in Vermont",
+    "description": "This salon offers a range of services including haircuts, highlights, and waxing, with stylists who listen to client needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Hair coloring in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
