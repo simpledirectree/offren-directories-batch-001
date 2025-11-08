@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Animal Medical Center",
+    "address": "510 E 62nd St, New York, NY 10065",
+    "phone": "(212) 838-7053",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.amcny.org/",
+    "category": "Armenian-speaking Veterinarians in New-York",
+    "description": "A large, well-established veterinary hospital offering a wide range of services, including internal medicine and emergency care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinarians in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Westside Veterinary Center",
+    "address": "710 Amsterdam Ave, New York, NY 10025",
+    "phone": "(212) 866-2100",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.westsidevet.com/",
+    "category": "Armenian-speaking Veterinarians in New-York",
+    "description": "Offers specialized veterinary care including internal medicine, avian, and exotic medicine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinarians in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BluePearl Pet Hospital Midtown NYC",
+    "address": "410 W 54th St, New York, NY 10019",
+    "phone": "(646) 524-4000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.bluepearlvet.com/hospital/midtown-nyc-ny/",
+    "category": "Armenian-speaking Veterinarians in New-York",
+    "description": "Provides emergency and critical care services for pets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinarians in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Worth Street Veterinary Center",
+    "address": "115 Worth St, New York, NY 10013",
+    "phone": "(212) 227-7285",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.worthstreetvet.com/",
+    "category": "Armenian-speaking Veterinarians in New-York",
+    "description": "A privately owned practice focusing on individualized care in a warm and friendly environment, accredited by AAHA",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinarians in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Harlem Animal Hospital",
+    "address": "2284 Frederick Douglass Blvd, New York, NY 10027",
+    "phone": "(212) 234-0400",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.harlemanimalhospital.com/",
+    "category": "Armenian-speaking Veterinarians in New-York",
+    "description": "Offers a range of veterinary services with a focus on compassionate care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinarians in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Animal Clinic of Bay Ridge",
+    "address": "7511 4th Ave, Brooklyn, NY 11209",
+    "phone": "(718) 748-1000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.animalclinicofbayridge.com/",
+    "category": "Armenian-speaking Veterinarians in New-York",
+    "description": "Provides high-quality veterinary medicine at an affordable cost, with experienced veterinarians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinarians in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Glendale Veterinary Clinic",
+    "address": "78-18 73rd Pl, Glendale, NY 11385",
+    "phone": "(718) 417-5555",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.glendalenvets.com/",
+    "category": "Armenian-speaking Veterinarians in New-York",
+    "description": "Offers comprehensive small animal medicine with an emphasis on surgery, internal medicine, and cardiology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinarians in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ardsley Veterinary Associates",
+    "address": "705 Saw Mill River Rd, Ardsley, NY 10502",
+    "phone": "(914) 693-0004",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.ardsleyvet.com/",
+    "category": "Armenian-speaking Veterinarians in New-York",
+    "description": "Provides kind and honest veterinary care with a focus on internal medicine and soft tissue surgery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinarians in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Roosevelt Veterinary Center",
+    "address": "1507 Route 22, Brewster, NY 10509",
+    "phone": "(845) 279-5050",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.rooseveltveterinarycenter.com/",
+    "category": "Armenian-speaking Veterinarians in New-York",
+    "description": "A small animal hospital offering a full array of pet health services, including diagnostics and treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinarians in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "URvet Care",
+    "address": "Multiple locations in NYC (e.g., 115 E 15th St, New York, NY 10003)",
+    "phone": "(888) 878-3827",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://urvet.care/",
+    "category": "Armenian-speaking Veterinarians in New-York",
+    "description": "Offers comprehensive pet healthcare with cutting-edge technology, expert medical care, and 24-hour availability",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinarians in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
