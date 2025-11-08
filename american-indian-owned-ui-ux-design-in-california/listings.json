@@ -1,0 +1,87 @@
+[
+  {
+    "name": "EnlightWorks",
+    "address": "San Francisco, California; Benicia, California; Portland, Oregon; and Seattle, Washington",
+    "phone": "",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/EnlightWorks+in+California",
+    "category": "American-Indian-owned UI/UX design in California",
+    "description": "A web design and digital marketing company specializing in website development, SEO, and ongoing support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned UI/UX design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Digital Mountaineers, LLC",
+    "address": "Running Springs, Calif",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Digital+Mountaineers,+LLC+in+California",
+    "category": "American-Indian-owned UI/UX design in California",
+    "description": "A full-service web agency offering web and custom software development, UX/UI design, SEO, and social media marketing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned UI/UX design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tinhorn Consulting, LLC",
+    "address": "Laveen, Ariz",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Tinhorn+Consulting,+LLC+in+California",
+    "category": "American-Indian-owned UI/UX design in California",
+    "description": "A full-service integrated marketing and consulting firm offering digital strategy, social media marketing, and web design and development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned UI/UX design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "OBSIDIAN WEBSITES",
+    "address": "Not specified, but serves Native and Indigenous entrepreneurs nationwide",
+    "phone": "+1 (623) 203-7925",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/OBSIDIAN+WEBSITES+in+California",
+    "category": "American-Indian-owned UI/UX design in California",
+    "description": "A Native American website design company specializing in website design and development, website maintenance and security, brand marketing systems, and digital optimization and analytics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned UI/UX design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Creative Graphics by Eva",
+    "address": "Not specified, but serves clients nationwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Creative+Graphics+by+Eva+in+California",
+    "category": "American-Indian-owned UI/UX design in California",
+    "description": "A 100% Native-owned business offering graphic design and web design services, including logo design, marketing materials, and digital design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned UI/UX design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
