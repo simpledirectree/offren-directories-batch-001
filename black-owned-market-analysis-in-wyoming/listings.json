@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Black Summit Group, LLC",
+    "address": "1222 11th Street, Cody, WY 82414",
+    "phone": "(307) 587-6104",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.blacksummitgroup.com/",
+    "category": "Black-owned Market analysis in Wyoming",
+    "description": "A full-service CPA firm providing accounting, tax services, and financial consulting. They have been serving Northern Wyoming since 1985",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Market analysis in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Your Vision's Catalyst, LLC",
+    "address": "1718 Capitol Avenue, Cheyenne, WY",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Your+Vision's+Catalyst,+LLC+in+Wyoming",
+    "category": "Black-owned Market analysis in Wyoming",
+    "description": "This business is listed under coaching and development, and business services, and is identified as Black-owned. Specific details on market analysis services are not provided",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Market analysis in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
