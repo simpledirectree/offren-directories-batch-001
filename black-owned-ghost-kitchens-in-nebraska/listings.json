@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Big Mama's Kitchen & Catering",
+    "address": "2112 N 30th St, Omaha, NE 68111",
+    "phone": "(402) 455-MAMA (6262)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Big+Mama's+Kitchen+&+Catering+in+Nebraska",
+    "category": "Black-owned Ghost kitchens in Nebraska",
+    "description": "Known for its soul food, including fried chicken and catfish. They also offer catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Ghost kitchens in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lila Mae's Southern Kitchen and Lounge",
+    "address": "2110 Winthrop Road, Lincoln, NE 68502",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Lila+Mae's+Southern+Kitchen+and+Lounge+in+Nebraska",
+    "category": "Black-owned Ghost kitchens in Nebraska",
+    "description": "Offers Southern hospitality and food, with options like fried pickles, smothered pork chops, and shrimp 'n grits",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Ghost kitchens in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mary Ellen's: Food For The Soul",
+    "address": "2801 Pine Lake Rd B, Lincoln, NE (food truck)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mary+Ellen's:+Food+For+The+Soul+in+Nebraska",
+    "category": "Black-owned Ghost kitchens in Nebraska",
+    "description": "Known for \"food for the soul\" like baby back ribs, fried chicken, and mashed potatoes. Catfish and coleslaw are menu favorites",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Ghost kitchens in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "A Taste of Louisiana",
+    "address": "5955 N 27th St, Lincoln, NE or 2310 North 1st, Lincoln, NE",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/A+Taste+of+Louisiana+in+Nebraska",
+    "category": "Black-owned Ghost kitchens in Nebraska",
+    "description": "Offers Cajun, American, and soul food cuisine such as Seafood Po Boy, Cajun Fried Chicken with Red Beans & Rice, and Jambalaya",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Ghost kitchens in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Boiling Claws",
+    "address": "Food Truck (location varies)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Boiling+Claws+in+Nebraska",
+    "category": "Black-owned Ghost kitchens in Nebraska",
+    "description": "Offers seafood, wings, and brunch",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Ghost kitchens in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
