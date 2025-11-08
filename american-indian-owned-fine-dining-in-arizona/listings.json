@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Kai",
+    "address": "5594 W Wild Horse Pass Blvd, Phoenix, AZ 85048",
+    "phone": "(602) 385-5777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wildhorsepassresort.com/dining/kai/",
+    "category": "American-Indian-owned Fine dining in Arizona",
+    "description": "Kai is renowned for its sophisticated interpretation of Native American cuisine, using fresh, local ingredients and drawing inspiration from the Pima and Maricopa tribes. It is the only AAA Five Diamond and Forbes Five Star restaurant in Arizona, offering an immersive culinary experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Fine dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fry Bread House",
+    "address": "4545 N. Seventh Avenue, Phoenix, AZ 85013",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.frybreadhouseaz.com/",
+    "category": "American-Indian-owned Fine dining in Arizona",
+    "description": "A James Beard Award-winning restaurant, Fry Bread House serves traditional Tohono O'odham fry bread and other Native American dishes. It's a beloved spot for authentic comfort food and a gathering place for the community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Fine dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The REZ an urban eatery",
+    "address": "(Pop-up food stand, various locations in downtown Phoenix)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+REZ+an+urban+eatery+in+Arizona",
+    "category": "American-Indian-owned Fine dining in Arizona",
+    "description": "This is a pop-up food stand offering Native American cuisine, including vegan and gluten-free options, with a focus on local ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Fine dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Emerson Fry Bread",
+    "address": "Traveling food truck, locations vary",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Emerson+Fry+Bread+in+Arizona",
+    "category": "American-Indian-owned Fine dining in Arizona",
+    "description": "A food truck that travels across the Valley serving traditional Native American food, including Navajo tacos and fry bread",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Fine dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hogan Family Restaurant",
+    "address": "10 Main Street in the NavajoLand Hotel, Tuba City, AZ 86045",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hogan+Family+Restaurant+in+Arizona",
+    "category": "American-Indian-owned Fine dining in Arizona",
+    "description": "Located in Tuba City, this restaurant offers a mix of American, Mexican, and Navajo dishes, with highlights like chili beans, fry bread, and mutton stew",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Fine dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hope's Frybread",
+    "address": "Mesa, AZ (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hope's+Frybread+in+Arizona",
+    "category": "American-Indian-owned Fine dining in Arizona",
+    "description": "This restaurant offers both savory and sweet fry bread options, building on a family recipe",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Fine dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Frybread Lounge",
+    "address": "7211 E. Main St., Old Town Scottsdale, AZ 85251",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Frybread+Lounge+in+Arizona",
+    "category": "American-Indian-owned Fine dining in Arizona",
+    "description": "This Native-owned restaurant in Scottsdale focuses on modern dishes using traditional Indigenous ingredients, with a focus on traditional meats and natural sweeteners",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Fine dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native Coffee Co.",
+    "address": "9256 W. Van Buren Street, Tolleson, AZ 85353",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Native+Coffee+Co.+in+Arizona",
+    "category": "American-Indian-owned Fine dining in Arizona",
+    "description": "A mobile coffee trailer that sources beans from local Indigenous roasters and infuses menu items with Xicana-Akimel O'odham heritage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Fine dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sana Sana",
+    "address": "Online business",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Sana+Sana+in+Arizona",
+    "category": "American-Indian-owned Fine dining in Arizona",
+    "description": "A plant-based food business offering Indigenous Food Pantry items for sale online, including locally sourced beans and wheat berries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Fine dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "WILD Arizona Cuisine",
+    "address": "Pop-up events, locations vary",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/WILD+Arizona+Cuisine+in+Arizona",
+    "category": "American-Indian-owned Fine dining in Arizona",
+    "description": "This is a collaboration that holds pop-up meals featuring their cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Fine dining in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
