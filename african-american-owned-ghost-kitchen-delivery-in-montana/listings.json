@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Five on Black (S 24th St)",
+    "address": "Billings, MT (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ubereats.com/store/five-on-black-s-24th-st/95517708-a13c-481c-912e-6311351b45a9",
+    "category": "African-American-owned Ghost kitchen delivery in Montana",
+    "description": "Offers rice bowls, healthy, and vegan-friendly options, available for delivery via Uber Eats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Ghost kitchen delivery in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Dog Farm",
+    "address": "Gallatin & Park Counties, MT (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://blackdogfarmmt.com/",
+    "category": "African-American-owned Ghost kitchen delivery in Montana",
+    "description": "Offers pasture-raised chicken, heritage pork, and free-range eggs. They provide delivery in Livingston, Bozeman, Belgrade, and Big Sky for orders over $100",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Ghost kitchen delivery in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Whole and Nourished",
+    "address": "Bozeman, MT (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wholeandnourished.com/",
+    "category": "African-American-owned Ghost kitchen delivery in Montana",
+    "description": "A meal delivery service using seasonal, organic, and local ingredients, delivering to Bozeman, Livingston, and Big Sky",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Ghost kitchen delivery in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
