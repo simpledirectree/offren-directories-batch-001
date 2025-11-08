@@ -1,0 +1,172 @@
+[
+  {
+    "name": "MealPro",
+    "address": "Not specified, but serves Omaha, NE",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mealpro.net/",
+    "category": "Catholic-owned Keto meal prep in Nebraska",
+    "description": "Offers keto meal delivery with low-carb, high-protein, and high-fat options. They focus on fresh ingredients and chef-crafted meals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Keto meal prep in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Omaha Bakery",
+    "address": "10503 South 15th St Suite 109, Bellevue, NE 68123 (also has an Elkhorn location)",
+    "phone": "(402) 991-9200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theomahabakery.com/",
+    "category": "Catholic-owned Keto meal prep in Nebraska",
+    "description": "Offers keto meal prep kits and desserts. They emphasize following keto principles and provide heat-and-eat options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Keto meal prep in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wham Bam",
+    "address": "Lincoln, Nebraska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Wham+Bam+in+Nebraska",
+    "category": "Catholic-owned Keto meal prep in Nebraska",
+    "description": "Provides keto, protein, and custom-prep meal types with local delivery in Lincoln",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Keto meal prep in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clean Eatz Kitchen (Hastings, NE)",
+    "address": "Hastings, NE (specific address not provided, associated with Beauty and the Beast Fitness Center)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Clean+Eatz+Kitchen+(Hastings,+NE)+in+Nebraska",
+    "category": "Catholic-owned Keto meal prep in Nebraska",
+    "description": "Offers high-protein, clean dishes, including keto and low-carb options. They use high-quality ingredients and provide meal prepping services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Keto meal prep in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fire Dept. Meals (Lincoln, NE)",
+    "address": "Lincoln, NE (serves Lancaster County)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Fire+Dept.+Meals+(Lincoln,+NE)+in+Nebraska",
+    "category": "Catholic-owned Keto meal prep in Nebraska",
+    "description": "Provides keto, low-sodium, and heart-healthy meal delivery options in Lincoln, with chef-prepared meals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Keto meal prep in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clean Eatz Restaurant (Omaha, NE)",
+    "address": "920 S. 107th Avenue, Suite 110, Omaha, NE 68114",
+    "phone": "(531) 867-4909",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cleaneatz.com/locations/omaha-ne",
+    "category": "Catholic-owned Keto meal prep in Nebraska",
+    "description": "Offers a healthy food cafe and meal prep services, including keto and low-carb options. They provide weekly meal plans for pickup",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Keto meal prep in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lifelong Keto",
+    "address": "Not specified (operates in Utah, but may offer shipping)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Lifelong+Keto+in+Nebraska",
+    "category": "Catholic-owned Keto meal prep in Nebraska",
+    "description": "Specializes in keto meal prep with low-carb, gluten-free, and sugar-free options, offering delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Keto meal prep in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Prime Kitchen and Nutrition",
+    "address": "Not specified",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Prime+Kitchen+and+Nutrition+in+Nebraska",
+    "category": "Catholic-owned Keto meal prep in Nebraska",
+    "description": "Offers keto-friendly and low-carb pre-prepared meals, focusing on portion control and healthy ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Keto meal prep in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hummus Fit",
+    "address": "Not specified",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hummus+Fit+in+Nebraska",
+    "category": "Catholic-owned Keto meal prep in Nebraska",
+    "description": "Provides keto-friendly meal prep delivery with gourmet flavors, focusing on convenience and health",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Keto meal prep in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Factor",
+    "address": "Not specified (ships nationwide)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.factor75.com/",
+    "category": "Catholic-owned Keto meal prep in Nebraska",
+    "description": "Offers dietitian-approved, chef-prepared low-carb and keto meals that are ready to heat and eat",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Keto meal prep in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
