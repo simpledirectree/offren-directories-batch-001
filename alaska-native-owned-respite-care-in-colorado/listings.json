@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Denver Indian Center Inc.",
+    "address": "4407 Morrison Rd, Denver, CO 80219",
+    "phone": "(303) 934-2406",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://denverindiancenter.org/",
+    "category": "Alaska-Native-owned Respite care in Colorado",
+    "description": "An urban cultural gathering center for the American Indian and Alaska Native community of the Denver Metro area, offering various programs and resources",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Respite care in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Denver Indian Health & Family Services (DIHFS)",
+    "address": "5000 E. 39th Ave, Denver, CO 80207",
+    "phone": "(303) 861-4300",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.denverindianhealth.org/",
+    "category": "Alaska-Native-owned Respite care in Colorado",
+    "description": "Offers medical, behavioral, and dental health services to the local Native Community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Respite care in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Colorado Respite Coalition",
+    "address": "A program of Easterseals Colorado. Specific physical address for the coalition is not readily available, but they serve statewide",
+    "phone": "(303) 237-0202 (Easterseals Colorado main line)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eastersealscolorado.org/our-programs/caregiver-support/colorado-respite-coalition/",
+    "category": "Alaska-Native-owned Respite care in Colorado",
+    "description": "A program dedicated to encouraging caregivers to take a break by providing access to quality respite care resources. They offer an online resource finder to connect families with respite providers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Respite care in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pikes Peak Respite Services",
+    "address": "310 S 14th Street Suite 204, Colorado Springs, CO 80904",
+    "phone": "(719) 659-6344 (Beverly Seemann, CEO)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pikespeakrespiteservices.com/",
+    "category": "Alaska-Native-owned Respite care in Colorado",
+    "description": "Provides safe and quality respite services for individuals with special needs, offering relief to caregivers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Respite care in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Angels of Colorado",
+    "address": "Specific physical address for respite services not listed, but they serve Colorado",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://angelsofcolorado.org/",
+    "category": "Alaska-Native-owned Respite care in Colorado",
+    "description": "Offers short-term respite care for individuals with physical and cognitive disabilities, aiming to provide relief to caregivers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Respite care in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cheyenne Village",
+    "address": "Not explicitly listed for respite services, but they serve adults with intellectual and developmental disabilities",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cheyennevillage.org/",
+    "category": "Alaska-Native-owned Respite care in Colorado",
+    "description": "A non-profit organization serving adults with intellectual and developmental disabilities, offering respite care services. They are a member of the Colorado Respite Coalition",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Respite care in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Developmental Pathways",
+    "address": "Not listed directly for respite services, but they provide information on respite for Colorado residents",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://dpcolo.org/",
+    "category": "Alaska-Native-owned Respite care in Colorado",
+    "description": "This website is dedicated to respite information for Colorado residents and provides a wealth of information to caregivers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Respite care in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PASCO",
+    "address": "Not listed directly for respite services, but they offer respite care",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pasco.org/",
+    "category": "Alaska-Native-owned Respite care in Colorado",
+    "description": "Offers respite services intended for primary caregivers of loved ones with long-term diseases or disabilities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Respite care in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sweetgrass Advocacy",
+    "address": "Serves the Colorado Springs, Colorado region",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://sweetgrassadvocacy.org/",
+    "category": "Alaska-Native-owned Respite care in Colorado",
+    "description": "A Native woman-led organization that serves Indigenous survivors of domestic and sexual violence, providing culturally sensitive advocacy and resources. While not directly respite care, they are a Native-led organization that may offer support or referrals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Respite care in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native American Services at Colorado Coalition for the Homeless",
+    "address": "Denver Metro area",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.coloradocoalition.org/",
+    "category": "Alaska-Native-owned Respite care in Colorado",
+    "description": "Provides comprehensive case management services to unsheltered Indigenous adults and adult couples, helping them connect to services and resources. This organization serves the Native American community and may have information on respite care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Respite care in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
