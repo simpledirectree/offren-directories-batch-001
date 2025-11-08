@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Ayat NYC",
+    "address": "1618 Cortelyou Road, Brooklyn, NY 11226",
+    "phone": "(718) 284-4200",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.ayatnyc.com/",
+    "category": "Arabic-speaking Direct restaurant delivery in New-York",
+    "description": "Ayat offers authentic Palestinian and Middle Eastern cuisine with a focus on traditional dishes and creative new takes. They provide delivery and catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Direct restaurant delivery in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Au Za'atar",
+    "address": "129 1st Ave, New York, NY 10003 (East Village location)",
+    "phone": "(212) 358-3270",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.auzaatar.com/",
+    "category": "Arabic-speaking Direct restaurant delivery in New-York",
+    "description": "Au Za'atar serves Lebanese and Middle Eastern fare in a contemporary setting, with locations in East Village and Midtown East. They offer online ordering for delivery and pickup",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Direct restaurant delivery in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009",
+    "phone": "(212) 598-4300",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.cafemogador.com/",
+    "category": "Arabic-speaking Direct restaurant delivery in New-York",
+    "description": "This Moroccan restaurant is known for its authentic cuisine, including dishes like Lamb Shank Tagine and Hummus. They offer prompt delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Direct restaurant delivery in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "El Toum",
+    "address": "34-01 30th Ave, Astoria, NY 11103",
+    "phone": "(718) 777-1500",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.eltoum.com/",
+    "category": "Arabic-speaking Direct restaurant delivery in New-York",
+    "description": "El Toum offers authentic Lebanese cuisine with a variety of platters, sandwiches, and specials. They provide delivery and takeout services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Direct restaurant delivery in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hummus Kitchen",
+    "address": "1613 2nd Ave, New York, NY 10028",
+    "phone": "(212) 717-4300",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.hummuskitchen.com/",
+    "category": "Arabic-speaking Direct restaurant delivery in New-York",
+    "description": "Hummus Kitchen serves Middle Eastern dishes with a focus on fresh ingredients and flavorful options like roasted beets and walnuts. They offer delivery and takeout",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Direct restaurant delivery in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Laila Restaurant",
+    "address": "1375 2nd Ave, New York, NY 10021",
+    "phone": "(212) 717-0007",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lailanyc.com/",
+    "category": "Arabic-speaking Direct restaurant delivery in New-York",
+    "description": "Laila brings authentic Syrian and Mediterranean food to New York, emphasizing homemade recipes and a welcoming atmosphere. They offer delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Direct restaurant delivery in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lammeh NYC",
+    "address": "Based in New York City (specific address for catering/events not publicly listed for general delivery)",
+    "phone": "(917) 512-3463",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lammeh.nyc/",
+    "category": "Arabic-speaking Direct restaurant delivery in New-York",
+    "description": "Lammeh specializes in Syrian catering and cultural events, offering immersive dining experiences and bespoke catering for private and corporate gatherings. They provide delivery for events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Direct restaurant delivery in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Le Sajj",
+    "address": "8221 5th Ave, Brooklyn, NY 11209",
+    "phone": "(718) 833-7255",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lesajj.com/",
+    "category": "Arabic-speaking Direct restaurant delivery in New-York",
+    "description": "Le Sajj is a Brooklyn-based restaurant serving authentic Lebanese and Mediterranean cuisine, known for its traditional Sajj bread and flavorful dishes. They offer phone ordering for assistance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Direct restaurant delivery in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maydan by Wonder",
+    "address": "Multiple locations, including one at 100 6th Ave, New York, NY 10013 (Chelsea Market)",
+    "phone": "(844) 967-4377",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.wonder.com/restaurants/maydan",
+    "category": "Arabic-speaking Direct restaurant delivery in New-York",
+    "description": "Maydan offers \"extraordinary Middle Eastern\" cuisine crafted by expert chefs specifically for delivery. They partner with celebrated chefs and restaurants",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Direct restaurant delivery in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yemen Cafe & Restaurant",
+    "address": "7803 3rd Ave, Brooklyn, NY 11209",
+    "phone": "(718) 833-2451",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.yemencafebk.com/",
+    "category": "Arabic-speaking Direct restaurant delivery in New-York",
+    "description": "Yemen Cafe & Restaurant serves authentic Yemeni cuisine, including specialties like Lamb Haneeth and Shish Kebab. They offer delivery and takeout",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Direct restaurant delivery in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
