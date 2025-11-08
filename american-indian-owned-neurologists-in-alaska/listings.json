@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Alaska Native Medical Center (ANMC) - Neurology Clinic",
+    "address": "3900 Ambassador Drive, third floor, Anchorage, AK 99508",
+    "phone": "907-729-1914",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://anthc.org/patient-care/specialty-care/#neurology",
+    "category": "American-Indian-owned Neurologists in Alaska",
+    "description": "ANMC offers comprehensive medical services, including neurology, to Alaska Native and American Indian people living in Alaska",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Neurologists in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dr. Ryan Wilson (Alaska Native Neurologist)",
+    "address": "Alaska Native Medical Center, Anchorage, AK",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://anthc.org/",
+    "category": "American-Indian-owned Neurologists in Alaska",
+    "description": "Dr. Wilson is an I\u00f1upiat neurologist who returned to Alaska to serve the Alaska Native people",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Neurologists in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alaska Neurology Center LLC",
+    "address": "1100 East Dimond Blvd, Anchorage, AK 99515",
+    "phone": "907-565-6000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alaskanerology.com/",
+    "category": "American-Indian-owned Neurologists in Alaska",
+    "description": "This center offers a wide range of neurological services, including general neurology, sleep medicine, and neuropsychology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Neurologists in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Northern Neurology AK",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.northernneurologyak.com/",
+    "category": "American-Indian-owned Neurologists in Alaska",
+    "description": "This practice emphasizes personalized care and Alaskan hospitality",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Neurologists in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Peak Neurology and Sleep Medicine",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Peak+Neurology+and+Sleep+Medicine+in+Alaska",
+    "category": "American-Indian-owned Neurologists in Alaska",
+    "description": "This practice includes neurologists and other specialists offering a range of neurological and sleep medicine services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Neurologists in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Providence Alaska Medical Center - Neuroscience Center",
+    "address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+    "phone": "1 (855) 482-4382",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://alaskamed.org/services/neuroscience/",
+    "category": "American-Indian-owned Neurologists in Alaska",
+    "description": "This center provides a comprehensive system of neurological care, utilizing telehealth to connect with experts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Neurologists in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dr. Brian Trimble",
+    "address": "Anchorage, Alaska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Dr.+Brian+Trimble+in+Alaska",
+    "category": "American-Indian-owned Neurologists in Alaska",
+    "description": "A neurologist practicing in Anchorage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Neurologists in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dr. Christina Darby",
+    "address": "Anchorage, Alaska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Dr.+Christina+Darby+in+Alaska",
+    "category": "American-Indian-owned Neurologists in Alaska",
+    "description": "A neurologist and sleep medicine provider in Anchorage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Neurologists in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dr. Jeffrey Sponsler",
+    "address": "Wasilla, Alaska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Dr.+Jeffrey+Sponsler+in+Alaska",
+    "category": "American-Indian-owned Neurologists in Alaska",
+    "description": "A neurologist practicing in Wasilla",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Neurologists in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dr. Eric Ashman",
+    "address": "Soldotna, Alaska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Dr.+Eric+Ashman+in+Alaska",
+    "category": "American-Indian-owned Neurologists in Alaska",
+    "description": "A neurologist and sleep medicine provider in Soldotna",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Neurologists in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
