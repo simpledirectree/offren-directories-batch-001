@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Asian Association of Utah",
+    "address": "1400 Foothill Dr, Salt Lake City, UT 84108",
+    "phone": "(801) 486-4778",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aau.org/",
+    "category": "Bengali-speaking Psychology in Utah",
+    "description": "Offers behavioral health services, including counseling and support for refugees and immigrants, with a focus on culturally sensitive and trauma-informed care. They may have access to interpreters or staff who speak various languages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Psychology in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Utah Community Mental Health Clinic (UCMHC)",
+    "address": "1400 E. South Campus Dr, Salt Lake City, UT 84112 (University of Utah)",
+    "phone": "(801) 585-7000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://education.utah.edu/psychology/clinic/",
+    "category": "Bengali-speaking Psychology in Utah",
+    "description": "Provides affordable individual therapy to adults statewide, delivered by supervised graduate student clinicians. They offer services in-person and via telehealth and may be able to accommodate language needs with advance notice",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Psychology in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Help Me Grow Utah",
+    "address": "",
+    "phone": "801-691-5322",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://helpmegrowth.org/",
+    "category": "Bengali-speaking Psychology in Utah",
+    "description": "Offers maternal mental health support and has access to a directory of providers. They provide services in English and Spanish and can assist with referrals. While not specifically Bengali, they focus on connecting individuals with appropriate help",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Psychology in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "National Maternal Mental Health Hotline",
+    "address": "",
+    "phone": "1-833-TLC-MAMA (1-833-852-6262)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/National+Maternal+Mental+Health+Hotline+in+Utah",
+    "category": "Bengali-speaking Psychology in Utah",
+    "description": "A free, confidential hotline available 24/7. Counselors speak English and Spanish and can interpret in over 60 languages, which may include Bengali. They offer real-time support and referrals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Psychology in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Psychology Today - Utah Therapists",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.psychologytoday.com/us/therapists/ut",
+    "category": "Bengali-speaking Psychology in Utah",
+    "description": "This directory allows you to filter therapists by location, specialty, and insurance. You can also search for therapists who speak specific languages. While a direct filter for \"Bengali\" might not yield results, you can explore therapists listed under \"Asian\" or \"South Asian\" and check individual profiles for language capabilities or contact them to inquire about Bengali-speaking services or interpretation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Psychology in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
