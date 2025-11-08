@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Swinomish Dental Clinic",
+    "address": "17395 Reservation Road, LaConner, WA 98257",
+    "phone": "360-466-3167 ext 6",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.swinomish-nsn.gov/Resources/Dental.aspx",
+    "category": "American-Indian-owned Oral surgery in Washington",
+    "description": "Offers a full range of dental services, including preventive care, restorative dentistry, oral surgery (including extractions), and root canal therapy. They also have a student clinic",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Oral surgery in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Seattle Indian Health Board Dental Services",
+    "address": "611 12th Avenue South, Seattle, WA 98144",
+    "phone": "(206) 324\u20139360",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sihb.org/services/dental-services/",
+    "category": "American-Indian-owned Oral surgery in Washington",
+    "description": "Provides comprehensive dental services, including oral surgery/extractions, fillings, crowns, cleanings, and root canals. They also operate a mobile clinic",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Oral surgery in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chehalis Tribal Health Clinic",
+    "address": "420 Nowanut Road, Oakville WA 98568",
+    "phone": "360-273-5911",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.chehalistribe.org/resources-services/index.html",
+    "category": "American-Indian-owned Oral surgery in Washington",
+    "description": "Offers dental services, which may include oral surgery procedures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Oral surgery in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Colville Indian Health Center",
+    "address": "29 Sandpoil Street, Nespelem WA 99155",
+    "phone": "509-634-2920",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.colvilletribes.com/tribalclinic.htm",
+    "category": "American-Indian-owned Oral surgery in Washington",
+    "description": "Provides tribal clinic services, which include dental care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Oral surgery in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hoh Tribe",
+    "address": "2464 Lower Hoh Road, Forks WA 98331",
+    "phone": "360-374-6582",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://hohtribe-nsn.org/index.html",
+    "category": "American-Indian-owned Oral surgery in Washington",
+    "description": "Offers tribal services, which may include dental care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Oral surgery in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jamestown Family Health Center",
+    "address": "1033 Old Blyn Highway, Sequim WA 98382",
+    "phone": "360-683-1109",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.jamestowntribe.org/programs/hhs/hhs_dental.htm",
+    "category": "American-Indian-owned Oral surgery in Washington",
+    "description": "Provides health and human services, including dental care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Oral surgery in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kalispel Tribe Community Center",
+    "address": "1821 N. LeClerc Road, Usk, WA 99280",
+    "phone": "509-445-1147",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.kalispeltribe.com/medical-dental-clinic/",
+    "category": "American-Indian-owned Oral surgery in Washington",
+    "description": "Offers medical and dental clinic services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Oral surgery in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lower Elwha Health Center",
+    "address": "243511 Highway 101 W, Port Angeles WA 98363",
+    "phone": "360-452-6252 ext 18",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Lower+Elwha+Health+Center+in+Washington",
+    "category": "American-Indian-owned Oral surgery in Washington",
+    "description": "Provides health center services, which include dental care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Oral surgery in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lummi Nation Health Center",
+    "address": "2592 Kwina Road, Bellingham WA 98226",
+    "phone": "360-384-0464",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Lummi+Nation+Health+Center+in+Washington",
+    "category": "American-Indian-owned Oral surgery in Washington",
+    "description": "Offers health center services, which include dental care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Oral surgery in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Muckleshoot Health And Wellness Center",
+    "address": "17500 SE 392nd Street, Auburn WA 98092",
+    "phone": "253-939-6648",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.muckleshoot.nsn.us/services/health-and-wellness.aspx",
+    "category": "American-Indian-owned Oral surgery in Washington",
+    "description": "Provides health and wellness services, including dental care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Oral surgery in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
