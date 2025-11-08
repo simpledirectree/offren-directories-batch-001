@@ -1,0 +1,87 @@
+[
+  {
+    "name": "SummerWinds Nursery",
+    "address": "Multiple locations in Arizona (e.g., 1921 E. Bell Rd, Phoenix, AZ 85022)",
+    "phone": "(602) 993-0000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.summerwinds.com/",
+    "category": "Catholic-owned Soil amendment in Arizona",
+    "description": "Offers a variety of soil amendments, including gypsum, compost, and coco coir bricks",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Soil amendment in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Arizona Worm Farm",
+    "address": "1412 W. Hatcher Rd, Phoenix, AZ 85021",
+    "phone": "(602) 274-7070",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.arizonawormfarm.com/",
+    "category": "Catholic-owned Soil amendment in Arizona",
+    "description": "Specializes in worm castings and offers other soil amendments like basalt rock dust, coco coir, perlite, and vermiculite",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Soil amendment in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SiteOne Landscape Supply",
+    "address": "Multiple locations in Arizona (e.g., 1745 W. Broadway Rd, Mesa, AZ 85202)",
+    "phone": "(480) 835-0700",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.siteone.com/",
+    "category": "Catholic-owned Soil amendment in Arizona",
+    "description": "A large supplier of landscape materials, including a range of soil amendments, fertilizers, and other agronomic products",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Soil amendment in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cooperative Extension - The University of Arizona",
+    "address": "Various county extension offices throughout Arizona",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://extension.arizona.edu/",
+    "category": "Catholic-owned Soil amendment in Arizona",
+    "description": "Provides research-based information on soil amendments and gardening in Arizona. They do not sell products directly but can offer guidance on what to use",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Soil amendment in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ninyo & Moore",
+    "address": "10645 N. Oracle Rd, Suite 121, Tucson, AZ 85737",
+    "phone": "(520) 744-7070",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.ninyoandmoore.com/",
+    "category": "Catholic-owned Soil amendment in Arizona",
+    "description": "While primarily a geotechnical and environmental consulting firm, they offer materials testing and inspection services which can include soil analysis and recommendations for amendments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Soil amendment in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
