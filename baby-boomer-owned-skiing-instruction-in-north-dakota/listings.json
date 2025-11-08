@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Huff Hills Ski Area",
+    "address": "5455 County Road 80, Mandan, ND 58554",
+    "phone": "(701) 663-6421",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://huffhills.com/",
+    "category": "Baby-Boomer-owned Skiing instruction in North-Dakota",
+    "description": "North Dakota's largest ski area, offering outdoor winter family fun with skiing, snowboarding, and tubing. They have a SnowSports School for lessons",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Skiing instruction in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bottineau Winter Park",
+    "address": "PO Box 168, Bottineau, ND",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bottineauwinterpark.com/",
+    "category": "Baby-Boomer-owned Skiing instruction in North-Dakota",
+    "description": "Located in the Turtle Mountains, this park offers skiing, tubing, and snowboarding with lessons available for all ages and levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Skiing instruction in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Frost Fire Park",
+    "address": "Information not available in search results. (Located near Walhalla)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Frost+Fire+Park+North+Dakota",
+    "category": "Baby-Boomer-owned Skiing instruction in North-Dakota",
+    "description": "Situated in the Pembina Gorge, Frost Fire offers downhill runs, tubing, and a snowboarding terrain park. Skiing was suspended for the 2016-17 season, but it may offer other winter activities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Skiing instruction in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Thrill Hills at Fort Ransom",
+    "address": "Information not available in search results. (Located in Fort Ransom)",
+    "phone": "",
+    "rating": 2.5,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Thrill+Hills+at+Fort+Ransom+North+Dakota",
+    "category": "Baby-Boomer-owned Skiing instruction in North-Dakota",
+    "description": "Located in the Sheyenne River Valley, this area offers skiing, snowboarding, and tubing opportunities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Skiing instruction in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
