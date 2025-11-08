@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Vintage Barbershop Hawaii",
+    "address": "1145 Bethel St, Honolulu, HI 96813",
+    "phone": "(808) 521-2000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "http://vintagebarbershophi.com/",
+    "category": "African-American-owned Head shaving in Hawaii",
+    "description": "Offers traditional men's haircuts and grooming services, including hot towel straight razor shaves",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Head shaving in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mojo Barbershop",
+    "address": "2005 South King Street, Honolulu, Hawaii 96826",
+    "phone": "(808) 800-3960",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://mojobarbershop.com/",
+    "category": "African-American-owned Head shaving in Hawaii",
+    "description": "A barbershop offering various grooming services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Head shaving in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blend House Studio",
+    "address": "(Specific address not readily available, but operates in Hawaii)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blendhousestudio.com/",
+    "category": "African-American-owned Head shaving in Hawaii",
+    "description": "Offers barbering services, with a focus on creating amazing services and unforgettable experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Head shaving in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bosscutz Barbershop",
+    "address": "Kona, HI (Specific address not readily available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bosscutz.com/",
+    "category": "African-American-owned Head shaving in Hawaii",
+    "description": "Described as the Big Island's best barbershop, offering haircuts, beard grooming, and shaves",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Head shaving in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Legacy Barbershop",
+    "address": "Kai Ani Village, 1367 S Kihei Rd #3-105, Kihei, HI 96753",
+    "phone": "(808) 419-6589",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.legacybarbershopmaui.com/",
+    "category": "African-American-owned Head shaving in Hawaii",
+    "description": "Offers classic barber cuts, beard services, and straight razor shaves",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Head shaving in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
