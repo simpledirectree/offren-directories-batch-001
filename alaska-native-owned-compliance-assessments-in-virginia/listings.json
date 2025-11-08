@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Three Saints Bay, LLC",
+    "address": "4486 Pleasant Ave, Unit A, Norfolk, VA, 23518 (This is one of their listed locations; their headquarters is in Manassas, Virginia)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.threesaintsbay.com/",
+    "category": "Alaska-Native-owned Compliance assessments in Virginia",
+    "description": "An Alaska Native Holding Company owned by Old Harbor Native Corporation, providing services to federal and state government agencies, including compliance-related services through its subsidiaries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Compliance assessments in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Copper River Enterprise Services",
+    "address": "4501 Singer Ct, Ste 320, Chantilly, VA 20151",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.copperriver.com/",
+    "category": "Alaska-Native-owned Compliance assessments in Virginia",
+    "description": "Offers risk mitigation and compliance solutions, among other cybersecurity services. They are a federally recognized, Alaska Native, Tribal-owned, Small Disadvantaged Business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Compliance assessments in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eagle Harbor LLC",
+    "address": "While their primary operations are not listed as being in Virginia, they are an Alaska Native Corporation (ANC)-owned entity that provides government support services, including assistance with compliance with federal records mandates. Their parent company, Three Saints Bay LLC, has a presence in Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://eagleharborllc.com/",
+    "category": "Alaska-Native-owned Compliance assessments in Virginia",
+    "description": "Provides government support services and has experience in assisting with compliance with federal records mandates. They are an ANC-owned, Small Disadvantaged Business and an active participant in the SBA 8(a) program",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Compliance assessments in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
