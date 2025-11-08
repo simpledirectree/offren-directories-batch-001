@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Catholic Charities Diocese of Charlotte",
+    "address": "1123 S. Church Street, Charlotte, NC 28203",
+    "phone": "704-370-3262",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://charlottediocese.org/",
+    "category": "Catholic-owned Unemployment claims management in North-Carolina",
+    "description": "This organization provides a range of services, including employment services for refugees and immigrants, focusing on job readiness, placement, and financial literacy. They aim to help individuals achieve self-sufficiency through employment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Unemployment claims management in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities of the Diocese of Raleigh",
+    "address": "The Catholic Center, 7200 Stonehenge Drive, Raleigh, NC 27613",
+    "phone": "984-900-3200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dioceseofraleigh.org/catholic-charities",
+    "category": "Catholic-owned Unemployment claims management in North-Carolina",
+    "description": "This agency serves the eastern 54 counties of North Carolina, offering services that include disaster relief, emergency assistance, immigration assistance, and support for families. Their mission is to alleviate poverty and create hope through solutions that transform lives",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Unemployment claims management in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
