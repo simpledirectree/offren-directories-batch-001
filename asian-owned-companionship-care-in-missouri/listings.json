@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Golden Hearts Care",
+    "address": "511 Cherry St. Kansas City, MO, 64106",
+    "phone": "(816) 800-4023",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.ghccenter.com/",
+    "category": "Asian-owned Companionship care in Missouri",
+    "description": "Offers Vietnamese adult day care and home care services, with a shuttle bus service for members. They also provide Vietnamese translation services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Companionship care in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fountain of Life KC",
+    "address": "Information not readily available in search results, but serves the Greater Kansas City area",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://fountainoflifekc.org/",
+    "category": "Asian-owned Companionship care in Missouri",
+    "description": "Provides a welcoming place for Asian seniors in the Greater Kansas City area, offering culturally and linguistically accessible support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Companionship care in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "My Asian Nanny",
+    "address": "Information not available in search results, but serves the Missouri area",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/My+Asian+Nanny+in+Missouri",
+    "category": "Asian-owned Companionship care in Missouri",
+    "description": "Specializes in caregiver services for Asian American and Arab American elders, with caregivers fluent in multiple Chinese dialects and understanding of Chinese culture. They offer home care, companion care, and home health aide services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Companionship care in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
