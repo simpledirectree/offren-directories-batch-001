@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Mi Pueblito",
+    "address": "333 Border St, Boston, MA 02128",
+    "phone": "(617) 567-1234",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mi+Pueblito+in+Massachusetts",
+    "category": "Central-American-owned Fine dining in Massachusetts",
+    "description": "Serves Salvadoran and Guatemalan dishes with an extensive breakfast menu",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pueblo Viejo Pupuseria & Mexican Grill",
+    "address": "170 Marion St, Boston, MA 02128",
+    "phone": "(617) 567-4700",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Pueblo+Viejo+Pupuseria+&+Mexican+Grill+in+Massachusetts",
+    "category": "Central-American-owned Fine dining in Massachusetts",
+    "description": "Offers traditional dishes from El Salvador, including pupusas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catrachos International Restaurant",
+    "address": "140 Broadway, Chelsea, MA 02150",
+    "phone": "(617) 466-0005",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catrachos+International+Restaurant+in+Massachusetts",
+    "category": "Central-American-owned Fine dining in Massachusetts",
+    "description": "Provides a taste of Honduras, including authentic Honduran breakfasts and baleadas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rinc\u00f3n Hondure\u00f1o",
+    "address": "194 Broadway, Chelsea, MA 02150",
+    "phone": "(617) 884-0070",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Rinc\u00f3n+Hondure\u00f1o+in+Massachusetts",
+    "category": "Central-American-owned Fine dining in Massachusetts",
+    "description": "Offers authentic Honduran cuisine with generous portions and fair pricing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "La Posada",
+    "address": "505 Medford St, Somerville, MA 02145",
+    "phone": "(617) 628-0000",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/La+Posada+in+Massachusetts",
+    "category": "Central-American-owned Fine dining in Massachusetts",
+    "description": "Serves a mix of Latin American food with a modern twist, alongside authentic dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "El Comalito",
+    "address": "460 West St, Amherst, MA 01002",
+    "phone": "(413) 253-0000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/El+Comalito+in+Massachusetts",
+    "category": "Central-American-owned Fine dining in Massachusetts",
+    "description": "Features Salvadoran food based on family recipes, known for homemade pupusas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Los Antojitos",
+    "address": "45 North Washington Street, North Attleboro, MA 02760",
+    "phone": "(508) 695-0000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Los+Antojitos+in+Massachusetts",
+    "category": "Central-American-owned Fine dining in Massachusetts",
+    "description": "Offers a diverse menu of classic Central American dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mi Tierra",
+    "address": "585 Moody St, Waltham, MA 02453",
+    "phone": "(781) 894-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mi+Tierra+in+Massachusetts",
+    "category": "Central-American-owned Fine dining in Massachusetts",
+    "description": "A small family-owned restaurant serving authentic Guatemalan and Salvadoran food",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "El Santaneco Restaurant",
+    "address": "24 5th St, Chelsea, MA 02150",
+    "phone": "(617) 884-0000",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/El+Santaneco+Restaurant+in+Massachusetts",
+    "category": "Central-American-owned Fine dining in Massachusetts",
+    "description": "Offers Salvadoran and Latin American home-style food",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Paisano Restaurant",
+    "address": "129 Oxford St, Lynn, MA 01901",
+    "phone": "(781) 584-8240",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Paisano+Restaurant+in+Massachusetts",
+    "category": "Central-American-owned Fine dining in Massachusetts",
+    "description": "Specializes in authentic Guatemalan cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
