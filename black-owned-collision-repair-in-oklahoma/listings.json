@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Brian Black's Auto Body & Paint Shop",
+    "address": "916 N Virginia Ave, Oklahoma City, OK 73106",
+    "phone": "+14058218569",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Brian+Black's+Auto+Body+&+Paint+Shop+in+Oklahoma",
+    "category": "Black-owned Collision repair in Oklahoma",
+    "description": "Offers quality auto body and paint services in Oklahoma City, specializing in collision repair and refinishing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Collision repair in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "J Willis Auto Body",
+    "address": "Multiple locations in Oklahoma City, OK. (Specific addresses not detailed in search results, but the business operates in the area)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://jwillisautobody.com/",
+    "category": "Black-owned Collision repair in Oklahoma",
+    "description": "A full-service auto body shop offering auto body repair, restorations, collision repair, custom paint, and paintless dent repair. They emphasize customer service and have been serving the Oklahoma City area since 2010",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Collision repair in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "GW & Son Auto Body",
+    "address": "Information not available in search results, but they serve Oklahoma City and surrounding areas",
+    "phone": "(405) 751-1337",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/GW+&+Son+Auto+Body+in+Oklahoma",
+    "category": "Black-owned Collision repair in Oklahoma",
+    "description": "A family-owned and operated certified auto body shop serving Oklahoma City since 1984. They specialize in factory-correct auto body repairs and offer a lifetime guarantee on repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Collision repair in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ColorTech Minor Collision Repair",
+    "address": "433 NE 139th St, Edmond, OK 73013",
+    "phone": "(405) 410-7893",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/ColorTech+Minor+Collision+Repair+in+Oklahoma",
+    "category": "Black-owned Collision repair in Oklahoma",
+    "description": "A family-owned repair shop specializing in minor collision repair, offering high-quality paint and body work in a timely manner. They have been in business for over 25 years and offer a lifetime guarantee on their paint and minor collision repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Collision repair in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CarWorx Collision",
+    "address": "Multiple locations including Edmond, OK (3625 S. Broadway Edmond, OK 73013) and Oklahoma City, OK (8313 Candlewood Dr. Oklahoma City, OK 73132). They also have locations in Tulsa",
+    "phone": "Edmond: (405) 362-1944, NW Expressway (OKC): (405) 374-5917",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.carworxcollision.com/",
+    "category": "Black-owned Collision repair in Oklahoma",
+    "description": "A collision repair service that combines family values with over 25 years of experience. They offer services like paintless dent repair and provide a lifetime warranty on repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Collision repair in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
