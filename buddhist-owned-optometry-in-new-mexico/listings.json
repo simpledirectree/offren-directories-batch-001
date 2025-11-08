@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Iris Eye Care & Contact Lens Gallery",
+    "address": "6550 Holly Avenue NE, Suite D1-B, Albuquerque, NM 87113",
+    "phone": "505-294-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.iriseyecarenm.com/",
+    "category": "Buddhist-owned Optometry in New-Mexico",
+    "description": "Provides comprehensive preventive and general optometry services, including diagnosis and treatment of ocular problems, disease management, and routine eye exams. They utilize advanced technology and offer a full suite of medical eye-care services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Optometry in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Taylor Family Eye Care",
+    "address": "6001 San Mateo Blvd NE, Albuquerque, NM 87109",
+    "phone": "(505) 899-8993",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.taylorfamilyeyecare.com/",
+    "category": "Buddhist-owned Optometry in New-Mexico",
+    "description": "Offers a full range of optometry services for the entire family, aiming to provide high-quality care in a welcoming and compassionate environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Optometry in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eye Associates of New Mexico",
+    "address": "Multiple locations across New Mexico, including Albuquerque and Santa Fe. (Specific addresses vary by clinic.)",
+    "phone": "(505) 888-5200 (General Inquiries)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eyeassociatesofnewmexico.com/",
+    "category": "Buddhist-owned Optometry in New-Mexico",
+    "description": "One of the largest comprehensive eye care practices in the United States, offering a full range of services from LASIK and cataract surgery to healthy eye examinations and management of complex eye diseases",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Optometry in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ABQ Eye Care, PC",
+    "address": "5000 Indian School Rd NE, Albuquerque, NM 87110",
+    "phone": "(505) 884-3937",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.abqeyecare.com/",
+    "category": "Buddhist-owned Optometry in New-Mexico",
+    "description": "Provides a full range of optometry services for adults and children, including eye examinations, treatment of eye disease, emergency care, contact lenses, glasses, and vision therapy. They emphasize a tradition of excellence and community involvement",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Optometry in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eyes of NM",
+    "address": "7400 Montgomery Blvd NE, Suite 102, Albuquerque, NM 87109",
+    "phone": "(505) 828-3937",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eyesofnm.com/",
+    "category": "Buddhist-owned Optometry in New-Mexico",
+    "description": "Specializes in treatment options that improve vision and overall well-being, offering services such as myopia management, vision therapy, and concussion treatment in a comfortable and friendly environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Optometry in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
