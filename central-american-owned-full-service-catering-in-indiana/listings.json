@@ -1,0 +1,172 @@
+[
+  {
+    "name": "3 In 1 Restaurant",
+    "address": "1413 W 86th St, Indianapolis, IN 46260",
+    "phone": "(317) 429-0170",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.3in1restaurant.com/",
+    "category": "Central-American-owned Full-service catering in Indiana",
+    "description": "Offers authentic Mexican and Salvadoran cuisine with a vegan twist. They mention catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Full-service catering in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bugambilias",
+    "address": "10130 E Washington St, Indianapolis, IN 46229 (This is one of their locations, they also have a food truck)",
+    "phone": "(317) 516-5978",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://bugambilias.com/",
+    "category": "Central-American-owned Full-service catering in Indiana",
+    "description": "Offers a diverse menu of Mexican food classics and Poblano-inspired dishes. They have a food truck available for events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Full-service catering in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Macizo Restaurant",
+    "address": "6335 Intech Commons Drive, Suite C/D, Indianapolis, IN 46278",
+    "phone": "(463) 202-2853",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.macizorestaurant.com/",
+    "category": "Central-American-owned Full-service catering in Indiana",
+    "description": "Combines Mexican and Peruvian cuisines with a focus on fresh ingredients. They offer catering services for various events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Full-service catering in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tu Casa Latin Food",
+    "address": "7105 W 71st St, Indianapolis, IN 46268",
+    "phone": "(317) 757-5699",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.tucasafood.com/",
+    "category": "Central-American-owned Full-service catering in Indiana",
+    "description": "Serves authentic Latin American cuisine, including dishes from Venezuela and the Dominican Republic. They offer catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Full-service catering in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Paco's Taqueria",
+    "address": "1201 Prospect St, Indianapolis, IN 46203",
+    "phone": "(317) 985-7226",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.pacostaqueria.com/catering",
+    "category": "Central-American-owned Full-service catering in Indiana",
+    "description": "Offers authentic Mexican cuisine with customizable taco bar and taquiza catering packages for various events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Full-service catering in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Simply Served Catering",
+    "address": "10723 Rockville Rd, Indianapolis, IN 46234",
+    "phone": "(317) 714-7000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.simplyservedcatering.com/",
+    "category": "Central-American-owned Full-service catering in Indiana",
+    "description": "A division of Ritz Charles, specializing in full-service buffet catering, food trucks, and bars for weddings, special events, and corporate functions. While not explicitly Central American, they offer diverse menus",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Full-service catering in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sahm's Catering Company",
+    "address": "9002 Keystone Crossing, Indianapolis, IN 46240",
+    "phone": "(317) 570-0077",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://sahmscatering.com/",
+    "category": "Central-American-owned Full-service catering in Indiana",
+    "description": "Provides full-service catering for weddings, corporate events, and social gatherings with a variety of menu options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Full-service catering in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Indy Fresh Catering",
+    "address": "3047 Lafayette Road, Indianapolis, IN 46222",
+    "phone": "(317) 605-1200",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.indyfreshcatering.com/",
+    "category": "Central-American-owned Full-service catering in Indiana",
+    "description": "Offers high-quality, scratch-made, full-service catering with diverse menu options for any occasion",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Full-service catering in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "All American Catering",
+    "address": "7540 Zionsville Rd, Indianapolis, IN 46268",
+    "phone": "(317) 280-0100",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.allamericancatering.com/",
+    "category": "Central-American-owned Full-service catering in Indiana",
+    "description": "Provides full-service catering with a focus on traditional Midwestern hospitality and comfort food classics, suitable for various events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Full-service catering in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jacquie's Gourmet Catering",
+    "address": "5025 W 79th St, Indianapolis, IN 46268",
+    "phone": "(317) 981-7000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.jacquies.net/",
+    "category": "Central-American-owned Full-service catering in Indiana",
+    "description": "Offers gourmet catering with a focus on the finest ingredients and imaginative dishes for events of all sizes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Full-service catering in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
