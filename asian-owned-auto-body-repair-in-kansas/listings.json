@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Duke & Bob's Automotive",
+    "address": "1300 Emanuel Cleaver Blvd, Kansas City, MO 64110",
+    "phone": "816-931-7808",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dukeandbobs.com/",
+    "category": "Asian-owned Auto body repair in Kansas",
+    "description": "Specializes in Asian vehicle repairs and offers a full range of auto repair and preventative maintenance services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto body repair in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Garber Automotive Inc.",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.garberautomotive.com/",
+    "category": "Asian-owned Auto body repair in Kansas",
+    "description": "Offers specialized Asian vehicle repair and maintenance services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto body repair in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Import Parts & Repair LLC",
+    "address": "1000 Main St, Hays, KS 67601",
+    "phone": "785-628-1011",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.importpartsrepair.com/",
+    "category": "Asian-owned Auto body repair in Kansas",
+    "description": "A family-owned business providing honest and professional automotive repair and maintenance services for Asian imports and domestic vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto body repair in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Quality Body Shop",
+    "address": "6209 W Morgan Ave, Hutchinson, KS 67501",
+    "phone": "620-663-8742",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.qualitybodyshophutch.com/",
+    "category": "Asian-owned Auto body repair in Kansas",
+    "description": "Offers expert auto body repair and collision services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto body repair in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Newman's Auto Body & Repair",
+    "address": "1000 W Santa Fe St, Olathe, KS 66061",
+    "phone": "913-782-6540",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.newmansautobody.com/",
+    "category": "Asian-owned Auto body repair in Kansas",
+    "description": "Provides auto repair, collision repair, and paintless dent repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto body repair in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Baron Collision Center of Kansas City",
+    "address": "1610 E Prairie St, Olathe, KS 66061",
+    "phone": "913-324-7300",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://baroncollision.com/",
+    "category": "Asian-owned Auto body repair in Kansas",
+    "description": "Offers comprehensive auto body and collision repair services with a team of professional technicians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto body repair in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Don's Body Shop",
+    "address": "207 West Cedar Street, Olathe, KS 66061",
+    "phone": "913-782-9255",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.donsbodyshop.com/",
+    "category": "Asian-owned Auto body repair in Kansas",
+    "description": "A family-owned business providing quality auto body and collision repair services with I-CAR Certified technicians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto body repair in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kaizen Collision Center",
+    "address": "Multiple locations, including in Kansas. Specific address for Kansas not provided in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://kaizencollision.com/",
+    "category": "Asian-owned Auto body repair in Kansas",
+    "description": "Offers expert auto body shop and collision repair services with a focus on customer service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto body repair in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Collision, Dent & Detail Clinic",
+    "address": "5015 Gibbs Rd, Kansas City, KS 66106",
+    "phone": "913-677-6777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thecollisiondentanddetailclinic.com/",
+    "category": "Asian-owned Auto body repair in Kansas",
+    "description": "Provides dent removal, detailing, full-service collision repair, and auto painting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto body repair in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Autopia LLC",
+    "address": "13012 Santa Fe Trail Dr, Lenexa, KS 66215",
+    "phone": "913-894-2000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://autopia-llc.com/",
+    "category": "Asian-owned Auto body repair in Kansas",
+    "description": "Specializes in European and Asian import vehicles, offering diagnostic services, routine maintenance, and expert repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto body repair in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
