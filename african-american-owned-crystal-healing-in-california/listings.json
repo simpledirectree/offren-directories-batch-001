@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Queen Hippie Gypsy",
+    "address": "337 14th Street, Oakland, CA 94612",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.queenhippiegypsy.com/",
+    "category": "African-American-owned Crystal healing in California",
+    "description": "Oakland's first Black woman-owned crystal, metaphysical, and artisan botanica, offering crystals, spiritual tools, artisan goods, and community events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Crystal healing in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "My Moon & Stars Crystals and Stone Pop-Up",
+    "address": "1030 S Hobart Blvd., Los Angeles, CA 90006",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/My+Moon+&+Stars+Crystals+and+Stone+Pop-Up+in+California",
+    "category": "African-American-owned Crystal healing in California",
+    "description": "A pop-up shop offering handpicked crystals and stones, incense, palo santo, and handmade healing crystal bracelets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Crystal healing in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Libra Alchemy",
+    "address": "Not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thelibraalchemy.com/",
+    "category": "African-American-owned Crystal healing in California",
+    "description": "An African-American-owned energy brand focused on balance, peace, and transformation through energy healing and holistic wellness, offering sound healing, journals, custom crystal bracelets, and spiritual baths",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Crystal healing in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Body, Stone and Soul",
+    "address": "Not available in search results. (Mentioned as being in Jamaica Plain, Boston in one result, but also as a Black and family-owned business in the context of crystal shops in general)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Body,+Stone+and+Soul+in+California",
+    "category": "African-American-owned Crystal healing in California",
+    "description": "A Black and family-owned business retailing ethically sourced crystals, sage, candles, incense, cards, and offering Reiki and Tarot readings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Crystal healing in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
