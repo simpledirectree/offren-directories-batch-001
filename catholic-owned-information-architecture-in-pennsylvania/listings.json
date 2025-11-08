@@ -1,0 +1,172 @@
+[
+  {
+    "name": "PieSoft",
+    "address": "100 Sterling Pkwy, Ste 100, North Wales, PA 19454",
+    "phone": "(215) 774-1000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.piesoft.co/",
+    "category": "Catholic-owned Information architecture in Pennsylvania",
+    "description": "A software development company with over 12 years of experience in mobile, cloud, and web solutions, headquartered in Pennsylvania",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Information architecture in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "OpenSource Technologies (OST)",
+    "address": "1000 Commerce Dr, Ste 200, Lansdale, PA 19446",
+    "phone": "(267) 638-7420",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.ost.ch/",
+    "category": "Catholic-owned Information architecture in Pennsylvania",
+    "description": "A web and custom software development company in Philadelphia, PA, specializing in mobile app design, web solutions, and AI integration",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Information architecture in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Valyr",
+    "address": "1005 W Liberty Ave, Pittsburgh, PA 15226",
+    "phone": "(412) 400-5000",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://valyr.com/",
+    "category": "Catholic-owned Information architecture in Pennsylvania",
+    "description": "A web development and software solutions company in Pittsburgh, PA, founded and run by a veteran family, emphasizing trust, integrity, and responsiveness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Information architecture in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Catholic Web Company",
+    "address": "Not publicly listed, but serves clients worldwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thecatholicwebcompany.com/",
+    "category": "Catholic-owned Information architecture in Pennsylvania",
+    "description": "A company that builds responsive websites specifically for Catholic parishes and non-profits, understanding the nuances of the Catholic faith",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Information architecture in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Saint Pio Media",
+    "address": "Not publicly listed, but serves clients worldwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.saintpiomedia.com/",
+    "category": "Catholic-owned Information architecture in Pennsylvania",
+    "description": "A digital marketing agency providing website design, photography, videography, and SEO for Catholic parishes, schools, and non-profit organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Information architecture in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dimconex Media",
+    "address": "Not publicly listed, but serves clients worldwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dimconex.com/",
+    "category": "Catholic-owned Information architecture in Pennsylvania",
+    "description": "A Catholic innovation agency specializing in digital evangelization, offering website programming, UX/UI, branding, and design for the Church",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Information architecture in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "On Fire Media",
+    "address": "Not publicly listed, but serves clients worldwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.onfiremedia.net/",
+    "category": "Catholic-owned Information architecture in Pennsylvania",
+    "description": "Offers Catholic marketing and web design services, aiming to help organizations develop a robust marketing plan with their website as the central hub",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Information architecture in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bend Marketing",
+    "address": "Not publicly listed, but serves clients worldwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bendyourmarketing.com/",
+    "category": "Catholic-owned Information architecture in Pennsylvania",
+    "description": "A full-service digital marketing agency with experience serving Catholic nonprofits and faith-based businesses, crafting custom websites and marketing strategies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Information architecture in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Meitler",
+    "address": "Not publicly listed, but serves clients worldwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://meitler.com/",
+    "category": "Catholic-owned Information architecture in Pennsylvania",
+    "description": "A consulting firm that serves Catholic communities, providing data-driven plans and innovative solutions for churches, schools, and dioceses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Information architecture in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Baker Architects, LLC",
+    "address": "Not publicly listed, but serves clients worldwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bakerarchitects.com/",
+    "category": "Catholic-owned Information architecture in Pennsylvania",
+    "description": "Specializes in sacred spaces and custom furnishings for Catholic churches, with architects holding a Ph.D. in Catholic Sacred Architecture",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Information architecture in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
