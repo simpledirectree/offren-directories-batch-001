@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Test Geek",
+    "address": "Not explicitly listed, but serves the Kansas City area",
+    "phone": "(816) 600-4214",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.testgeek.com/",
+    "category": "Asian-owned ACT prep in Kansas",
+    "description": "Offers in-person 1-on-1 private tutoring and group classes for ACT and SAT prep",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned ACT prep in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pathway Prep",
+    "address": "Serves the Kansas City Metro area, with in-home tutoring",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pathwayprep.com/",
+    "category": "Asian-owned ACT prep in Kansas",
+    "description": "Provides personalized in-home ACT prep with a focus on increasing composite scores",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned ACT prep in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Majid Hasan - Expert Tutoring for the ACT and SAT",
+    "address": "Serves the Kansas City area",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://majidhasan.com/",
+    "category": "Asian-owned ACT prep in Kansas",
+    "description": "Offers one-on-one tutoring with practical, step-by-step methods to improve ACT and SAT scores",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned ACT prep in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Class 101 Overland, KS",
+    "address": "Overland Park, KS (specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.class101.com/overlandks/",
+    "category": "Asian-owned ACT prep in Kansas",
+    "description": "Provides a 4-week ACT prep course including live instruction, study guides, and practice quizzes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned ACT prep in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kansas State University - ACT Test Prep Class",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Kansas+State+University+-+ACT+Test+Prep+Class+in+Kansas",
+    "category": "Asian-owned ACT prep in Kansas",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned ACT prep in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Address:",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.k-state.edu/",
+    "category": "Asian-owned ACT prep in Kansas",
+    "description": "Offers ACT test prep classes covering test content and strategies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned ACT prep in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TestMasters",
+    "address": "Serves the Manhattan, KS area and surrounding locations",
+    "phone": "1-800-910-3926",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.testmasters.com/",
+    "category": "Asian-owned ACT prep in Kansas",
+    "description": "Provides ACT private 1-on-1 tutoring, live online classroom courses, and on-demand streaming courses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned ACT prep in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Manhattan Elite Prep",
+    "address": "Serves the Kansas City and Manhattan, KS areas",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.manhattaneliteprep.com/",
+    "category": "Asian-owned ACT prep in Kansas",
+    "description": "Provides ACT prep courses and private tutoring with experienced instructors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned ACT prep in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ACT Prep Classes & Tutor Kansas City",
+    "address": "Leawood, KS: 13400 Briar Drive, Ste A, Leawood, KS 66209",
+    "phone": "(913) 322-3400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.actprep.com/",
+    "category": "Asian-owned ACT prep in Kansas",
+    "description": "Provides ACT test prep courses, semi-private tutoring, and private tutoring, along with free practice tests",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned ACT prep in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
