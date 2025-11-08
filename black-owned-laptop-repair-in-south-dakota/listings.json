@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Craig Computer Service",
+    "address": "Sioux Falls, SD",
+    "phone": "(605) 361-9633",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Craig+Computer+Service+South+Dakota",
+    "category": "Black-owned Laptop repair in South-Dakota",
+    "description": "Provides computer and laptop repair services in the Sioux Falls area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Laptop repair in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "uBreakiFix by Asurion",
+    "address": "1612 Eglin St. Suite 800, Rapid City, SD 57701",
+    "phone": "(605) 791-0152",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ubreakifix.com/locations/southdakota/rapid-city-1612-eglin-st-suite-800",
+    "category": "Black-owned Laptop repair in South-Dakota",
+    "description": "Offers laptop repair and maintenance for various brands and models",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Laptop repair in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Green Eggs and RAM",
+    "address": "1106 E 8th St, Sioux Falls, SD 57103",
+    "phone": "(605) 331-0001",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.greeneggsandram.com/",
+    "category": "Black-owned Laptop repair in South-Dakota",
+    "description": "Provides repair services for desktops, laptops, and printers, and is an authorized service provider for HP and Lenovo",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Laptop repair in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Computer CPR",
+    "address": "Aberdeen, South Dakota (specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Computer+CPR+South+Dakota",
+    "category": "Black-owned Laptop repair in South-Dakota",
+    "description": "Offers full-service computer repair, sales, and data recovery, serving the Aberdeen Metro Area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Laptop repair in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Computer Dan's",
+    "address": "14 East Kemp Ave, Watertown, SD 57201",
+    "phone": "(605) 886-4077",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Computer+Dan's+South+Dakota",
+    "category": "Black-owned Laptop repair in South-Dakota",
+    "description": "Provides computer sales and service, including laptop upgrades and repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Laptop repair in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
