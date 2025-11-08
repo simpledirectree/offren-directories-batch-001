@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Catawba Senior Center",
+    "address": "1612 Reservation Rd, Rock Hill, SC 29730",
+    "phone": "(803) 366-4792",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://catawbaindian.net/",
+    "category": "American-Indian-owned Adult day programs in South-Carolina",
+    "description": "This center offers services to tribal citizens aged 55 and older, including congregate meals, home-delivered meals, caregiver support, and various activities promoting physical well-being, learning, and creativity. They also provide nutritional services, case management, and home visits",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Adult day programs in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
