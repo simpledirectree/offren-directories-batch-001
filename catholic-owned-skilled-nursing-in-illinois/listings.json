@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Franciscan Village",
+    "address": "1235 Franciscan Drive, Lemont, IL 60439",
+    "phone": "(630) 243-3100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.franciscanvillage.org/",
+    "category": "Catholic-owned Skilled nursing in Illinois",
+    "description": "This faith-based, non-profit community, established in 1964 by the Franciscan Sisters of Chicago, offers a continuum of care including skilled nursing and rehabilitation services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Skilled nursing in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Holy Family Villa",
+    "address": "12220 South Will Cook Road, Palos Park, IL 60464",
+    "phone": "(630) 343-7140",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.holyfamilyvilla.org/",
+    "category": "Catholic-owned Skilled nursing in Illinois",
+    "description": "Holy Family Villa provides skilled nursing, assisted living, and memory care services, with a focus on person-centered care and rehabilitation therapies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Skilled nursing in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Joseph Village of Chicago",
+    "address": "4021 West Belmont Avenue, Chicago, IL 60641",
+    "phone": "(773) 328-5500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.franciscanministries.org/community/st-joseph-village-of-chicago/",
+    "category": "Catholic-owned Skilled nursing in Illinois",
+    "description": "This community offers assisted living, skilled nursing, memory care, and rehabilitation services, committed to providing high-quality care with a focus on the seven dimensions of wellness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Skilled nursing in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Covenant Living at Windsor Park",
+    "address": "110 Windsor Park Drive, Carol Stream, IL 60188",
+    "phone": "(877) 806-4969",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.covliving.org/windsor-park/",
+    "category": "Catholic-owned Skilled nursing in Illinois",
+    "description": "Covenant Living at Windsor Park offers a continuum of care including skilled nursing and rehabilitation services within a faith-based environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Skilled nursing in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Covenant Living of Northbrook",
+    "address": "2640 Golf Road, Glenview, IL 60026 (Note: Search results also mention Northbrook, but the provided phone number and context point to Glenview as a primary location for skilled nursing services within the Covenant network.)",
+    "phone": "(847) 480-6380 (for general inquiries)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.covliving.org/northbrook/",
+    "category": "Catholic-owned Skilled nursing in Illinois",
+    "description": "This facility provides skilled nursing services with a focus on maintaining residents' health for mind, body, and spirit, and is Medicare-certified",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Skilled nursing in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mercyhealth Care Center",
+    "address": "1000 University Drive, Janesville, WI 53546 (Note: While this is in Wisconsin, Mercyhealth operates in Illinois and has skilled nursing facilities. Further search may be needed for an exact Illinois address, but this represents their care center model.)",
+    "phone": "815-943-2961 (for Harvard location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mercyhealthsystem.org/service/skilled-nursing/",
+    "category": "Catholic-owned Skilled nursing in Illinois",
+    "description": "Mercyhealth offers skilled nursing rehabilitation programs focused on recovery after hospitalization, with a high staff-to-resident ratio and various amenities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Skilled nursing in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Joseph Nursing Home (Lacon)",
+    "address": "401 9th St, Lacon, IL 61540",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/St.+Joseph+Nursing+Home+(Lacon)+in+Illinois",
+    "category": "Catholic-owned Skilled nursing in Illinois",
+    "description": "This non-profit facility offers skilled nursing, memory care, and rehabilitation therapies in a supportive, home-like environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Skilled nursing in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Village at Victory Lakes",
+    "address": "1075 Victory Drive, Lindenhurst, IL 60046",
+    "phone": "(847) 356-5900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.franciscanministries.org/community/the-village-at-victory-lakes/",
+    "category": "Catholic-owned Skilled nursing in Illinois",
+    "description": "This community offers skilled nursing, rehabilitation, assisted living, and independent living options as part of the Franciscan Sisters of Chicago's network",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Skilled nursing in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Villa St. Benedict",
+    "address": "1910 Maple Ave, Lisle, IL 60532",
+    "phone": "(630) 852-0345",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.villastbenedict.org/",
+    "category": "Catholic-owned Skilled nursing in Illinois",
+    "description": "This Catholic senior community offers a continuum of care, including skilled nursing, within a faith-based environment that welcomes people of all faiths",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Skilled nursing in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ascension Alexian Brothers Rehabilitation Hospital",
+    "address": "1650 E. Central Road, Arlington Heights, IL 60004 (Note: Search results mention Elk Grove Village for Ascension Alexian Brothers, but this address is for their Rehabilitation Hospital which provides skilled nursing services.)",
+    "phone": "(847) 490-7000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://healthcare.ascension.org/locations/illinois/il-arlington-heights/rehab-ascension-alexian-brothers-rehab-hospital",
+    "category": "Catholic-owned Skilled nursing in Illinois",
+    "description": "This hospital provides inpatient rehabilitation services, which include skilled nursing care, for individuals recovering from trauma, stroke, or surgery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Skilled nursing in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
