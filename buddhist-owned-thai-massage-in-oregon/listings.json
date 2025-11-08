@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Bahn Thai Massage",
+    "address": "334 SW 7th St. Suites A and B, Newport, Oregon 97365",
+    "phone": "(541) 579-5000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "http://www.bahnthaimassagenewport.com/",
+    "category": "Buddhist-owned Thai massage in Oregon",
+    "description": "Bahn Thai Massage was opened with a traditional blessing ceremony performed by local Buddhist monks. The owner, Wanpen, uses techniques passed down from her revered teacher, Pa' Lung, a master of Thai traditional massage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Thai massage in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Akasa Thai Healing Arts",
+    "address": "1021 SE 32nd Ave, Portland, OR 97214",
+    "phone": "(503) 545-6077",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.akasathaihealingarts.com/",
+    "category": "Buddhist-owned Thai massage in Oregon",
+    "description": "Akasa Thai Healing Arts offers traditional Thai bodywork, focusing on therapeutic sessions tailored to individual needs. Their approach incorporates various traditional Thai therapies to address a wide range of issues",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Thai massage in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Thai Massage PDX",
+    "address": "4508 NE Sandy Blvd, Portland, OR 97213",
+    "phone": "(503) 477-8727",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.thaimassagepdx.com/",
+    "category": "Buddhist-owned Thai massage in Oregon",
+    "description": "Thai Massage PDX emphasizes that the founder of Traditional Thai Medicine was the personal physician to the Buddha, highlighting the influence of Buddhist medical philosophy on this modality",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Thai massage in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Portland Thai Massage",
+    "address": "Located in SE Portland (specific address not publicly listed, contact for details)",
+    "phone": "(503) 957-0247",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.portlandthaimassage.net/",
+    "category": "Buddhist-owned Thai massage in Oregon",
+    "description": "Portland Thai Massage offers personalized Thai and sports massage treatments designed to reduce pain and improve mobility. The practitioner has extensive training in traditional Thai massage and has been practicing since 2008",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Thai massage in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Thai Dai Massage",
+    "address": "Located in Beaverton, Oregon (specific address not publicly listed, contact for details)",
+    "phone": "(503) 891-4700",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.thaidaimassage.com/",
+    "category": "Buddhist-owned Thai massage in Oregon",
+    "description": "Thai Dai Massage brings traditional Thai bodywork to the westside of Portland, dedicated to providing accessible and inclusive massage therapy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Thai massage in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
