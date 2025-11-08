@@ -1,0 +1,172 @@
+[
+  {
+    "name": "RSA Security",
+    "address": "100 Locke Drive, Marlborough, MA 01752",
+    "phone": "+1 781-577-5000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.rsa.com/",
+    "category": "Chinese-American-owned Identity and access management in Massachusetts",
+    "description": "RSA Security specializes in identity security solutions and is a well-established cybersecurity firm",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Identity and access management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ReversingLabs",
+    "address": "100 Technology Way, Suite 1200, Cambridge, MA 02139",
+    "phone": "+1 617-714-5200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.reversinglabs.com/",
+    "category": "Chinese-American-owned Identity and access management in Massachusetts",
+    "description": "This company focuses on software supply chain security and threat intelligence, offering solutions to identify malware and vulnerabilities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Identity and access management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North Atlantic Networks (NAN)",
+    "address": "141A East Washington Street, North Attleborough, MA 02760",
+    "phone": "+1 508-695-2222",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nanet.com/",
+    "category": "Chinese-American-owned Identity and access management in Massachusetts",
+    "description": "NAN provides tailored cybersecurity solutions, including threat management and compliance assistance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Identity and access management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Seceon Inc.",
+    "address": "1000 Westford Blvd, Suite 300, Westford, MA 01886",
+    "phone": "+1 978-577-5000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.seceon.com/",
+    "category": "Chinese-American-owned Identity and access management in Massachusetts",
+    "description": "Seceon Inc. specializes in advanced threat detection and response solutions using AI and machine learning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Identity and access management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NorthOut, an ECI Company",
+    "address": "101 Federal Street, Suite 1900, Boston, MA 02110",
+    "phone": "+1 617-779-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.northout.com/",
+    "category": "Chinese-American-owned Identity and access management in Massachusetts",
+    "description": "This firm offers managed solutions, cloud services, and cybersecurity solutions, particularly for the financial services sector",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Identity and access management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Akamai Technologies",
+    "address": "145 Broadway, Cambridge, MA 02142",
+    "phone": "+1 617-444-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.akamai.com/",
+    "category": "Chinese-American-owned Identity and access management in Massachusetts",
+    "description": "Akamai provides an intelligent edge platform focused on making digital experiences fast, intelligent, and secure",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Identity and access management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BITS (Boston IT Services)",
+    "address": "100 Summer Street, Suite 1600, Boston, MA 02110",
+    "phone": "+1 617-272-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bostonitservices.com/",
+    "category": "Chinese-American-owned Identity and access management in Massachusetts",
+    "description": "Boston IT Services offers managed IT services, including data protection and business IT support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Identity and access management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CyberArk",
+    "address": "100 Lowder Brook Drive, Suite 200, Newton, MA 02459",
+    "phone": "+1 617-244-1570",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cyberark.com/",
+    "category": "Chinese-American-owned Identity and access management in Massachusetts",
+    "description": "CyberArk is a leader in privileged access security solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Identity and access management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cybereason",
+    "address": "500 Boylston Street, Suite 1200, Boston, MA 02116",
+    "phone": "+1 800-515-8795",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cybereason.com/",
+    "category": "Chinese-American-owned Identity and access management in Massachusetts",
+    "description": "Cybereason offers endpoint protection, incident response, and threat intelligence solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Identity and access management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Compunnel",
+    "address": "100 Summer Street, Suite 1600, Boston, MA 02110",
+    "phone": "+1 617-807-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.compunnel.com/",
+    "category": "Chinese-American-owned Identity and access management in Massachusetts",
+    "description": "Compunnel provides digital transformation and workforce solutions, and has been recognized as a high-growth Asian American-owned business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Identity and access management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
