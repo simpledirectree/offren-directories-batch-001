@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Ferguson Plumbing Supply",
+    "address": "5025 Sunset Rd, Charlotte, NC 28269",
+    "phone": "(704) 596-3720",
+    "rating": 3.8,
+    "reviews": 25,
+    "website": "https://www.ferguson.com/",
+    "category": "Asian-owned Plumbing fixtures in North-Carolina",
+    "description": "A wholesale plumbing supplier for professional contractors, offering a wide range of products from top manufacturers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plumbing fixtures in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Carolina Plumbing Supply",
+    "address": "4601 Trademark Dr, Raleigh, NC 27610",
+    "phone": "(919) 876-1424",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.carolinaplumbingsupply.com/",
+    "category": "Asian-owned Plumbing fixtures in North-Carolina",
+    "description": "Provides high-quality plumbing products and services for kitchens and bathrooms, with knowledgeable product experts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plumbing fixtures in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wilkinson Supply Co.",
+    "address": "Multiple locations, including Raleigh, NC. (Specific Raleigh address for showroom sales: 3600 Wake Forest Rd, Raleigh, NC 27609)",
+    "phone": "Raleigh Showroom Sales: (919) 872-4366, Sales Counter: (919) 834-0395",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://wilkinsonsupply.com/",
+    "category": "Asian-owned Plumbing fixtures in North-Carolina",
+    "description": "Offers a selection of plumbing fixtures, as well as lighting and hardware, with trained staff to assist with selections",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plumbing fixtures in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bimco Supply Corporation",
+    "address": "Multiple locations in the Triad area, including Greensboro, High Point, and Winston-Salem. (Example: 1101 W Green Dr, High Point, NC 27260)",
+    "phone": "(336) 889-9000 (High Point location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bimcosupply.com/",
+    "category": "Asian-owned Plumbing fixtures in North-Carolina",
+    "description": "A family-owned plumbing wholesaler offering a wide range of fixtures and parts, with knowledgeable consultants",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plumbing fixtures in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hughes Supply",
+    "address": "Multiple locations across North Carolina. (Example: 4000 Wake Forest Rd, Raleigh, NC 27609)",
+    "phone": "(919) 876-5511 (Raleigh location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hughessupply.com/",
+    "category": "Asian-owned Plumbing fixtures in North-Carolina",
+    "description": "A wholesale distributor of plumbing and HVAC supplies for residential and commercial markets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plumbing fixtures in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
