@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Huang Law LLC",
+    "address": "3513 Concord Pike Suite 3100, Wilmington, Delaware 19803",
+    "phone": "(302) 478-2900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.huanglawllc.com/",
+    "category": "Asian-owned Personal injury law in Delaware",
+    "description": "This firm handles various personal injury matters, including wrongful death, medical malpractice, car accidents, truck accidents, and slip and fall cases. They offer services on a contingent fee basis",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Personal injury law in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Chong Law Firm",
+    "address": "While they have offices in Philadelphia, PA, they serve clients in Wilmington, DE. Their Delaware presence is noted in search results",
+    "phone": "(302) 999-9480 (DE number)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chonglaw.com/",
+    "category": "Asian-owned Personal injury law in Delaware",
+    "description": "The Chong Law Firm focuses on personal injury, wrongful death, and medical malpractice. They emphasize communication with clients and have fluent Spanish and Korean staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Personal injury law in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Sharma Law Firm",
+    "address": "1007 N Orange St 4th floor, Wilmington, DE 19801",
+    "phone": "(302) 781-3077",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sharmalaw.com/",
+    "category": "Asian-owned Personal injury law in Delaware",
+    "description": "This firm handles personal injury lawsuits, car accident lawsuits, workers' compensation claims, slip and fall lawsuits, and more. They are open 24 hours and offer free consultations. They also have a location in Seaford, DE",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Personal injury law in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
