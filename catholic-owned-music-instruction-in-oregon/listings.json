@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Valley Catholic Music School",
+    "address": "4440 SW 148th Avenue, Beaverton, OR 97007",
+    "phone": "503-718-6499",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.valleycatholic.org/music-school/",
+    "category": "Catholic-owned Music instruction in Oregon",
+    "description": "Offers private music lessons for children and adults, as well as a summer music camp. It is associated with the Sisters of St. Mary of Oregon",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Music instruction in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Clare School Music Program",
+    "address": "1807 SW Freeman Street, Portland, OR 97219",
+    "phone": "(503) 244-7600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stclarepdx.org/music",
+    "category": "Catholic-owned Music instruction in Oregon",
+    "description": "Provides music classes for students in grades K-8, focusing on various elements of music, including singing, playing instruments, and music theory",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Music instruction in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Ignatius Catholic Church Music & Choir",
+    "address": "3400 SE 43rd Ave, Portland, OR 97206",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stignatiusschool.org/music",
+    "category": "Catholic-owned Music instruction in Oregon",
+    "description": "Offers a parish choir that sings at Mass and on feast days, with opportunities for voice training and sight-reading",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Music instruction in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chesterton Academy of the Willamette Valley (Music Instruction)",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://chestertonwillamette.org/faculty-directory/",
+    "category": "Catholic-owned Music instruction in Oregon",
+    "description": "This Catholic high school has faculty members who teach music, such as Mr. Edmonds",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Music instruction in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "OMTA Lincoln County (Music Teachers)",
+    "address": "Various locations in Lincoln County, Oregon (e.g., Lincoln City, Newport)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.omta.org/lincoln-county-chapter",
+    "category": "Catholic-owned Music instruction in Oregon",
+    "description": "This organization lists music teachers in Lincoln County. Donna Olson, NCTM, has a Master of Music in Piano Pedagogy from the Benjamin T. Rome School of Music at the Catholic University of America",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Music instruction in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
