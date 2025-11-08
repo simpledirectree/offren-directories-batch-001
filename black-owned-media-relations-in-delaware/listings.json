@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Purpose PR Agency, LLC",
+    "address": "New Castle, DE",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.purposepragency.com/",
+    "category": "Black-owned Media relations in Delaware",
+    "description": "A boutique lifestyle public relations firm offering services including press releases, brand management, social media marketing, digital marketing, and special events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Media relations in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hook PR & Marketing",
+    "address": "17585 Nassau Commons Boulevard, Suite 1, Lewes, DE 19958 (also listed as 920 Justison Street)",
+    "phone": "302-858-5055",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hookpr.com/",
+    "category": "Black-owned Media relations in Delaware",
+    "description": "A strategy-first, story-smart agency that helps purpose-driven teams grow with focus and intention, offering marketing strategy and storytelling services. They are certified as a Minority Business Enterprise (MBE) and Woman Business Enterprise (WBE)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Media relations in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Ascendant Group",
+    "address": "Newark, DE",
+    "phone": "",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Ascendant+Group+in+Delaware",
+    "category": "Black-owned Media relations in Delaware",
+    "description": "A premier PR and branding firm specializing in CEO and executive branding, integrating public relations, social media, design, and publishing. They are recognized as a PR News Top 100 Agency and a top minority-owned PR firm",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Media relations in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Delawareblack.com",
+    "address": "Not applicable (online platform)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.delawareblack.com/",
+    "category": "Black-owned Media relations in Delaware",
+    "description": "An online resource dedicated to promoting the growth of Black-owned businesses and community organizations in Delaware, and encouraging support for African-American events. It may serve as a directory or resource for finding Black-owned businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Media relations in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
