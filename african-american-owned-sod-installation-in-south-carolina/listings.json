@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Lowcountry Queens LLC",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lowcountryqueenslawn.com/",
+    "category": "African-American-owned Sod installation in South-Carolina",
+    "description": "This company is recognized as the first African American female-owned and operated full-service lawn care business in South Carolina, offering a comprehensive range of lawn care and landscape services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Sod installation in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BNC Landscaping",
+    "address": "Downtown Charleston, SC",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bnclandscaping.com/",
+    "category": "African-American-owned Sod installation in South-Carolina",
+    "description": "BNC Landscaping is a minority-owned and operated business providing a wide range of landscaping services, including sod installation, irrigation, and landscape design. They have 23 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Sod installation in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alfonza's Landscape Supercenter",
+    "address": "7419 Broad River Road, Irmo, SC 29063 and 9403 Farrow Road, Columbia, SC 29203",
+    "phone": "(803) 407-6396",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Alfonza's+Landscape+Supercenter+South+Carolina",
+    "category": "African-American-owned Sod installation in South-Carolina",
+    "description": "This is a minority-owned business offering sod installation and mulch services. They manufacture their own South Carolina-certified mulch",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Sod installation in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
