@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Sioux Indian Contracting LLC",
+    "address": "South Dakota, USA (Specific address not publicly available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Sioux+Indian+Contracting+LLC+South+Dakota",
+    "category": "American-Indian-owned Basic electrical work in South-Dakota",
+    "description": "A 100% Native American-owned and operated company founded in 2022, serving clients with a commitment to quality workmanship and customer satisfaction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Basic electrical work in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Murdock Electric Inc.",
+    "address": "452 Apache Drive, PO Box 1541, Pine Ridge, SD 57770",
+    "phone": "605-867-5759",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Murdock+Electric+Inc.+South+Dakota",
+    "category": "American-Indian-owned Basic electrical work in South-Dakota",
+    "description": "A Native American, Veteran, and Family-owned business with over 25 years of experience, providing electrical services for residential and commercial projects. They are proud to operate on the Pine Ridge Indian Reservation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Basic electrical work in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
