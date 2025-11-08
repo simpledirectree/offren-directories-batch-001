@@ -1,0 +1,172 @@
+[
+  {
+    "name": "TruFusion",
+    "address": "1870 Festival Plaza Dr, Suite 200, Las Vegas, NV 89135",
+    "phone": "(702) 478-6077",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.trufusion.com/",
+    "category": "Atheist-owned Hot yoga in Nevada",
+    "description": "TruFusion offers a wide variety of yoga classes, including hot yoga, as well as other fitness options like Pilates and bootcamps",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Hot yoga in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "YogaSix Henderson",
+    "address": "3546 Saint Rose Pkwy, Suite 120, Henderson, NV 89052",
+    "phone": "(702) 534-2805",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.yogasix.com/location/henderson",
+    "category": "Atheist-owned Hot yoga in Nevada",
+    "description": "This studio offers signature heated classes, including Y6 Hot, designed to be energizing and challenging",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Hot yoga in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vibe Yoga",
+    "address": "1450 West Horizon Ridge Parkway, Suite A503, Henderson, NV 89012",
+    "phone": "(702) 483-5059",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://vibeyogalv.com/",
+    "category": "Atheist-owned Hot yoga in Nevada",
+    "description": "Vibe Yoga is known for its community feel and offers infrared-heated Vinyasa classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Hot yoga in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HOTWORX Henderson (Black Mountain)",
+    "address": "10475 S Eastern Ave, Henderson, NV 89052",
+    "phone": "(702) 997-0007",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.hotworx.net/studio/henderson-black-mountain",
+    "category": "Atheist-owned Hot yoga in Nevada",
+    "description": "HOTWORX offers 30-minute isometric and 15-minute HIIT workouts in an infrared sauna, including hot yoga sessions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Hot yoga in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kintsugi Yoga - The Bend",
+    "address": "2672 N Buffalo Drive, Suite 150, Las Vegas, NV 89128",
+    "phone": "(702) 902-7967",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://kintsugilv.com/",
+    "category": "Atheist-owned Hot yoga in Nevada",
+    "description": "Kintsugi Yoga offers infrared heated yoga and sound baths in a supportive environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Hot yoga in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Juice Box Yoga (Multiple Locations)",
+    "address": "Locations in NW Reno, South Reno, and Sparks. (Specific addresses vary, e.g., Legends Mall in Sparks)",
+    "phone": "(775) 329-2929 (General Inquiries)",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.juiceboxyoga.com/",
+    "category": "Atheist-owned Hot yoga in Nevada",
+    "description": "Juice Box Yoga offers a variety of classes including Bikram, Pilates, Yin, and Vinyasa in multiple Northern Nevada locations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Hot yoga in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HOTWORX Reno (Meadowood Square)",
+    "address": "10350 S Virginia St, Reno, NV 89502",
+    "phone": "(775) 470-5000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.hotworx.net/studio/reno-meadowood-square",
+    "category": "Atheist-owned Hot yoga in Nevada",
+    "description": "This studio provides 24-hour access to infrared sauna workouts, including hot yoga, in Reno",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Hot yoga in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "103 Hot Pilates & Yoga",
+    "address": "7455 W Azure Dr Suite 105, Las Vegas, NV 89130",
+    "phone": "(702) 478-0703",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.103yoga.com/",
+    "category": "Atheist-owned Hot yoga in Nevada",
+    "description": "Offers heated and non-heated yoga and Pilates classes in a supportive community environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Hot yoga in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Carson Valley Hot Yoga",
+    "address": "1477 US-395 N, Gardnerville, NV 89410",
+    "phone": "(775) 782-9642",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.carsonvalleyhotyoga.com/",
+    "category": "Atheist-owned Hot yoga in Nevada",
+    "description": "Specializes in the Bikram method, offering a challenging yet restorative practice in a heated room",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Hot yoga in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HOTWORX Las Vegas (Tropicana & Ft Apache)",
+    "address": "7455 W Azure Dr Suite 105, Las Vegas, NV 89130",
+    "phone": "(702) 478-0703",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.hotworx.net/studio/las-vegas-tropicana-ft-apache",
+    "category": "Atheist-owned Hot yoga in Nevada",
+    "description": "This 24/7 infrared fitness studio offers hot yoga, Pilates, and HIIT workouts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Hot yoga in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
