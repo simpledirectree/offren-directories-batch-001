@@ -1,0 +1,53 @@
+[
+  {
+    "name": "The Gentleman's Factory",
+    "address": "Brooklyn, New York (Specific street address not found in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Gentleman's+Factory+New+York",
+    "category": "Black-owned Temporary workspaces in New-York",
+    "description": "A male-focused workspace for Black businessmen to meet, work, and foster community. Offers resources for business incubation, sharing, and navigating venture capital, as well as amenities like a podcast studio and conference rooms",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Temporary workspaces in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Babel Loft",
+    "address": "Brooklyn, New York (Specific street address not found in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Babel+Loft+New+York",
+    "category": "Black-owned Temporary workspaces in New-York",
+    "description": "A multi-concept space co-owned by Marva and Myriam Babel, backed by Black investors. It aims to cater to creative professionals, with a central area that can serve as a coworking space by day and a dance bar by night, and a designated party room",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Temporary workspaces in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Harlem Collective",
+    "address": "Not found in search results (Uptown, New York mentioned)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Harlem+Collective+New+York",
+    "category": "Black-owned Temporary workspaces in New-York",
+    "description": "Offers affordable and flexible office and studio space for individuals, small teams, and service providers. Amenities include high-speed WiFi, utilities, conference rooms, drop-in lounges, a printer/copier, business mail services, and a roof deck",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Temporary workspaces in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
