@@ -1,0 +1,172 @@
+[
+  {
+    "name": "North Alabama Veterinary Emergency & Specialty (NAVES)",
+    "address": "1053 Hughes Rd, Madison, AL 35758",
+    "phone": "(256) 539-0400",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.northalabamavets.com/",
+    "category": "Baby-Boomer-owned Specialty veterinary in Alabama",
+    "description": "Offers emergency and specialty care, including critical care, cardiology, and dermatology for cats, dogs, and exotic pets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Specialty veterinary in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Village Animal Clinic",
+    "address": "4448 Old Shell Rd, Mobile, AL 36608",
+    "phone": "(251) 344-4500",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.villageanimalclinic.com/",
+    "category": "Baby-Boomer-owned Specialty veterinary in Alabama",
+    "description": "Provides top-notch veterinary care with a focus on accommodating staff and an excellent surgeon. Offers 24/7 availability for emergencies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Specialty veterinary in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BluePearl Pet Hospital Birmingham",
+    "address": "1045 Montgomery Hwy, Hoover, AL 35216",
+    "phone": "(205) 417-2000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://bluepearlvet.com/hospital/birmingham-al/",
+    "category": "Baby-Boomer-owned Specialty veterinary in Alabama",
+    "description": "An emergency and specialty animal hospital serving the greater Birmingham community, offering specialized medical care including ophthalmology and internal medicine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Specialty veterinary in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Veterinary Specialists of Birmingham",
+    "address": "1045 Montgomery Hwy, Hoover, AL 35216",
+    "phone": "(205) 417-2000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.veterinaryspecialistsofbirmingham.com/",
+    "category": "Baby-Boomer-owned Specialty veterinary in Alabama",
+    "description": "Provides comprehensive specialty and emergency care for critically ill pets and those experiencing life-threatening emergencies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Specialty veterinary in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Southern Regional Veterinary Specialists",
+    "address": "4009 W Main St, Dothan, AL 36305",
+    "phone": "(334) 792-0002",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://srvs-dothan.com/",
+    "category": "Baby-Boomer-owned Specialty veterinary in Alabama",
+    "description": "Offers specialized veterinary care with a focus on compassion, skill, and service, including surgical services, orthopedics, and diagnostics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Specialty veterinary in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Veterinary Referral & Specialty Hospital",
+    "address": "1000 US-31, Decatur, AL 35603",
+    "phone": "(256) 355-5500",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.vetreferral.com/",
+    "category": "Baby-Boomer-owned Specialty veterinary in Alabama",
+    "description": "Provides a high standard of veterinary specialty and emergency care to primary care veterinarians and the community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Specialty veterinary in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Greenbrier Animal Clinic",
+    "address": "1000 Greenbrier Rd, Anniston, AL 36207",
+    "phone": "(256) 820-7292",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.greenbrieranimalclinic.com/",
+    "category": "Baby-Boomer-owned Specialty veterinary in Alabama",
+    "description": "Offers superior veterinary care for all types of pets, including dogs, cats, birds, exotics, and small farm animals, with over 40 years of service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Specialty veterinary in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Berry Animal Hospital",
+    "address": "2001 Ardmore Ave, Ardmore, AL 35739",
+    "phone": "(256) 423-2112",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.berryanimalhospital.com/",
+    "category": "Baby-Boomer-owned Specialty veterinary in Alabama",
+    "description": "A family-owned practice serving the community's veterinary needs for over 50 years, offering a range of services for various animals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Specialty veterinary in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Southern Animal Hospital & Pet Resort",
+    "address": "1015 W Walnut St, Troy, AL 36081",
+    "phone": "(334) 566-7700",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.southernanimalhosp.com/",
+    "category": "Baby-Boomer-owned Specialty veterinary in Alabama",
+    "description": "A full-service veterinary hospital and pet resort dedicated to providing the highest level of veterinary medicine and compassionate care for dogs, cats, pocket pets, and exotics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Specialty veterinary in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "All Creatures Animal Hospital",
+    "address": "3000 Shady Ln, Millbrook, AL 36054",
+    "phone": "(334) 285-3555",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.allcreaturesmillbrook.com/",
+    "category": "Baby-Boomer-owned Specialty veterinary in Alabama",
+    "description": "A full-service, appointment-based small animal medical facility providing comprehensive primary pet care services, including dental care, surgery, and wellness visits",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Specialty veterinary in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
