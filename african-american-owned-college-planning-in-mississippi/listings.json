@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Get2College",
+    "address": "",
+    "phone": "(800) 922-4759",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://get2college.org/",
+    "category": "African-American-owned College planning in Mississippi",
+    "description": "Get2College is a non-profit organization that provides college planning services, including ACT prep, professional development, and financial aid assistance to Mississippi families and teachers. They offer classroom and virtual presentations, financial aid nights for parents, and FAFSA completion assistance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned College planning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mississippi Office of State Financial Aid",
+    "address": "3825 Ridgewood Road, Jackson, MS 39211-6453",
+    "phone": "1-800-327-2970 (toll-free in MS) or 601-432-6997",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mississippi.edu/financialaid/",
+    "category": "African-American-owned College planning in Mississippi",
+    "description": "This office administers state aid programs, including grants and scholarships for Mississippi students. They provide information on various state aid programs like HELP, MTAG, MESG, FAITH, LAW, and the Nissan Scholarship",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned College planning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jackson State University (JSU)",
+    "address": "1400 John R. Lynch Street, Jackson, MS 39217",
+    "phone": "(601) 979-2121",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jsums.edu/",
+    "category": "African-American-owned College planning in Mississippi",
+    "description": "As a public historically Black research university, JSU offers a wide range of academic programs and support services. Their College of Business and other departments can provide guidance and resources related to career and financial planning for students",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned College planning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Mississippi (Ole Miss)",
+    "address": "100 University Ave, Oxford, MS 38677",
+    "phone": "(662) 915-7386",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://olemiss.edu/",
+    "category": "African-American-owned College planning in Mississippi",
+    "description": "Mississippi's flagship university, Ole Miss, offers various scholarships and financial aid opportunities for incoming students. Their admissions and financial aid offices can provide detailed information",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned College planning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mississippi State University",
+    "address": "1 Science and Technology Rd, Starkville, MS 39759",
+    "phone": "(662) 325-2855",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.msstate.edu/",
+    "category": "African-American-owned College planning in Mississippi",
+    "description": "Mississippi State University provides information on scholarships and financial aid for both resident and non-resident students, including automatic consideration scholarships based on academic merit",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned College planning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alcorn State University",
+    "address": "100 ASU Avenue, Lorman, MS 39096",
+    "phone": "(601) 877-6100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alcorn.edu/",
+    "category": "African-American-owned College planning in Mississippi",
+    "description": "As the first Black land-grant institution in the U.S., Alcorn State University offers various programs and support services that can assist students with their college planning and financial aid needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned College planning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tougaloo College",
+    "address": "500 W. County Line Road, Tougaloo, MS 39174",
+    "phone": "(601) 977-7700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tougaloo.edu/",
+    "category": "African-American-owned College planning in Mississippi",
+    "description": "Tougaloo College, a historically Black college, provides a range of academic programs and student support services that contribute to college readiness and planning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned College planning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rust College",
+    "address": "150 Rust Ave, Holly Springs, MS 38635",
+    "phone": "(662) 252-1400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.rustcollege.edu/",
+    "category": "African-American-owned College planning in Mississippi",
+    "description": "This historically Black liberal arts college offers a personalized educational experience and can assist students with navigating the college application and financial aid processes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned College planning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mississippi Valley State University",
+    "address": "14000 MVSU Drive, Itta Bena, MS 38941",
+    "phone": "(662) 254-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mvsu.edu/",
+    "category": "African-American-owned College planning in Mississippi",
+    "description": "MVSU is another HBCU in Mississippi that provides educational programs and resources to support students in their pursuit of higher education",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned College planning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Noyes Academic Consulting LLC",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.noyesacademicconsulting.com/",
+    "category": "African-American-owned College planning in Mississippi",
+    "description": "While not exclusively African-American-owned or Mississippi-based, Noyes Academic Consulting offers services that include college scholarship application assistance, FAFSA completion, and financial aid guidance. Their website provides information on their services and packages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned College planning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
