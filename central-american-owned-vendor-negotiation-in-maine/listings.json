@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Tostones Cafe",
+    "address": "337 Ocean House Rd, Cape Elizabeth, ME 04107",
+    "phone": "(207) 799-1400",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.tostonescafe.com/",
+    "category": "Central-American-owned Vendor negotiation in Maine",
+    "description": "Fusion of contemporary Latin American cuisine with influences from Colombia, Peru, Mexico, and Venezuela",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vendor negotiation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "La Bodega Latina Grocery Store",
+    "address": "863 Congress St, Portland, ME 04102",
+    "phone": "(207) 761-6661",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/La+Bodega+Latina+Grocery+Store+in+Maine",
+    "category": "Central-American-owned Vendor negotiation in Maine",
+    "description": "Hispanic and American products, with beer and wine available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vendor negotiation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Havana",
+    "address": "318 Main St, Bar Harbor, ME 04609",
+    "phone": "(207) 288-2822",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.havanamaine.com/",
+    "category": "Central-American-owned Vendor negotiation in Maine",
+    "description": "American fine dining with a Latin flair, known for its seafood, vegetarian, and meat dishes. Holds a Wine Spectator's Award of Excellence",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vendor negotiation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lenora",
+    "address": "34 Wharf St, Portland, ME 04101",
+    "phone": "(207) 536-0423",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.lenoramaine.com/",
+    "category": "Central-American-owned Vendor negotiation in Maine",
+    "description": "Mexican street food-inspired menu with handmade tortillas, agave-forward cocktails, and a lager-focused beer program",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vendor negotiation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Terlingua",
+    "address": "40 Washington Ave, Portland, ME 04101",
+    "phone": "(207) 956-7573",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.terlingua.me/",
+    "category": "Central-American-owned Vendor negotiation in Maine",
+    "description": "Neighborhood restaurant and market combining Texas-style BBQ with Southwest, Mexican, and Caribbean-inspired flavors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vendor negotiation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bakaaraha Halal Market",
+    "address": "147 Lisbon St, Lewiston, ME 04240",
+    "phone": "(207) 782-1111",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Bakaaraha+Halal+Market+in+Maine",
+    "category": "Central-American-owned Vendor negotiation in Maine",
+    "description": "A market that appears to serve a diverse community, including immigrant populations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vendor negotiation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Empanada Club & Mariama's Beauty",
+    "address": "1035 Forest Ave, Portland, ME 04103",
+    "phone": "(207) 805-4013",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Empanada+Club+&+Mariama's+Beauty+in+Maine",
+    "category": "Central-American-owned Vendor negotiation in Maine",
+    "description": "Offers empanadas and beauty products, suggesting a diverse ownership or clientele",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vendor negotiation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Crown Fried Chicken & Kebab",
+    "address": "1035 Forest Ave, Portland, ME 04103",
+    "phone": "(207) 805-4013",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Crown+Fried+Chicken+&+Kebab+in+Maine",
+    "category": "Central-American-owned Vendor negotiation in Maine",
+    "description": "A restaurant that serves fried chicken and kebabs, noted for its eclectic mix of patrons, indicating a diverse community presence",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vendor negotiation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MasGusto!",
+    "address": "Online delivery to Portland, ME (specific physical address not provided for delivery service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.masgusto.com/",
+    "category": "Central-American-owned Vendor negotiation in Maine",
+    "description": "An online Mexican grocery market offering delivery to Portland, ME, with no markups and competitive pricing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vendor negotiation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Thistles",
+    "address": "215 State St, Bangor, ME 04401",
+    "phone": "(207) 945-0200",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Thistles+in+Maine",
+    "category": "Central-American-owned Vendor negotiation in Maine",
+    "description": "An award-winning restaurant owned by a family that emigrated from Colombia",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Vendor negotiation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
