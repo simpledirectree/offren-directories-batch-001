@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Nizam Database Solutions, LLC",
+    "address": "7004 Security Blvd, Suite 300 Windsor Mill, MD 21244",
+    "phone": "+1 (443) 703-8069",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nizamdb.com/",
+    "category": "Chinese-speaking Database management in Maryland",
+    "description": "Nizam Database Solutions specializes in Oracle Database Development & Maintenance, offering custom software development, database management, and database creation services. They focus on PL/SQL and maintenance expertise to ensure smooth and efficient database operations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Database management in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
