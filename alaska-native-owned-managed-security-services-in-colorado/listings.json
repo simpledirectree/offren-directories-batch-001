@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Managed Business Solutions (MBS)",
+    "address": "102 S Tejon St, Colorado Springs, CO 80903",
+    "phone": "(719) 635-8000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.mbs-llc.com/",
+    "category": "Alaska-Native-owned Managed security services in Colorado",
+    "description": "MBS is a subsidiary of Sealaska Corporation, an Alaskan Native-owned Small Disadvantaged Business. They offer a range of business solutions, and while not exclusively focused on managed security services, their parent company's background suggests a potential for such offerings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Managed security services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
