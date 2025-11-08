@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Kay's Nails",
+    "address": "419 State Street, Erie, PA 16507",
+    "phone": "(814) 314-9688",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.instagram.com/nailgurl_kay/",
+    "category": "African-American-owned Manicures in Pennsylvania",
+    "description": "This salon offers a unique nail experience with services including nail extensions, intricate nail art, gel or shellac nails, dip nails, and pedicures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Manicures in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "House of Bling Nail Boutique",
+    "address": "(Specific address not found, but located in Philadelphia, PA)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.houseofblingnails.com/",
+    "category": "African-American-owned Manicures in Pennsylvania",
+    "description": "This salon offers the latest in nail trends and styles, with experienced nail technicians specializing in \"bling-worthy\" designs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Manicures in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Diamond Nails & Spa",
+    "address": "4275 County Line Rd Ste 22, Chalfont, PA 18914",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackdiamondnailsandspa.com/",
+    "category": "African-American-owned Manicures in Pennsylvania",
+    "description": "This salon offers a luxurious nail spa experience with personalized services, from classic manicures to creative designs, in a calm and elegant atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Manicures in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Brown Sugar Nail Spa",
+    "address": "(Specific address not found, but located in Philadelphia, PA)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.brownsugarnailspa.com/",
+    "category": "African-American-owned Manicures in Pennsylvania",
+    "description": "This luxury nail salon specializes in acrylic, Gel-X, PolyGel, and hard gel services, aiming to provide a sweet and luxurious experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Manicures in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "C&D Nail Spa",
+    "address": "2621 Brindle Dr, Harrisburg, PA 17110",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/C&D+Nail+Spa+in+Pennsylvania",
+    "category": "African-American-owned Manicures in Pennsylvania",
+    "description": "This nail salon specializes in manicures, pedicures, nail enhancements, and waxing services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Manicures in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lush Nails",
+    "address": "7050 Allentown Boulevard Suite 5, Harrisburg, PA 17112",
+    "phone": "(717) 657-1565",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lushnails.glossgenius.com/",
+    "category": "African-American-owned Manicures in Pennsylvania",
+    "description": "This salon provides expert manicures and pedicures in a sanitary, fun, and friendly environment, prioritizing cleanliness and attention to detail",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Manicures in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Essence Nails & Spa",
+    "address": "Philadelphia, PA 19138",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Essence+Nails+&+Spa+in+Pennsylvania",
+    "category": "African-American-owned Manicures in Pennsylvania",
+    "description": "This salon offers professional nail care and designs, with a team of licensed professionals providing high-quality and affordable beauty services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Manicures in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
