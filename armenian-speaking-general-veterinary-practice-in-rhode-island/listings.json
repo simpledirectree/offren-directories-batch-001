@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Riverside Animal Hospital",
+    "address": "155 Willett Ave, Riverside, RI 02915",
+    "phone": "(401) 433-2070",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.riversideanimalhospitalri.com/",
+    "category": "Armenian-speaking General veterinary practice in Rhode-Island",
+    "description": "Provides quality veterinary care for dogs, cats, and large animals, offering preventive care, dental care, surgery, and diagnostics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking General veterinary practice in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Greenwich Valley Veterinary Clinic",
+    "address": "1452 Main St, West Warwick, RI 02893",
+    "phone": "(401) 821-7770",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.greenwichvalleyvet.com/",
+    "category": "Armenian-speaking General veterinary practice in Rhode-Island",
+    "description": "A full-service animal hospital serving West Warwick and surrounding areas, offering preventive, medical, and surgical services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking General veterinary practice in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "West Shore Animal Clinic",
+    "address": "1710 Warwick Ave, Warwick, RI 02889",
+    "phone": "(401) 738-3447",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.westshoreanimalclinic.com/",
+    "category": "Armenian-speaking General veterinary practice in Rhode-Island",
+    "description": "Offers quality veterinary care for dogs and cats, with an emphasis on preventive care, internal medicine, and surgery. They also offer mobile app and online booking",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking General veterinary practice in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Providence River Animal Hospital",
+    "address": "200 Elmwood Ave, Providence, RI 02907",
+    "phone": "(401) 461-9450",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.providenceriveranimal.com/",
+    "category": "Armenian-speaking General veterinary practice in Rhode-Island",
+    "description": "Provides compassionate and experienced veterinary care with state-of-the-art equipment for cats and dogs. Services include wellness care, dentistry, and surgery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking General veterinary practice in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Newport Animal Hospital",
+    "address": "333 Valley Rd, Middletown, RI 02842",
+    "phone": "(401) 849-3400",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.newportanimalhospital.com/",
+    "category": "Armenian-speaking General veterinary practice in Rhode-Island",
+    "description": "Offers a wide range of veterinary services and is equipped to handle various medical and surgical needs for pets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking General veterinary practice in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "South County Veterinary Hospital",
+    "address": "145 Old Tower Hill Rd, Wakefield, RI 02879",
+    "phone": "(401) 783-5200",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.southcountyvet.com/",
+    "category": "Armenian-speaking General veterinary practice in Rhode-Island",
+    "description": "A full-service animal hospital and boarding facility providing top-rated pet care, including general services, vaccinations, and medications",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking General veterinary practice in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Village Veterinary Center",
+    "address": "131 West Main St, North Kingstown, RI 02852",
+    "phone": "(401) 583-4560",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.villagevetri.com/",
+    "category": "Armenian-speaking General veterinary practice in Rhode-Island",
+    "description": "Offers expert and compassionate veterinary care with a focus on the human-animal bond, providing a wide variety of veterinary services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking General veterinary practice in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Portsmouth Veterinary Clinic",
+    "address": "2660 East Main Rd, Portsmouth, RI 02871",
+    "phone": "(401) 683-1300",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.portsmouthvetclinic.com/",
+    "category": "Armenian-speaking General veterinary practice in Rhode-Island",
+    "description": "A full-service veterinary hospital offering comprehensive medical and surgical services for pets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking General veterinary practice in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gansett Animal Hospital",
+    "address": "140 Newman Ave, Rumford, RI 02916",
+    "phone": "(401) 434-2751",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.gansettanimal.com/",
+    "category": "Armenian-speaking General veterinary practice in Rhode-Island",
+    "description": "Provides high-quality, affordable veterinary medical and surgical services in a compassionate environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking General veterinary practice in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bayside Veterinary Care",
+    "address": "150 County Rd, Barrington, RI 02806",
+    "phone": "(401) 310-0346",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.baysidevetcare.com/",
+    "category": "Armenian-speaking General veterinary practice in Rhode-Island",
+    "description": "Offers expert veterinary care with a Fear-free certified team, focusing on dermatology, dentistry, and preventative medicine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking General veterinary practice in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
