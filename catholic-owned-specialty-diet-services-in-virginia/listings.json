@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Sentara Northern Virginia Medical Center",
+    "address": "8270 Digestive Diseases Center, 8270 Digestive Diseases Center, Woodbridge, VA 22192",
+    "phone": "(703) 523-0875",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sentara.com/virginia-beach-norfolk/healthcare-services/nutrition-services/default.aspx",
+    "category": "Catholic-owned Specialty diet services in Virginia",
+    "description": "Offers individual nutrition counseling sessions with a referral from a physician for various conditions including diabetes, heart disease, and kidney disease",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Specialty diet services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bon Secours Nutrition Services",
+    "address": "Multiple locations including 5801 Bremo Road, Richmond, VA 23226 and 8260 Atlee Road, Mechanicsville, VA 23116",
+    "phone": "(804) 627-5000 (Richmond Main)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bonsecours.org/services/nutrition-services/",
+    "category": "Catholic-owned Specialty diet services in Virginia",
+    "description": "Provides outpatient nutrition services with registered dietitians offering personalized advice for weight management, diabetes, sports nutrition, and specialized counseling for conditions like hypertension, kidney disease, and celiac disease",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Specialty diet services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "UVA Health Nutritional Counseling Center",
+    "address": "1204 Emmet St N, Charlottesville, VA 22903",
+    "phone": "(434) 924-9292",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://uvahealth.com/services/nutrition-support",
+    "category": "Catholic-owned Specialty diet services in Virginia",
+    "description": "Offers nutrition coaching, classes, and education for various health goals, including managing diabetes, weight loss, and digestive health, with registered dietitians providing medical nutrition therapy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Specialty diet services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Be Healthy Nutrition Consulting",
+    "address": "10521 Judicial Dr Ste 200, Fairfax, VA 22030",
+    "phone": "(703) 596-7000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.behealthynutritionconsulting.com/",
+    "category": "Catholic-owned Specialty diet services in Virginia",
+    "description": "A group practice of dietitians specializing in eating disorders, providing a non-judgmental environment and using a Health at Every Size approach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Specialty diet services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Virginia Physicians, Inc. - Registered Dietitians",
+    "address": "Multiple locations, including Glen Allen, VA",
+    "phone": "(804) 323-0000 (Glen Allen)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.virginiaphysicians.com/services/registered-dietitians/",
+    "category": "Catholic-owned Specialty diet services in Virginia",
+    "description": "Offers nutritional counseling and dietary planning with registered dietitians specializing in medical nutrition therapy, weight management, and chronic disease management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Specialty diet services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fay Nutrition",
+    "address": "Virtual services available, with some providers in Virginia",
+    "phone": "(844) 329-3488",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.faynutrition.com/",
+    "category": "Catholic-owned Specialty diet services in Virginia",
+    "description": "Connects individuals with registered dietitians offering customized care for various specialties including weight loss, diabetes, eating disorders, and food allergies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Specialty diet services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Diet-to-Go",
+    "address": "Operates kitchens in Virginia",
+    "phone": "(800) 777-1500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.diet-to-go.com/",
+    "category": "Catholic-owned Specialty diet services in Virginia",
+    "description": "A meal delivery service with kitchens in Virginia, offering calorie-controlled meal plans for weight loss, including options for diabetes-friendly and keto diets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Specialty diet services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Neov Nutrition LLC",
+    "address": "Falls Church, VA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.providerwire.com/provider/alison-neov-rd-csg/",
+    "category": "Catholic-owned Specialty diet services in Virginia",
+    "description": "Specializes in Gerontological Nutrition Registered Dietitian services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Specialty diet services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities of Eastern Virginia (CCEVA)",
+    "address": "Multiple locations, including Norfolk, VA",
+    "phone": "(757) 456-2545",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cceva.org/",
+    "category": "Catholic-owned Specialty diet services in Virginia",
+    "description": "While primarily focused on financial and housing counseling, mental health, and senior services, CCEVA's mission is to serve all in need and may offer or refer to nutrition-related support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Specialty diet services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Business Network of Northern Virginia (CBN-NOVA)",
+    "address": "Various locations for events in Northern Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cbn-nova.org/",
+    "category": "Catholic-owned Specialty diet services in Virginia",
+    "description": "A community of businesses dedicated to moral business practices and supporting Catholic education. While not a direct service provider, it may offer networking opportunities to find Catholic-owned businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Specialty diet services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
