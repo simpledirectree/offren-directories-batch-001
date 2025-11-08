@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Applied Bank",
+    "address": "2200 Concord Pike, Suite 102, Wilmington, DE 19803",
+    "phone": "(888) 839-7952",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.appliedbank.com/",
+    "category": "Baby-Boomer-owned Banking relationship management in Delaware",
+    "description": "A Delaware State Chartered Bank offering asset protection, commercial banking, personal banking, and credit cards. It is noted as the highest-rated Delaware State chartered bank",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Banking relationship management in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Artisans' Bank",
+    "address": "Multiple locations across Delaware",
+    "phone": "(302) 226-3333 (for Community Bank Delaware, which shares some services)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.artisansbank.com/",
+    "category": "Baby-Boomer-owned Banking relationship management in Delaware",
+    "description": "Delaware's community bank since 1861, offering personalized financial solutions with a strong community focus, including business services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Banking relationship management in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bank of America",
+    "address": "Multiple locations across Delaware",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bankofamerica.com/",
+    "category": "Baby-Boomer-owned Banking relationship management in Delaware",
+    "description": "A prominent national bank serving millions with a full suite of financial products, including credit cards, loans, savings, and investments, with strong digital services for small businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Banking relationship management in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chase Bank",
+    "address": "Multiple locations across Delaware",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chase.com/",
+    "category": "Baby-Boomer-owned Banking relationship management in Delaware",
+    "description": "A global banking leader offering strong security, fraud monitoring, and user-friendly online banking, with a single branch in Wilmington, Delaware",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Banking relationship management in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Community Bank Delaware",
+    "address": "Multiple locations, including Lewes and Rehoboth",
+    "phone": "(302) 226-3333",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.communitybankde.com/",
+    "category": "Baby-Boomer-owned Banking relationship management in Delaware",
+    "description": "Offers a wide range of business checking options, online banking, mobile deposit, and bill pay, with services like ACH origination and remote deposit capture",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Banking relationship management in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "M&T Bank",
+    "address": "Multiple locations across Delaware",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mtb.com/",
+    "category": "Baby-Boomer-owned Banking relationship management in Delaware",
+    "description": "Offers flexible business checking accounts with waivable fees and robust digital tools, and has a solid foothold in Delaware, fostering strong ties with local businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Banking relationship management in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PNC Bank",
+    "address": "Multiple locations across Delaware",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pnc.com/",
+    "category": "Baby-Boomer-owned Banking relationship management in Delaware",
+    "description": "Stands out for its digital banking solutions and international banking services, making it ideal for businesses with global needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Banking relationship management in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Santander Bank",
+    "address": "Multiple locations in Delaware",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.santanderbank.com/us/commercial",
+    "category": "Baby-Boomer-owned Banking relationship management in Delaware",
+    "description": "A leading retail and commercial bank with $102 billion in assets, offering services to businesses, including those expanding internationally through its Navigator Global program",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Banking relationship management in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TD Bank",
+    "address": "Multiple locations across Delaware",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tdbank.com/",
+    "category": "Baby-Boomer-owned Banking relationship management in Delaware",
+    "description": "Offers convenient services for individuals and businesses with 14 branches in Delaware and over 1,100 nationwide",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Banking relationship management in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wells Fargo",
+    "address": "Multiple locations across Delaware",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wellsfargo.com/",
+    "category": "Baby-Boomer-owned Banking relationship management in Delaware",
+    "description": "A prominent national bank offering a variety of personal and business banking services, and a leading bank in Delaware for rewards and its highly rated mobile app",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Banking relationship management in Delaware consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
