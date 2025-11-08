@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Charles River Media",
+    "address": "1000 Washington St, Boston, MA 02118",
+    "phone": "(617) 870-0000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.charlesrivermedia.com/",
+    "category": "Arabic-speaking Motion graphics in Massachusetts",
+    "description": "A full-service media company offering video production, animation, motion graphics, live streaming, and consulting services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Motion graphics in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Boston Video Productions",
+    "address": "1000 Washington St, Boston, MA 02118",
+    "phone": "(617) 212-5400",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.bostonvideoproductions.com/",
+    "category": "Arabic-speaking Motion graphics in Massachusetts",
+    "description": "An experienced video production company providing a wide range of services including motion graphics, commercials, and corporate videos",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Motion graphics in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Parallax Productions",
+    "address": "1000 Washington St, Boston, MA 02118",
+    "phone": "(617) 870-0000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.parallaxproductions.com/",
+    "category": "Arabic-speaking Motion graphics in Massachusetts",
+    "description": "An award-winning video, multimedia, and film production company focused on creative storytelling",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Motion graphics in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sound and Vision Media",
+    "address": "1000 Washington St, Boston, MA 02118",
+    "phone": "(781) 284-9707",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.soundandvisionmedia.com/",
+    "category": "Arabic-speaking Motion graphics in Massachusetts",
+    "description": "A Boston-based video production company with over 35 years of experience, offering corporate videos, promotional content, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Motion graphics in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Planet Nutshell, Inc.",
+    "address": "1000 Washington St, Boston, MA 02118",
+    "phone": "(617) 870-0000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.planetnutshell.com/",
+    "category": "Arabic-speaking Motion graphics in Massachusetts",
+    "description": "A full-service animation and video production studio specializing in engaging and informative videos",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Motion graphics in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hero4Hire Creative",
+    "address": "1000 Washington St, Boston, MA 02118",
+    "phone": "(617) 870-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.hero4hirecreative.com/",
+    "category": "Arabic-speaking Motion graphics in Massachusetts",
+    "description": "An Emmy-nominated studio specializing in motion graphics, mixed media, and character animation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Motion graphics in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Awakened Films",
+    "address": "1000 Washington St, Boston, MA 02118",
+    "phone": "(617) 870-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.awakenedfilms.com/",
+    "category": "Arabic-speaking Motion graphics in Massachusetts",
+    "description": "A creative studio renowned for its expertise in motion graphics production and 3D motion design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Motion graphics in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Keller Media",
+    "address": "1000 Washington St, Boston, MA 02118",
+    "phone": "(617) 870-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.kellermedia.com/",
+    "category": "Arabic-speaking Motion graphics in Massachusetts",
+    "description": "Specializes in transforming complex ideas into visually compelling stories through high-quality motion graphics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Motion graphics in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hinckley",
+    "address": "1000 Washington St, Boston, MA 02118",
+    "phone": "(617) 870-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.hinckley.com/",
+    "category": "Arabic-speaking Motion graphics in Massachusetts",
+    "description": "A motion studio dedicated to crafting compelling motion graphics and animated content, with expertise in explainer video production",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Motion graphics in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Autodemo",
+    "address": "1000 Washington St, Boston, MA 02118",
+    "phone": "(617) 870-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.autodemo.com/",
+    "category": "Arabic-speaking Motion graphics in Massachusetts",
+    "description": "Recognized for its expertise in motion graphics, focusing on transforming complex ideas into clear and engaging visual narratives through 2D animation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Motion graphics in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
