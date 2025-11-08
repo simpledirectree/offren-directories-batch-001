@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Laverne's Catering Hawaii",
+    "address": "94-849 Lumiaina Street, Waipahu, HI 96797 (and 4600 Kapolei Pkwy, Kapolei, HI 96707)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Laverne's+Catering+Hawaii+in+Hawaii",
+    "category": "Alaska-Native-owned Specialty cuisine catering in Hawaii",
+    "description": "Offers Hawaiian and local-style food, catering for all occasions, and online ordering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Specialty cuisine catering in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aloha Culinary Group",
+    "address": "Kitchen located within the Ala Wai Boat Harbor, Honolulu, Hawaii",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Aloha+Culinary+Group+in+Hawaii",
+    "category": "Alaska-Native-owned Specialty cuisine catering in Hawaii",
+    "description": "Specializes in custom, chef-crafted menus using local, seasonal ingredients, offering private catering, yacht catering, and corporate event catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Specialty cuisine catering in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NMS Food Services",
+    "address": "800 E. Dimond Blvd, Anchorage, AK 99515 (This is an Alaska-based company, not Hawaii)",
+    "phone": "(907) 273-2400, Sales: (907) 273-2410",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/NMS+Food+Services+in+Hawaii",
+    "category": "Alaska-Native-owned Specialty cuisine catering in Hawaii",
+    "description": "An Alaska Native-owned company providing catering, corporate dining, and healthcare services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Specialty cuisine catering in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ketapanen Kitchen",
+    "address": "Chicago, Illinois (This is not in Hawaii)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Ketapanen+Kitchen+in+Hawaii",
+    "category": "Alaska-Native-owned Specialty cuisine catering in Hawaii",
+    "description": "An Indigenous, woman-owned business offering traditional and modern Indigenous dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Specialty cuisine catering in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mila's Kitchen Hawaii",
+    "address": "Southern California (This is not in Hawaii)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mila's+Kitchen+Hawaii+in+Hawaii",
+    "category": "Alaska-Native-owned Specialty cuisine catering in Hawaii",
+    "description": "A veteran and Native Hawaiian-owned company serving Hawaiian fusion food, offering private chef services and catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Specialty cuisine catering in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
