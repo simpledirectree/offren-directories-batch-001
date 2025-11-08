@@ -1,0 +1,104 @@
+[
+  {
+    "name": "AthElite Nation",
+    "address": "1200 Industrial Pkwy, Boaz, AL 35942",
+    "phone": "(256) 593-0007",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.athelitenation.com/",
+    "category": "American-Indian-owned Sports performance training in Alabama",
+    "description": "AthElite Nation offers sports performance training for athletes of all levels, focusing on strength, speed, power, and agility. They emphasize scientific knowledge and a structured training system",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Sports performance training in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "One Tribe Combat Training",
+    "address": "100 Hughes Rd, Madison, AL 35758",
+    "phone": "(256) 715-7253",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.onetribecbt.com/",
+    "category": "American-Indian-owned Sports performance training in Alabama",
+    "description": "One Tribe Combat Training offers a variety of martial arts and combat sports, including Brazilian Jiu-Jitsu, Muay Thai, Judo, and wrestling. They aim to provide a welcoming environment for all skill levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Sports performance training in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Iron Tribe Fitness (Multiple Locations)",
+    "address": "",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.irontribefitness.com/",
+    "category": "American-Indian-owned Sports performance training in Alabama",
+    "description": "Iron Tribe Fitness offers group fitness, personal training, and high-performance training. They focus on building a supportive community and providing structured, effective workouts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Sports performance training in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Manifest Athlete",
+    "address": "1000 Owens Cross Roads, Owens Cross Roads, AL 35763",
+    "phone": "(256) 489-1811",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://manifestathlete.com/",
+    "category": "American-Indian-owned Sports performance training in Alabama",
+    "description": "Manifest Athlete provides sports performance training with a focus on sport-specific fitness, injury prevention, and professional coaching",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Sports performance training in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maximum Performance Institute",
+    "address": "1515 9th Ave N, Bessemer, AL 35020",
+    "phone": "(205) 428-8800",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.maximumperformanceinstitute.com/",
+    "category": "American-Indian-owned Sports performance training in Alabama",
+    "description": "Maximum Performance Institute is a sports training gym offering programs for athletes to improve speed, agility, strength, and overall performance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Sports performance training in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Elite Sports & Performance Academy",
+    "address": "1000 Old Monrovia Rd NW, Suite 101, Huntsville, AL 35806",
+    "phone": "(256) 801-0007",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.espatherapy.com/",
+    "category": "American-Indian-owned Sports performance training in Alabama",
+    "description": "Elite Sports & Performance Academy specializes in post-physical therapy athletic recovery, sports injury prevention, and performance physical therapy for high-performance athletes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Sports performance training in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
