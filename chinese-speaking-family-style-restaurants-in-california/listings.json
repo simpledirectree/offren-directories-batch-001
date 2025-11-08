@@ -1,0 +1,172 @@
+[
+  {
+    "name": "HL Peninsula Restaurant",
+    "address": "608 Dubuque Ave, South San Francisco, CA 94080",
+    "phone": "(650) 583-1288",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://hlpeninsula.com/",
+    "category": "Chinese-speaking Family-style restaurants in California",
+    "description": "Offers authentic Cantonese cuisine with a focus on fresh ingredients and traditional preparation, suitable for family gatherings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Home Eat",
+    "address": "Multiple locations including Cupertino, Fremont, San Jose, Santa Clara, Sunnyvale, and Milpitas. (Example: 10121 Bandley Dr, Cupertino, CA 95014)",
+    "phone": "(408) 725-1818 (Cupertino location)",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.homeeat.com/",
+    "category": "Chinese-speaking Family-style restaurants in California",
+    "description": "This restaurant offers a blend of Sichuan, Hunan, and Taiwanese dishes, emphasizing affordable, high-quality Chinese cuisine in a comfortable dining experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Happy Kitchen",
+    "address": "1580 S Chino Hills Pkwy, Chino Hills, CA 91709",
+    "phone": "(909) 393-8000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.happykitchenchinohills.com/",
+    "category": "Chinese-speaking Family-style restaurants in California",
+    "description": "Known for authentic Chinese food, Happy Kitchen provides a warm, inviting atmosphere perfect for family dinners, offering a variety of regional Chinese specialties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yang Chow",
+    "address": "837 N Broadway, Los Angeles, CA 90012 (Original Chinatown location)",
+    "phone": "(213) 625-0505",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.yangchowla.com/",
+    "category": "Chinese-speaking Family-style restaurants in California",
+    "description": "A family-run restaurant famous for its \"slippery shrimp,\" Yang Chow serves a wide array of Mandarin and Sichuan dishes, suitable for family-style dining",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Little Fatty",
+    "address": "12034 W Pico Blvd, Los Angeles, CA 90064",
+    "phone": "(310) 312-6200",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.littlefattyla.com/",
+    "category": "Chinese-speaking Family-style restaurants in California",
+    "description": "This Taiwanese comfort food eatery offers family-style platters and a variety of dishes, including vegetarian options, in a Westside Los Angeles location",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Panda Inn",
+    "address": "3488 E Foothill Blvd, Pasadena, CA 91107",
+    "phone": "(626) 795-2552",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.pandainn.com/",
+    "category": "Chinese-speaking Family-style restaurants in California",
+    "description": "Panda Inn serves American Chinese cuisine with a focus on traditional flavors and a welcoming atmosphere, suitable for family dining",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mama Lu's Dumpling House",
+    "address": "153 E Garvey Ave, Monterey Park, CA 91755",
+    "phone": "(626) 307-0000",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://mamaludumplinghouse.com/",
+    "category": "Chinese-speaking Family-style restaurants in California",
+    "description": "Highly-rated for its dumplings and other Chinese dishes, Mama Lu's is a popular spot for family-style meals, known for its generous portions and home-cooking quality",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Longo Seafood",
+    "address": "15333 Gale Ave, City of Industry, CA 91745",
+    "phone": "(626) 330-1188",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://longoseafood.com/",
+    "category": "Chinese-speaking Family-style restaurants in California",
+    "description": "Recommended for family-style dining, Longo Seafood offers a variety of Cantonese dishes, including fresh seafood preparations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chin's Szechwan",
+    "address": "Multiple locations, including 1001 W. 10th Street, Antioch, CA 94509 (example)",
+    "phone": "(925) 754-3000 (Antioch location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://chinsszechwan.com/",
+    "category": "Chinese-speaking Family-style restaurants in California",
+    "description": "Serving high-quality Chinese food since 1976, Chin's Szechwan aims to provide memorable dining experiences with a focus on Szechwan cuisine, suitable for families",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dynasty",
+    "address": "2901 W MacArthur Blvd, Santa Ana, CA 92704",
+    "phone": "(714) 708-3000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.dynastyoc.com/",
+    "category": "Chinese-speaking Family-style restaurants in California",
+    "description": "Described as Orange County's top Cantonese seafood restaurant, Dynasty offers authentic flavors and an upscale dining experience, perfect for family celebrations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
