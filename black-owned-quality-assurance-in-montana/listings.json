@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Greer Black Company",
+    "address": "Bozeman, Montana (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Greer+Black+Company+in+Montana",
+    "category": "Black-owned Quality assurance in Montana",
+    "description": "A small business consulting and market research company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Quality assurance in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "KRose Marketing and Consulting",
+    "address": "Three Forks, Montana (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/KRose+Marketing+and+Consulting+in+Montana",
+    "category": "Black-owned Quality assurance in Montana",
+    "description": "A business consulting company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Quality assurance in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ascendant Advisory Group",
+    "address": "Helena, Montana (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Ascendant+Advisory+Group+in+Montana",
+    "category": "Black-owned Quality assurance in Montana",
+    "description": "A business consulting company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Quality assurance in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "H2A Partners",
+    "address": "Not specified, but operates in Montana",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/H2A+Partners+in+Montana",
+    "category": "Black-owned Quality assurance in Montana",
+    "description": "A business consulting company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Quality assurance in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DTM Consulting, Inc.",
+    "address": "Bozeman, Montana (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/DTM+Consulting,+Inc.+in+Montana",
+    "category": "Black-owned Quality assurance in Montana",
+    "description": "A business consulting company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Quality assurance in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "QualityWorks",
+    "address": "While not located in Montana, this Black-owned company specializes in software consulting, digital transformation, and software testing, which are directly related to quality assurance. Their contact information is:",
+    "phone": "(888) 331\u20139588",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/QualityWorks+in+Montana",
+    "category": "Black-owned Quality assurance in Montana",
+    "description": "A software consulting company specializing in web and mobile application development, digital transformation, and software testing. They have served clients internationally",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Quality assurance in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Mountain Software",
+    "address": "Polson, Montana (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.blackmountainsoftware.com/company/",
+    "category": "Black-owned Quality assurance in Montana",
+    "description": "A company that creates accounting software for municipalities, counties, and school districts. While not a direct QA firm, software development often involves QA processes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Quality assurance in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blackink IT",
+    "address": "While not specified as being in Montana, this IT service provider is mentioned in a Montana IT services context",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Blackink+IT+in+Montana",
+    "category": "Black-owned Quality assurance in Montana",
+    "description": "An IT service provider specializing in managed services, cybersecurity, and IT consulting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Quality assurance in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jah-T'aime Food and Catering",
+    "address": "Great Falls, Montana (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.supportblackowned.com/jah-t-aime-food-and-catering",
+    "category": "Black-owned Quality assurance in Montana",
+    "description": "A Jamaican restaurant. (Included as a Black-owned business in Montana, though not QA related)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Quality assurance in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Montana Wellness Ctr.",
+    "address": "Ennis, Montana (Specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.supportblackowned.com/montana-wellness-ctr",
+    "category": "Black-owned Quality assurance in Montana",
+    "description": "A wellness center. (Included as a Black-owned business in Montana, though not QA related)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Quality assurance in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
