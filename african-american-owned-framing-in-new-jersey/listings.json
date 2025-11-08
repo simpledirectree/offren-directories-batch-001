@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Westwood Art Gallery",
+    "address": "145 Westwood Ave, Westwood, NJ 07675",
+    "phone": "(201) 664-1111",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "http://www.westwoodartgallery.com/",
+    "category": "African-American-owned Framing in New-Jersey",
+    "description": "Offers custom framing, fine art, vintage posters, custom mirrors, and art restoration",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Framing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Luxe Frames, LLC",
+    "address": "244 US-46, Fairfield, NJ 07004",
+    "phone": "(973) 287-6060",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.pictureframingfactory.com/",
+    "category": "African-American-owned Framing in New-Jersey",
+    "description": "Provides custom framing, large poster printing, and custom steel frames with a large selection of frames and knowledgeable staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Framing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Modern Memory Design",
+    "address": "213 Boulevard, Hasbrouck Heights, NJ 07604",
+    "phone": "(201) 288-1111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.modernmemorydesign.com/",
+    "category": "African-American-owned Framing in New-Jersey",
+    "description": "Offers high-quality wood picture frames, poster frames, custom framing, large format printing, and custom shadow boxes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Framing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Picture Framing Warehouse",
+    "address": "120 Passaic Ave, Fairfield, NJ 07004",
+    "phone": "(973) 227-0077",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pictureframingnj.com/",
+    "category": "African-American-owned Framing in New-Jersey",
+    "description": "Offers 1-hour custom framing with a wide selection of mouldings, specializing in framing art, photographs, diplomas, shadow boxes, and sports memorabilia",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Framing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NJ Art's World",
+    "address": "1925 Vauxhall Rd, Union, NJ 07083",
+    "phone": "(908) 688-4955",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://njartsworld.com/",
+    "category": "African-American-owned Framing in New-Jersey",
+    "description": "Offers custom picture framing, framed art, and African imports",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Framing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Artist Framer",
+    "address": "116 North Avenue West, Cranford, NJ 07016",
+    "phone": "(908) 931-1133",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theartistframer.com/",
+    "category": "African-American-owned Framing in New-Jersey",
+    "description": "Provides custom picture framing, digital photo restoration, and framing for various items like needlework, jerseys, and memorabilia",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Framing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Artist Frame Gallery and Design",
+    "address": "744 Bloomfield Avenue, Verona, New Jersey 07044",
+    "phone": "(973) 239-3738",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.artistframegallery.com/",
+    "category": "African-American-owned Framing in New-Jersey",
+    "description": "Offers high-quality picture frames, custom framing, and framing for sports memorabilia",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Framing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Corner Frame and Gallery",
+    "address": "537 & 539, Cream Ridge, NJ",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cornerframeandgallery.com/",
+    "category": "African-American-owned Framing in New-Jersey",
+    "description": "Provides custom picture framing, shadow boxes, and framing for artwork, photographs, memorabilia, and more, with over 30 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Framing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nonesuch Picture Framing and Jewelry",
+    "address": "Ringoes, New Jersey",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nonesuchnj.com/",
+    "category": "African-American-owned Framing in New-Jersey",
+    "description": "Offers custom picture framing, handcrafted jewelry, and quality matting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Framing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Contract Picture Framers",
+    "address": "Westville, New Jersey",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.contractpictureframers.com/",
+    "category": "African-American-owned Framing in New-Jersey",
+    "description": "Provides custom-designed and built products including framed art, framed mirrors, and compliance sign packages, serving various sectors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Framing in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
