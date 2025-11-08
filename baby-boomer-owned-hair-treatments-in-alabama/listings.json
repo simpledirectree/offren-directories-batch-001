@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Oak Street Hair Group",
+    "address": "2800 18th St S, Homewood, AL 35209",
+    "phone": "(205) 871-1700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.oakstreethairgroup.com/",
+    "category": "Baby-Boomer-owned Hair treatments in Alabama",
+    "description": "Offers hair services with an emphasis on classic techniques",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Hair treatments in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "It's Fabulous Hair Salon & Spa",
+    "address": "7670 Highway 72 W, Madison, AL 35758",
+    "phone": "(256) 721-2222",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://itsfabuloussalon.com/",
+    "category": "Baby-Boomer-owned Hair treatments in Alabama",
+    "description": "A luxury hair salon and spa offering a wide range of services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Hair treatments in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Collective",
+    "address": "2801 2nd Ave S, Suite B, Birmingham, AL 35233 (Pepper Place location)",
+    "phone": "(205) 264-9991",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thecollective.hair/",
+    "category": "Baby-Boomer-owned Hair treatments in Alabama",
+    "description": "Offers cuts, color, style, and treatments in Birmingham",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Hair treatments in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cuts By Us",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://cutsbyus.com/",
+    "category": "Baby-Boomer-owned Hair treatments in Alabama",
+    "description": "A chain of hair salons offering haircuts and color services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Hair treatments in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
