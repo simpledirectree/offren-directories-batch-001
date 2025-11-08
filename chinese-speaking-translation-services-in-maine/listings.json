@@ -1,0 +1,70 @@
+[
+  {
+    "name": "NLC Translations",
+    "address": "Serves Augusta, ME and surrounding areas. They operate remotely, so a physical address is not listed for client visits",
+    "phone": "1-833-744-1555",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nlctranslations.com/",
+    "category": "Chinese-speaking Translation services in Maine",
+    "description": "Offers professional Chinese translation services (Mandarin and Cantonese, Simplified and Traditional Chinese) for various needs including business, legal, and marketing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Translation services in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DHC Translations",
+    "address": "Offices located throughout Portland, USA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dhctranslations.com/",
+    "category": "Chinese-speaking Translation services in Maine",
+    "description": "Provides certified translation services in over 100 languages, including Chinese, for various documents. They emphasize timely and practical pricing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Translation services in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Languex",
+    "address": "Lewiston, ME",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://languex.com/",
+    "category": "Chinese-speaking Translation services in Maine",
+    "description": "Offers certified and standard translation services in 35 languages, including Chinese. Prices are listed as $39.00/page for certified and $0.12/word for standard",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Translation services in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bangor Chinese School",
+    "address": "120 State St, Bangor, ME 04401 (This is a school, but offers interpretation services)",
+    "phone": "207-990-0710 (School Phone), 207-992-8880 (Cell phone)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.bangorchinese.com/",
+    "category": "Chinese-speaking Translation services in Maine",
+    "description": "While primarily a school, they offer interpretation and translation services, including for the Chinese language, to help local communities and educational support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Translation services in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
