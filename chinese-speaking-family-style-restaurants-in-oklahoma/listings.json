@@ -1,0 +1,172 @@
+[
+  {
+    "name": "China One",
+    "address": "622 S Aspen Ave, Broken Arrow, OK 74012",
+    "phone": "(918) 245-1111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chinaonebrokenarrow.com/",
+    "category": "Chinese-speaking Family-style restaurants in Oklahoma",
+    "description": "Offers traditional and delicious Chinese cuisine with a convenient location and affordable prices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Great Wall",
+    "address": "1020 N Santa Fe Ave, Edmond, OK 73003",
+    "phone": "(405) 348-4888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ezordernow.com/great-wall-edmond",
+    "category": "Chinese-speaking Family-style restaurants in Oklahoma",
+    "description": "Features a \"Family Dinner\" option for two or four people, offering a selection of entrees",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mandarin Taste",
+    "address": "3133 E 51st St, Tulsa, OK 74105",
+    "phone": "(918) 712-8777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mandarintasteok.com/",
+    "category": "Chinese-speaking Family-style restaurants in Oklahoma",
+    "description": "Known for authentic Szechuan cuisine, hot pot, and handmade dumplings and noodles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "China House",
+    "address": "14519 N Santa Fe Ave, Edmond, OK 73013",
+    "phone": "(405) 340-1111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chinahouseedmond.com/",
+    "category": "Chinese-speaking Family-style restaurants in Oklahoma",
+    "description": "Offers a wide array of fresh Chinese food, emphasizing quality ingredients and taste",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fantasy Chinese Cuisine",
+    "address": "2130 W Alameda St, Norman, OK 73071",
+    "phone": "(405) 360-0088",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.fantasychinesecuisine.com/",
+    "category": "Chinese-speaking Family-style restaurants in Oklahoma",
+    "description": "Provides a diverse selection of appetizers, soups, and entrees, using traditional woks for rice and noodle dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pei Wei Asian Kitchen",
+    "address": "1401 W New Orleans St, Broken Arrow, OK 74011",
+    "phone": "(918) 893-5700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.peiwei.com/locations/broken-arrow/",
+    "category": "Chinese-speaking Family-style restaurants in Oklahoma",
+    "description": "Offers fresh, made-to-order Asian and Chinese food with bold flavors, using quality ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Szechuan House",
+    "address": "4942 W Kenosha St, Broken Arrow, OK 74012",
+    "phone": "(918) 615-3700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.szechuanhouseba.com/",
+    "category": "Chinese-speaking Family-style restaurants in Oklahoma",
+    "description": "Focuses on delicious and innovative Chinese cuisine using carefully selected ingredients, with a friendly atmosphere and excellent service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Golden Chef Express",
+    "address": "621 12th Ave NE Ste 140, Norman, OK 73071",
+    "phone": "(405) 366-0888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.goldenchefnorman.com/",
+    "category": "Chinese-speaking Family-style restaurants in Oklahoma",
+    "description": "A charming Chinese restaurant known for authentic flavors and quick service, offering a wide range of traditional dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "No 1 Kitchen",
+    "address": "1933 S Elm Pl, Broken Arrow, OK 74012",
+    "phone": "(918) 455-9999",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.no1kitchenbrokenarrow.com/",
+    "category": "Chinese-speaking Family-style restaurants in Oklahoma",
+    "description": "Offers a variety of Chinese food, including popular hot menu items like sweet & sour chicken and sesame chicken",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Szechuan Bistro",
+    "address": "2800 N Classen Blvd, Oklahoma City, OK 73106",
+    "phone": "(405) 601-2555",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.szechuanbistrookc.com/",
+    "category": "Chinese-speaking Family-style restaurants in Oklahoma",
+    "description": "Serves authentic and delicious Chinese cuisine, with a menu featuring various noodle soups and appetizers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Family-style restaurants in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
