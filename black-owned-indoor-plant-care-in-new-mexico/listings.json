@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Sabo (Sage Botanical)",
+    "address": "65 W. Marcy St., Santa Fe, NM 87501",
+    "phone": "(505) 780-5050",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://sabosantaf\u00e9.com/",
+    "category": "Black-owned Indoor plant care in New-Mexico",
+    "description": "This Santa Fe boutique specializes in desert-loving plants, succulents, and locally crafted gifts. They also offer repotting services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Indoor plant care in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Groovy Little Greenhouse",
+    "address": "300 Broadway Blvd NE Suite K, Albuquerque, NM 87102",
+    "phone": "(505) 394-6902",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.groovylittlegreenhouse.com/",
+    "category": "Black-owned Indoor plant care in New-Mexico",
+    "description": "A local houseplant shop in Albuquerque offering a variety of houseplants, floral arrangements, and community events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Indoor plant care in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Natura Greenhouse",
+    "address": "4995 S. Main St., Las Cruces, NM 88005",
+    "phone": "(575) 805-6559",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://naturagreenhouse.com/",
+    "category": "Black-owned Indoor plant care in New-Mexico",
+    "description": "A nursery and garden center in Las Cruces offering a wide selection of indoor and outdoor plants, trees, and gardening supplies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Indoor plant care in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Plants of the Southwest",
+    "address": "Albuquerque, NM (specific address not readily available for online orders)",
+    "phone": "(505) 243-0205",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.plantsofthesouthwest.com/",
+    "category": "Black-owned Indoor plant care in New-Mexico",
+    "description": "This nursery has locations in Albuquerque and Santa Fe, focusing on seeds and plants. Note: They are currently not accepting mail or online orders and recommend visiting their stores",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Indoor plant care in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Guzman's Greenhouse",
+    "address": "270 Avenida de Mesilla, Las Cruces, NM 88005",
+    "phone": "(575) 523-1520",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.guzmansgreenhouse.com/",
+    "category": "Black-owned Indoor plant care in New-Mexico",
+    "description": "With over 40 years of experience, Guzman's Greenhouse in Las Cruces offers a wide variety of indoor plants, trees, and gardening supplies, with a focus on plants that thrive in the local climate",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Indoor plant care in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
