@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Advanced Eye Physician",
+    "address": "139 Centre Street, PH113, New York, NY 10013 (Chinatown location) and 4270 Kissena Blvd, Flushing, NY 11355",
+    "phone": "(212) 226-3888 (Chinatown), (718) 321-8222 (Flushing)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.advancedeyephysician.com/",
+    "category": "Chinese-speaking Ophthalmology in New-York",
+    "description": "Offers a full range of ophthalmology and optometry services, with doctors who speak Mandarin, Cantonese, and Fuzhounese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Ophthalmology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Charles B. Wang Community Health Center - Primary Eye Care",
+    "address": "165 Eldridge Street, New York, NY 10002 (Chinatown) and 136-26 39th Ave, Flushing, NY 11354",
+    "phone": "(212) 226-3888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cbwchc.org/services/primary-eye-care/",
+    "category": "Chinese-speaking Ophthalmology in New-York",
+    "description": "Provides comprehensive eye care, including exams, vision correction, and treatment for eye conditions. Staff speaks Cantonese and Mandarin",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Ophthalmology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Advanced Eye Care",
+    "address": "Multiple locations including 139 Centre Street, Suite PH113, New York, NY 10013 (Chinatown); 38-15 Main Street, Flushing, NY 11354; and a Brooklyn location",
+    "phone": "(212) 226-3888 (Chinatown)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.advancedeyecarenyc.com/",
+    "category": "Chinese-speaking Ophthalmology in New-York",
+    "description": "Offers a full spectrum of eye care services, including LASIK and cataract surgery. Their multilingual staff speaks Chinese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Ophthalmology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ian Chan MD Retina Center",
+    "address": "139 Centre St #PH113, New York, NY 10013 (Manhattan Chinatown); 3808 Union Street #5D, Flushing, NY 11354; and 869 57th Street #102, Brooklyn, NY 11220",
+    "phone": "(212) 226-3888 (Chinatown)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ianchanmd.com/",
+    "category": "Chinese-speaking Ophthalmology in New-York",
+    "description": "Specializes in retina diseases and surgery. Dr. Chan graduated from MIT and Stanford Medical School",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Ophthalmology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wu Eye Care",
+    "address": "133-47 Sanford Ave., STE 2B, Flushing, NY 11355",
+    "phone": "(718) 762-2113",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wueyecare.com/",
+    "category": "Chinese-speaking Ophthalmology in New-York",
+    "description": "Offers comprehensive eye care with a multilingual staff that speaks English, Spanish, Mandarin, Cantonese, Fuzhou, and Taiwanese. Specializes in cataract and refractive vision correction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Ophthalmology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New York Ophthalmology (Manhattan - Washington Heights)",
+    "address": "3556 Broadway 2nd Floor, New York, NY 10031",
+    "phone": "(866) 599-8774",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.newyorkophthalmology.com/locations/manhattan-washington-heights/",
+    "category": "Chinese-speaking Ophthalmology in New-York",
+    "description": "Provides comprehensive eye care, including exams, disease management, and surgery. Their staff can assist in Chinese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Ophthalmology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New York Ophthalmology (Queens - Jamaica/Jackson Heights)",
+    "address": "Multiple locations in Queens, including Jamaica and Jackson Heights",
+    "phone": "(866) 599-8774",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.newyorkophthalmology.com/locations/queens/",
+    "category": "Chinese-speaking Ophthalmology in New-York",
+    "description": "Offers advanced eye care with a diverse range of services and specialties. Their staff can assist in Chinese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Ophthalmology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EyeCare by Ophthalmology",
+    "address": "3808 Union St Ste 4E, Flushing, NY 11354",
+    "phone": "(718) 321-8222",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sharecare.com/find-a-doctor/medical-groups/eyecare-by-ophthalmology-flushing-ny",
+    "category": "Chinese-speaking Ophthalmology in New-York",
+    "description": "A medical group practice specializing in Ophthalmology and Optometry. Providers offer language services in Chinese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Ophthalmology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SightMD (Flushing)",
+    "address": "132-15 41st Avenue Suite CC, Flushing, NY 11355",
+    "phone": "718-866-3689",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sightmd.com/locations/flushing-ny/",
+    "category": "Chinese-speaking Ophthalmology in New-York",
+    "description": "Dr. Yu Hang (Leo) Chen specializes in comprehensive ophthalmology and speaks Chinese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Ophthalmology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chinatown Optical Group",
+    "address": "139 Centre Street, New York, NY 10013",
+    "phone": "(212) 267-1260",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://chinatownoptical.com/",
+    "category": "Chinese-speaking Ophthalmology in New-York",
+    "description": "While primarily an optical group, they have doctors who can provide prescriptions and utilize diagnostic technologies for early detection of eye conditions. Their staff is noted for being helpful and polite",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Ophthalmology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
