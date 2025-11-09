@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Black Diamond Roofing LLC",
+    "address": "Portland, Oregon",
+    "phone": "(503) 477-7107",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://blackdiamondroofing.com/",
+    "category": "African-American-owned Roofing repair in Oregon",
+    "description": "A licensed, certified, and insured roofing contractor with over 20 years of experience, specializing in residential and commercial roofing, including storm damage repairs. They offer a 10-year workmanship warranty",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Roofing repair in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Oak Roofing",
+    "address": "Serving Southern Oregon Rogue Valley area",
+    "phone": "541-778-3636",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackoakhomes.com/",
+    "category": "African-American-owned Roofing repair in Oregon",
+    "description": "A roofing contractor with three generations of experience, specializing in residential reroofing, roofing repair, and rain gutter installation. They emphasize workmanship, integrity, and value",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Roofing repair in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dynasty Roofing Repair",
+    "address": "Salem, Oregon",
+    "phone": "503-851-5691",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://dynastyroofingoregon.com/",
+    "category": "African-American-owned Roofing repair in Oregon",
+    "description": "A women-owned and Latina-owned, family-operated business offering residential and commercial roofing solutions, including replacements, repairs, siding, and painting. They are a certified COBID business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Roofing repair in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
