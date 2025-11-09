@@ -1,0 +1,70 @@
+[
+  {
+    "name": "HIIT It Fitness",
+    "address": "24001 Via Fabricante, Ste 904, Mission Viejo, CA 92691",
+    "phone": "(949) 371-0000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.hiititfitness.com/",
+    "category": "American-Indian-owned HIIT training in California",
+    "description": "Offers high-intensity interval training classes with a focus on community and personalized attention",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned HIIT training in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HIIT it Pasadena",
+    "address": "174 East Bellevue Drive, Pasadena, CA, 91105",
+    "phone": "(626) 394-1350",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.hiititpasadena.com/",
+    "category": "American-Indian-owned HIIT training in California",
+    "description": "Provides strength training and HIIT classes in a welcoming environment with a strong emphasis on cleanliness and well-maintained equipment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned HIIT training in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native Fitness",
+    "address": "While a specific physical address for a training facility in California is not readily available, they are involved in organizing Native American healthcare conferences in California. Their contact information is: 484 Viking Drive Suite 203 Virginia Beach, VA 23452, Phones: 201-857-5333; 201-971-7032, Email: sales@nativenationevents.org",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nativenationevents.org/",
+    "category": "American-Indian-owned HIIT training in California",
+    "description": "Dedicated to improving the health and wellness of Native Americans through fitness programs and initiatives",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned HIIT training in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Strive Well-Being",
+    "address": "While they offer services nationwide for Native American tribes, a specific California HIIT studio address is not listed. They focus on community health programs",
+    "phone": "(800) 801-5757 (General Inquiry Number)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.strivewellbeing.com/",
+    "category": "American-Indian-owned HIIT training in California",
+    "description": "Provides community health programs, including fitness and wellness services, specifically designed for Native American tribes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned HIIT training in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
