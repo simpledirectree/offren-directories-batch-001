@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Archdiocese of Boston - Property Management",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Archdiocese+of+Boston+-+Property+Management+in+Massachusetts",
+    "category": "Catholic-owned Property management in Massachusetts",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Property management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Diocese of Springfield - Facilities & Maintenance",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Diocese+of+Springfield+-+Facilities+&+Maintenance+in+Massachusetts",
+    "category": "Catholic-owned Property management in Massachusetts",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Property management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Roman Catholic Diocese of Fall River - Office of Facilities and Real Estate",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Roman+Catholic+Diocese+of+Fall+River+-+Office+of+Facilities+and+Real+Estate+in+Massachusetts",
+    "category": "Catholic-owned Property management in Massachusetts",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Property management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Diocese of Worcester - Facilities",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Diocese+of+Worcester+-+Facilities+in+Massachusetts",
+    "category": "Catholic-owned Property management in Massachusetts",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Property management in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
