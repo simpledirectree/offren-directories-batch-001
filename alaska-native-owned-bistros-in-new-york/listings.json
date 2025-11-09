@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Buffalo Jump NYC",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Buffalo+Jump+NYC+New+York",
+    "category": "Alaska-Native-owned Bistros in New-York",
+    "description": "A full-service, year-round Native American restaurant and food service in New York City, dedicated to bringing traditional Indigenous foods to the city",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Bistros in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native Restaurant & Lounge",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Native+Restaurant+&+Lounge+New+York",
+    "category": "Alaska-Native-owned Bistros in New-York",
+    "description": "A West African and contemporary American fusion restaurant and lounge in Brooklyn, NY, celebrating the connections between tradition and innovation, food and music, community and culture",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Bistros in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native Harlem",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Native+Harlem+New+York",
+    "category": "Alaska-Native-owned Bistros in New-York",
+    "description": "Serves a variety of African dishes in New York, NY",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Bistros in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
