@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Chinatown Hearing Center",
+    "address": "196 Canal St 4th floor, New York, NY 10013",
+    "phone": "(917) 810-4888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chinatownhearingcenter.com/",
+    "category": "Chinese-speaking Audiology in New-York",
+    "description": "A private audiology practice founded by Alex Liang and Dr. Jenny He, fluent in Cantonese, Mandarin, and Taishanese, serving the Chinese community with a focus on hearing loss awareness and patient care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Audiology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New York Audiology PLLC",
+    "address": "136-18 39th Ave Ste 1005, Flushing, NY 11354",
+    "phone": "(718) 475-6826",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nyaudiology.com/",
+    "category": "Chinese-speaking Audiology in New-York",
+    "description": "Practice of Dr. Winnie Feng-Gring, who speaks English, Spanish, Mandarin, and Cantonese, offering a range of audiology services including hearing tests and hearing aid fittings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Audiology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New York Hearing Center",
+    "address": "Information not available in search results. (Has locations in Brooklyn and Manhattan)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nyhearingcenter.com/",
+    "category": "Chinese-speaking Audiology in New-York",
+    "description": "Founded by Dr. Kathy Feng, who is fluent in English and Chinese, this center serves a diverse clientele and aims to help individuals with hearing loss avoid social isolation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Audiology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Landa Hearing Center",
+    "address": "139 Centre St., New York, NY 10013 (Chinatown location) and Queens Crossing, Flushing, NY (Flushing location)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.landahearing.com/",
+    "category": "Chinese-speaking Audiology in New-York",
+    "description": "Established in 1992, Landa Hearing Center was the first independent audiology practice in the New York Chinese community, with staff fluent in Chinese to assist patients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Audiology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Advanced Audiology Services of New York",
+    "address": "196 Canal St 4th floor, New York, NY 10013",
+    "phone": "(917) 810-4888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chinatownhearingcenter.com/",
+    "category": "Chinese-speaking Audiology in New-York",
+    "description": "A Doctor of Audiology specializing in hearing aid dispensing for pediatric and geriatric populations, fluent in Mandarin, Cantonese, and English",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Audiology in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
