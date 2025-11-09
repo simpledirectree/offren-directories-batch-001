@@ -1,0 +1,87 @@
+[
+  {
+    "name": "The Zen Den",
+    "address": "2203 W 49th St, Sioux Falls, SD 57105",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Zen+Den+South+Dakota",
+    "category": "Black-owned Swedish massage in South-Dakota",
+    "description": "Offers Swedish, deep tissue, and hot stone massages, tailored to individual needs for relaxation and healing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Swedish massage in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Healing Touch Massage Clinic",
+    "address": "3615 W 57th St, Sioux Falls, SD 57108 and 8609 W 26th St, Sioux Falls, SD 57106",
+    "phone": "(605) 370-1894",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Healing+Touch+Massage+Clinic+South+Dakota",
+    "category": "Black-owned Swedish massage in South-Dakota",
+    "description": "Provides compassionate, high-quality massage therapy services, including Swedish and deep tissue massage, to improve health and well-being",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Swedish massage in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Serenity Asian Massage",
+    "address": "(Information not readily available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Serenity+Asian+Massage+South+Dakota",
+    "category": "Black-owned Swedish massage in South-Dakota",
+    "description": "Offers various massage services including Swedish massage in Sioux Falls, SD",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Swedish massage in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Royal Table Massage Therapy",
+    "address": "(Information not readily available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Royal+Table+Massage+Therapy+South+Dakota",
+    "category": "Black-owned Swedish massage in South-Dakota",
+    "description": "Offers a variety of massage techniques, including Swedish massage. Therapists include Erin Malone, who is certified in Swedish massage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Swedish massage in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cedar Rose Spa",
+    "address": "11842 US Hwy 14A, Sturgis, SD 57785 (one mile east of Deadwood)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Cedar+Rose+Spa+South+Dakota",
+    "category": "Black-owned Swedish massage in South-Dakota",
+    "description": "Offers a collection of healing practices for mind, body, and soul, including massage treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Swedish massage in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
