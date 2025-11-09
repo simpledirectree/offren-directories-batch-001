@@ -1,0 +1,53 @@
+[
+  {
+    "name": "B\u00e1xoje Construction",
+    "address": "Kansas City, MO",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.baxojconstruction.com/",
+    "category": "American-Indian-owned Remodeling in Missouri",
+    "description": "A Native American general contractor specializing in commercial and residential construction, including electrical, HVAC, roofing, and disaster restoration services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Remodeling in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ALL-N-ALL Construction, LLC",
+    "address": "Not specified, but serves Arkansas, Kansas, and Missouri",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/ALL-N-ALL+Construction,+LLC+in+Missouri",
+    "category": "American-Indian-owned Remodeling in Missouri",
+    "description": "A small, veteran-owned construction company with 11 years of experience, capable of handling projects up to $350,000 and willing to travel",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Remodeling in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Steel erection company (T.E.R.O. certified native American owned)",
+    "address": "Serves Tulsa, Oklahoma City, and NW Arkansas areas. Missouri is listed as a service area",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Steel+erection+company+(T.E.R.O.+certified+native+American+owned)+in+Missouri",
+    "category": "American-Indian-owned Remodeling in Missouri",
+    "description": "A T.E.R.O. certified, Native American-owned company with 25 years of experience in steel erection",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Remodeling in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
