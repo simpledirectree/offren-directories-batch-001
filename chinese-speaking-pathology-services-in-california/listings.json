@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Chinese Hospital and Clinics Clinical Laboratory Services",
+    "address": "845 Jackson St, 1/F, San Francisco, CA 94133",
+    "phone": "1-415-677-2420",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chinesehospital.org/services/laboratory-services/",
+    "category": "Chinese-speaking Pathology services in California",
+    "description": "This laboratory offers a wide range of testing services and is located in the heart of San Francisco, serving the Chinese community. They have licensed and experienced pathologists on staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Pathology services in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
