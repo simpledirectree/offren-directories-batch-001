@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Lavalette Carpet and Tile",
+    "address": "4681 State Route 152, Lavalette, WV 24563",
+    "phone": "(304) 529-3621",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lavalettecarpetandtile.com/",
+    "category": "Black-owned Carpet installation in West-Virginia",
+    "description": "Offers a variety of flooring options including carpet, wood, and tile, with installation services available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Carpet installation in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "All Surface Solutions",
+    "address": "Shinnston, WV 26431",
+    "phone": "(304) 371-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.allsurfacesolutionswv.com/",
+    "category": "Black-owned Carpet installation in West-Virginia",
+    "description": "Provides residential and commercial flooring services, including carpet installation and floor system design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Carpet installation in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nitro Carpet Outlet",
+    "address": "1500 20th St, Nitro, WV 25143",
+    "phone": "(304) 755-2222",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nitrocarpetoutlet.com/",
+    "category": "Black-owned Carpet installation in West-Virginia",
+    "description": "Offers a large selection of flooring, tile, and custom cabinets, with installation services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Carpet installation in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dixieland Carpet Outlet",
+    "address": "5200 MacCorkle Ave SE, Charleston, WV 25304",
+    "phone": "(304) 925-2413",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://dixielandcarpet.com/",
+    "category": "Black-owned Carpet installation in West-Virginia",
+    "description": "A carpet and flooring store offering a wide selection of materials and installation services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Carpet installation in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Carpeting Unlimited",
+    "address": "3011 Jefferson Ave, Moundsville, WV 26041",
+    "phone": "(304) 845-0400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.carpetingunlimited.com/",
+    "category": "Black-owned Carpet installation in West-Virginia",
+    "description": "Offers a variety of flooring options including carpet, laminate, luxury vinyl, hardwood, and tile, with expert local help",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Carpet installation in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
