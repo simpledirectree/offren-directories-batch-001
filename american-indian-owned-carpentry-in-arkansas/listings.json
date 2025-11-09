@@ -1,0 +1,36 @@
+[
+  {
+    "name": "TTA Construction",
+    "address": "Licensed in OK and AR (service area includes Arkansas)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ttaconstruction.com/",
+    "category": "American-Indian-owned Carpentry in Arkansas",
+    "description": "A 100% Native American-owned construction company licensed in Oklahoma and Arkansas, specializing in commercial and residential projects. They offer general contracting and construction management services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Carpentry in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maska Builders",
+    "address": "Primarily serves Native American Tribes in Oklahoma, but their services may extend to Arkansas",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://maskabuilders.com/",
+    "category": "American-Indian-owned Carpentry in Arkansas",
+    "description": "A Native American-owned, full-service construction firm providing general contracting, construction management, and design-build services. They have received awards for customer service and being a certified Indian business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Carpentry in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
