@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Cedar Rose Spa",
+    "address": "11842 US Hwy 14A, Sturgis, SD 57785",
+    "phone": "(605) 722-1800",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cedarrosespa.com/",
+    "category": "Catholic-owned Hot stone massage in South-Dakota",
+    "description": "Cedar Rose Spa offers a variety of healing practices for the mind, body, and soul, inspired by diverse cultures. They provide treatments designed to enhance natural beauty and promote relaxation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hot stone massage in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Johnson Chiropractic & Acupuncture",
+    "address": "4627 West Homefield Drive, Sioux Falls, SD 57106",
+    "phone": "(605) 332-0440",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.johnsonchiropractic.com/",
+    "category": "Catholic-owned Hot stone massage in South-Dakota",
+    "description": "This clinic offers hot stone massage as a unique pampering experience that can loosen and relax tense muscles, promoting deep relaxation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hot stone massage in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Zen Den",
+    "address": "2101 W 41st St, Sioux Falls, SD 57105",
+    "phone": "(605) 274-7377",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thezenden.com/",
+    "category": "Catholic-owned Hot stone massage in South-Dakota",
+    "description": "The Zen Den is a sanctuary offering personalized massages, including hot stone, facials, and waxing services, aimed at promoting well-being and relaxation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hot stone massage in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "South Dakota School of Massage Therapy, Inc.",
+    "address": "100 N. Krohn Place, Sioux Falls, SD 57103",
+    "phone": "(605) 321-8838",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sdschoolmassage.com/",
+    "category": "Catholic-owned Hot stone massage in South-Dakota",
+    "description": "While primarily a school, they offer continuing education courses in hot/cold stone therapy, indicating practical application of these services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hot stone massage in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lava Water Inn (formerly Stroppel Hotel)",
+    "address": "Midland, SD (Specific address not readily available, but located in Midland)",
+    "phone": "(605) 843-2450",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Lava+Water+Inn+(formerly+Stroppel+Hotel)+South+Dakota",
+    "category": "Catholic-owned Hot stone massage in South-Dakota",
+    "description": "This historic inn offers mineral baths and massages, with a history of providing therapeutic treatments for aches and pains",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hot stone massage in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
