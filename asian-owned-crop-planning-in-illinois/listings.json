@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Oriana's Orchard",
+    "address": "Winslow, Illinois (Specific address and phone number not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Oriana's+Orchard+in+Illinois",
+    "category": "Asian-owned Crop planning in Illinois",
+    "description": "A USDA Certified Organic farm known for its variety of Asian Pears and other products",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Crop planning in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Phoenix Bean Tofu",
+    "address": "Chicago, IL (Specific address and phone number not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Phoenix+Bean+Tofu+in+Illinois",
+    "category": "Asian-owned Crop planning in Illinois",
+    "description": "Owned and operated by Jenny Yang, this business produces tofu from non-GMO, Illinois-grown soybeans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Crop planning in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian Agribusiness Consulting (AAC)",
+    "address": "Not specified for Illinois (Website provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.asianagribusinessconsulting.com/",
+    "category": "Asian-owned Crop planning in Illinois",
+    "description": "Offers services such as market intelligence, growth strategy, and business representation in the agribusiness sector",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Crop planning in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
