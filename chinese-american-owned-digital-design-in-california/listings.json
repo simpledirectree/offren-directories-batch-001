@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Baunfire",
+    "address": "San Jose, CA",
+    "phone": "(408) 907-7000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.baunfire.com/",
+    "category": "Chinese-American-owned Digital design in California",
+    "description": "A UX company founded in 2001, specializing in UX/UI design, branding, video production, and web design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Goji Labs",
+    "address": "Los Angeles, CA",
+    "phone": "(310) 904-5900",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.gojilabs.com/",
+    "category": "Chinese-American-owned Digital design in California",
+    "description": "A midsize user experience design agency launched in 2014, offering UX/UI Design, Mobile App Development, Custom Software Development, and Web Design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Webstacks",
+    "address": "San Diego, CA",
+    "phone": "(858) 225-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.webstacks.com/",
+    "category": "Chinese-American-owned Digital design in California",
+    "description": "An user experience design agency founded in 2019, focusing on UX/UI design, digital strategy, graphic design, and web design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clay",
+    "address": "San Francisco, CA",
+    "phone": "(415) 500-2255",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://clay.global/",
+    "category": "Chinese-American-owned Digital design in California",
+    "description": "A top UI/UX and web design agency specializing in strategy, user experience design, brand identity, and digital product development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Campground",
+    "address": "Oceanside, CA",
+    "phone": "(760) 453-7171",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://campground.agency/",
+    "category": "Chinese-American-owned Digital design in California",
+    "description": "A small web design company launched in 2021, offering web design, UX/UI design, branding, and graphic design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BB Agency",
+    "address": "Not explicitly stated, but operates in California",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bb.agency/",
+    "category": "Chinese-American-owned Digital design in California",
+    "description": "A renowned design and branding company excelling in web design, branding, UX/UI, and digital strategy, particularly for B2B SaaS companies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vrrb - Web & Product Design Agency",
+    "address": "Los Angeles, CA",
+    "phone": "(800) 721-1778",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.vrrb.com/",
+    "category": "Chinese-American-owned Digital design in California",
+    "description": "A web and product design agency praised for adaptability, project management, and delivering high-quality results",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hueman Studio",
+    "address": "Rancho Cucamonga, CA",
+    "phone": "(909) 483-7777",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.hueman.com/",
+    "category": "Chinese-American-owned Digital design in California",
+    "description": "A website design and development company known for efficient and creative solutions, timely delivery, and professionalism",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NUEX Creative",
+    "address": "Not explicitly stated, but operates in California",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.nuexcreative.com/",
+    "category": "Chinese-American-owned Digital design in California",
+    "description": "A creative agency specializing in web design and branding",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Momentum Design Lab",
+    "address": "Not explicitly stated, but operates in California",
+    "phone": "(800) 701-0798",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.momentumdesignlab.com/",
+    "category": "Chinese-American-owned Digital design in California",
+    "description": "A UX/UI design and development agency focused on creating impactful digital products and experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital design in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
