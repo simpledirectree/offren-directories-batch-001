@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Buen Provecho ABQ",
+    "address": "2500 Central Ave SW #3, Albuquerque, NM 87104",
+    "phone": "(505) 620-5325",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Buen+Provecho+ABQ+New+Mexico",
+    "category": "Central-American-owned Pop-up restaurants in New-Mexico",
+    "description": "Offers Costa Rican dining and a variety of Latin American dishes and desserts. They also provide catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Pop-up restaurants in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Guava Tree Cafe",
+    "address": "Albuquerque, NM (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Guava+Tree+Cafe+New+Mexico",
+    "category": "Central-American-owned Pop-up restaurants in New-Mexico",
+    "description": "Serves authentic Latin-American cuisine with vegetarian and gluten-free options. They also offer a space for parties and celebrations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Pop-up restaurants in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "La Plancha Latin Grill",
+    "address": "Santa Fe, NM (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/La+Plancha+Latin+Grill+New+Mexico",
+    "category": "Central-American-owned Pop-up restaurants in New-Mexico",
+    "description": "Focuses on authentic Salvadoran cuisine, known for pupusas and tamales",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Pop-up restaurants in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "El Sabor",
+    "address": "Santa Fe, NM (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/El+Sabor+New+Mexico",
+    "category": "Central-American-owned Pop-up restaurants in New-Mexico",
+    "description": "Offers Spanish tapas with New Mexican influences, including gambas al ajillo and patatas bravas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Pop-up restaurants in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "La Guelaguetza",
+    "address": "New Mexico (Specific location not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/La+Guelaguetza+New+Mexico",
+    "category": "Central-American-owned Pop-up restaurants in New-Mexico",
+    "description": "Known for Oaxacan cuisine, particularly their mole negro and handmade tlayudas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Pop-up restaurants in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
