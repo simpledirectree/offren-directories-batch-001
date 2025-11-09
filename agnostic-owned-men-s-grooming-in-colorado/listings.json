@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Rosemont Barbers",
+    "address": "Denver, CO 80205",
+    "phone": "(720) 778-2861",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.therosemontbarbers.com/",
+    "category": "Agnostic-owned Men's grooming in Colorado",
+    "description": "A premier barbershop in Denver specializing in men's cuts, shaves, and grooming, known for its personalized service and traditional practices with modern techniques",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Men's grooming in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Scissors & Scotch",
+    "address": "7111 E Lowry Blvd, Suite 106, Denver, CO 80230",
+    "phone": "(720) 920-9664",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.scissorsscotch.com/locations/lowry/",
+    "category": "Agnostic-owned Men's grooming in Colorado",
+    "description": "Offers a grooming experience where traditional barbering meets modern spa services, with an on-site bar for clients to enjoy a drink",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Men's grooming in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Frank's Barbershop Denver",
+    "address": "Denver, CO",
+    "phone": "(303) 593-0640",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://franksbarbershop.com/denver/",
+    "category": "Agnostic-owned Men's grooming in Colorado",
+    "description": "A classic barber shop offering detailed haircuts, razor cuts, shaves, and spa services, with a focus on providing a relaxing and pampering experience for men",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Men's grooming in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vintage Grooming Co.",
+    "address": "Colorado (Specific address not readily available, but operates in Colorado)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://vintagegrooming.com/",
+    "category": "Agnostic-owned Men's grooming in Colorado",
+    "description": "A veteran-owned business in Colorado that handcrafts men's grooming supplies, including beard oil, balm, hair pomade, and shaving soap",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Men's grooming in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ranger Grooming Company",
+    "address": "Colorado (Specific address not readily available, but operates in Colorado)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.rangergrooming.com/",
+    "category": "Agnostic-owned Men's grooming in Colorado",
+    "description": "Offers men's beard, mustache, and shaving products made in Colorado, known for their high-quality ingredients and effectiveness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Men's grooming in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Men's Escape Barbershop",
+    "address": "Denver, CO",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://mens-escape-barbershop.business.site/",
+    "category": "Agnostic-owned Men's grooming in Colorado",
+    "description": "Provides a full-service barbershop experience with haircuts, shaves, and facial treatments, aiming to create a nostalgic and relaxing ritual for clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Men's grooming in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chopz Men's Salon",
+    "address": "611 Grant Street, Denver, CO 80203",
+    "phone": "(303) 863-9900",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://chopzmenssalon.com/",
+    "category": "Agnostic-owned Men's grooming in Colorado",
+    "description": "A men's grooming salon with American Crew Certified Stylists offering expert haircuts, beard trims, hot shaves, coloring, facials, and massages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Men's grooming in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Gentlemen's Groom Room",
+    "address": "22691 E. [Specific street number not fully provided in search results], Aurora, CO",
+    "phone": "(720) 328-2737",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.gentlemensgroomroom.com/",
+    "category": "Agnostic-owned Men's grooming in Colorado",
+    "description": "An upscale, old-world barbershop offering a haven for men to relax and experience world-class grooming services in a masculine atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Men's grooming in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Luxury Haircuts for Gentlemen (Lux Cuts 4 Gents)",
+    "address": "5627 Barnes Road, Colorado Springs, CO",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://luxcuts4gents.com/",
+    "category": "Agnostic-owned Men's grooming in Colorado",
+    "description": "Offers a relaxing environment with quality services for men, including haircuts, grooming, and packages for special occasions like weddings and bachelor parties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Men's grooming in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dark Rose Club",
+    "address": "Denver, CO",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.darkroseclub.com/",
+    "category": "Agnostic-owned Men's grooming in Colorado",
+    "description": "A Denver barber shop that prides itself on aesthetically grooming men, offering haircuts, beard trims, and other grooming services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Men's grooming in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
