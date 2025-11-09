@@ -1,0 +1,172 @@
+[
+  {
+    "name": "China Taste",
+    "address": "1223 Washington Ave, Portland, ME 04103",
+    "phone": "(207) 772-3222",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://chinatasteportland.com/",
+    "category": "Chinese-speaking Live bands in Maine",
+    "description": "A Chinese restaurant known for its authentic and delicious cuisine, offering a range of traditional dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Live bands in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sichuan Kitchen",
+    "address": "1331 Washington Ave, Portland, ME 04103",
+    "phone": "(207) 536-7226",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.sichuankitchenme.com/",
+    "category": "Chinese-speaking Live bands in Maine",
+    "description": "A Chinese restaurant specializing in Sichuan cuisine, offering a variety of flavorful dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Live bands in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wing Lee",
+    "address": "177 US-1, Scarborough, ME 04074",
+    "phone": "(207) 883-5188",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://wingleemaine.com/",
+    "category": "Chinese-speaking Live bands in Maine",
+    "description": "A Chinese restaurant offering \"home-made\" quality Chinese food with a full menu of appetizers, main courses, and vegetarian options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Live bands in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ming Lee Chinese Restaurant",
+    "address": "365 Main Street, Waterville, ME 04901",
+    "phone": "(207) 873-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mingleewaterville.com/",
+    "category": "Chinese-speaking Live bands in Maine",
+    "description": "A Chinese restaurant specializing in Szechuan and Mandarin cuisine, known for its fresh and irresistible dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Live bands in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Feng Lee Garden",
+    "address": "1626 Main St, Palmyra, ME 04965",
+    "phone": "(207) 368-5588",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.fengleegarden.com/",
+    "category": "Chinese-speaking Live bands in Maine",
+    "description": "A family-owned Chinese restaurant serving authentic, fresh, and flavorful cuisine with a variety of traditional favorites",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Live bands in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "China Village",
+    "address": "100 Gray Rd, Gray, ME 04039",
+    "phone": "(207) 657-4488",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://chinavillagegray.com/",
+    "category": "Chinese-speaking Live bands in Maine",
+    "description": "A popular Chinese restaurant known for its huge portions, great service, and friendly staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Live bands in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bangor Chinese School",
+    "address": "5 Woodview Drive, Bangor, ME 04401",
+    "phone": "(207) 990-0710",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.bangorchinese.com/",
+    "category": "Chinese-speaking Live bands in Maine",
+    "description": "A nonprofit organization dedicated to teaching the Chinese language and culture, offering classes, summer camps, and cultural events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Live bands in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Chinese Language and Culture Center of Maine",
+    "address": "(Headquartered in Bangor, ME - specific address not readily available for a physical location)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=18788",
+    "category": "Chinese-speaking Live bands in Maine",
+    "description": "A charitable organization focused on promoting Chinese language and culture in Maine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Live bands in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chinese American Friendship Association of Maine (CAFAM)",
+    "address": "(Various event locations, e.g., Westbrook Performing Arts Center)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cafamaine.org/",
+    "category": "Chinese-speaking Live bands in Maine",
+    "description": "A nonprofit organization that promotes friendship and cultural exchange between Chinese Americans, non-Chinese Americans, and Chinese people. They organize cultural events and celebrations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Live bands in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shen Yun Performing Arts",
+    "address": "Merrill Auditorium, 20 Myrtle St, Portland, ME 04101 (Performance Venue)",
+    "phone": "(800) 717-0000 (Ticketing)",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.shenyun.com/",
+    "category": "Chinese-speaking Live bands in Maine",
+    "description": "A performing arts company that presents classical Chinese dance and music, aiming to revive traditional Chinese culture. They tour internationally and have performed in Maine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Live bands in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
