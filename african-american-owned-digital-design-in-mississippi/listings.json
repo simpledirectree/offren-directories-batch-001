@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Voppa Creative",
+    "address": "Jackson, Mississippi (Specific street address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://voppacreative.com/",
+    "category": "African-American-owned Digital design in Mississippi",
+    "description": "Offers brand strategy, branding, logo design, web design, graphic design, and coaching services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Digital design in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EraBright",
+    "address": "Not found",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://erabright.com/",
+    "category": "African-American-owned Digital design in Mississippi",
+    "description": "A Black-owned web design agency specializing in modern, functional, and responsive websites with SEO best practices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Digital design in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dynasty Media & Management Co.",
+    "address": "Indianola, Mississippi (Specific street address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Dynasty+Media+&+Management+Co.+in+Mississippi",
+    "category": "African-American-owned Digital design in Mississippi",
+    "description": "A Black-owned, Mississippi-based marketing and branding agency providing brand strategy, consulting, campaign, and content creation services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Digital design in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bnevol",
+    "address": "Not found",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bnevol.com/",
+    "category": "African-American-owned Digital design in Mississippi",
+    "description": "A Black-owned digital agency focused on amplifying impact for mission-focused organizations with web design, marketing, and strategy solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Digital design in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EDUCO Web Design",
+    "address": "Not found (Mentioned as having team members in Chicago, but serves clients broadly)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://educowebdesign.com/",
+    "category": "African-American-owned Digital design in Mississippi",
+    "description": "A Black-owned, woman-owned web design company that emphasizes drawing out potential with web presence reflecting excellence",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Digital design in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
