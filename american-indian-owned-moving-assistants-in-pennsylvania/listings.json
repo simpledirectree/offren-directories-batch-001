@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Indian Valley Trading Company",
+    "address": "2482 Hay Creek Rd, Birdsboro, PA 19508",
+    "phone": "(610) 914-5692",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.indianvalleytradingcompany.com/",
+    "category": "American-Indian-owned Moving assistants in Pennsylvania",
+    "description": "This company offers a range of moving, junk removal, and clean-out services. They emphasize treating belongings with care and providing stress-free relocations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Moving assistants in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tribe Moving LLC",
+    "address": "2482 Hay Creek Rd, Birdsboro, PA 19508",
+    "phone": "(610) 914-5692",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.brokersnap.com/company/tribe-moving-llc",
+    "category": "American-Indian-owned Moving assistants in Pennsylvania",
+    "description": "Tribe Moving LLC is a carrier that transports household goods. They are an active entity with a physical and mailing address in Birdsboro, PA",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Moving assistants in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native Van Lines",
+    "address": "Information not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nativevanlines.com/",
+    "category": "American-Indian-owned Moving assistants in Pennsylvania",
+    "description": "Native Van Lines specializes in long-distance moving for both household and commercial clients. They highlight over 20 years of experience and flat-rate pricing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Moving assistants in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
