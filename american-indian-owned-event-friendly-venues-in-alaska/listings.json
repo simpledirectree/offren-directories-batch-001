@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Alaska Native Heritage Center",
+    "address": "8800 Heritage Center Dr, Anchorage, AK 99504",
+    "phone": "(907) 330-8000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://alaskanative.net/",
+    "category": "American-Indian-owned Event-friendly venues in Alaska",
+    "description": "Offers indoor and outdoor spaces for various events, including meetings, banquets, and weddings. It provides a unique cultural experience with Alaska Native arts, stories, and performances",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Event-friendly venues in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
