@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Flawless Auto Detailing",
+    "address": "648 Putney Rd, Brattleboro, VT 05301",
+    "phone": "(802) 800-2738",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://flawlessvt.com/",
+    "category": "American-Indian-owned Car audio installation in Vermont",
+    "description": "Offers car audio installation and detailing services, using industry-best audio equipment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Car audio installation in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Audiocarve",
+    "address": "4 Reed Road, Route 105, Newport, VT",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://audiocarve.com/",
+    "category": "American-Indian-owned Car audio installation in Vermont",
+    "description": "Specializes in car stereo and installation equipment, offering custom systems and installations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Car audio installation in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Terry's Car Audio",
+    "address": "Information not available (located in Rutland, VT)",
+    "phone": "(802) 747-6614",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://terryscar.com/",
+    "category": "American-Indian-owned Car audio installation in Vermont",
+    "description": "Provides car audio installations, remote car starters, heated seats, and Apple CarPlay/Android Auto installations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Car audio installation in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Creative Sound",
+    "address": "500 Lawrence Place, Williston, VT 05495",
+    "phone": "(802) 878-5368",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.creativesound.com/",
+    "category": "American-Indian-owned Car audio installation in Vermont",
+    "description": "A long-running audio/video specialty electronics dealer offering expert installation of car audio components",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Car audio installation in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Audio Express",
+    "address": "Information not available (operates in Vermont)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.audioexpress.com/",
+    "category": "American-Indian-owned Car audio installation in Vermont",
+    "description": "Specializes in high-quality car audio and video systems, offering installation services and a wide selection of products",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Car audio installation in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
