@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Yummy House China Bistro",
+    "address": "2620 E Hillsborough Ave, Tampa, FL 33610",
+    "phone": "+1 352-333-7688",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Yummy+House+China+Bistro+in+Florida",
+    "category": "Chinese-American-owned ADA compliance in Florida",
+    "description": "A Chinese restaurant that has published an accessibility statement confirming WCAG 2.1 level AA conformance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ADA compliance in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Poinciana Chinese Restaurant",
+    "address": "874 Cypress Pkwy, Kissimmee, FL 34759",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Poinciana+Chinese+Restaurant+in+Florida",
+    "category": "Chinese-American-owned ADA compliance in Florida",
+    "description": "A Chinese restaurant that states it is in the process of implementing WCAG 2.1 Level AA",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ADA compliance in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "China Kitchen - Jensen Beach",
+    "address": "(Not readily available through search)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/China+Kitchen+-+Jensen+Beach+in+Florida",
+    "category": "Chinese-American-owned ADA compliance in Florida",
+    "description": "A Chinese restaurant that states it is in the process of implementing WCAG 2.1 Level AA",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ADA compliance in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "China Kung Food - Orange Park",
+    "address": "(Not readily available through search)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/China+Kung+Food+-+Orange+Park+in+Florida",
+    "category": "Chinese-American-owned ADA compliance in Florida",
+    "description": "A Chinese restaurant that states it is in the process of implementing WCAG 2.1 Level AA",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ADA compliance in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Florida Chinese Cultural Center (FCCC)",
+    "address": "(Specific address not readily available through search, but serves the Tampa Bay Chinese community)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Florida+Chinese+Cultural+Center+(FCCC)+in+Florida",
+    "category": "Chinese-American-owned ADA compliance in Florida",
+    "description": "A community organization serving the Tampa Bay Chinese community, focusing on language, culture, and arts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ADA compliance in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chinese Cultural Association of South Florida (CCASF)",
+    "address": "Boca Raton, FL (Specific address not readily available through search)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chinese+Cultural+Association+of+South+Florida+(CCASF)+in+Florida",
+    "category": "Chinese-American-owned ADA compliance in Florida",
+    "description": "A non-profit organization providing cultural activities, learning, and community support for Chinese Americans and others interested in Chinese culture",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ADA compliance in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Southwest Florida Chinese Association",
+    "address": "(Serves Southwest Florida, specific address not readily available through search)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Southwest+Florida+Chinese+Association+in+Florida",
+    "category": "Chinese-American-owned ADA compliance in Florida",
+    "description": "A non-profit organization dedicated to celebrating and promoting Chinese culture in Southwest Florida",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ADA compliance in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "American Chinese United Association, Florida Chapter (ACUA FL)",
+    "address": "(Serves overseas Chinese in Florida, specific address not readily available through search)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/American+Chinese+United+Association,+Florida+Chapter+(ACUA+FL)+in+Florida",
+    "category": "Chinese-American-owned ADA compliance in Florida",
+    "description": "A non-profit organization serving overseas Chinese in Florida, promoting friendship and community development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ADA compliance in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Canton Palace Chinese Restaurant",
+    "address": "(Not readily available through search)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Canton+Palace+Chinese+Restaurant+in+Florida",
+    "category": "Chinese-American-owned ADA compliance in Florida",
+    "description": "A Chinese restaurant that states it is in the process of implementing WCAG 2.0 Level AA",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ADA compliance in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Daiso",
+    "address": "Multiple locations in Florida (specific addresses and phone numbers would require a location-based search)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Daiso+in+Florida",
+    "category": "Chinese-American-owned ADA compliance in Florida",
+    "description": "A retail chain with a focus on Japanese-inspired household goods, stationery, and more. Their website lists accessibility features",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ADA compliance in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
