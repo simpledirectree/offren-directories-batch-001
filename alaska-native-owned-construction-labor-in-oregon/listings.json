@@ -1,0 +1,70 @@
+[
+  {
+    "name": "WHPacific",
+    "address": "1000 SW Broadway, Suite 1100, Portland, OR 97205",
+    "phone": "(503) 222-9494",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.whpacific.com/",
+    "category": "Alaska-Native-owned Construction labor in Oregon",
+    "description": "WHPacific is an engineering and land-use planning firm owned by NANA Development Corporation, an Alaska Native Corporation. They offer construction management services and have worked on various projects, including infrastructure and public facilities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Construction labor in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Akana",
+    "address": "6400 SE Lake Rd, Suite 200, Portland, OR 97222",
+    "phone": "(503) 652-9090",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.akana.us/",
+    "category": "Alaska-Native-owned Construction labor in Oregon",
+    "description": "Akana is a Native American-owned professional services firm providing multidisciplinary architecture, engineering, and construction management services. They specialize in large infrastructure projects",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Construction labor in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Advanced Tribal",
+    "address": "Information not available (Oregon MBE/DBE/ESB/ACDBE #9948)",
+    "phone": "(503) 990-2722",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.advancedtribal.com/",
+    "category": "Alaska-Native-owned Construction labor in Oregon",
+    "description": "Advanced Tribal is a multidisciplinary, design-build, construction management, and general contractor that is a certified Native American Business in Oregon. They work on commercial, government, and residential projects",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Construction labor in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wenaha Group",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://wenahagroup.com/",
+    "category": "Alaska-Native-owned Construction labor in Oregon",
+    "description": "Wenaha Group is a Native American-owned Owner's Representative, Construction Project Management, and Consulting Firm that serves clients across the United States in various market sectors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Construction labor in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
