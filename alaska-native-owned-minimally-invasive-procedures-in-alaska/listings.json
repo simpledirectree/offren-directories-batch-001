@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Alaska Native Medical Center (ANMC)",
+    "address": "4315 Diplomacy Drive, Anchorage, AK 99508",
+    "phone": "(907) 729-1000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.anmc.org/",
+    "category": "Alaska-Native-owned Minimally invasive procedures in Alaska",
+    "description": "ANMC is a non-profit health center jointly owned and managed by the Alaska Native Tribal Health Consortium and Southcentral Foundation, providing comprehensive medical services to Alaska Natives and American Indians in Alaska. They offer a wide range of specialties, including general surgery, and utilize advanced medical technologies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Minimally invasive procedures in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Southcentral Foundation",
+    "address": "Multiple locations, including the Alaska Native Medical Center campus in Anchorage",
+    "phone": "(907) 729-3900 (General Inquiries)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.southcentralfoundation.com/",
+    "category": "Alaska-Native-owned Minimally invasive procedures in Alaska",
+    "description": "Southcentral Foundation is an Alaska Native-owned, nonprofit health care organization serving Alaska Native and American Indian people. They are recognized for their Nuka System of Care, which includes a focus on relationship-based, customer-owned healthcare. They operate primary care clinics and partner with ANMC",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Minimally invasive procedures in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alaska Surgical Group",
+    "address": "3851 Piper Street, Tower U, Suite U230, Anchorage, AK 99508",
+    "phone": "(907) 868-2075",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aksurgical.com/",
+    "category": "Alaska-Native-owned Minimally invasive procedures in Alaska",
+    "description": "Alaska Surgical Group offers advanced surgical care, including minimally invasive techniques, laparoscopic surgery, and robotic surgery. They have specialized centers for surgical oncology, breast cancer care, and hernia repair",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Minimally invasive procedures in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Far North Surgery",
+    "address": "Information not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Far+North+Surgery+in+Alaska",
+    "category": "Alaska-Native-owned Minimally invasive procedures in Alaska",
+    "description": "This practice provides minimally invasive surgery whenever possible, utilizing advanced techniques and technology for a safer and more effective option compared to traditional open surgery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Minimally invasive procedures in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arctic Surgical Group",
+    "address": "Information not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Arctic+Surgical+Group+in+Alaska",
+    "category": "Alaska-Native-owned Minimally invasive procedures in Alaska",
+    "description": "Arctic Surgical Group offers boutique orthopedic and spine care, including minimally invasive procedures for joint, back, and neck pain. They emphasize personalized 1:1 doctor-to-patient care and have a high patient satisfaction rate",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Minimally invasive procedures in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Glacier Surgical",
+    "address": "Palmer, AK (serving Palmer and Wasilla areas)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Glacier+Surgical+in+Alaska",
+    "category": "Alaska-Native-owned Minimally invasive procedures in Alaska",
+    "description": "Glacier Surgical specializes in general surgical procedures, including laparoscopic and robotic surgery for conditions such as hernia repair, breast surgery, and thyroid and gallbladder surgery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Minimally invasive procedures in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alaska Urology",
+    "address": "Information not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Alaska+Urology+in+Alaska",
+    "category": "Alaska-Native-owned Minimally invasive procedures in Alaska",
+    "description": "Alaska Urology utilizes da Vinci robotic surgery for minimally invasive procedures for various urologic conditions, including kidney stones, tumors, and prostate cancer, aiming to spare surrounding nerves and tissues for better recovery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Minimally invasive procedures in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Benteh Nuutah Valley Native Primary Care Center",
+    "address": "Wasilla, AK",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Benteh+Nuutah+Valley+Native+Primary+Care+Center+in+Alaska",
+    "category": "Alaska-Native-owned Minimally invasive procedures in Alaska",
+    "description": "This primary care center, in partnership with Chickaloon Village and Knik Tribal Council, serves Alaska Native and American Indian community members and is part of the Southcentral Foundation network",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Minimally invasive procedures in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yagheli Shesh Qenq'a Anchorage Native Primary Care Center",
+    "address": "Located on the Alaska Native Medical Center campus in Anchorage, AK",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Yagheli+Shesh+Qenq'a+Anchorage+Native+Primary+Care+Center+in+Alaska",
+    "category": "Alaska-Native-owned Minimally invasive procedures in Alaska",
+    "description": "This primary care center is part of the Southcentral Foundation network and serves Alaska Native and American Indian community members",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Minimally invasive procedures in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eklutna Community Clinic",
+    "address": "Chugiak, AK",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Eklutna+Community+Clinic+in+Alaska",
+    "category": "Alaska-Native-owned Minimally invasive procedures in Alaska",
+    "description": "In partnership with the Native Village of Eklutna Tribal Council, this clinic serves all community members and is part of the Southcentral Foundation network",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Minimally invasive procedures in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
