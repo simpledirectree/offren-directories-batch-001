@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Cottonwood Veterinary Clinic",
+    "address": "4700 W Pershing Blvd, Cheyenne, WY 82009",
+    "phone": "(307) 634-7111",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.cottonwoodvet.com/",
+    "category": "Alaska-Native-owned General veterinary practice in Wyoming",
+    "description": "Offers comprehensive wellness, medical, and surgical care for pets, with AAHA accreditation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned General veterinary practice in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Casper Animal Medical Center",
+    "address": "1700 E 12th St, Casper, WY 82601",
+    "phone": "(307) 237-8387",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.casperanimalmedicalcenter.com/",
+    "category": "Alaska-Native-owned General veterinary practice in Wyoming",
+    "description": "A full-service, mixed animal practice providing care for small animals, equines, and exotics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned General veterinary practice in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Goshen Veterinary Clinic",
+    "address": "2010 E 20th Ave, Torrington, WY 82240",
+    "phone": "(307) 532-4195",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.goshenvetclinic.com/",
+    "category": "Alaska-Native-owned General veterinary practice in Wyoming",
+    "description": "Provides veterinary services for small and large animals, with 24-hour emergency services available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned General veterinary practice in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tri-State Veterinary Clinic",
+    "address": "2009 E Lincolnway, Cheyenne, WY 82001",
+    "phone": "(307) 632-5531",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://tristatevetclinic.com/",
+    "category": "Alaska-Native-owned General veterinary practice in Wyoming",
+    "description": "Offers compassionate veterinary medicine for dogs and cats, serving the Cheyenne area for over 60 years",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned General veterinary practice in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Buffalo Veterinary Clinic",
+    "address": "1000 N Main St, Buffalo, WY 82834",
+    "phone": "(307) 684-5511",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.buffalovetclinic.com/",
+    "category": "Alaska-Native-owned General veterinary practice in Wyoming",
+    "description": "A small-town clinic offering modern veterinary technology and care for animals ranging from hamsters to draft horses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned General veterinary practice in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Uinta Veterinary Hospital",
+    "address": "1000 Bridger Dr, Fort Bridger, WY 82933",
+    "phone": "(307) 782-4511",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.uintavethospital.com/",
+    "category": "Alaska-Native-owned General veterinary practice in Wyoming",
+    "description": "Provides quality and progressive medicine for a mixed animal population, including small animals, cattle, and horses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned General veterinary practice in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Castle Rock Veterinary Hospital",
+    "address": "1000 Uinta Dr, Green River, WY 82935",
+    "phone": "(307) 875-2141",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.castlerockvet.com/",
+    "category": "Alaska-Native-owned General veterinary practice in Wyoming",
+    "description": "Offers comprehensive veterinary services for pets and livestock in the Green River area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned General veterinary practice in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Moxey Veterinary Hospital",
+    "address": "1650 Commercial Ave, Sheridan, WY 82801",
+    "phone": "(307) 672-5533",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.moxeyvet.com/",
+    "category": "Alaska-Native-owned General veterinary practice in Wyoming",
+    "description": "A full-service large and small animal hospital serving the Sheridan area since 1974, with 24-hour emergency services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned General veterinary practice in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ten Mile Holistic Veterinary Care",
+    "address": "3020 W Yellowstone Hwy, Casper, WY 82604",
+    "phone": "(307) 277-4109",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.tenmileholisticvet.com/",
+    "category": "Alaska-Native-owned General veterinary practice in Wyoming",
+    "description": "Focuses on improving the overall health and wellness of pets through holistic veterinary care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned General veterinary practice in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Altitude Veterinary Hospital",
+    "address": "3155 CY Ave, Casper, WY 82604",
+    "phone": "(307) 234-7333",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.altitudevet.com/",
+    "category": "Alaska-Native-owned General veterinary practice in Wyoming",
+    "description": "Provides comprehensive and compassionate care for cats, dogs, pocket pets, and exotic pets in Casper",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned General veterinary practice in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
