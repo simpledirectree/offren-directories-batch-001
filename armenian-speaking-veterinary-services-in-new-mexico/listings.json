@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Rio Bravo Veterinary Hospital",
+    "address": "1100 98th St SW, Albuquerque, NM 87121",
+    "phone": "(505) 877-8370",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://riobravovet.com/",
+    "category": "Armenian-speaking Veterinary services in New-Mexico",
+    "description": "This clinic states they have bilingual doctors and staff committed to high-quality healthcare with compassion",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sunrise Veterinary Clinic",
+    "address": "132 Rio Rancho Blvd NE, Rio Rancho, NM 87124",
+    "phone": "(505) 892-6538",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.sunriseveterinary.com/",
+    "category": "Armenian-speaking Veterinary services in New-Mexico",
+    "description": "Offers full-service veterinary care and has served the Rio Rancho and Albuquerque communities for over 30 years. They mention accommodating busy schedules",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zia Pet Hospital",
+    "address": "373 Unser Blvd SE, Rio Rancho, NM 87124",
+    "phone": "(505) 891-1111",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.ziapethospital.com/",
+    "category": "Armenian-speaking Veterinary services in New-Mexico",
+    "description": "A full-service animal hospital in Rio Rancho dedicated to providing the best veterinary care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eubank Animal Clinic",
+    "address": "1601 Eubank Blvd NE, Albuquerque, NM 87112",
+    "phone": "(505) 296-0715",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.eubankanimalclinic.com/",
+    "category": "Armenian-speaking Veterinary services in New-Mexico",
+    "description": "A full-service veterinary clinic in Albuquerque equipped to handle various pet needs with a focus on quality care and client education",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gruda Veterinary Hospital",
+    "address": "1000 S St Francis Dr, Santa Fe, NM 87505",
+    "phone": "(505) 471-4400",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://grudavet.com/",
+    "category": "Armenian-speaking Veterinary services in New-Mexico",
+    "description": "Offers a wide range of veterinary services and specialty surgery for cats and dogs in Santa Fe",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cedarwood Veterinary Clinic",
+    "address": "1707 Lena Rd, Santa Fe, NM 87505",
+    "phone": "(505) 471-7100",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.cedarwoodvet.com/",
+    "category": "Armenian-speaking Veterinary services in New-Mexico",
+    "description": "A full-service companion small animal pet veterinary hospital in Santa Fe, aiming to provide high-quality care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mission Veterinary Clinic",
+    "address": "2451 Cabezon Blvd SE, Rio Rancho, NM 87124",
+    "phone": "(505) 994-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.missionvet.com/",
+    "category": "Armenian-speaking Veterinary services in New-Mexico",
+    "description": "A veterinary clinic in Rio Rancho focused on providing a quality healthcare experience and a fear-free environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Animal Haven Clinic",
+    "address": "1500 E 30th Ave, Farmington, NM 87401",
+    "phone": "(505) 325-8829",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.animalhavenclinic.com/",
+    "category": "Armenian-speaking Veterinary services in New-Mexico",
+    "description": "Serves Farmington, NM, and surrounding areas with a dedication to high-level veterinary medicine and compassionate service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Roswell Veterinary Associates",
+    "address": "2001 W 2nd St, Roswell, NM 88203",
+    "phone": "(575) 623-1111",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.roswellvet.com/",
+    "category": "Armenian-speaking Veterinary services in New-Mexico",
+    "description": "A modern animal hospital in Roswell offering state-of-the-art technology and expert veterinarians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Schumacher Veterinary Clinic",
+    "address": "1000 S Valley Dr, Las Cruces, NM 88005",
+    "phone": "(575) 524-2894",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.schumachervet.com/",
+    "category": "Armenian-speaking Veterinary services in New-Mexico",
+    "description": "A local veterinarian in Las Cruces providing comprehensive medical and surgical services for large and small animals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
