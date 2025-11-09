@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Dr. Tamer Alsebai, MD",
+    "address": "10001 Lile Drive, Little Rock, AR 72205",
+    "phone": "501-552-0500",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Dr.+Tamer+Alsebai,+MD+in+Arkansas",
+    "category": "Arabic-speaking Rheumatologists in Arkansas",
+    "description": "Dr. Alsebai specializes in Rheumatology and has interests in inflammatory arthritis, rheumatoid arthritis, crystal arthropathy, and osteoporosis",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Rheumatologists in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
