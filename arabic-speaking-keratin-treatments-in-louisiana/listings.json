@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Studio Gabriella",
+    "address": "7069 Perkins Road, Baton Rouge, LA 70808",
+    "phone": "(225) 283-3003",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.studiogabriella.com/",
+    "category": "Arabic-speaking Keratin treatments in Louisiana",
+    "description": "Offers Global Keratin and Brazilian Blow Out straightening treatments, as well as other hair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Keratin treatments in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Salon Chateau",
+    "address": "10889 Perkins Road, Ste. A and Ste. D, Baton Rouge, LA 70810",
+    "phone": "(225) 757-0303",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.salochateau.com/",
+    "category": "Arabic-speaking Keratin treatments in Louisiana",
+    "description": "Provides Brazilian Blow Out and Keratherapy smoothing solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Keratin treatments in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Studio One 2 One",
+    "address": "233 Doucet Rd. Suite A3A, Lafayette, LA 70503",
+    "phone": "(337) 264-1444",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.studioone2one.com/",
+    "category": "Arabic-speaking Keratin treatments in Louisiana",
+    "description": "Offers Keratin Complex Smoothing Therapy for frizz and curl reduction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Keratin treatments in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aisha's Styling Salon",
+    "address": "2100 Verot School Road, Lafayette, LA 70508",
+    "phone": "(337) 216-0930",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.aishasstylingsalon.com/",
+    "category": "Arabic-speaking Keratin treatments in Louisiana",
+    "description": "Specializes in Brazilian keratin treatments, along with other hair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Keratin treatments in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sant\u00e9 Salon",
+    "address": "Information not available (Baton Rouge, Louisiana)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.santebatonrouge.com/",
+    "category": "Arabic-speaking Keratin treatments in Louisiana",
+    "description": "A hair wellness center that handles various hair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Keratin treatments in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
