@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Marisol Health - Catholic Charities of Denver",
+    "address": "Multiple locations, including Denver and Fort Collins. (Specific addresses vary by service.)",
+    "phone": "Denver: 720-802-4950, Fort Collins: 970-818-5745",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.marisolhealth.org/",
+    "category": "Catholic-owned Healthcare certification in Colorado",
+    "description": "Offers women's health care, counseling, and family support services, including gynecological, prenatal, delivery, and postpartum care. They do not provide abortions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MyCatholicDoctor",
+    "address": "Primarily telehealth, with clinicians available in Colorado",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mycatholicdoctor.com/",
+    "category": "Catholic-owned Healthcare certification in Colorado",
+    "description": "Connects patients with Catholic healthcare professionals, many of whom offer telehealth services. They list various specialties and clinicians available in Colorado",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Centura Health (now part of CommonSpirit Health and AdventHealth)",
+    "address": "Operates numerous hospitals and clinics across Colorado",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.centura.org/",
+    "category": "Catholic-owned Healthcare certification in Colorado",
+    "description": "Centura Health was a joint operating agreement between CommonSpirit Health (Catholic) and AdventHealth (Seventh-day Adventist). Following a split, CommonSpirit Health now manages 15 hospitals and affiliated clinics in Colorado, while AdventHealth manages 5 Adventist hospitals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Porter Adventist Hospital (Part of CommonSpirit Health)",
+    "address": "2525 S Downing St, Denver, CO 80210",
+    "phone": "(303) 778-1955",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.centura.org/locations/porter-adventist-hospital",
+    "category": "Catholic-owned Healthcare certification in Colorado",
+    "description": "A non-profit community hospital offering comprehensive services including emergency, surgical care, orthopedics, and women's health",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities of Denver",
+    "address": "Multiple locations, including the Mulroy Center in Denver",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ccdenver.org/",
+    "category": "Catholic-owned Healthcare certification in Colorado",
+    "description": "Provides a wide range of services, including senior support, healthcare referrals, counseling, and assistance with benefits like Medicare and Medicaid. They also operate Marisol Health",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Health Initiatives Colorado (Now part of CommonSpirit Health)",
+    "address": "Various locations and affiliated clinicians across Colorado",
+    "phone": "(303) 715-7000 (for Catholic Health Initiatives Colorado)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Health+Initiatives+Colorado+(Now+part+of+CommonSpirit+Health)+in+Colorado",
+    "category": "Catholic-owned Healthcare certification in Colorado",
+    "description": "Formerly a large Catholic healthcare system, CHI Colorado is now part of CommonSpirit Health. They offered a wide range of medical services and had numerous affiliated clinicians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SCL Health (Now part of Intermountain Health)",
+    "address": "Operates facilities in Colorado, including St. Mary's Medical Center in Grand Junction",
+    "phone": "Varies by facility. St. Mary's Medical Center: (970) 298-6363",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://intermountainhealth.org/locations/scl-health/",
+    "category": "Catholic-owned Healthcare certification in Colorado",
+    "description": "SCL Health was a Catholic health system that is now part of Intermountain Health. Their Catholic entities retain their distinctive names and operate in accordance with Catholic health care directives",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Mary's Medical Center (Part of Intermountain Health)",
+    "address": "2635 N 7th St, Grand Junction, CO 81501",
+    "phone": "(970) 298-6363",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://intermountainhealth.org/locations/st-marys-medical-center/",
+    "category": "Catholic-owned Healthcare certification in Colorado",
+    "description": "The largest medical center between Denver and Salt Lake City, serving western Colorado and eastern Utah. It is a faith-based, non-profit provider and part of SCL Health",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities Archdiocese of Denver",
+    "address": "Various locations, including Head Start program centers",
+    "phone": "(303) 742-0828 (for Head Start Program)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ccdenver.org/",
+    "category": "Catholic-owned Healthcare certification in Colorado",
+    "description": "Provides a broad range of services, including adoption, counseling, housing, and health-related services. They also operate Head Start programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Funeral & Cemetery Services Colorado",
+    "address": "Various locations across Colorado",
+    "phone": "(720) 903-2242",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cfcscolorado.org/",
+    "category": "Catholic-owned Healthcare certification in Colorado",
+    "description": "While not a direct healthcare provider, this organization offers services related to end-of-life care and planning, operating under Catholic principles. They offer discounts to Archdiocese of Denver employees",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Healthcare certification in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
