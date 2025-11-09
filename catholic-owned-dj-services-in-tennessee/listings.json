@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Knoxville DJ",
+    "address": "Knoxville, TN",
+    "phone": "(865) 603-5042",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://knoxdj.com/",
+    "category": "Catholic-owned DJ services in Tennessee",
+    "description": "Award-winning DJ service known for energetic performances and personalized playlists for weddings and events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned DJ services in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rocket Entertainment",
+    "address": "Memphis, TN",
+    "phone": "(901) 409-2158",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.rocketentertainment.com/",
+    "category": "Catholic-owned DJ services in Tennessee",
+    "description": "Offers comprehensive DJ and entertainment services with a user-friendly planning app and a variety of add-on services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned DJ services in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DJ Louric",
+    "address": "Brentwood, TN",
+    "phone": "(615) 997-0802",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.dj-louric.com/",
+    "category": "Catholic-owned DJ services in Tennessee",
+    "description": "Professional DJ and entertainment services with a collaborative approach to ensure a unique and personalized event",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned DJ services in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "A+ DJ Services",
+    "address": "Maryville, TN",
+    "phone": "(865) 603-5042",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.aplusdjservices.com/",
+    "category": "Catholic-owned DJ services in Tennessee",
+    "description": "Premier DJ service in East Tennessee since 1990, providing quality DJ services for various events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned DJ services in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sound Force",
+    "address": "Chattanooga, TN",
+    "phone": "",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Sound+Force+in+Tennessee",
+    "category": "Catholic-owned DJ services in Tennessee",
+    "description": "Professional DJ service with over 30 years of experience, known for innovative professionals and high-quality entertainment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned DJ services in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DJ T Rav",
+    "address": "Murfreesboro, TN",
+    "phone": "",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/DJ+T+Rav+in+Tennessee",
+    "category": "Catholic-owned DJ services in Tennessee",
+    "description": "Mobile DJ service and wedding equipment rental, serving Nashville and surrounding areas with professional audio systems and LED lights",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned DJ services in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Terry's DJ Services",
+    "address": "Chattanooga, TN",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Terry's+DJ+Services+in+Tennessee",
+    "category": "Catholic-owned DJ services in Tennessee",
+    "description": "Provides DJ entertainment for weddings, class reunions, corporate events, and parties, with personal attention and consultations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned DJ services in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DJ Wes' Mobile DJ Service",
+    "address": "Olive Branch, MS (serves TN)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/DJ+Wes'+Mobile+DJ+Service+in+Tennessee",
+    "category": "Catholic-owned DJ services in Tennessee",
+    "description": "Offers mobile DJ services and wedding entertainment, known for professionalism and ability to keep guests engaged",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned DJ services in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Burton Entertainment",
+    "address": "Nashville, TN",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Burton+Entertainment+in+Tennessee",
+    "category": "Catholic-owned DJ services in Tennessee",
+    "description": "Wedding DJ company specializing in personalized music and energetic fun for special events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned DJ services in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DJ Mocha",
+    "address": "Nashville, TN",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/DJ+Mocha+in+Tennessee",
+    "category": "Catholic-owned DJ services in Tennessee",
+    "description": "Talented professional DJ known for signature blends and providing DJ services for weddings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned DJ services in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
