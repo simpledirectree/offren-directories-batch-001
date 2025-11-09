@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Watecha Bowl",
+    "address": "1400 W Madison St, Sioux Falls, SD 57104",
+    "phone": "(605) 271-0011",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Watecha+Bowl+South+Dakota",
+    "category": "Alaska-Native-owned Casual dining in South-Dakota",
+    "description": "Watecha Bowl serves traditional Lakota foods with a carnival food-style twist, including Indian tacos, buffalo burgers, and frybread",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Casual dining in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
