@@ -1,0 +1,172 @@
+[
+  {
+    "name": "DenaliTEK Incorporated",
+    "address": "1101 E. 5th Ave, Anchorage, AK 99501",
+    "phone": "(907) 272-0077",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.denalitek.com/",
+    "category": "Agnostic-owned Data backup solutions in Alaska",
+    "description": "DenaliTEK offers comprehensive data backup and disaster recovery services, with a focus on providing reliable and secure solutions for Alaskan businesses. They have been serving businesses since 2001",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Data backup solutions in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alaska Computer Support & Cybersecurity",
+    "address": "1000 E. 5th Ave, Anchorage, AK 99501",
+    "phone": "(907) 272-0077",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://alaskacomputersupport.com/",
+    "category": "Agnostic-owned Data backup solutions in Alaska",
+    "description": "This company provides 24/7 IT support, cybersecurity, and data backup solutions, aiming to keep businesses running smoothly and securely. They have been serving Alaska since 1998",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Data backup solutions in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maxwell IT Company",
+    "address": "3330 C St Suite 200, Anchorage, AK 99503",
+    "phone": "(907) 272-6299",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.maxwellit.com/",
+    "category": "Agnostic-owned Data backup solutions in Alaska",
+    "description": "Maxwell IT offers a range of IT services, including managed services, security, compliance, and cloud solutions, with a focus on protecting client data",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Data backup solutions in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Weston Technology Solutions",
+    "address": "1001 E. Benson Blvd, Anchorage, AK 99503",
+    "phone": "(907) 274-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.weston-tech.com/",
+    "category": "Agnostic-owned Data backup solutions in Alaska",
+    "description": "Weston Technology Solutions provides managed IT support, IT services, and IT solutions for professional service companies in Alaska, with over 30 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Data backup solutions in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alaska Communications",
+    "address": "500 W. 36th Ave, Anchorage, AK 99503",
+    "phone": "(800) 888-8277",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alaskacommunications.com/",
+    "category": "Agnostic-owned Data backup solutions in Alaska",
+    "description": "Alaska Communications offers a range of business services, including disaster recovery and backup solutions, cloud solutions, and managed IT services, leveraging partnerships with industry leaders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Data backup solutions in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PCNET Communications",
+    "address": "4000 Old Seward Hwy, Anchorage, AK 99503",
+    "phone": "(907) 272-1700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pcnet.com/",
+    "category": "Agnostic-owned Data backup solutions in Alaska",
+    "description": "PCNET Communications provides IT support, network management, and off-site backup services with high encryption and compression, focusing on disaster recovery and business continuity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Data backup solutions in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NorthWest Data Solutions (NWDS)",
+    "address": "3000 C St Suite 150, Anchorage, AK 99503",
+    "phone": "(907) 258-5000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nwds.net/",
+    "category": "Agnostic-owned Data backup solutions in Alaska",
+    "description": "NWDS offers a wide array of IT support services, with a focus on software development support and web application technologies, providing on-site or remote IT solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Data backup solutions in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arctic IT\u00ae",
+    "address": "4000 Old Seward Hwy, Suite 200, Anchorage, AK 99503",
+    "phone": "(907) 261-2222",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.arcticit.com/",
+    "category": "Agnostic-owned Data backup solutions in Alaska",
+    "description": "Arctic IT specializes in scalable cloud and security solutions, building strong relationships and driving innovation for businesses and government entities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Data backup solutions in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DanTech Services (Computers Under Control!)",
+    "address": "300 W. 36th Ave, Anchorage, AK 99503",
+    "phone": "(907) 885-0501",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dantechservices.com/",
+    "category": "Agnostic-owned Data backup solutions in Alaska",
+    "description": "DanTech Services specializes in computer, data, and hard drive backup, as well as system disaster recovery, offering off-site backup solutions for business continuity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Data backup solutions in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ITEC of Anchorage, Alaska",
+    "address": "300 W. 36th Ave, Anchorage, AK 99503",
+    "phone": "(907) 272-5400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://itec.com/",
+    "category": "Agnostic-owned Data backup solutions in Alaska",
+    "description": "ITEC provides preventative IT services, off-site backup systems, and data security solutions to ensure data is always available and recoverable, protecting against threats like power surges and equipment failures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Data backup solutions in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
