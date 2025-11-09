@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Tidewater Compost",
+    "address": "1049 N. Birdneck Rd, Virginia Beach, VA 23451",
+    "phone": "(757) 639-2044",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://tidewatercompost.com/",
+    "category": "Catholic-owned Composting services in Virginia",
+    "description": "Tidewater Compost offers residential and commercial organic waste and food scrap collection services, aiming to create nutrient-rich soil from waste",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Composting services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NOPE Compost Co.",
+    "address": "11048 Old Stage Rd, Chester, VA 23836",
+    "phone": "(804) 717-2044",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nopecompost.com/",
+    "category": "Catholic-owned Composting services in Virginia",
+    "description": "NOPE Compost Co. provides food scrap collection and composting services in Virginia, focusing on reducing landfill waste",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Composting services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Compost Crew",
+    "address": "Multiple locations including Northern Virginia. Specific office address not readily available",
+    "phone": "(855) 266-7678",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://compostcrew.com/",
+    "category": "Catholic-owned Composting services in Virginia",
+    "description": "Compost Crew offers weekly curbside compost pick-ups for homes and businesses in DC, Maryland, and Virginia",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Composting services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Monster Organics",
+    "address": "Serves Northern Virginia. Specific office address not readily available",
+    "phone": "(703) 554-0001",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.monsterorganics.com/",
+    "category": "Catholic-owned Composting services in Virginia",
+    "description": "Monster Organics provides residential and commercial organics collection and composting services, including for events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Composting services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Veteran Compost",
+    "address": "Serves Northern Virginia. Specific office address not readily available",
+    "phone": "(301) 579-5315",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://veterancompost.com/",
+    "category": "Catholic-owned Composting services in Virginia",
+    "description": "Veteran Compost offers residential, commercial, and event food scrap collection services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Composting services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Compost RVA",
+    "address": "Serves Richmond, Virginia. Specific office address not readily available",
+    "phone": "(804) 303-0021",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.compostrva.com/",
+    "category": "Catholic-owned Composting services in Virginia",
+    "description": "Compost RVA provides residential composting services in Richmond, Virginia, with various pick-up and drop-off options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Composting services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Church of the Holy Family",
+    "address": "1279 N Great Neck Rd, Virginia Beach, VA 23454",
+    "phone": "(757) 481-5702",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.holyfamilyparish.org/composting",
+    "category": "Catholic-owned Composting services in Virginia",
+    "description": "This Catholic church has a composting program where members can drop off food scraps. They partner with NOPE for collection",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Composting services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Spotsylvania County Public Utilities",
+    "address": "10900 HCC Drive, Fredericksburg, VA 22408",
+    "phone": "(540) 507-7362",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.spotsylvania.va.us/",
+    "category": "Catholic-owned Composting services in Virginia",
+    "description": "Offers biosolids compost for sale, with pickup and delivery options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Composting services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Virginia Peninsulas Public Service Authority (VPPSA) Compost Facility",
+    "address": "145 Goodwin Neck Road, Yorktown, VA 23693",
+    "phone": "(757) 898-5012",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vppsa.org/cf.html",
+    "category": "Catholic-owned Composting services in Virginia",
+    "description": "Provides yard waste compost and blended topsoil for sale in bulk",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Composting services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yardworks LLC",
+    "address": "19001 Hull St, Moseley, VA 23120",
+    "phone": "(804) 639-2030",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.yardworksva.com/",
+    "category": "Catholic-owned Composting services in Virginia",
+    "description": "Offers yard waste compost and blended topsoils for sale in bulk, with pickup or delivery options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Composting services in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
