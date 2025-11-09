@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Float Milwaukee",
+    "address": "123 E. Oklahoma Ave., Milwaukee, WI 53207",
+    "phone": "(414) 377-1500",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.floatmilwaukee.com/",
+    "category": "Catholic-owned Float therapy in Wisconsin",
+    "description": "Offers floatation therapy and sensory deprivation in a spa-like environment for rejuvenation of mind and body",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Float therapy in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Float Factor (now Reset Wellness Studio)",
+    "address": "600 University Ave, Madison, WI 53715",
+    "phone": "(608) 467-4444",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.resetwellnessstudio.com/",
+    "category": "Catholic-owned Float therapy in Wisconsin",
+    "description": "Provides floatation therapy and infrared saunas for relaxation and healing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Float therapy in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "A Better Me Spa",
+    "address": "N96W18221 County Line Rd, Menomonee Falls, WI 53051",
+    "phone": "(262) 303-4040",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.abettermespa.com/",
+    "category": "Catholic-owned Float therapy in Wisconsin",
+    "description": "Offers floatation therapy in spacious, enclosed float rooms designed for deep relaxation and stress relief",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Float therapy in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Zaniya Center",
+    "address": "1010 N Bridge St, Chippewa Falls, WI 54729",
+    "phone": "(715) 861-0000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.zaniyacenter.com/",
+    "category": "Catholic-owned Float therapy in Wisconsin",
+    "description": "Provides float therapy, massage therapy, halotherapy, and infrared sauna services for holistic wellness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Float therapy in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Float Madison",
+    "address": "1200 E. Washington Ave, Madison, WI 53703",
+    "phone": "(608) 217-3524",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://floatmadison.com/",
+    "category": "Catholic-owned Float therapy in Wisconsin",
+    "description": "A float therapy center offering private float rooms and pods for relaxation, healing, and personal growth",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Float therapy in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aquality Float Spa",
+    "address": "1030 Wisconsin Dells Pkwy, Wisconsin Dells, WI 53965",
+    "phone": "(608) 432-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.aqualityfloatspa.com/",
+    "category": "Catholic-owned Float therapy in Wisconsin",
+    "description": "Offers a serene float spa experience in the Wisconsin Dells area, designed for tranquility and rejuvenation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Float therapy in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Float Oasis",
+    "address": "2030 E. Capitol Dr., Milwaukee, WI 53211",
+    "phone": "(414) 240-0000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.float-oasis.com/",
+    "category": "Catholic-owned Float therapy in Wisconsin",
+    "description": "A state-of-the-art floatation facility in Milwaukee, Waukesha, and Brookfield offering customized float experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Float therapy in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mosaic Massage and Float Center",
+    "address": "533 Fifth Ave, Antigo, WI 54409",
+    "phone": "(715) 350-4379",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.mosaicmassagewi.com/",
+    "category": "Catholic-owned Float therapy in Wisconsin",
+    "description": "A full-service health spa in Antigo offering massage therapy, float therapy, halotherapy, and infrared sauna",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Float therapy in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
