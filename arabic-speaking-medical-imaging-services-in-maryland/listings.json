@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Chesapeake Medical Imaging",
+    "address": "Multiple locations throughout Maryland (e.g., Columbia, Annapolis, Glen Burnie)",
+    "phone": "855-455-8900",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.chesapeakemed.com/",
+    "category": "Arabic-speaking Medical imaging services in Maryland",
+    "description": "Offers a comprehensive range of medical imaging services, including MRI, CT scans, mammography, ultrasound, and PET/CT scans. They emphasize patient care and advanced technology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Advanced Radiology",
+    "address": "Numerous locations across Baltimore City, Anne Arundel, Baltimore, Carroll, Harford, and Howard counties. One location is at 4801 Dorsey Hall Dr. Ste. 101, Ellicott City, MD 21042",
+    "phone": "888-972-9700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.advancedradiology.com/",
+    "category": "Arabic-speaking Medical imaging services in Maryland",
+    "description": "Provides a broad spectrum of leading-edge diagnostic imaging services with board-certified radiologists. They utilize advanced technology for accurate diagnoses and mention that foreign language interpretation services are available upon request",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RadNet (Community Radiology & Maryland Outpatient Medical Imaging)",
+    "address": "Multiple centers in Montgomery, Frederick, Prince George's, and Carroll counties. Locations include Rockville and Germantown",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.radnet.com/maryland",
+    "category": "Arabic-speaking Medical imaging services in Maryland",
+    "description": "Offers a complete range of imaging services such as MRI, CT, 3D Mammography, Ultrasound, and PET-CT. They serve numerous convenient outpatient locations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Align Radiology",
+    "address": "3301 North Ridge Road, Suite 102, Laurel, MD 20707",
+    "phone": "301-317-5000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://alignradiology.com/",
+    "category": "Arabic-speaking Medical imaging services in Maryland",
+    "description": "A diagnostic imaging center in Laurel, MD, offering state-of-the-art medical imaging services with a commitment to precision, comfort, and compassionate care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Laurel Radiology Services",
+    "address": "1400 Mercantile East Blvd, Suite 101, Laurel, MD 20707",
+    "phone": "301-497-7777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.laurelradiology.com/",
+    "category": "Arabic-speaking Medical imaging services in Maryland",
+    "description": "Offers in-house state-of-the-art CT scans, MRIs, bone density scans (DEXA), X-rays, and 4D ultrasounds, serving patients of all age groups",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Luminis Health Imaging",
+    "address": "Multiple locations including Annapolis (2002 Medical Pkwy, Sajak Pavilion, Ste 100, Annapolis, MD 21401) and Lanham (8116 Good Luck Rd, Ste 101, Lanham, MD 20706)",
+    "phone": "888-909-9729 (Annapolis), 301-459-7990 (Lanham)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.luminishealth.org/patients-and-visitors/medical-services/imaging-and-radiology",
+    "category": "Arabic-speaking Medical imaging services in Maryland",
+    "description": "Offers advanced imaging services with a commitment to cutting-edge treatment and patient safety. They have multiple imaging locations across Maryland",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Adventist HealthCare Radiology & Diagnostic Imaging",
+    "address": "Multiple locations including Silver Spring (12008 Cherry Hill Road, Silver Spring, MD 20904) and Rockville (9711 Medical Center Drive, Suite 101, Rockville, MD 20850)",
+    "phone": "301-590-8999",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.adventisthealthcare.com/services/radiology-diagnostic-imaging/",
+    "category": "Arabic-speaking Medical imaging services in Maryland",
+    "description": "Provides high-quality radiology and diagnostic imaging services, including CT scans, MRI, ultrasound, and X-rays, with a focus on patient comfort and accurate diagnoses. They also offer pediatric imaging services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Radiology Clinic",
+    "address": "Locations in Rockville and Germantown, MD. For example, Rockville: 9711 Medical Center Drive, Suite 300, Rockville, MD 20850",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theradiologyclinic.com/",
+    "category": "Arabic-speaking Medical imaging services in Maryland",
+    "description": "Offers multimodality medical diagnostic imaging with fellowship-trained radiologists and expertly trained staff, prioritizing patient care and providing same-day appointments and quick reporting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Diagnostic Imaging Services (Hagerstown)",
+    "address": "12616 Barbara Way, Hagerstown, MD 21742",
+    "phone": "301-797-7300",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.diagnosticimagingmd.com/",
+    "category": "Arabic-speaking Medical imaging services in Maryland",
+    "description": "Features state-of-the-art equipment and experienced staff for a comprehensive range of outpatient imaging services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mercy Medical Center - Radiology / Imaging",
+    "address": "345 N Calvert St, Baltimore, MD 21202",
+    "phone": "410-332-9000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mdmercy.com/services/radiology-imaging",
+    "category": "Arabic-speaking Medical imaging services in Maryland",
+    "description": "Offers a full range of diagnostic imaging services, including MRI, CT scans, mammography, and ultrasound, with a focus on advanced technology and patient care. They list \"Arabic\" as a language option for their physicians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Medical imaging services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
