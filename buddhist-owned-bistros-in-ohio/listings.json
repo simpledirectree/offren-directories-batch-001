@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Happy Buddha Cafe",
+    "address": "2173 S Green Rd, Cleveland, OH 44121",
+    "phone": "(216) 291-2446",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.happybuddhacafe.com/",
+    "category": "Buddhist-owned Bistros in Ohio",
+    "description": "An Asian restaurant with authentic dishes, offering dine-in and take-out options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Bistros in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Buddha Bowl",
+    "address": "1170 Kenny Centre Mall, Columbus, OH 43220",
+    "phone": "(614) 451-2695",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.buddhabowlcolumbus.com/",
+    "category": "Buddhist-owned Bistros in Ohio",
+    "description": "A Thai-inspired fast-casual restaurant where customers can customize meals to their dietary needs, offering gluten-free and vegan options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Bistros in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zen Cha Cafe & Tea",
+    "address": "2396 E Main St, Columbus, OH 43209",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.beyondmenu.com/zen-cha-cafe-tea-columbus-43209/menu",
+    "category": "Buddhist-owned Bistros in Ohio",
+    "description": "Offers teas, soups, salads, and sandwiches with a focus on Japanese-inspired cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Bistros in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zen Noodle",
+    "address": "Located within Hollywood Casino Columbus, 200 Georgesville Rd, Columbus, OH 43228",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hollywoodcasinocolumbus.com/dining/zen-noodle",
+    "category": "Buddhist-owned Bistros in Ohio",
+    "description": "Serves authentic Asian flavors with a focus on noodles, located inside Hollywood Casino Columbus",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Bistros in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zen Grill",
+    "address": "2821 Wilmington Pike, Kettering, OH 45419",
+    "phone": "(937) 716-1369",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://zengrill.com/",
+    "category": "Buddhist-owned Bistros in Ohio",
+    "description": "An express hibachi restaurant focusing on simplicity, flavor, and harmony, using fresh ingredients and Japanese cooking techniques",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Bistros in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Comune Restaurant",
+    "address": "677 Parsons Ave, Columbus, OH 43206",
+    "phone": "(614) 947-1012",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.comune.com/",
+    "category": "Buddhist-owned Bistros in Ohio",
+    "description": "Offers plant-forward cuisine with flavorful, satisfying, and sharable dishes made from seasonal, locally-sourced ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Bistros in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "J Zhen",
+    "address": "4400 Karl Rd, Columbus, OH 43224",
+    "phone": "(614) 447-8862",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.grubhub.com/restaurant/j-zhen-4400-karl-rd-columbus/2600079",
+    "category": "Buddhist-owned Bistros in Ohio",
+    "description": "A Chinese restaurant offering delivery and pickup, with a menu including various noodle dishes, rice dishes, and entrees",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Bistros in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
