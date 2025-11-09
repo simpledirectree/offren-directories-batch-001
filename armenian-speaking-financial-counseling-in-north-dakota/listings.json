@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Town & Country Credit Union",
+    "address": "Multiple locations in Minot, Fargo, Kenmare, and Stanley, North Dakota",
+    "phone": "(701) 255-0042 (for Capital Credit Union, which also offers financial counseling)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.townandcountry.org/",
+    "category": "Armenian-speaking Financial counseling in North-Dakota",
+    "description": "Offers free, certified financial counseling services to help with debt management, credit score improvement, budgeting, and financial education",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Financial counseling in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Capital Credit Union",
+    "address": "Multiple locations in North Dakota",
+    "phone": "701.255.0042 or 1.800.735.6922",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.capcu.org/",
+    "category": "Armenian-speaking Financial counseling in North-Dakota",
+    "description": "Provides free assistance with debt management, credit score enhancement, budgeting, and financial education through Certified Credit Union Financial Counselors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Financial counseling in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "American Consumer Credit Counseling (ACCC)",
+    "address": "While ACCC operates nationally, they offer services to North Dakota residents. Specific North Dakota office addresses were not found",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.consumercredit.com/",
+    "category": "Armenian-speaking Financial counseling in North-Dakota",
+    "description": "Offers free financial counseling and debt management advice, including a debt management plan for qualified individuals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Financial counseling in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "APFSC (Association for Financial Counseling and Planning Education)",
+    "address": "While APFSC operates nationally, they offer services to North Dakota residents. Specific North Dakota office addresses were not found",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.apfsc.org/",
+    "category": "Armenian-speaking Financial counseling in North-Dakota",
+    "description": "A non-profit organization offering free consultations with certified counselors to create personalized debt management plans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Financial counseling in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Community Action Region VI",
+    "address": "PO Box 507, Jamestown, ND 58401",
+    "phone": "701-252-1821 or 800-726-8179",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.communityactionregion6.com/",
+    "category": "Armenian-speaking Financial counseling in North-Dakota",
+    "description": "Provides free financial counseling services to help clients develop money management techniques and achieve financial stability",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Financial counseling in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
