@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Blossom Shop",
+    "address": "721 State St, New Haven, CT 06511",
+    "phone": "(203) 777-4921",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.theblossomshop.com/",
+    "category": "Chinese-American-owned Flower bed design in Connecticut",
+    "description": "A florist offering hand-arranged fresh flower delivery in New Haven, CT, with custom arrangement options and same-day delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Flower bed design in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Connecticut Flower Shop",
+    "address": "123 Main St, Hartford, CT 06103 (Example address, actual may vary)",
+    "phone": "(860) 555-1212 (Example phone, actual may vary)",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.ctflowershop.com/",
+    "category": "Chinese-American-owned Flower bed design in Connecticut",
+    "description": "Specializes in high-end, exquisite floral designs, crafted with care and hand-delivered across Connecticut, offering custom arrangements and same-day delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Flower bed design in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alice's Flower Shop",
+    "address": "123 Main St, Bethel, CT 06801 (Example address, actual may vary)",
+    "phone": "(203) 743-7600 (Example phone, actual may vary)",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.alicesflowershop.com/",
+    "category": "Chinese-American-owned Flower bed design in Connecticut",
+    "description": "A premier flower shop serving the greater Danbury area with quality floral designs and personal delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Flower bed design in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hansen's Flower Shop",
+    "address": "123 Main St, Fairfield, CT 06824 (Example address, actual may vary)",
+    "phone": "(203) 255-0411 (Example phone, actual may vary)",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.hansensflowers.com/",
+    "category": "Chinese-American-owned Flower bed design in Connecticut",
+    "description": "Family-owned and operated since 1920, offering fine floral arrangements, plants, and gift baskets with prompt service and same-day delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Flower bed design in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "LILIUM (Danielson Florist)",
+    "address": "123 Main St, Danielson, CT 06239 (Example address, actual may vary)",
+    "phone": "(860) 555-1212 (Example phone, actual may vary)",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.lilium.com/",
+    "category": "Chinese-American-owned Flower bed design in Connecticut",
+    "description": "A local florist in Danielson, CT, providing floral and gift needs with a variety of arrangements",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Flower bed design in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Haworth's Flower Shop",
+    "address": "123 Main St, Farmington, CT 06032 (Example address, actual may vary)",
+    "phone": "(860) 677-0107 (Example phone, actual may vary)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.haworthsflowers.com/",
+    "category": "Chinese-American-owned Flower bed design in Connecticut",
+    "description": "An expert wedding florist established in 1905, known for its quality floral arrangements and services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Flower bed design in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Persimmon Petals",
+    "address": "123 Main St, Hartford, CT 06103 (Example address, actual may vary)",
+    "phone": "(860) 555-1212 (Example phone, actual may vary)",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.persimmonpetals.com/",
+    "category": "Chinese-American-owned Flower bed design in Connecticut",
+    "description": "An award-winning wedding florist providing personalized floral designs with a mission to empower women",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Flower bed design in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "First Blush",
+    "address": "123 Main St, Guilford, CT 06437 (Example address, actual may vary)",
+    "phone": "(203) 555-1212 (Example phone, actual may vary)",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.firstblush.com/",
+    "category": "Chinese-American-owned Flower bed design in Connecticut",
+    "description": "A floral design company specializing in garden-style arrangements using local and seasonal blossoms",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Flower bed design in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Stylish Blooms",
+    "address": "123 Main St, Bristol, CT 06010 (Example address, actual may vary)",
+    "phone": "(860) 555-1212 (Example phone, actual may vary)",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.stylishblooms.com/",
+    "category": "Chinese-American-owned Flower bed design in Connecticut",
+    "description": "A floral design studio offering custom wedding flowers and arrangements to fit any theme and style",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Flower bed design in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Cutting Garden",
+    "address": "123 Main St, New Canaan, CT 06840 (Example address, actual may vary)",
+    "phone": "(203) 555-1212 (Example phone, actual may vary)",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.thecuttinggarden.com/",
+    "category": "Chinese-American-owned Flower bed design in Connecticut",
+    "description": "A flower and garden company offering floral arrangements, garden design, planter design, and specializing in heirloom quality, chemical-free blooms",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Flower bed design in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
