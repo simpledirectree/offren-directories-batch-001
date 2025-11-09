@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Buddhist Temple of Dallas (Thai Market)",
+    "address": "8484 Stults Rd, Dallas, TX 75243",
+    "phone": "(214) 340-1000 (This is the general temple number, food service hours may vary)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.watdallas.org/",
+    "category": "Buddhist-owned Breakfast restaurants in Texas",
+    "description": "This Thai Buddhist temple hosts a vibrant street food market every Sunday from approximately 10 AM to 2 PM. Visitors can enjoy a wide variety of authentic Thai dishes, prepared by volunteers. It's a unique cultural experience that includes food, crafts, and a glimpse into Thai Buddhism",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Breakfast restaurants in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
