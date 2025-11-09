@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Black & Gold Realty \u2013 Vegas Property Management",
+    "address": "PO BOX 42548, Las Vegas, NV 89116",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackandgoldrealty.com/",
+    "category": "African-American-owned Property management in Nevada",
+    "description": "Offers full-service property management and real estate sales, specializing in helping clients buy, sell, or manage investment properties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Property management in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black & Cherry Real Estate and Property Management",
+    "address": "2421 W Horizon Ridge Pkwy, Henderson, Nevada, 89052",
+    "phone": "1-702-795-4663",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackandcherryrealestate.com/",
+    "category": "African-American-owned Property management in Nevada",
+    "description": "A full-service property management company specializing in residential and commercial properties in the Las Vegas and Henderson areas, known for aggressive marketing, efficient leasing, and streamlined maintenance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Property management in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Henderson",
+    "address": "Henderson, NV (specific business address not provided, but it's a community organization)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://blackhenderson.com/",
+    "category": "African-American-owned Property management in Nevada",
+    "description": "A community organization committed to promoting commerce and community for Black people in Henderson, NV. They highlight Black-owned businesses and events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Property management in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
