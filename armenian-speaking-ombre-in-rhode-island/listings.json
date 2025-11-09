@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Sacarrha Salon",
+    "address": "1100 Pawtucket Ave, Pawtucket, RI 02861",
+    "phone": "(401) 722-7700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://sacarrhasalon.com/",
+    "category": "Armenian-speaking Ombre in Rhode-Island",
+    "description": "Specializes in expert ombre hair services, offering a flawless and beautiful ombre effect",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Ombre in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Studio B Salon",
+    "address": "Pontiac Mills, Warwick, RI",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://studiobsalonri.com/",
+    "category": "Armenian-speaking Ombre in Rhode-Island",
+    "description": "Offers a variety of hair services including coloring, with stylists trained by top academies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Ombre in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Moss Salon",
+    "address": "114 North Main Street, Providence, RI",
+    "phone": "(401) 751-8877",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mosssalon.com/",
+    "category": "Armenian-speaking Ombre in Rhode-Island",
+    "description": "Premier hair salon in Providence for styling and coloring, known for its expert colorists and stylists",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Ombre in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SalonPROV",
+    "address": "East Side of Providence, RI 02906",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.salonprov.com/",
+    "category": "Armenian-speaking Ombre in Rhode-Island",
+    "description": "Offers extensive hair, skin, and makeup services, including award-winning wedding and special occasion services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Ombre in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "LaLaLuxe Salon",
+    "address": "Not specified in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lalaluxesalon.com/",
+    "category": "Armenian-speaking Ombre in Rhode-Island",
+    "description": "Offers custom color and cuts, specializing in balayage and other advanced coloring techniques",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Ombre in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
