@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Chrism Studio",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chrismstudio.com/",
+    "category": "Catholic-owned Graphic design in North-Carolina",
+    "description": "Chrism Studio, run by Emily Wahl, is a Catholic graphic designer who focuses on communicating mission and inspiring customers through logo, brand, print, and web design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Graphic design in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Verve & Concord Design Studio",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://verveandconcord.com/",
+    "category": "Catholic-owned Graphic design in North-Carolina",
+    "description": "This studio offers brand, web, and graphic design services specifically for Catholic entrepreneurs, aiming to build cohesive, professional designs that inspire and connect",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Graphic design in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Design Q Studio",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.designqstudio.com/",
+    "category": "Catholic-owned Graphic design in North-Carolina",
+    "description": "Design Q Studio is a graphic and package design studio with over twenty years of experience, working with Catholic archdioceses, dioceses, universities, and ministries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Graphic design in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Paloma & Fig",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://palomaandfig.com/",
+    "category": "Catholic-owned Graphic design in North-Carolina",
+    "description": "This is a creative marketing agency that blends faith, strategy, and design for Catholic parishes and businesses, offering services from branding to digital marketing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Graphic design in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dimconex Media",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://dimconex.com/",
+    "category": "Catholic-owned Graphic design in North-Carolina",
+    "description": "Dimconex Media is a Catholic innovation agency specializing in digital evangelization, including website programming, UX/UI, branding, and design for the Church",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Graphic design in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
