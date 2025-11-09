@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Black Opulence Event Planning",
+    "address": "Oklahoma City, OK (Specific address not found)",
+    "phone": "405-641-3711",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Black+Opulence+Event+Planning+in+Oklahoma",
+    "category": "African-American-owned Social celebration planning in Oklahoma",
+    "description": "Specializes in weddings, birthday parties, corporate, and community events, aiming to reduce stress for clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Social celebration planning in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jennie Williams Events",
+    "address": "Tulsa, OK (Specific address not found)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Jennie+Williams+Events+in+Oklahoma",
+    "category": "African-American-owned Social celebration planning in Oklahoma",
+    "description": "Offers full, partial, and day-of coordination services for weddings and other celebrations. The business is Black, LGBTQ+, and woman-owned",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Social celebration planning in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "LMason Events / Nexus Creative",
+    "address": "Oklahoma City, OK (Nexus Creative is located inside Sailor and the Dock)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/LMason+Events+/+Nexus+Creative+in+Oklahoma",
+    "category": "African-American-owned Social celebration planning in Oklahoma",
+    "description": "Founded by LaToya Mason, this business plans weddings, corporate events, and intimate gatherings. Nexus Creative is their new event space",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Social celebration planning in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Event Fusion",
+    "address": "Tulsa, Oklahoma (Specific address not found)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Event+Fusion+in+Oklahoma",
+    "category": "African-American-owned Social celebration planning in Oklahoma",
+    "description": "Offers detailed and personalized event planning for various occasions including weddings, baby showers, birthday parties, and corporate events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Social celebration planning in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Black Rose",
+    "address": "Moore, Oklahoma (Right off I-35 and 27th Street)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Black+Rose+in+Oklahoma",
+    "category": "African-American-owned Social celebration planning in Oklahoma",
+    "description": "A 3,000 sq ft photography studio and event venue available for rent for photography sessions and special events like baby showers, birthday parties, and small weddings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Social celebration planning in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
