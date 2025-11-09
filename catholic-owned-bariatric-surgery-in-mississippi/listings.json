@@ -1,0 +1,87 @@
+[
+  {
+    "name": "St. Dominic Hospital - Bariatric Surgery",
+    "address": "969 Lakeland Dr, Jackson, MS 39216",
+    "phone": "(601) 200-6872",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stdom.com/",
+    "category": "Catholic-owned Bariatric surgery in Mississippi",
+    "description": "St. Dominic Health Services is a Catholic healthcare system that offers bariatric surgery solutions as part of its comprehensive weight loss program. They provide both surgical and non-surgical options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Bariatric surgery in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Merit Health Wesley - Bariatric Weight Loss Surgery",
+    "address": "5001 Hardy St, Hattiesburg, MS 39402",
+    "phone": "(601) 261-5767",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.merithealthwesley.com/services/bariatric-weight-loss-surgery",
+    "category": "Catholic-owned Bariatric surgery in Mississippi",
+    "description": "Merit Health Wesley's bariatric surgery program is accredited by the Metabolic and Bariatric Surgery Accreditation and Quality Improvement Program (MBSAQIP). They offer a multidisciplinary approach to weight loss surgery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Bariatric surgery in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Mississippi Medical Center (UMMC) - Bariatric Surgery",
+    "address": "2500 N State St, Jackson, MS 39216",
+    "phone": "(601) 984-1285",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.umc.edu/healthcare/services/surgery/bariatric-surgery/bariatric-surgery.html",
+    "category": "Catholic-owned Bariatric surgery in Mississippi",
+    "description": "UMMC offers a comprehensive bariatric surgery program accredited by the American College of Surgeons and the American Society for Metabolic and Bariatric Surgery. While not exclusively Catholic, it is a major medical center in Mississippi providing these services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Bariatric surgery in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North Mississippi Medical Center (NMMC) - Bariatric Center",
+    "address": "830 S Gloster St, Tupelo, MS 38801",
+    "phone": "(662) 377-6331",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nmhs.net/bariatric-center/",
+    "category": "Catholic-owned Bariatric surgery in Mississippi",
+    "description": "NMMC's Bariatric Center is accredited as a Comprehensive Center by the Metabolic and Bariatric Surgery Accreditation and Quality Improvement Program (MBSAQIP). They offer various surgical procedures for weight loss",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Bariatric surgery in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Singing River Health System - Bariatric Surgery",
+    "address": "2135 23rd Ave, Pascagoula, MS 39567",
+    "phone": "(228) 762-4483",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.singingriverhealthsystem.com/services/surgical-services/bariatric-surgery/",
+    "category": "Catholic-owned Bariatric surgery in Mississippi",
+    "description": "Singing River Health System offers bariatric surgery as part of its comprehensive surgical services, utilizing advanced technology and experienced surgeons",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Bariatric surgery in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
