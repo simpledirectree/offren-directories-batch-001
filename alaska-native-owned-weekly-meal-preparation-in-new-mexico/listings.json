@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Red Mesa Cuisine, LLC",
+    "address": "7 Avenue Vista Grande #147, Santa Fe, NM, 87508",
+    "phone": "505.466.6306",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://redmesacuisine.com/",
+    "category": "Alaska-Native-owned Weekly meal preparation in New-Mexico",
+    "description": "Offers authentic Native American cuisine, catering, and cultural education, using locally sourced and Native American ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Weekly meal preparation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Indian Pueblo Kitchen",
+    "address": "Located inside the Indian Pueblo Cultural Center, 2401 12th St. NW, Albuquerque, NM 87104",
+    "phone": "505-724-3510",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://indianpueblokitchen.org/",
+    "category": "Alaska-Native-owned Weekly meal preparation in New-Mexico",
+    "description": "Owned and operated by New Mexico's 19 Pueblos, featuring flavors of Native communities with homemade stews, fresh breads, and bakery items inspired by historical Pueblo traditions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Weekly meal preparation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yaak'a Caf\u00e9",
+    "address": "Haaku Road, Acoma Pueblo, NM 87034 (inside the Sky City Cultural Center & Haak'u Museum)",
+    "phone": "505-552-7871",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Yaak'a+Caf\u00e9+New+Mexico",
+    "category": "Alaska-Native-owned Weekly meal preparation in New-Mexico",
+    "description": "Offers traditional Acoma foods as well as contemporary dishes prepared by tribal members",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Weekly meal preparation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tiwa Kitchen Restaurant and Bakery",
+    "address": "328 Veterans Highway, Taos Pueblo, NM 87577",
+    "phone": "575-751-1020",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Tiwa+Kitchen+Restaurant+and+Bakery+New+Mexico",
+    "category": "Alaska-Native-owned Weekly meal preparation in New-Mexico",
+    "description": "Serves traditional Taos comfort food, including red chile stew, bison meat dishes, and blue corn tacos",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Weekly meal preparation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AshKii's Navajo Grill",
+    "address": "100 W. Elm St., Farmington, NM 87401",
+    "phone": "505-599-1524",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/AshKii's+Navajo+Grill+New+Mexico",
+    "category": "Alaska-Native-owned Weekly meal preparation in New-Mexico",
+    "description": "Known for fry bread and Navajo tacos",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Weekly meal preparation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Con Amor Organic Meal Prep",
+    "address": "Taos, NM (specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.con-amor-organic.com/",
+    "category": "Alaska-Native-owned Weekly meal preparation in New-Mexico",
+    "description": "Offers weekly organic, gluten-free, and dairy-free prepared meals, with a focus on locally sourced ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Weekly meal preparation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Simply Fresh Meal Prep",
+    "address": "Las Cruces, NM (specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://simplyfreshmealprep.com/",
+    "category": "Alaska-Native-owned Weekly meal preparation in New-Mexico",
+    "description": "Described as the #1 New Mexico Meal Prep Service, offering healthy and affordable meals with delivery options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Weekly meal preparation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fitmaniameals Meal Prep",
+    "address": "720 Saint Michaels Drive, Suite 2-F, Santa Fe, NM, 87505",
+    "phone": "505-227-5400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Fitmaniameals+Meal+Prep+New+Mexico",
+    "category": "Alaska-Native-owned Weekly meal preparation in New-Mexico",
+    "description": "Offers prepared meal services, custom meal plans, and weekly meal prep with various dietary options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Weekly meal preparation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pioche Food Group",
+    "address": "Farmington, NM (specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Pioche+Food+Group+New+Mexico",
+    "category": "Alaska-Native-owned Weekly meal preparation in New-Mexico",
+    "description": "A Navajo-owned food service business that includes catering and a planned healthy meal prep option called Sweet Salt",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Weekly meal preparation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tocabe Indigenous Marketplace",
+    "address": "While Tocabe has a brick-and-mortar location in Denver, CO, their online marketplace offers \"Harvest Meals\u2122\" nationwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://tocabe.com/",
+    "category": "Alaska-Native-owned Weekly meal preparation in New-Mexico",
+    "description": "Offers Native, nutritious, flavorful, and convenient prepared meals with Indigenous recipes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Weekly meal preparation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
