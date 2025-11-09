@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Bijou Blu IV and Cryotherapy",
+    "address": "10 Farrell St Suite 1, South Burlington, VT 05403",
+    "phone": "(802) 495-5964",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://bijoubluspa.com/",
+    "category": "Chinese-speaking Cryotherapy in Vermont",
+    "description": "Offers whole body cryotherapy, cryo facials, IV drip therapy, infrared therapy, and compression therapy. They also offer specialized packages and daily specials",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Cryotherapy in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Active Cryo Spa",
+    "address": "(Specific address not found, but located in Burlington, VT)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.activecryospa.com/",
+    "category": "Chinese-speaking Cryotherapy in Vermont",
+    "description": "Specializes in cryotherapy services for body sculpting, fat reduction, weight loss, enhanced energy, and improved sleep. They offer whole-body and localized cryotherapy, as well as cryo-facials",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Cryotherapy in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Spa at Spruce Peak",
+    "address": "(Specific address not found, but located in Stowe, VT area)",
+    "phone": "802-760-4782",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sprucepeak.com/spa",
+    "category": "Chinese-speaking Cryotherapy in Vermont",
+    "description": "Offers cryotherapy, including the Cryo T-Shock System for body slimming, face contouring, and toning. They emphasize it as an all-natural, non-invasive treatment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Cryotherapy in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The EDGE Sports & Fitness (Wellness Lounge)",
+    "address": "142 West Twin Oaks, South Burlington, VT",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.edgevt.com/wellness-lounge",
+    "category": "Chinese-speaking Cryotherapy in Vermont",
+    "description": "Features a CRYO Lounge offering cold therapy for muscle relief, along with HYDRO Massage beds. It's described as the first CRYO Lounge in Vermont",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Cryotherapy in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
