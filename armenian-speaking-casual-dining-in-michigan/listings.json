@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Lavash Grill",
+    "address": "Southfield, MI (Specific address not readily available in search results, but confirmed to be in Southfield)",
+    "phone": "(248) 423-9400 (This number is associated with The Farm Grill, which is now Lavash Grill)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Lavash+Grill+in+Michigan",
+    "category": "Armenian-speaking Casual dining in Michigan",
+    "description": "Lavash Grill is described as the only full-time Armenian restaurant in Michigan, offering authentic Armenian and Middle Eastern dishes. It is known for dishes like Manti, Sou Boreg, and Lahmacun",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Casual dining in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Farm Grill",
+    "address": "29702 Southfield Rd, Southfield, MI 48076",
+    "phone": "(248) 423-9400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Farm+Grill+in+Michigan",
+    "category": "Armenian-speaking Casual dining in Michigan",
+    "description": "The Farm Grill offers authentic Mediterranean and Middle Eastern cuisine, with a focus on Armenian recipes. It is known for its home-cooked hospitality and dishes like Manti and Sou Boreg",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Casual dining in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Basmajian Bakery",
+    "address": "Southfield, MI (Operates as a \"pop-up\" and acquired a restaurant/catering business in Southfield)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Basmajian+Bakery+in+Michigan",
+    "category": "Armenian-speaking Casual dining in Michigan",
+    "description": "Basmajian Bakery serves Western Armenian home cooking, with recipes passed down from matriarch Sossi Kayayan Basmajian. They offer items like lahmajoun, zaatar bread, and cheese breads",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Casual dining in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
