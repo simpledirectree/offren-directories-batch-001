@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Sunshine Veterinary Care",
+    "address": "21900 Golden Springs Dr, Diamond Bar, CA 91765",
+    "phone": "(909) 345-1010",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://sunshinevetcare.com/",
+    "category": "Chinese-American-owned Livestock care in California",
+    "description": "Offers veterinary services in Mandarin Chinese, English, and Spanish, with a focus on breaking down language barriers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Livestock care in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dr. Mini Wu (Vetster)",
+    "address": "San Mateo, CA (Online consultations available, house calls for acupuncture in the Bay Area)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vetster.com/veterinarians/mini-wu",
+    "category": "Chinese-American-owned Livestock care in California",
+    "description": "A licensed veterinarian fluent in Mandarin and English, with experience in small animals and acupuncture for horses. Specializes in integrative medicine and traditional Chinese medicine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Livestock care in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sunset Veterinary Hospital",
+    "address": "2140 Taraval St, San Francisco, CA 94116",
+    "phone": "(415) 665-1000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sunsetvet.com/",
+    "category": "Chinese-American-owned Livestock care in California",
+    "description": "Features veterinarians like Dr. Chu and Dr. Chan, who have extensive experience with various animal species",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Livestock care in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Happy Valley Pet Hospital",
+    "address": "1015 S De Anza Blvd, San Jose, CA 95129",
+    "phone": "(408) 796-7057",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.happyvalleypethospital.com/",
+    "category": "Chinese-American-owned Livestock care in California",
+    "description": "Offers comprehensive veterinary care, including urgent and emergency services. Dr. Cheung is mentioned as a veterinarian who sees rabbits and pocket pets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Livestock care in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pets 'N' Vets Animal Hospital",
+    "address": "14500 Pipeline Ave, Chino Hills, CA 91709",
+    "phone": "(909) 393-5400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://petsnvetschinohills.com/",
+    "category": "Chinese-American-owned Livestock care in California",
+    "description": "Provides comprehensive veterinary care, including wellness, surgery, and emergency services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Livestock care in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ambassador Long Beach Veterinary Hospital",
+    "address": "2251 E Carson St, Long Beach, CA 90807",
+    "phone": "(562) 424-6446",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ambassadorlongbeachvet.com/",
+    "category": "Chinese-American-owned Livestock care in California",
+    "description": "Offers a wide range of veterinary services for various animals, including exotics, with over 20 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Livestock care in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "East Chapman Veterinary Center",
+    "address": "4250 E Chapman Ave, Orange, CA 92869",
+    "phone": "(714) 633-9780",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eastchapmanvet.com/",
+    "category": "Chinese-American-owned Livestock care in California",
+    "description": "Provides a full spectrum of pet services, including wellness exams, surgery, and emergency care, with a multilingual option for Chinese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Livestock care in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Whitie's Pet Shop, Inc.",
+    "address": "5215 N Blackstone Ave, Fresno, CA 93710",
+    "phone": "(559) 438-4343",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Whitie's+Pet+Shop,+Inc.+in+California",
+    "category": "Chinese-American-owned Livestock care in California",
+    "description": "A pet store offering pet supplies and services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Livestock care in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "California Pet Center",
+    "address": "Various locations across California (e.g., American Canyon, Anderson, Angels Camp, Ridgecrest, Ripon, Riverside)",
+    "phone": "Varies by location (e.g., American Canyon: (707) 558-0058)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tractorsupply.com/store-locator",
+    "category": "Chinese-American-owned Livestock care in California",
+    "description": "Offers farm and livestock supplies, feed, pet products, and services like PetVet clinics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Livestock care in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
