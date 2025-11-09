@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Asian Imports",
+    "address": "10177 West Charleston Blvd, Suite L, Las Vegas, NV 89117",
+    "phone": "(702) 389-8274",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.asianimportsauto.com/",
+    "category": "Asian-owned Oil changes in Nevada",
+    "description": "Specializes in Japanese and Korean vehicles but services all makes and models. Offers oil changes, general maintenance, and major repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Oil changes in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian Imports Plus",
+    "address": "6255 W Maule Ave, Las Vegas, NV 89118",
+    "phone": "(702) 258-9500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.asianimportsauto.com/",
+    "category": "Asian-owned Oil changes in Nevada",
+    "description": "Offers a wide range of auto repair services, including oil changes, for all makes and models. They are an AAA Approved Auto Repair Facility",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Oil changes in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian Imports Auto",
+    "address": "1025 American Pacific Drive, Henderson, NV 89074",
+    "phone": "(702) 710-4775",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.asianimportsauto.com/",
+    "category": "Asian-owned Oil changes in Nevada",
+    "description": "A newer location expanding their family-owned business, offering quality repairs and services including oil changes for all makes and models",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Oil changes in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
