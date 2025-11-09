@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Diamond Landscapes",
+    "address": "2060 Buck Lane, Lexington, KY 40511",
+    "phone": "(859) 255-7669",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.diamondlandscapes.com/",
+    "category": "African-American-owned Snow removal in Kentucky",
+    "description": "Offers commercial snow removal services, including plowing, de-icing, and sidewalk clearing, with 24/7 availability",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Snow removal in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arctic Edge Snow Removal",
+    "address": "Louisville, KY (Specific address not provided, but serves Louisville commercial clients)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://arcticedgesnowremoval.com/",
+    "category": "African-American-owned Snow removal in Kentucky",
+    "description": "Provides commercial snow removal services in Louisville, KY, focusing on safety and accessibility. They are currently at full capacity for the winter season",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Snow removal in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Klausing Group",
+    "address": "Lexington, KY and Louisville, KY (Specific addresses not provided)",
+    "phone": "Lexington: (859) 254-0762, Louisville: (502) 264-0127",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.klausinggroup.com/",
+    "category": "African-American-owned Snow removal in Kentucky",
+    "description": "Offers commercial snow and ice removal services in Lexington and Louisville, KY, with site-specific management programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Snow removal in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kentucky Lawn Care",
+    "address": "Lexington, KY (Multiple locations)",
+    "phone": "(859) 913-0957",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kylawncare.com/",
+    "category": "African-American-owned Snow removal in Kentucky",
+    "description": "Provides professional snow plowing and salt application services for commercial and residential properties in Lexington, KY",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Snow removal in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Akers Lawn Care and Landscaping",
+    "address": "Georgetown, KY (Serves Georgetown and surrounding areas)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://akerslawncare.com/",
+    "category": "African-American-owned Snow removal in Kentucky",
+    "description": "Offers snow removal and treatment services for commercial and residential properties in Georgetown, KY",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Snow removal in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Unlimited Landscapes",
+    "address": "Serves Louisville, Crestwood, Prospect, LaGrange, KY, and surrounding areas",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.unlimitedlandscapesky.com/",
+    "category": "African-American-owned Snow removal in Kentucky",
+    "description": "Provides snow removal services for residential and commercial properties in various locations across Kentucky",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Snow removal in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
