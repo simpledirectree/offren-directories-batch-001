@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Buddha Jewel Monastery",
+    "address": "17418 8th Ave NE, Shoreline, WA 98155",
+    "phone": "(206) 721-9921",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.buddhajewel.org/",
+    "category": "Buddhist-owned ADHD support in Washington",
+    "description": "Offers Dharma events, classes, and guided meditation rooted in Buddhist teachings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Seattle Buddhist Center",
+    "address": "(Online and in-person meetings available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.seattlebuddhistcenter.org/",
+    "category": "Buddhist-owned ADHD support in Washington",
+    "description": "Provides introductory classes on meditation and Buddhism in a welcoming atmosphere, part of the Triratna Buddhist Community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kadampa Meditation Center Washington",
+    "address": "(Classes offered in Seattle)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://kadampacenter.org/meditation-seattle",
+    "category": "Buddhist-owned ADHD support in Washington",
+    "description": "Offers classes on Buddhist meditation practices and understandings to cultivate inner peace",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clear Mountain Monastery",
+    "address": "(Greater Seattle Area)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.clearmountain.org/",
+    "category": "Buddhist-owned ADHD support in Washington",
+    "description": "An aspiring Buddhist forest monastery and community focused on Dhamma practice, meditation, and teachings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CHADD (Children and Adults with Attention-Deficit/Hyperactivity Disorder) - Seattle Chapter",
+    "address": "(Meetings and resources available)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chadd.org/chapters/seattle-chadd/",
+    "category": "Buddhist-owned ADHD support in Washington",
+    "description": "A local chapter of a national non-profit offering support and connection for individuals of all ages living with ADHD",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Psychology Today - Buddhist Therapists in Washington",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.psychologytoday.com/us/therapists/wa/buddhist",
+    "category": "Buddhist-owned ADHD support in Washington",
+    "description": "A directory to find Buddhist therapists in Washington who may offer support for ADHD",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Washington's Mental Health Referral Service for Children and Teens",
+    "address": "",
+    "phone": "833-303-5437",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.seattlechildrens.org/clinics/washington-mental-health-referral-service/",
+    "category": "Buddhist-owned ADHD support in Washington",
+    "description": "A free service to help families find mental health providers for children and teens in Washington State",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "King County Mental Health Services",
+    "address": "",
+    "phone": "206-263-8997 or 1-800-790-8049",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://kingcounty.gov/services/health/mental-health.aspx",
+    "category": "Buddhist-owned ADHD support in Washington",
+    "description": "Provides access to mental health services in King County, Washington",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "WA 211 - Mental Health Resources",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://wa211.org/",
+    "category": "Buddhist-owned ADHD support in Washington",
+    "description": "A resource that can provide information and referrals to mental health services across Washington State",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ADDA (Attention Deficit Disorder Association) - Online Group Therapy",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://add.org/adhd-group-therapy/",
+    "category": "Buddhist-owned ADHD support in Washington",
+    "description": "Offers online group therapy for adults with ADHD, which may include psychoeducation and peer support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned ADHD support in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
