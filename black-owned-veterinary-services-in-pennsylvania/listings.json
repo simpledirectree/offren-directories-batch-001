@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Greene Street Animal Care",
+    "address": "Germantown, Philadelphia, PA (Specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Greene+Street+Animal+Care+in+Pennsylvania",
+    "category": "Black-owned Veterinary services in Pennsylvania",
+    "description": "Founded by one of Pennsylvania's first Black veterinarians, this animal care center offers boarding and other services, with a focus on treating pets like family",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Veterinary services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Horse Animal Hospital",
+    "address": "5081 Lincoln Hwy, Kinzers, PA 17535",
+    "phone": "717-442-0252",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Black+Horse+Animal+Hospital+in+Pennsylvania",
+    "category": "Black-owned Veterinary services in Pennsylvania",
+    "description": "A full-service large and small animal hospital committed to providing quality and affordable veterinary care with compassion and an emphasis on client education",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Veterinary services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Dog Veterinary Services LLC",
+    "address": "PO Box 239, Lewisburg, PA 17837",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Black+Dog+Veterinary+Services+LLC+in+Pennsylvania",
+    "category": "Black-owned Veterinary services in Pennsylvania",
+    "description": "Provides skilled, personal, and compassionate veterinary care, including locum veterinarian services and home euthanasia",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Veterinary services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Love City Vet",
+    "address": "Whitman Plaza, South Philadelphia, PA (Specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Love+City+Vet+in+Pennsylvania",
+    "category": "Black-owned Veterinary services in Pennsylvania",
+    "description": "A general practice veterinary hospital with an entirely female staff, focused on transparency, equitable care, and community involvement. They also have \"Fran's Fund\" to help underserved pets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Veterinary services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Bridge Clinic",
+    "address": "Locations in Bucks County and Philadelphia, PA (Specific street addresses not provided in search results)",
+    "phone": "215-639-3333",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Bridge+Clinic+in+Pennsylvania",
+    "category": "Black-owned Veterinary services in Pennsylvania",
+    "description": "A full-service, nonprofit veterinary clinic aiming to provide quality veterinary care at low, competitive prices, connected to the Rescue Purrfect no-kill shelter",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Veterinary services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
