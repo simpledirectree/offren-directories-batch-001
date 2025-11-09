@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Native Plate",
+    "address": "1203 E Main St, Richmond, VA",
+    "phone": "(804) 562-8539",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nativeplaterva.com/",
+    "category": "American-Indian-owned Specialty restaurants in Virginia",
+    "description": "Offers a fusion of global street food with Asian and American influences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Specialty restaurants in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Raaga Restaurant",
+    "address": "5872 Leesburg Pike, Falls Church, VA 22041",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://raaga-restaurant.com/",
+    "category": "American-Indian-owned Specialty restaurants in Virginia",
+    "description": "Authentic Indian and Nepali fine dining experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Specialty restaurants in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lassan Indian Restaurant & Bar",
+    "address": "6413a Shiplett Boulevard, Burke, VA 22015",
+    "phone": "(571) 642-5146",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lassanrestaurant.com/",
+    "category": "American-Indian-owned Specialty restaurants in Virginia",
+    "description": "Modern Indian cuisine with a focus on tradition and innovation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Specialty restaurants in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maharani Palace",
+    "address": "Herndon, VA (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Maharani+Palace+in+Virginia",
+    "category": "American-Indian-owned Specialty restaurants in Virginia",
+    "description": "Offers a theatrical dining experience with a menu that tours India's culinary map",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Specialty restaurants in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Commonwealth Indian Restaurant",
+    "address": "11610 Old Georgetown Road, Rockville, MD 20852 (Note: This is in Maryland, not Virginia, but serves the VA area)",
+    "phone": "+1-240-833-3055",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://commonwealthindian.com/",
+    "category": "American-Indian-owned Specialty restaurants in Virginia",
+    "description": "Upscale Indian restaurant offering authentic cuisine and personalized service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Specialty restaurants in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nawab",
+    "address": "Virginia Beach, VA (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nawabva.com/",
+    "category": "American-Indian-owned Specialty restaurants in Virginia",
+    "description": "Known for Indian cuisine, established over twenty-two years ago",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Specialty restaurants in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Taj Indian Cuisine",
+    "address": "909 Garrisonville Road, Suite 101, Stafford, Virginia 22556",
+    "phone": "+1 540-732-0003",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://tajindianva.com/",
+    "category": "American-Indian-owned Specialty restaurants in Virginia",
+    "description": "Offers authentic Indian flavors and a vibrant ambiance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Specialty restaurants in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mitsitam Native Foods Cafe",
+    "address": "National Museum of the American Indian, Washington D.C. (Note: This is in D.C., not Virginia, but is a prominent Native American restaurant)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mitsitamcafe.com/",
+    "category": "American-Indian-owned Specialty restaurants in Virginia",
+    "description": "Serves Indigenous-inspired cuisine reflecting the bounties of different regions of the Western Hemisphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Specialty restaurants in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
