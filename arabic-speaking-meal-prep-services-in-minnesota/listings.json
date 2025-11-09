@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Filfillah Mediterranean Grill",
+    "address": "4301 Central Ave NE, Columbia Heights, MN 55421",
+    "phone": "+1 763-781-2222",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://filfillah.com/",
+    "category": "Arabic-speaking Meal prep services in Minnesota",
+    "description": "Offers a variety of Middle Eastern and Mediterranean dishes, including kebabs, shawarma, and falafel. They also offer catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Meal prep services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Holy Land Brand",
+    "address": "2212 University Ave NE, Minneapolis, MN 55418 (This is a grocery store location, but they also have a restaurant and catering)",
+    "phone": "(612) 331-2327",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.holylandbrand.com/",
+    "category": "Arabic-speaking Meal prep services in Minnesota",
+    "description": "Offers authentic Mediterranean, Arabic, and Middle Eastern food, including gyros, falafel, and kebabs. They have a grocery, restaurant, and catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Meal prep services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dervish Mazza",
+    "address": "N/A (Online service)",
+    "phone": "(800) 240-3572",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thehalalmealprep.com/",
+    "category": "Arabic-speaking Meal prep services in Minnesota",
+    "description": "Offers 100% Halal meal prep and delivery with a variety of meal plans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Meal prep services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MightyMeals",
+    "address": "N/A (Online service)",
+    "phone": "571-497-5518",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.greenchef.com/",
+    "category": "Arabic-speaking Meal prep services in Minnesota",
+    "description": "Offers meal kits for various diets, including a Mediterranean diet plan, with organic produce and premium proteins",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Meal prep services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
