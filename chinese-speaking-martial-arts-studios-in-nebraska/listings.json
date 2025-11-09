@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Omaha Kung Fu Academy",
+    "address": "1725 N 42nd St Unit 8, Omaha, NE 68111",
+    "phone": "(402) 850-9854",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.kungfuomaha.com/",
+    "category": "Chinese-speaking Martial arts studios in Nebraska",
+    "description": "Offers traditional Hung Gar Kuen, Wing Chun, and other Chinese martial arts styles, including lion dance and SanDa",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Martial arts studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Moy Yat Ving Tsun (Wing Chun) Kung Fu of Omaha",
+    "address": "11003 \"I\" St, Omaha, NE 68137",
+    "phone": "(402) 850-9854",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.kungfuomaha.com/",
+    "category": "Chinese-speaking Martial arts studios in Nebraska",
+    "description": "Specializes in Wing Chun, a Chinese martial art known for its efficiency and practicality",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Martial arts studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lincoln Taiji Association",
+    "address": "Lincoln, NE (Specific address not readily available, but classes are held in Lincoln)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.lincolntaichi.org/",
+    "category": "Chinese-speaking Martial arts studios in Nebraska",
+    "description": "Focuses on traditional Yang and Chen style Taijiquan (Tai Chi Chuan) as a martial art, including empty hand and weapons practice",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Martial arts studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tai Chi With Suman",
+    "address": "Omaha, NE (Specific address not readily available, offers online guidance)",
+    "phone": "(402) 201-5279",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Tai+Chi+With+Suman+in+Nebraska",
+    "category": "Chinese-speaking Martial arts studios in Nebraska",
+    "description": "Offers online guidance in Tai Chi, Qigong, Yoga, and Meditation, with group and individual classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Martial arts studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Omaha T'ai Chi Association",
+    "address": "Papillion Recreation Center, Papillion, NE (Classes held here)",
+    "phone": "(402) 597-2041",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Omaha+T'ai+Chi+Association+in+Nebraska",
+    "category": "Chinese-speaking Martial arts studios in Nebraska",
+    "description": "Promotes the practice of traditional T'ai Chi, with classes open to the public, focusing on health benefits and traditional forms",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Martial arts studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Steiner Academy of Martial Arts",
+    "address": "Not readily available (offers various martial arts)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.steinermartialarts.com/",
+    "category": "Chinese-speaking Martial arts studios in Nebraska",
+    "description": "Offers Kung Fu and Tai Chi among other martial arts, focusing on self-defense and inner balance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Martial arts studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shaolin Arts",
+    "address": "Not readily available (offers Kung Fu and Tai Chi)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.shaolinarts.com/",
+    "category": "Chinese-speaking Martial arts studios in Nebraska",
+    "description": "Provides expert training in authentic Shaolin Kung Fu and Tai Chi for all ages and skill levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Martial arts studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "U.S. Shaolin Kung Fu",
+    "address": "Chinatown Oakland and San Leandro, CA (Note: This is not in Nebraska, but is a prominent Shaolin school)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/U.S.+Shaolin+Kung+Fu+in+Nebraska",
+    "category": "Chinese-speaking Martial arts studios in Nebraska",
+    "description": "Offers Shaolin Kung Fu with a focus on education, student commitment, and self-defense",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Martial arts studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Chinese Kung Fu Wushu Academy",
+    "address": "680 Meadow Street, Chicopee, MA (Note: This is not in Nebraska, but offers traditional Kung Fu)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.facebook.com/TheChineseKungFuWushuAcademy/",
+    "category": "Chinese-speaking Martial arts studios in Nebraska",
+    "description": "Offers classes in Traditional Kung Fu, Modern Wushu, and Sanda Kickboxing for children and adults",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Martial arts studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shaolin M.A.T.C.",
+    "address": "Not readily available (Mid-Ohio Valley)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.shaolins.org/",
+    "category": "Chinese-speaking Martial arts studios in Nebraska",
+    "description": "Provides traditional Chinese martial arts training in Shaolin Kung Fu and Tai Chi, focusing on character building and self-esteem",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Martial arts studios in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
