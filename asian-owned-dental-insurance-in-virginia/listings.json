@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Anthem",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Anthem+in+Virginia",
+    "category": "Asian-owned Dental insurance in Virginia",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Dental insurance in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Delta Dental of Virginia",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Delta+Dental+of+Virginia+in+Virginia",
+    "category": "Asian-owned Dental insurance in Virginia",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Dental insurance in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Humana",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Humana+in+Virginia",
+    "category": "Asian-owned Dental insurance in Virginia",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Dental insurance in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Spirit Dental & Vision",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Spirit+Dental+&+Vision+in+Virginia",
+    "category": "Asian-owned Dental insurance in Virginia",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Dental insurance in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
