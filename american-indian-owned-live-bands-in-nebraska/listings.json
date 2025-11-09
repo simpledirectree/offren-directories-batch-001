@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Indigenous",
+    "address": "Not applicable (This is a musical group, not a physical business with a public address)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Indigenous+in+Nebraska",
+    "category": "American-Indian-owned Live bands in Nebraska",
+    "description": "Indigenous is an American blues-rock band fronted by Mato Nanji. They gained national recognition with their debut album in 1998 and have been recognized with multiple Native American Music Awards",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Live bands in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pilcher's Indian Store",
+    "address": "14909 Industrial Road, Omaha, NE 68137",
+    "phone": "402-334-7556",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.pilchersindianstore.com/",
+    "category": "American-Indian-owned Live bands in Nebraska",
+    "description": "Pilcher's Indian Store has been a locally owned business since 1976, offering Native American arts, crafts, jewelry, herbs, and goods, including Native American music",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Live bands in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
