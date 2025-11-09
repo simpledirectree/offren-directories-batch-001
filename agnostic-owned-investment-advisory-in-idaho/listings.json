@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Caprock Group",
+    "address": "800 West Main St, Boise, ID",
+    "phone": "(208) 364-2000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.caprock.com/",
+    "category": "Agnostic-owned Investment advisory in Idaho",
+    "description": "Offers private wealth management, family office, and consulting services for high-net-worth individuals and families",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Investment advisory in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mariner Wealth Advisors",
+    "address": "950 W Bannock St, Boise, ID 83702",
+    "phone": "(208) 338-5500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.marinerwealthadvisors.com/locations/boise-id/",
+    "category": "Agnostic-owned Investment advisory in Idaho",
+    "description": "Provides personalized financial plans, investment management, estate planning, tax planning, and business services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Investment advisory in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EP Wealth",
+    "address": "802 W. Bannock St. Suite #100, Boise, ID 83702",
+    "phone": "(208) 338-5500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.epwealth.com/boise-id/",
+    "category": "Agnostic-owned Investment advisory in Idaho",
+    "description": "Offers customized investment portfolio management, retirement planning, legacy and estate planning, and tax planning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Investment advisory in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wells Fargo Advisors",
+    "address": "Multiple locations in Boise, ID",
+    "phone": "(208) 338-5500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wellsfargoadvisors.com/locations/boise-id/",
+    "category": "Agnostic-owned Investment advisory in Idaho",
+    "description": "Provides financial advice and wealth planning services, focusing on individual situations, goals, and priorities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Investment advisory in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mercer Advisors",
+    "address": "Multiple locations in Idaho, including Coeur d'Alene",
+    "phone": "(208) 665-2565 (Coeur d'Alene)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.merceradvisors.com/locations/idaho",
+    "category": "Agnostic-owned Investment advisory in Idaho",
+    "description": "Offers comprehensive wealth management through a family office-like structure, integrating financial planning, investment management, tax, and estate planning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Investment advisory in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Creative Planning",
+    "address": "Coeur d'Alene Area, ID",
+    "phone": "866-909-5148 (Client Services)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.creativeplanning.com/locations/coeur-dalene-id/",
+    "category": "Agnostic-owned Investment advisory in Idaho",
+    "description": "Provides comprehensive, customized wealth management services including investment management, tax preparation, and estate planning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Investment advisory in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "McConnell Financial Advisors",
+    "address": "Boise, ID",
+    "phone": "(208) 331-1456",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mcconnellfa.com/",
+    "category": "Agnostic-owned Investment advisory in Idaho",
+    "description": "A boutique financial planning firm offering comprehensive financial planning and management services with a \"Life By Design\" approach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Investment advisory in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Edward Jones",
+    "address": "Multiple locations in Boise, ID",
+    "phone": "(208) 331-1456 (Corey Shaw)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.edwardjones.com/us/financial-advisor/idaho/boise",
+    "category": "Agnostic-owned Investment advisory in Idaho",
+    "description": "Offers financial advisory services to help clients achieve their financial goals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Investment advisory in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clearwater Advisors",
+    "address": "Downtown Boise, Idaho",
+    "phone": "(208) 331-1456",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://clearwateradvisors.com/",
+    "category": "Agnostic-owned Investment advisory in Idaho",
+    "description": "Provides investment management with a focus on transparency, clear communication, and integrity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Investment advisory in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "White Pine Wealth",
+    "address": "Hayden, ID",
+    "phone": "(208) 772-0500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://whitepinewealth.com/",
+    "category": "Agnostic-owned Investment advisory in Idaho",
+    "description": "A locally owned firm offering financial advisory services, retirement plans, and consulting for individuals and businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Investment advisory in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
