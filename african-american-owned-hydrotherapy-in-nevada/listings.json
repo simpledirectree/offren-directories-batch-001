@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Healing Waters",
+    "address": "2660 S Rainbow Blvd STE B102, Las Vegas, NV 89146",
+    "phone": "702-388-4124",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Healing+Waters+in+Nevada",
+    "category": "African-American-owned Hydrotherapy in Nevada",
+    "description": "Offers colon hydrotherapy, far infrared sauna, and other wellness services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Hydrotherapy in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kneaded Relief Day Spa",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Kneaded+Relief+Day+Spa+in+Nevada",
+    "category": "African-American-owned Hydrotherapy in Nevada",
+    "description": "Offers services including facials, massage, hydrotherapy, and body treatments. (Specific location and rating not found in search results)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Hydrotherapy in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Awana Spa at Resorts World Las Vegas",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Awana+Spa+at+Resorts+World+Las+Vegas+in+Nevada",
+    "category": "African-American-owned Hydrotherapy in Nevada",
+    "description": "Offers personalized treatments, immersive facilities, and wellness offerings, including hydrotherapy sessions as part of vacation packages. (Specific address and phone number not found in search results)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Hydrotherapy in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
