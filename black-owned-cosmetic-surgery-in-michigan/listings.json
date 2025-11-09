@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Williams Eye Specialty Clinic",
+    "address": "29000 Northwestern Hwy Ste 100, Southfield, MI 48034",
+    "phone": "(248) 737-1000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://williamseyespecialtyclinic.com/",
+    "category": "Black-owned Cosmetic surgery in Michigan",
+    "description": "Dr. Victoria Williams is Michigan's only African American oculoplastic surgeon, specializing in both medical and cosmetic eye care, including lid lifts, Botox, and fillers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cosmetic surgery in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Noir Medspa",
+    "address": "310 E Maple Rd, Troy, MI 48083",
+    "phone": "(248) 652-5000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.noir-medspa.com/",
+    "category": "Black-owned Cosmetic surgery in Michigan",
+    "description": "Noir Medspa offers medical weight loss, chemical peels, PDO threads, Botox, and fillers, aiming to provide personalized and luxurious wellness experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cosmetic surgery in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Michelle Hardaway, MD",
+    "address": "30000 Northwestern Hwy, Farmington Hills, MI 48334",
+    "phone": "(248) 780-0558",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.michellehardawaymd.com/",
+    "category": "Black-owned Cosmetic surgery in Michigan",
+    "description": "Dr. Michelle Hardaway is a board-certified plastic surgeon with over three decades of experience, specializing in cosmetic surgery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cosmetic surgery in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ali Plastic Surgery & AMAE Med Spa",
+    "address": "20000 W 13 Mile Rd, Ste 102, Southfield, MI 48076",
+    "phone": "(248) 351-0020",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.alifacialsurgery.com/",
+    "category": "Black-owned Cosmetic surgery in Michigan",
+    "description": "Dr. M. Azhar Ali offers a wide range of cosmetic surgeries and non-invasive aesthetic treatments, including breast enhancement, tummy tucks, liposuction, and facelifts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cosmetic surgery in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Truly You Med Spa",
+    "address": "102 N Main St, Lake City, MI 49651",
+    "phone": "(231) 468-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.trulyyoumedspa.com/",
+    "category": "Black-owned Cosmetic surgery in Michigan",
+    "description": "Truly You Med Spa provides cosmetic procedures and aesthetic treatments, with a focus on personalized care and advanced techniques",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cosmetic surgery in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ann Arbor Plastic Surgery",
+    "address": "4200 Washtenaw Ave, Ann Arbor, MI 48104",
+    "phone": "(734) 436-4100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aapsmi.com/",
+    "category": "Black-owned Cosmetic surgery in Michigan",
+    "description": "Ann Arbor Plastic Surgery, with Dr. Pramit Malhotra and Dr. Tiffany Ballard, offers cosmetic surgery and non-surgical treatments, focusing on natural-looking results",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cosmetic surgery in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Straith Clinic",
+    "address": "24000 Greenfield Rd, Southfield, MI 48075",
+    "phone": "(248) 504-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://straithclinic.com/",
+    "category": "Black-owned Cosmetic surgery in Michigan",
+    "description": "Straith Clinic is a leading plastic surgery clinic offering a safe and comfortable environment for cosmetic procedures, with a focus on quality care and optimal results",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cosmetic surgery in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Adorn Medical Spa",
+    "address": "21000 Michigan Ave, Dearborn, MI 48124",
+    "phone": "(313) 438-5159",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://adornmedspa.com/",
+    "category": "Black-owned Cosmetic surgery in Michigan",
+    "description": "Adorn Medical Spa focuses on aesthetics and wellness technology, offering a range of services including injectables, skin treatments, and body contouring",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cosmetic surgery in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aurora Medi Spa",
+    "address": "101 N Old Woodward Ave, Birmingham, MI 48009",
+    "phone": "(248) 480-0120",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://auroramedispa.com/",
+    "category": "Black-owned Cosmetic surgery in Michigan",
+    "description": "Aurora Medi Spa offers a variety of aesthetic treatments, including skincare, injectables, laser treatments, body contouring, and plastic surgery, with multiple locations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cosmetic surgery in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Plastic Surgery of Michigan",
+    "address": "44050 W 12 Mile Rd, Ste 100, Novi, MI 48377",
+    "phone": "(248) 773-7770",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.plasticsurgeryofmichigan.com/",
+    "category": "Black-owned Cosmetic surgery in Michigan",
+    "description": "Dr. Andrew Lofman, a board-certified plastic surgeon, offers cosmetic and reconstructive surgery, as well as non-surgical treatments at their medspa, Pure Aesthetics of Michigan",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cosmetic surgery in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
