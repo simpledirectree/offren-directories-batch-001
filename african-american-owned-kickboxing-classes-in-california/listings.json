@@ -1,0 +1,19 @@
+[
+  {
+    "name": "The Cardio Grind",
+    "address": "18529 Burbank Blvd, Tarzana, CA 91356",
+    "phone": "(818) 705-7500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thecardiogrind.com/",
+    "category": "African-American-owned Kickboxing classes in California",
+    "description": "This studio offers cardio, kickboxing, and strength training with high-energy workouts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Kickboxing classes in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
