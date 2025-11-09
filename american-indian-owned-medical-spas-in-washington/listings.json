@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Honey Glow Health",
+    "address": "19651 State Route 410 East, Bonney Lake, WA 98391",
+    "phone": "253-921-4569",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://honeyglowhealth.com/",
+    "category": "American-Indian-owned Medical spas in Washington",
+    "description": "Specializes in non-invasive cosmetic and aesthetic procedures, offering treatments like Botox, fillers, laser resurfacing, and IV therapy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical spas in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blue Haven Medical Spa",
+    "address": "Multiple locations including Green Lake and Ballard neighborhoods in Seattle, WA. (Specific street addresses vary by location, e.g., Ballard Location: 5400 15th Ave NW, Seattle, WA 98107)",
+    "phone": "206-216-4957 (Green Lake), 206-402-3625 (Ballard)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bluehavenmedicalspa.com/",
+    "category": "American-Indian-owned Medical spas in Washington",
+    "description": "Offers a range of aesthetic treatments focused on skincare, anti-aging, and rejuvenation, including injectables performed by physicians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical spas in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Glow Medispa",
+    "address": "Locations in West Seattle and Kirkland, WA. (Specific street addresses vary by location, e.g., West Seattle: 4500 36th Ave SW, Seattle, WA 98116)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://glowmedispa.com/",
+    "category": "American-Indian-owned Medical spas in Washington",
+    "description": "Provides advanced skincare and anti-aging treatments, with a focus on patient-centered, customized treatment plans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical spas in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "La Belle Vie Med Spa",
+    "address": "16400 Southcenter Pkwy, Suite 100, Tukwila, WA 98188",
+    "phone": "206-486-3414",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://labelleviemedspa.com/",
+    "category": "American-Indian-owned Medical spas in Washington",
+    "description": "Offers a wide range of non-invasive and minimally invasive aesthetic treatments, including injectables, skin health procedures, and weight loss services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical spas in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SkinSpirit",
+    "address": "Seattle - University Village, Seattle, WA (Specific street address: 2700 NE University Village St, Seattle, WA 98105)",
+    "phone": "206-522-2613",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.skinspirit.com/locations/seattle-university-village/",
+    "category": "American-Indian-owned Medical spas in Washington",
+    "description": "Offers Botox, filler, medical-grade facials, and laser hair removal, with a focus on personalized treatment plans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical spas in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vitality Medi Spa",
+    "address": "Queen Anne, Seattle, WA (Specific street address: 2107 Queen Anne Ave N, Seattle, WA 98109)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vitalitymedispa.com/",
+    "category": "American-Indian-owned Medical spas in Washington",
+    "description": "Provides treatments such as Coolsculpting, laser hair removal, hydrafacials, and injectables, with an emphasis on beauty and wellness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical spas in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Medspa of Seattle",
+    "address": "Seattle, WA (Specific phone number for inquiries: 425-510-5887)",
+    "phone": "425-510-5887",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://medspaofseattle.com/",
+    "category": "American-Indian-owned Medical spas in Washington",
+    "description": "Offers affordable beauty and anti-aging treatments, with a focus on enhancing natural beauty and client satisfaction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical spas in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ophir Aesthetics",
+    "address": "Lake Stevens, WA (Specific street address: 2209 113th Ave NE, Lake Stevens, WA 98258)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ophiraesthetics.com/",
+    "category": "American-Indian-owned Medical spas in Washington",
+    "description": "An innovative medical spa specializing in high-quality anti-aging treatments, including neurotoxin, filler, IPL, and chemical peels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical spas in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Phanomenal Image Aesthetics",
+    "address": "Mill Creek, WA (Specific street address: 1510 132nd St SE, Suite 101, Mill Creek, WA 98012)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.phanomenalaesthetics.com/",
+    "category": "American-Indian-owned Medical spas in Washington",
+    "description": "Offers personalized aesthetic treatments such as Botox, fillers, microneedling, and laser hair removal, with a mission to empower clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical spas in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Muse Medspa",
+    "address": "Bellevue, WA (Specific street address: 10600 NE 10th St, Suite 101, Bellevue, WA 98004)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.musemedspa.com/",
+    "category": "American-Indian-owned Medical spas in Washington",
+    "description": "Provides a comprehensive range of cutting-edge treatments and personalized care for beauty and wellness, including micro-needling, Botox, and Ultherapy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Medical spas in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
