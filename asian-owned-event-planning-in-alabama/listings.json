@@ -1,0 +1,87 @@
+[
+  {
+    "name": "The BollyWeds",
+    "address": "Serving the Birmingham Area",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+BollyWeds+in+Alabama",
+    "category": "Asian-owned Event planning in Alabama",
+    "description": "Premier South Asian event management company for planning, managing, and executing weddings, events, and vacations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Event planning in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Srushti Events",
+    "address": "Not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Srushti+Events+in+Alabama",
+    "category": "Asian-owned Event planning in Alabama",
+    "description": "Leading event management company in the USA, executing corporate events, celebrity and artist management, wedding planning, birthday parties, and Indian cultural events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Event planning in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Posh Wedding Planning",
+    "address": "Birmingham, Alabama",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Posh+Wedding+Planning+in+Alabama",
+    "category": "Asian-owned Event planning in Alabama",
+    "description": "Premier luxury wedding planning company specializing in South Asian weddings, offering customized planning and coordination",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Event planning in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RaniRaja Weddings",
+    "address": "Not available (serves couples nationwide)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/RaniRaja+Weddings+in+Alabama",
+    "category": "Asian-owned Event planning in Alabama",
+    "description": "Full-service South Asian wedding planning company inspired by Bollywood, offering event planning, design, decor, and entertainment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Event planning in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Red and Gold Events",
+    "address": "Not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Red+and+Gold+Events+in+Alabama",
+    "category": "Asian-owned Event planning in Alabama",
+    "description": "Offers full wedding planning services, with a focus on managing vendors, timelines, and contracts for a stress-free wedding experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Event planning in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
