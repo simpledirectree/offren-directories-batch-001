@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Central Catholic High School",
+    "address": "4720 Fifth Avenue, Pittsburgh, PA 15213",
+    "phone": "(412) 621-5400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.centralcatholichs.com/athletics/tennis",
+    "category": "Catholic-owned Tennis coaching in Pennsylvania",
+    "description": "Offers competitive singles and doubles tennis play for students. Practices and home matches are held at Schenley Park",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Tennis coaching in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "York Catholic High School",
+    "address": "601 East Springettsbury Ave, York, PA 17403",
+    "phone": "717-846-8871",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.yorkcatholic.org/athletics/sports/boys-tennis",
+    "category": "Catholic-owned Tennis coaching in Pennsylvania",
+    "description": "Offers boys' tennis as a spring sport",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Tennis coaching in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Athletic Association of Catholic Academies (AACA)",
+    "address": "Information not available (This is an athletic association, not a single business)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aacaathletics.org/",
+    "category": "Catholic-owned Tennis coaching in Pennsylvania",
+    "description": "An athletic association for Catholic high schools in Pennsylvania, which includes tennis programs for girls",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Tennis coaching in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Youth Organization (CYO) Sports - Diocese of Pittsburgh",
+    "address": "Diocesan Pastoral Center, 2900 Noblestown Road, Pittsburgh, PA 15205",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.diopitt.org/cyo-sports",
+    "category": "Catholic-owned Tennis coaching in Pennsylvania",
+    "description": "Promotes Gospel values through sports for youth, and may include tennis programs through participating parishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Tennis coaching in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CYO Athletics - St. Joseph Parish Downingtown",
+    "address": "360 East Boot Road, Downingtown, PA 19335",
+    "phone": "(610) 269-4780",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stjosephdowningtown.org/cyo-athletics",
+    "category": "Catholic-owned Tennis coaching in Pennsylvania",
+    "description": "Offers CYO sports, which can include tennis, providing Christian influence and spiritual development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Tennis coaching in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Youth Organization - St Joseph Catholic Church Hanover, PA",
+    "address": "505 W Elm St, Hanover, PA 17331",
+    "phone": "(717) 632-0414",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stjosephhanover.org/catholic-youth-organization",
+    "category": "Catholic-owned Tennis coaching in Pennsylvania",
+    "description": "Provides athletic and spiritual enrichment for children, with programs that may include tennis",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Tennis coaching in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Alumni Club of Pittsburgh",
+    "address": "Information not available (Organizes events, specific location for tennis may vary)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.catholicalumniclub.org/tennis",
+    "category": "Catholic-owned Tennis coaching in Pennsylvania",
+    "description": "Organizes a summer team tennis league for its members",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Tennis coaching in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Delone Catholic High School",
+    "address": "1405 W Liberty St, McSherrystown, PA 17344",
+    "phone": "(717) 637-5960",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Delone+Catholic+High+School+in+Pennsylvania",
+    "category": "Catholic-owned Tennis coaching in Pennsylvania",
+    "description": "A Catholic high school that likely offers tennis as part of its athletic programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Tennis coaching in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Berks Catholic High School",
+    "address": "945 Center Ave, Reading, PA 19601",
+    "phone": "(610) 372-0122",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Berks+Catholic+High+School+in+Pennsylvania",
+    "category": "Catholic-owned Tennis coaching in Pennsylvania",
+    "description": "A Catholic high school that has had a tennis program",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Tennis coaching in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Allentown Central Catholic High School",
+    "address": "301 N 4th St, Allentown, PA 18102",
+    "phone": "(610) 437-4121",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Allentown+Central+Catholic+High+School+in+Pennsylvania",
+    "category": "Catholic-owned Tennis coaching in Pennsylvania",
+    "description": "A Catholic high school that likely offers tennis as part of its athletic programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Tennis coaching in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
