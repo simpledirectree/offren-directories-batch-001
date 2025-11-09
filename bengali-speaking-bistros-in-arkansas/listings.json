@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Khana Indian Grill",
+    "address": "104 E Dickson St, Fayetteville, AR 72701",
+    "phone": "(479) 301-4410",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.khanaindiangrill.com/",
+    "category": "Bengali-speaking Bistros in Arkansas",
+    "description": "Offers a modern take on Indian cooking with a lean menu featuring snacks, rice dishes, rolls, and combo plates. They specifically mention \"Bengali Shrimp\" on their menu",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Bistros in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bay Leaf Indian Cuisine",
+    "address": "8640 Rogers Ave, Fort Smith, AR 72903",
+    "phone": "(479) 789-9526",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://bayleaffortsmith.com/",
+    "category": "Bengali-speaking Bistros in Arkansas",
+    "description": "Offers a fusion of Indian and Indo-Chinese cuisine, aiming to exceed expectations with fine cuisine and exceptional service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Bistros in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Isha The Taste of India",
+    "address": "1400 Military Road, Benton, AR 72015",
+    "phone": "(501) 794-6084",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.ishathetasteofindia.com/",
+    "category": "Bengali-speaking Bistros in Arkansas",
+    "description": "Serves freshly prepared Indian delicacies with authentic spices and traditional cooking methods",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Bistros in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Taj Mahal",
+    "address": "12700 Chenal Pkwy, Little Rock, AR 72211",
+    "phone": "(501) 224-7000",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.tajmaharindianlr.com/",
+    "category": "Bengali-speaking Bistros in Arkansas",
+    "description": "A locally owned and operated restaurant serving fresh and delicious Indian dishes, aiming to provide an amazing experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Bistros in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Curry House Indian Kitchen",
+    "address": "9700 N Rodney Parham Rd, Little Rock, AR 72207",
+    "phone": "(501) 224-7000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://curryhouseindiankitchen.com/",
+    "category": "Bengali-speaking Bistros in Arkansas",
+    "description": "Known for authentic Indian cuisine with flavorful dishes like butter chicken, lamb vindaloo, and garlic naan, offering a cozy ambiance and friendly service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Bistros in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BananaLeaf Indian Cuisine",
+    "address": "11121 N Rodney Parham Rd Suite 104, Little Rock, AR 72212",
+    "phone": "(501) 224-7000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://bananaleafindiancuisine.com/",
+    "category": "Bengali-speaking Bistros in Arkansas",
+    "description": "Offers a variety of Indian dishes, including chicken tikka masala, chicken briyani, and spicy chicken vindaloo",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Bistros in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bawarchi Biryanis",
+    "address": "11121 N Rodney Parham Rd Suite 104, Little Rock, AR 72212",
+    "phone": "(501) 224-7000",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://bawarchibiryanislr.com/",
+    "category": "Bengali-speaking Bistros in Arkansas",
+    "description": "Focuses on authentic Hyderabadi Biryani and other Indian cuisine, with a passion for customer service and high-quality food",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Bistros in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
