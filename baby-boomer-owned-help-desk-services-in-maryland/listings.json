@@ -1,0 +1,172 @@
+[
+  {
+    "name": "designDATA",
+    "address": "Gaithersburg, MD",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.designdata.com/",
+    "category": "Baby-Boomer-owned Help desk services in Maryland",
+    "description": "Offers comprehensive IT support and training solutions, including outsourced IT management and help desk services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Help desk services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "B/Net Systems",
+    "address": "Annapolis, MD",
+    "phone": "",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.bnet-systems.com/",
+    "category": "Baby-Boomer-owned Help desk services in Maryland",
+    "description": "Specializes in Managed IT Services, offering outsourced IT support and management solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Help desk services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cloudforce",
+    "address": "Oxon Hill, MD",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.cloudforce.io/",
+    "category": "Baby-Boomer-owned Help desk services in Maryland",
+    "description": "An IT Managed Services provider specializing in IT Management and Support Services, known for rapid resolution of complex IT challenges",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Help desk services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sthenos Technologies",
+    "address": "Rockville, MD",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://sthenostech.com/",
+    "category": "Baby-Boomer-owned Help desk services in Maryland",
+    "description": "Provides IT managed services and support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Help desk services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Integris",
+    "address": "Owings Mills, MD",
+    "phone": "",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://integritsi.com/",
+    "category": "Baby-Boomer-owned Help desk services in Maryland",
+    "description": "Offers comprehensive IT management, support services, and cybersecurity for various industries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Help desk services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Corporate Technologies",
+    "address": "Frederick, MD",
+    "phone": "",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.cptech.net/",
+    "category": "Baby-Boomer-owned Help desk services in Maryland",
+    "description": "Provides IT managed services and support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Help desk services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SADOS MSP Inc.",
+    "address": "Frederick, MD",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.sados.com/",
+    "category": "Baby-Boomer-owned Help desk services in Maryland",
+    "description": "A provider of Managed IT Services, excelling in IT Support Services and Outsourced IT Management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Help desk services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "InfoPathways Inc.",
+    "address": "Westminster, MD",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.infopathways.com/",
+    "category": "Baby-Boomer-owned Help desk services in Maryland",
+    "description": "Specializes in IT Management and Support Services, efficient in system migrations and infrastructure upgrades",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Help desk services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Orion Networks",
+    "address": "Maryland, Washington DC, and Virginia (service area)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.orionsolutions.com/",
+    "category": "Baby-Boomer-owned Help desk services in Maryland",
+    "description": "Provides IT support and managed Tech Support for organizations large and small, offering 24/7 help desk support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Help desk services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "OSIbeyond",
+    "address": "Rockville, MD (headquarters)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://osibeyond.com/",
+    "category": "Baby-Boomer-owned Help desk services in Maryland",
+    "description": "Provides industry-leading local IT support and managed IT services, with two decades of experience in Maryland",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Help desk services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
