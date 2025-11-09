@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Homework Alabama",
+    "address": "This is a statewide online service, so there is no single physical address. Services can be accessed from any internet-connected device",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.homeworkalabama.org",
+    "category": "Alaska-Native-owned Homework help in Alabama",
+    "description": "Homework Alabama offers free, one-to-one online tutoring and academic resources from Tutor.com for Alabama residents from kindergarten through college, as well as adult learners. Tutors are available seven days a week from 10 a.m. to 11 p.m. The service also provides drop-off review for math and essays, test preparation, and job search assistance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Homework help in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
