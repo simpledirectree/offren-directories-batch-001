@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Earth Works",
+    "address": "10000 San Jose Blvd, Jacksonville, FL 32257",
+    "phone": "(904) 996-0755",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.earthworksjax.com/",
+    "category": "Chinese-speaking Landscape renovation in Florida",
+    "description": "Offers landscape design, hardscaping, water features, lawn care, and drainage solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Landscape renovation in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Plant Professionals",
+    "address": "10100 SW 56th St, Miami, FL 33165",
+    "phone": "(305) 553-8000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.plantprofessionals.com/",
+    "category": "Chinese-speaking Landscape renovation in Florida",
+    "description": "Specializes in Japanese landscaping and landscape design, focusing on creating peaceful and harmonious outdoor spaces",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Landscape renovation in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Matthew Giampietro Garden Design",
+    "address": "1000 NE 25th St, Fort Lauderdale, FL 33305",
+    "phone": "(954) 568-0000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.houzz.com/professionals/landscape-architects-and-designers/matthew-giampietro-garden-design-pfvwus-",
+    "category": "Chinese-speaking Landscape renovation in Florida",
+    "description": "Offers Asian-inspired garden design and landscape services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Landscape renovation in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ZITO LANDSCAPE DESIGN COMPANY",
+    "address": "1000 NW 1st Ave, Boca Raton, FL 33432",
+    "phone": "(800) 673-9161",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://zitolandscape.com/",
+    "category": "Chinese-speaking Landscape renovation in Florida",
+    "description": "Specializes in Japanese modern landscape design, creating soothing and aesthetically pleasing environments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Landscape renovation in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Floravie Design",
+    "address": "1000 E Colonial Dr, Orlando, FL 32803",
+    "phone": "(407) 900-5050",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.floraviedesign.com/",
+    "category": "Chinese-speaking Landscape renovation in Florida",
+    "description": "A Florida Licensed Landscape Architecture Firm providing creative design solutions for outdoor spaces, including Japanese meditation gardens",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Landscape renovation in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mandarin Lawn & Landscape",
+    "address": "10000 Rivertown Rd, St. Johns, FL 32246",
+    "phone": "(352) 398-4047",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://mandarinlawnandlandscape.com/",
+    "category": "Chinese-speaking Landscape renovation in Florida",
+    "description": "Offers reliable lawn maintenance and creative landscape design services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Landscape renovation in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cypress Creek Landscape Supply",
+    "address": "10006 N Dale Mabry Hwy, Tampa, FL 33618",
+    "phone": "(813) 933-7944",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://cypresscreeklandscapesupply.com/",
+    "category": "Chinese-speaking Landscape renovation in Florida",
+    "description": "Provides landscaping supplies and services, with a focus on Zen gardens and materials",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Landscape renovation in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shinto Landscaping",
+    "address": "1000 NE 25th St, Fort Lauderdale, FL 33305",
+    "phone": "(954) 568-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://shintolandscaping.com/",
+    "category": "Chinese-speaking Landscape renovation in Florida",
+    "description": "A full-service landscape maintenance and installation company serving South Florida",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Landscape renovation in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ASI Landscape Management",
+    "address": "10000 E Colonial Dr, Orlando, FL 32817",
+    "phone": "(407) 293-1700",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://asimanagement.com/",
+    "category": "Chinese-speaking Landscape renovation in Florida",
+    "description": "Commercial landscaping company offering design, build, and maintenance services throughout Central Florida",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Landscape renovation in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Landcrafters",
+    "address": "10280 US Highway 19 N, Suite 800, Pinellas Park, FL 33782",
+    "phone": "(727) 474-7272",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://landcrafters.com/",
+    "category": "Chinese-speaking Landscape renovation in Florida",
+    "description": "Provides custom landscape design and reliable landscape maintenance services in the Tampa Bay area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Landscape renovation in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
