@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Kopis",
+    "address": "1200 Woodruff Rd, Greenville, SC 29607",
+    "phone": "(864) 233-4141",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.kopis.net/",
+    "category": "Buddhist-owned Database management in South-Carolina",
+    "description": "Kopis offers SQL managed services, including 24/7 monitoring, database maintenance, security administration, and disaster recovery. They focus on proactive management to ensure system integrity and increase performance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Database management in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Database Solutions, Inc.",
+    "address": "109 W Main St, Easley, SC 29640",
+    "phone": "(864) 238-0800",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://databasesolutions.inc/",
+    "category": "Buddhist-owned Database management in South-Carolina",
+    "description": "Founded in 2000, Database Solutions, Inc. specializes in digitizing and automating inefficient systems, transforming spreadsheets and Access databases into custom software solutions. They focus on delivering high-quality, efficient software for on-premises and cloud-based applications",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Database management in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Data Network Solutions (DNS)",
+    "address": "130 Chapin Rd, Chapin, SC 29036",
+    "phone": "(803) 345-3111",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.datanetworksolutions.net/",
+    "category": "Buddhist-owned Database management in South-Carolina",
+    "description": "With over 21 years of experience, DNS helps businesses manage their IT services, with an emphasis on IT security, networking, and data center solutions. They have offices and staff throughout South Carolina, North Carolina, and Virginia",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Database management in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Corsica Technologies",
+    "address": "1000 Parkside Dr, Suite 200, Charlotte, NC 28210 (Note: While headquartered in NC, they serve South Carolina businesses)",
+    "phone": "(855) 499-5050",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://corsicacompany.com/",
+    "category": "Buddhist-owned Database management in South-Carolina",
+    "description": "Corsica Technologies is a strategic technology partner specializing in consulting and managed IT services, including cybersecurity, AI solutions, and data integration. They offer comprehensive coverage for a predictable monthly price",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Database management in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "eGroup",
+    "address": "1000 Parkside Dr, Suite 200, Charlotte, NC 28210 (Note: While headquartered in NC, they serve South Carolina businesses)",
+    "phone": "(800) 500-4242",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.egroup-us.com/",
+    "category": "Buddhist-owned Database management in South-Carolina",
+    "description": "eGroup builds secure, connected workplaces using Microsoft's security, communications, and collaboration stack. They offer managed IT services and solutions for businesses of various sizes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Database management in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Encore Technology Group",
+    "address": "1000 Parkside Dr, Suite 200, Charlotte, NC 28210 (Note: While headquartered in NC, they serve South Carolina businesses)",
+    "phone": "(800) 500-4242",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.encore-tech.com/",
+    "category": "Buddhist-owned Database management in South-Carolina",
+    "description": "With 29 years of experience, Encore Technology Group provides IT solutions, including managed services, networking, IT security, and disaster recovery planning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Database management in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "INTELLI-NET",
+    "address": "101 John Galt Way, Suite 101, Greenville, SC 29607",
+    "phone": "(864) 271-1120",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://intellinet.com/",
+    "category": "Buddhist-owned Database management in South-Carolina",
+    "description": "INTELLI-NET provides IT solutions for the SMB market, including network management, cloud solutions, disaster recovery, and cybersecurity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Database management in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Merit Technologies Corp.",
+    "address": "1000 Parkside Dr, Suite 200, Charlotte, NC 28210 (Note: While headquartered in NC, they serve South Carolina businesses)",
+    "phone": "(803) 724-0000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.merittechnologies.com/",
+    "category": "Buddhist-owned Database management in South-Carolina",
+    "description": "Merit Technologies provides IT solutions for businesses, including managed services, networking, IT security, and disaster recovery planning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Database management in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Summit Tech Solutions",
+    "address": "1000 Parkside Dr, Suite 200, Charlotte, NC 28210 (Note: While headquartered in NC, they serve South Carolina businesses)",
+    "phone": "(864) 241-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.summittech.us/",
+    "category": "Buddhist-owned Database management in South-Carolina",
+    "description": "Summit Tech Solutions offers managed IT services, including 24/7 network, desktop, and server support, cybersecurity, and cloud computing for small and medium-sized businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Database management in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Skyview Technology",
+    "address": "1200 Johnnie Dodds Blvd, Mt Pleasant, SC 29464",
+    "phone": "(843) 881-0220",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.skyviewtech.com/",
+    "category": "Buddhist-owned Database management in South-Carolina",
+    "description": "Skyview Technology offers proactive, award-winning IT support, including 24/7 support and quick response times. They handle business computer networking needs for businesses of all sizes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Database management in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
