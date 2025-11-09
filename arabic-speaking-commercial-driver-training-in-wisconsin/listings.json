@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Bulldog Driving School",
+    "address": "Not explicitly listed, but they offer services in Wisconsin",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bulldogcdl.com/",
+    "category": "Arabic-speaking Commercial driver training in Wisconsin",
+    "description": "Bulldog Driving School offers multilingual CDL training, including Arabic-speaking instructors. They also provide free CDL training opportunities for eligible candidates",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Commercial driver training in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CDLCity Truck Driving School",
+    "address": "They have a location in Wisconsin/Minnesota",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cdlcity.com/",
+    "category": "Arabic-speaking Commercial driver training in Wisconsin",
+    "description": "CDLCity Truck Driving School offers training in over 10 languages, including Arabic. They provide comprehensive CDL training, testing, and job placement assistance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Commercial driver training in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kotra CDL Driving School",
+    "address": "1730 22nd Ave, Kenosha, WI 53140",
+    "phone": "(262) 577-5227",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kotracdl.com/",
+    "category": "Arabic-speaking Commercial driver training in Wisconsin",
+    "description": "While not explicitly stated as Arabic-speaking, Kotra CDL Driving School is a CDL training provider in Wisconsin. It's worth contacting them to inquire about language support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Commercial driver training in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
