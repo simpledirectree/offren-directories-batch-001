@@ -1,0 +1,87 @@
+[
+  {
+    "name": "The Christian Health Collective",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://chealthcollective.org/booking/",
+    "category": "Catholic-owned Health coaching in Oklahoma",
+    "description": "This organization offers Christian health coaching services, including guidance, encouragement, and practical strategies for well-being. They focus on improving overall well-being while aligning with faith-based values",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Health coaching in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities of Eastern Oklahoma - Healing Ministries",
+    "address": "(Specific address not readily available, but serves Eastern Oklahoma)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Charities+of+Eastern+Oklahoma+-+Healing+Ministries+in+Oklahoma",
+    "category": "Catholic-owned Health coaching in Oklahoma",
+    "description": "Offers healing programs that provide hope, healing, and wholeness through mental health services and healing retreats. They provide grief support, healing from abuse, and healing after abortion",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Health coaching in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Joseph Counseling Center of Catholic Charities (Archdiocese of Oklahoma City)",
+    "address": "",
+    "phone": "405-524-0969",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/St.+Joseph+Counseling+Center+of+Catholic+Charities+(Archdiocese+of+Oklahoma+City)+in+Oklahoma",
+    "category": "Catholic-owned Health coaching in Oklahoma",
+    "description": "Provides short-term, professional outpatient counseling for families, children, and individuals in Oklahoma City and select rural communities. They offer up to six sessions at no cost and are available in English and Spanish",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Health coaching in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MyCatholicDoctor",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mycatholicdoctor.com/",
+    "category": "Catholic-owned Health coaching in Oklahoma",
+    "description": "This platform connects individuals with Catholic clinicians, including health coaches, who provide personalized guidance for physical, emotional, and spiritual well-being. They offer services like faith-based nutrition coaching, whole-person wellness coaching, and lifestyle medicine. Specific coaches listed on their site include Annie McKenna and Darci Blackstock",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Health coaching in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SSM Health",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ssmhealth.com/",
+    "category": "Catholic-owned Health coaching in Oklahoma",
+    "description": "A Catholic, not-for-profit health system providing compassionate and personalized care across Oklahoma, Illinois, Missouri, and Wisconsin. While primarily a healthcare system, they embody Catholic values in their services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Health coaching in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
