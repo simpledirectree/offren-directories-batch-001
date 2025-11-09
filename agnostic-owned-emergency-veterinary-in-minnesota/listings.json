@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Animal Emergency & Referral Center of Minnesota",
+    "address": "1163 Helmo Ave N, Oakdale, MN 55128",
+    "phone": "(651) 501-3766",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.aercmn.com/",
+    "category": "Agnostic-owned Emergency veterinary in Minnesota",
+    "description": "Offers 24/7 emergency and specialty veterinary care. They have two locations in Oakdale and St. Paul",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency veterinary in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BluePearl Pet Hospital - Arden Hills",
+    "address": "1285 Grey Fox Rd, Arden Hills, MN 55112",
+    "phone": "(763) 754-5000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.bluepearlvet.com/ Arden-hills-mn/",
+    "category": "Agnostic-owned Emergency veterinary in Minnesota",
+    "description": "Provides emergency and referral veterinary services with advanced medical care. They are open 24/7",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency veterinary in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "South Metro Animal Emergency Care",
+    "address": "14960 Pennock Ave, Apple Valley, MN 55124",
+    "phone": "(952) 953-3737",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.smaec.com/",
+    "category": "Agnostic-owned Emergency veterinary in Minnesota",
+    "description": "A 24/7 emergency veterinary clinic serving the south metro area of Minnesota",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency veterinary in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "VEG Maple Grove",
+    "address": "16700 80th Ave N, Maple Grove, MN 55311",
+    "phone": "(763) 575-7171",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.veg.pet/locations/maple-grove-mn/",
+    "category": "Agnostic-owned Emergency veterinary in Minnesota",
+    "description": "A 24/7 emergency veterinary hospital offering urgent care for pets. They emphasize keeping owners with their pets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency veterinary in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Allied Veterinary Services - Minneapolis",
+    "address": "5754 Nicollet Ave, Minneapolis, MN 55419",
+    "phone": "(952) 521-3030",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.alliedervet.com/locations/minneapolis/",
+    "category": "Agnostic-owned Emergency veterinary in Minnesota",
+    "description": "Offers 24/7 emergency and specialty veterinary services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency veterinary in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "UrgentVet Coon Rapids",
+    "address": "12475 Riverdale Blvd NW, Coon Rapids, MN 55448",
+    "phone": "(763) 575-7171",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.urgentvet.com/locations/coon-rapids-mn/",
+    "category": "Agnostic-owned Emergency veterinary in Minnesota",
+    "description": "A walk-in, after-hours urgent care veterinary clinic open 365 days a year for non-life-threatening emergencies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency veterinary in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "VEG Woodbury",
+    "address": "7040 Common Dr N, Woodbury, MN 55125",
+    "phone": "(651) 780-7595",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.veg.pet/locations/woodbury-mn/",
+    "category": "Agnostic-owned Emergency veterinary in Minnesota",
+    "description": "Provides 24-hour emergency vet and urgent pet care services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency veterinary in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Minnesota Veterinary Medical Center",
+    "address": "1365 Gortner Ave, St. Paul, MN 55108",
+    "phone": "(612) 626-8387",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.vmc.umn.edu/",
+    "category": "Agnostic-owned Emergency veterinary in Minnesota",
+    "description": "Offers emergency and specialty veterinary care, including advanced diagnostics and treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency veterinary in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bush Lake Pet Hospital",
+    "address": "8401 109th Ave N, Brooklyn Park, MN 55445",
+    "phone": "(763) 463-9800",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://bushlakepethospital.com/",
+    "category": "Agnostic-owned Emergency veterinary in Minnesota",
+    "description": "Provides emergency and urgent care services for pets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency veterinary in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "WellHaven Pet Health - Bloomington",
+    "address": "2240 West 80 1/2 Street, Suite A, Bloomington, MN 55431",
+    "phone": "(612) 930-4478",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://wellhavenpethealth.com/bloomington/",
+    "category": "Agnostic-owned Emergency veterinary in Minnesota",
+    "description": "An urgent care veterinary hospital equipped for immediate examinations and same-day treatment options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Emergency veterinary in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
