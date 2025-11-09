@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Farm to Jar Hawaii",
+    "address": "Not specified, operates in Hawaii",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://farmtojarhawaii.com/",
+    "category": "American-Indian-owned Grocery delivery in Hawaii",
+    "description": "A Native Hawaiian-owned small business that makes fruit products and baked goods from locally found fruit in Hawaii, aiming to reduce food waste",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Grocery delivery in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Farm Link Hawaii",
+    "address": "Kalihi food hub (specific address not provided, but delivery is island-wide on Oahu)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.farmlinkhawaii.com/",
+    "category": "American-Indian-owned Grocery delivery in Hawaii",
+    "description": "A marketplace for local online grocery shopping, delivering across Oahu daily. They offer fresh produce, meat, eggs, pantry staples, and more, with a commitment to supporting local farms and making local food accessible. They accept SNAP-EBT and Double Up Food Bucks",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Grocery delivery in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oahu Fresh",
+    "address": "Not specified, delivers throughout Oahu",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.oahufresh.com/",
+    "category": "American-Indian-owned Grocery delivery in Hawaii",
+    "description": "Provides access to food from local farms for homes, offices, and schools throughout Hawaii, with a focus on delivering freshly grown produce",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Grocery delivery in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aloha Delivers",
+    "address": "Operates from Oahu, delivering to other islands",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alohadelivers.com/",
+    "category": "American-Indian-owned Grocery delivery in Hawaii",
+    "description": "Bridges the gap between Oahu's retail and other islands, bringing products from major retailers like Costco and Sam's Club to your door, as well as facilitating inter-island delivery. They also partner with Farm Link Hawaii to support local farms",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Grocery delivery in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lanakila Pacific (The Green Bag)",
+    "address": "Delivery on Oahu; pickup available at various sites",
+    "phone": "808-215-0073 (for Our K\u016bpuna program, which may be related to delivery services)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lanakilapacific.org/",
+    "category": "American-Indian-owned Grocery delivery in Hawaii",
+    "description": "Offers fresh produce delivery on Oahu, featuring affordable, locally-grown fruits and vegetables, supporting local farmers and kupuna",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Grocery delivery in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native Books/Na Mea Hawaii",
+    "address": "Multiple locations, including Ward Warehouse and Waikiki (specific addresses vary)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nativebookshawaii.com/",
+    "category": "American-Indian-owned Grocery delivery in Hawaii",
+    "description": "While primarily a bookstore, art gallery, and cultural center, they offer a wide array of Hawaiian crafts and books, supporting Native Hawaiian culture and artisans. They may not offer direct grocery delivery but are a significant Native Hawaiian-owned business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Grocery delivery in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SARITHRA \u2013 Indian Grocery Store",
+    "address": "700 Richards Street, Honolulu, HI 96813",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sarithra.com/",
+    "category": "American-Indian-owned Grocery delivery in Hawaii",
+    "description": "An Indian grocery store offering a wide variety of Indian food products, including rice, dals, spices, oils, and more, with free delivery on orders over $50. While not American Indian-owned, it is an ethnic grocery store with delivery services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Grocery delivery in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
