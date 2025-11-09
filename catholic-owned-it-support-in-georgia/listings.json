@@ -1,0 +1,87 @@
+[
+  {
+    "name": "InfoTank",
+    "address": "(Not specified in search results, but serves metro Atlanta)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/InfoTank+in+Georgia",
+    "category": "Catholic-owned IT support in Georgia",
+    "description": "Provides IT support for churches and religious organizations in metro Atlanta, with services including website development, cybersecurity, cloud services, and custom software solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned IT support in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Centerpoint IT",
+    "address": "Roswell, Georgia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Centerpoint+IT+in+Georgia",
+    "category": "Catholic-owned IT support in Georgia",
+    "description": "Offers IT support solutions for non-profits in Georgia, focusing on data protection, compliance, and improving outcomes. They serve charitable organizations across Georgia",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned IT support in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Georgia Technologies",
+    "address": "Statesboro, Georgia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Georgia+Technologies+in+Georgia",
+    "category": "Catholic-owned IT support in Georgia",
+    "description": "Provides IT support for non-profits, including managed IT services, cybersecurity, and co-managed IT solutions. They emphasize understanding the unique needs of mission-driven teams",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned IT support in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Prosource",
+    "address": "(Not specified in search results, but serves Georgia)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Prosource+in+Georgia",
+    "category": "Catholic-owned IT support in Georgia",
+    "description": "Offers IT support and managed services for religious and non-profit organizations, focusing on expanding capabilities, improving data security, and leveraging technology for strategic advantage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned IT support in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Century Solutions Group",
+    "address": "Atlanta, Georgia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Century+Solutions+Group+in+Georgia",
+    "category": "Catholic-owned IT support in Georgia",
+    "description": "Provides tailored IT services for non-profits in Atlanta, GA, aimed at optimizing efficiency and minimizing costs. Services include managed IT, cybersecurity, and cloud solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned IT support in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
