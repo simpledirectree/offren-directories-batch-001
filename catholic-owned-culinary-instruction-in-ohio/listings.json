@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Learning Kitchen",
+    "address": "7659 Cox Lane, West Chester, Ohio 45069",
+    "phone": "513-847-4474",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thelearningkitchen.com/",
+    "category": "Catholic-owned Culinary instruction in Ohio",
+    "description": "Offers hands-on cooking classes for all skill levels, with a focus on making cooking easy, fun, and delicious. They provide individual cooking stations and a kitchen boutique",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Culinary instruction in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Loretta Paganini School of Cooking",
+    "address": "29150 Euclid Ave, Wickliffe, OH 44092",
+    "phone": "440-944-4400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lpschoolofcooking.com/",
+    "category": "Catholic-owned Culinary instruction in Ohio",
+    "description": "A professional and recreational culinary institute offering classes for all levels, from amateurs to professionals. They provide hands-on classes, demonstration classes, and private event options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Culinary instruction in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "iCasi (International Culinary Arts and Sciences Institute)",
+    "address": "8235 Mentor Ave, Mentor, OH 44060",
+    "phone": "440-205-1370",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.icasi.edu/",
+    "category": "Catholic-owned Culinary instruction in Ohio",
+    "description": "Offers culinary and pastry arts programs for aspiring professionals, as well as cooking classes for all levels. They focus on classical European techniques combined with real-world expertise",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Culinary instruction in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tri-C Culinary Arts and Hospitality Management",
+    "address": "2500 E 22nd St, Cleveland, OH 44115",
+    "phone": "216-987-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tri-c.edu/culinary-arts/index.html",
+    "category": "Catholic-owned Culinary instruction in Ohio",
+    "description": "Provides education for professional careers in the food industry with high-quality curriculum, small class sizes, and individual attention from chef instructors. Features a student-run restaurant, Alere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Culinary instruction in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Seasoned Farmhouse",
+    "address": "3999 W Broad St, Columbus, OH 43228",
+    "phone": "614-670-5555",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theseasonedfarmhouse.com/",
+    "category": "Catholic-owned Culinary instruction in Ohio",
+    "description": "A boutique cooking school and event space offering a variety of seasonal classes and customized private and corporate events. They also curate culinary tours",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Culinary instruction in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Stir Studio Kitchen",
+    "address": "Multiple locations including Ohio City, Chagrin Falls, and Hudson",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.studiostir.com/",
+    "category": "Catholic-owned Culinary instruction in Ohio",
+    "description": "Hosts interactive cooking classes at studios in Ohio City, Chagrin Falls, and Hudson, offering a range of classes for private groups and corporate events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Culinary instruction in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hocking College Culinary Arts",
+    "address": "373camore St, Nelsonville, OH 45764",
+    "phone": "740-753-3591",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hocking.edu/programs/culinary-arts",
+    "category": "Catholic-owned Culinary instruction in Ohio",
+    "description": "Offers a professional culinary arts program that incorporates cooking and management skill training in a state-of-the-art cooking laboratory, with opportunities for study abroad",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Culinary instruction in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Recipe Cooking & Company",
+    "address": "28 N. Liberty Street, Powell, OH 43065",
+    "phone": "614-547-7804",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.therecipetraining.com/",
+    "category": "Catholic-owned Culinary instruction in Ohio",
+    "description": "Offers hands-on, approachable cooking classes for all experience levels, as well as private events and gift certificates",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Culinary instruction in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Stark State College Culinary Arts",
+    "address": "6200 Frank Ave NW, North Canton, OH 44720",
+    "phone": "330-494-6170",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.starkstate.edu/programs/culinary-arts",
+    "category": "Catholic-owned Culinary instruction in Ohio",
+    "description": "Provides programs leading to careers in culinary arts, including chefs, cooks, and food preparation specialists, with a focus on hands-on learning and career readiness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Culinary instruction in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Columbus Culinary Institute",
+    "address": "2435 Stelzer Rd, Columbus, OH 43219",
+    "phone": "614-944-4200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.culinaryinstitute.org/",
+    "category": "Catholic-owned Culinary instruction in Ohio",
+    "description": "Offers a hands-on education leading to an associate degree or diploma in culinary arts, preparing students for entry-level jobs and long-term career advancement in the culinary industry",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Culinary instruction in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
