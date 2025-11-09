@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Engineering Systems Inc. (ESI)",
+    "address": "5697 North 13th Street, Omaha, NE, 68110",
+    "phone": "(402) 881-4860",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.engsys.com/",
+    "category": "Central-American-owned Manufacturing optimization in Nebraska",
+    "description": "ESI is a forensic engineering and technical consulting firm that offers a range of services to understand client needs and deliver practical solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Manufacturing optimization in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Strawhecker Group (TSG)",
+    "address": "Omaha, Nebraska, USA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thestrawheckergoup.com/",
+    "category": "Central-American-owned Manufacturing optimization in Nebraska",
+    "description": "TSG is a globally recognized analytics and consulting firm that supports the payments ecosystem, providing strategic services, market intelligence, and analytics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Manufacturing optimization in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Milliman",
+    "address": "Offices worldwide, with a presence in Nebraska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.milliman.com/",
+    "category": "Central-American-owned Manufacturing optimization in Nebraska",
+    "description": "Milliman is an independent actuarial and consulting firm offering services in employee benefits, healthcare, investment, and insurance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Manufacturing optimization in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jeo Consulting Group, Inc.",
+    "address": "Multiple locations including Wahoo, Norfolk, and Nebraska City, NE",
+    "phone": "(402) 443-4661 (Wahoo)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.jeo.com/",
+    "category": "Central-American-owned Manufacturing optimization in Nebraska",
+    "description": "Jeo Consulting Group provides professional engineering services, including those for manufacturing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Manufacturing optimization in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cross Company",
+    "address": "Facility located in La Vista, NE",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.crossco.com/",
+    "category": "Central-American-owned Manufacturing optimization in Nebraska",
+    "description": "Cross Company offers industrial services in Nebraska, including precision measurement, inspection, and industrial measurement equipment to improve quality and efficiency",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Manufacturing optimization in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nebraska Manufacturing Extension Partnership (MEP)",
+    "address": "Information not available, but serves Nebraska manufacturers",
+    "phone": "Dale Dolezal at (402) 472-5978 (contact for Nebraska Sourcing Database)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nemep.org/",
+    "category": "Central-American-owned Manufacturing optimization in Nebraska",
+    "description": "Nebraska MEP provides education and coaching for manufacturers on supply chain optimization, continuous improvement, and connecting with suppliers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Manufacturing optimization in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Source One",
+    "address": "Lincoln, Nebraska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Source+One+in+Nebraska",
+    "category": "Central-American-owned Manufacturing optimization in Nebraska",
+    "description": "A Contract Manufacturing company focused on contract manufacturing services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Manufacturing optimization in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fab402",
+    "address": "Lincoln, Nebraska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Fab402+in+Nebraska",
+    "category": "Central-American-owned Manufacturing optimization in Nebraska",
+    "description": "A Contract Manufacturing company specializing in contract manufacturing. Founded in 2020",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Manufacturing optimization in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "FPM Metals",
+    "address": "Fairbury, Nebraska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/FPM+Metals+in+Nebraska",
+    "category": "Central-American-owned Manufacturing optimization in Nebraska",
+    "description": "A Contract Manufacturing company founded in 2021, specializing in contract manufacturing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Manufacturing optimization in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Solvers Manufacturing",
+    "address": "Omaha, Nebraska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.solversmfg.com/",
+    "category": "Central-American-owned Manufacturing optimization in Nebraska",
+    "description": "An Original Design Manufacturer (ODM) specializing in custom product design, prototype fabrication, and low-volume production runs, assisting with product commercialization and optimization",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Manufacturing optimization in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
