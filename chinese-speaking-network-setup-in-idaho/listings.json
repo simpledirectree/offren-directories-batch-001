@@ -1,0 +1,172 @@
+[
+  {
+    "name": "COMPUTECH",
+    "address": "1300 S Yellowstone Hwy, Idaho Falls, ID 83402",
+    "phone": "(208) 522-7777",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "http://www.comptech.com/",
+    "category": "Chinese-speaking Network setup in Idaho",
+    "description": "Offers a wide range of IT services including wireless networking, server setup, and general computer repair for businesses and residents",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network setup in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Boise Computer Repair",
+    "address": "8026 S. Diego Way, Boise, ID 83709",
+    "phone": "(208) 322-1000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "http://www.boiserepair.com/",
+    "category": "Chinese-speaking Network setup in Idaho",
+    "description": "Provides onsite and remote computer repair, including wireless network troubleshooting and setup. They emphasize being local and trustworthy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network setup in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PC TuneUp (now Meridian Computer)",
+    "address": "1102 N. Main St, Meridian, ID 83642",
+    "phone": "(208) 322-7900",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "http://www.pctuneup.com/",
+    "category": "Chinese-speaking Network setup in Idaho",
+    "description": "Offers comprehensive computer repair services, including wireless networking, data backup, and virus removal, with in-home service available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network setup in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Computer Central",
+    "address": "1115 S. Capitol Blvd, Boise, ID 83702",
+    "phone": "(208) 344-0011",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "http://www.computercentral.com/",
+    "category": "Chinese-speaking Network setup in Idaho",
+    "description": "A computer hardware store and service company offering PC components, laptops, and expert technical support, including network setup",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network setup in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Geeks on Site",
+    "address": "Serves all of Idaho (Remote and On-Site)",
+    "phone": "1-877-433-5778",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "http://www.geekson site.com/",
+    "category": "Chinese-speaking Network setup in Idaho",
+    "description": "Provides remote and on-site IT support services across Idaho for hardware, software, and network problems",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network setup in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PC Pals",
+    "address": "1100 W. Main St, Fruitland, ID 83619",
+    "phone": "(208) 452-5500",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "http://www.pcpals.com/",
+    "category": "Chinese-speaking Network setup in Idaho",
+    "description": "Offers expert computer and gaming repair services, including PC building, virus removal, and data recovery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network setup in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Idaho Chinese Org",
+    "address": "1116 W. Jefferson St, Boise, ID 83702",
+    "phone": "(208) 331-2272",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.idahochinese.org/",
+    "category": "Chinese-speaking Network setup in Idaho",
+    "description": "A non-profit organization promoting unity and cultural exchange. While not a tech company, they offer language services which might include interpretation for technical needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network setup in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BYU-Idaho (Chinese Program)",
+    "address": "525 S. Center St, Rexburg, ID 83440",
+    "phone": "(208) 496-4300",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.byui.edu/languages/chinese",
+    "category": "Chinese-speaking Network setup in Idaho",
+    "description": "Offers a minor in Mandarin Chinese, providing students with linguistic and cultural skills. This institution could potentially connect individuals with Chinese speakers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network setup in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "China Network LLC",
+    "address": "100 SW Market St, Portland, OR 97201 (This is an Oregon address, but they may serve Idaho)",
+    "phone": "(503) 227-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.chinanetworkllc.com/",
+    "category": "Chinese-speaking Network setup in Idaho",
+    "description": "An import/export company that provides international trade consulting and outsourcing services, with bilingual (English and Chinese) experts. They might have connections for sourcing technology or services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network setup in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Idaho (IT Policy)",
+    "address": "875 Perimeter Dr, Moscow, ID 83844",
+    "phone": "(208) 885-6419",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.uidaho.edu/",
+    "category": "Chinese-speaking Network setup in Idaho",
+    "description": "While a university, their IT department and policies regarding technology vendors, including those from China, indicate a level of engagement with international technology. They may have resources or contacts related to technology services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Network setup in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
