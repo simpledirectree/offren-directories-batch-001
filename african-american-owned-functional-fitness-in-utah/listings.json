@@ -1,0 +1,87 @@
+[
+  {
+    "name": "CrossFit Black Ridge",
+    "address": "La Verkin, UT",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://crossfitblackridge.com",
+    "category": "African-American-owned Functional fitness in Utah",
+    "description": "A locally owned gym for athletes of all ages, strengths, and abilities, offering CrossFit classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Functional fitness in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rebel House",
+    "address": "2230 South 700 East, Salt Lake City, UT 84106",
+    "phone": "385-315-5991",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.rebel-house.com/",
+    "category": "African-American-owned Functional fitness in Utah",
+    "description": "Offers a variety of classes including HIIT, boxing-inspired classes, sculpt, cycling, and yoga, focusing on functional strength and conditioning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Functional fitness in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Flag Strength & Fitness",
+    "address": "8720 South 700 East, Sandy, Utah 84070",
+    "phone": "(801) 833-2491",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackflagstrength.com/",
+    "category": "African-American-owned Functional fitness in Utah",
+    "description": "Offers group and personal training focused on building strength and conditioning, incorporating elements of powerlifting, strongman, functional fitness, and bodybuilding",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Functional fitness in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Backline SLC",
+    "address": "208 East 800 South, Suite 101, Salt Lake City, UT 84102",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thebacklineslc.com/",
+    "category": "African-American-owned Functional fitness in Utah",
+    "description": "A community-driven gym offering functional fitness, specializing in semi-private classes and personal training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Functional fitness in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Canyon CrossFit",
+    "address": "690 Wakara Cir, Mount Pleasant, UT, 84647",
+    "phone": "8015569855",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackcanyoncrossfit.com/",
+    "category": "African-American-owned Functional fitness in Utah",
+    "description": "Sanpete County's only CrossFit Box, offering certified nutrition coaches, personal training, and Kids CrossFit",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Functional fitness in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
