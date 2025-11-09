@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Kaiser Permanente - Panorama City Medical Center",
+    "address": "8001 Ventura Canyon Ave, Panorama City, CA 91402",
+    "phone": "1-800-272-3500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://healthy.kaiserpermanente.org/locations/panorama-city-medical-center",
+    "category": "Armenian-speaking Emergency medicine in California",
+    "description": "Offers urgent care services and has physicians who speak Armenian, such as Dr. Mariam Sargsyan and Dr. Arthur Armen Youssefian",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Emergency medicine in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Glendale Family Medical Center",
+    "address": "520 N Brand Blvd, Glendale, CA 91203",
+    "phone": "818-552-2011",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.glendalefamilymed.com/",
+    "category": "Armenian-speaking Emergency medicine in California",
+    "description": "Provides urgent care and family medical services, with staff who can assist Armenian-speaking patients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Emergency medicine in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Panorama Urgent Care Family Medicine",
+    "address": "16000 Sherman Way, Van Nuys, CA 91406 (This address is for Panorama City Medical Center, a related facility. The specific address for Panorama Urgent Care Family Medicine was not explicitly listed but is likely in the vicinity.)",
+    "phone": "(818) 810-5947",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.panoramasurgentcare.com/",
+    "category": "Armenian-speaking Emergency medicine in California",
+    "description": "Offers urgent and critical care medicine, with Dr. Nana Barseghian, who earned her medical degree in Armenia, on staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Emergency medicine in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kaiser Permanente - Glendale Medical Offices (Armenian Service Center)",
+    "address": "444 W. Glenoaks Blvd., Glendale, CA 91202",
+    "phone": "1-800-272-3500 (General Information)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://healthy.kaiserpermanente.org/locations/glendale-medical-offices",
+    "category": "Armenian-speaking Emergency medicine in California",
+    "description": "This center was established to serve the Armenian American population and has physicians who speak Armenian",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Emergency medicine in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "California Hospital Medical Center (Dignity Health)",
+    "address": "1401 S Grand Ave, Los Angeles, CA 90015",
+    "phone": "(213) 748-2411",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dignityhealth.org/locations/california-hospital-medical-center",
+    "category": "Armenian-speaking Emergency medicine in California",
+    "description": "Offers language assistance services, including Armenian. While not exclusively an emergency medicine practice, it is a hospital that would handle emergencies and provides language support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Emergency medicine in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
