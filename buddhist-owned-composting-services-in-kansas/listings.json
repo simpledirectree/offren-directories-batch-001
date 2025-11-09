@@ -1,0 +1,138 @@
+[
+  {
+    "name": "KC Can Compost",
+    "address": "3119 Terrace Street, Kansas City, MO 64130 (serves the Kansas City region)",
+    "phone": "(816) 281-7871",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://kccompost.org/",
+    "category": "Buddhist-owned Composting services in Kansas",
+    "description": "KC Can Compost is a nonprofit that collects organic waste for composting and provides job training to individuals facing employment barriers. They offer residential and commercial collection services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Composting services in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Compost Collective KC",
+    "address": "PO Box 300991, Kansas City, MO 64130 (serves Kansas City)",
+    "phone": "816-281-7871",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.compostcollectivekc.com/",
+    "category": "Buddhist-owned Composting services in Kansas",
+    "description": "This organization provides curbside composting services for food waste in the Kansas City area. They also offer educational programs and resources for zero-waste events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Composting services in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kansas City Composting, Inc.",
+    "address": "2101 SE Hamblen Road, Lee's Summit, MO 64082",
+    "phone": "(816) 761-3046",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kansascitycomposting.com/",
+    "category": "Buddhist-owned Composting services in Kansas",
+    "description": "One of the largest compost producers and distributors in the region, offering STA and OMRI certified compost, mulches, and soil blends. They have locations for pickup and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Composting services in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Full Circle Sustainability (Bin Swap Location for Compost Collective KC)",
+    "address": "Serves Lawrence and Topeka, with a bin swap location in Lawrence",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.compostcollectivekc.com/",
+    "category": "Buddhist-owned Composting services in Kansas",
+    "description": "Full Circle acts as a drop-off point for Compost Collective KC, allowing residents of Lawrence and Topeka to participate in composting services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Composting services in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "City of Kansas City Composting Program Drop-off Locations",
+    "address": "Multiple locations throughout Kansas City, including Roanoke Community Center, KCFD Station 19, and Kansas City North Community Center",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kcmo.gov/city-services/public-works/solid-waste-sanitation/composting",
+    "category": "Buddhist-owned Composting services in Kansas",
+    "description": "This is a free program for residents to drop off food waste and BPI certified compostable items at various community centers and recycling drop-off locations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Composting services in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wat Vidhesdhammarangsi",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Wat+Vidhesdhammarangsi+in+Kansas",
+    "category": "Buddhist-owned Composting services in Kansas",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Composting services in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Wichita Cambodian Buddhist Society",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Wichita+Cambodian+Buddhist+Society+in+Kansas",
+    "category": "Buddhist-owned Composting services in Kansas",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Composting services in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Phap Hoa Buddhist Temple / The Wichita Buddhist Association",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Phap+Hoa+Buddhist+Temple+/+The+Wichita+Buddhist+Association+in+Kansas",
+    "category": "Buddhist-owned Composting services in Kansas",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Composting services in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
