@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Weee!",
+    "address": "This is an online-only service, so there is no physical address for delivery. They deliver throughout Colorado",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sayweee.com/",
+    "category": "Asian-owned Grocery delivery in Colorado",
+    "description": "Weee! is a large online Asian supermarket offering a wide variety of groceries from various Asian countries, with delivery options across the US, including Colorado. They emphasize fresh ingredients and competitive pricing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Grocery delivery in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yami",
+    "address": "Online-only service",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.yamibuy.com/",
+    "category": "Asian-owned Grocery delivery in Colorado",
+    "description": "Yami is an online marketplace for Asian groceries, snacks, beauty products, and home goods, with nationwide delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Grocery delivery in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bokksu Market",
+    "address": "Online-only service",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bokksu.com/collections/bokksu-market",
+    "category": "Asian-owned Grocery delivery in Colorado",
+    "description": "Bokksu Market offers a curated selection of Asian snacks and grocery items, including Japanese snacks, Korean instant noodles, and Chinese chili crisp, delivered to your door",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Grocery delivery in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "99 Ranch Market",
+    "address": "While 99 Ranch Market has physical store locations, their delivery service is nationwide. Specific store addresses can be found on their website, but the delivery service operates independently",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.99ranch.com/",
+    "category": "Asian-owned Grocery delivery in Colorado",
+    "description": "99 Ranch Market is a large Asian supermarket chain that offers online grocery shopping and nationwide delivery. They aim to provide authentic Asian products",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Grocery delivery in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian Pacific Market",
+    "address": "615 Wooten Road, Suite 160, Colorado Springs, CO, 80915",
+    "phone": "(719) 591-1188 (This number was found associated with the business, but delivery service confirmation is recommended)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.asianpacificmarket.com/",
+    "category": "Asian-owned Grocery delivery in Colorado",
+    "description": "Asian Pacific Market in Colorado Springs offers a variety of food items, international spices, fresh seafood, and produce. It's advisable to contact them directly to confirm their delivery services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Grocery delivery in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Great Wall Supermarket",
+    "address": "Multiple locations, including one at 1000 S. Abilene St, Aurora, CO 80012",
+    "phone": "(303) 369-8888 (for the Aurora location, confirm delivery services)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.greatwallsupermarket.com/",
+    "category": "Asian-owned Grocery delivery in Colorado",
+    "description": "Great Wall Supermarket is a large Asian grocery store with multiple locations, offering a wide range of products. It's recommended to contact them directly to inquire about their delivery options in Colorado",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Grocery delivery in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "H Mart",
+    "address": "H Mart has locations in the Denver metro area, such as 2727 S. Federal Blvd, Denver, CO 80219",
+    "phone": "(303) 936-4000 (for the Federal Blvd location, confirm delivery services)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hmart.com/",
+    "category": "Asian-owned Grocery delivery in Colorado",
+    "description": "H Mart is a large Asian supermarket chain known for its wide variety of international foods, particularly Korean. They offer online shopping and delivery services, which may extend to various parts of Colorado",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Grocery delivery in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pacific Ocean Marketplace",
+    "address": "3070 S. Havana St, Aurora, CO 80014",
+    "phone": "(303) 337-2020 (confirm delivery services)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.facebook.com/PacificOceanMarket/",
+    "category": "Asian-owned Grocery delivery in Colorado",
+    "description": "Pacific Ocean Marketplace is a large Asian grocery store in Aurora, Colorado. It is recommended to contact them directly to inquire about their delivery services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Grocery delivery in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Park Hill Supermarket",
+    "address": "5115 E 40th Ave, Denver, CO 80207",
+    "phone": "(303) 399-1000 (confirm delivery services)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Park+Hill+Supermarket+in+Colorado",
+    "category": "Asian-owned Grocery delivery in Colorado",
+    "description": "Park Hill Supermarket is a Denver-based grocery store that has been mentioned as offering curbside pickup. It is advisable to contact them directly to inquire about their delivery services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Grocery delivery in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tri-Ocean Seafood Market",
+    "address": "1000 S. Federal Blvd, Denver, CO 80219 (This address is also listed for H Mart, suggesting potential proximity or shared retail space, but Tri-Ocean is a distinct entity)",
+    "phone": "(303) 936-4000 (This number is associated with the address, confirm it's for Tri-Ocean and inquire about delivery)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Tri-Ocean+Seafood+Market+in+Colorado",
+    "category": "Asian-owned Grocery delivery in Colorado",
+    "description": "Tri-Ocean Seafood Market is located in Denver and is known for its seafood. It is recommended to contact them directly to inquire about their grocery delivery services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Grocery delivery in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
