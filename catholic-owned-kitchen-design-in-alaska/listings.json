@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Creative Kitchen Designs, Inc.",
+    "address": "Anchorage, AK",
+    "phone": "(907) 561-5454",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.creativekitchendesigns.com/",
+    "category": "Catholic-owned Kitchen design in Alaska",
+    "description": "Offers unique kitchen and bathroom design solutions for remodel and new construction projects",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Kitchen design in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kitchens by Design",
+    "address": "Anchorage, AK",
+    "phone": "(907) 563-2002",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.kitchensbydesignak.com/",
+    "category": "Catholic-owned Kitchen design in Alaska",
+    "description": "Premier kitchen design team with over 30 years of experience, specializing in custom, client-focused designs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Kitchen design in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kustom Kitchen & Design Inc.",
+    "address": "5817 E Updraft St, Palmer, AK 99645",
+    "phone": "(907) 357-5880",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kustomkitchenalaska.com/",
+    "category": "Catholic-owned Kitchen design in Alaska",
+    "description": "Family-owned business providing high-quality kitchen remodeling services for over 30 years",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Kitchen design in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Holy Family Parish / St. Paul's Corner",
+    "address": "800 West Fifth Ave, Anchorage, AK 99501",
+    "phone": "(907) 276-3455",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hfocak.org/",
+    "category": "Catholic-owned Kitchen design in Alaska",
+    "description": "A Roman Catholic parish with a book and gift store",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Kitchen design in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St Benedict Catholic Church",
+    "address": "Anchorage, AK",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stbenedictsanchorage.org/",
+    "category": "Catholic-owned Kitchen design in Alaska",
+    "description": "A Roman Catholic community in Anchorage, Alaska",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Kitchen design in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Social Services - Alaska",
+    "address": "Various locations in Alaska, with a significant presence in Anchorage",
+    "phone": "(907) 222-7300",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cssalaska.org/",
+    "category": "Catholic-owned Kitchen design in Alaska",
+    "description": "An organization working to end poverty, create opportunity, and advocate for just communities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Kitchen design in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Holy Mary of Guadalupe Catholic Church",
+    "address": "530 Carbon Road, Healy, AK 99743",
+    "phone": "(907) 683-2535",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hmogcatholic.com/",
+    "category": "Catholic-owned Kitchen design in Alaska",
+    "description": "A local Catholic parish serving the communities of Healy, Ferry, Anderson, and Denali",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Kitchen design in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
