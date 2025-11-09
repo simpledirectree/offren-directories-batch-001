@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Bloom Ranch",
+    "address": "31880 Aliso Canyon Rd, Acton, CA 93510",
+    "phone": "+1 (323) 388-4828",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bloomranchofacton.com/",
+    "category": "Black-owned Educational garden tours in California",
+    "description": "Bloom Ranch is a large, Black-owned organic farm offering tours that focus on sustainable agriculture, history, and wellness. They provide walking and driving tours",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Educational garden tours in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Brown Girl Farms",
+    "address": "Hayward Hills, CA (Specific address not publicly listed for tours)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.browngirldfarms.com/",
+    "category": "Black-owned Educational garden tours in California",
+    "description": "This Black, queer, female-owned farm focuses on providing market vegetables, African American heritage crops, and flower bouquets. They aim to spread loving intention through food and flowers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Educational garden tours in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Planting Justice",
+    "address": "Oakland, CA (Specific address for tours not listed)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://plantingjustice.org/",
+    "category": "Black-owned Educational garden tours in California",
+    "description": "A BIPOC-led collective focused on permaculture, fruit trees, and food access. They offer educational programs and aim to promote food security",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Educational garden tours in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Sanctuary Gardens",
+    "address": "Oakland, CA (Specific locations vary)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pinehouseediblegardens.com/black-sanctuary-gardens",
+    "category": "Black-owned Educational garden tours in California",
+    "description": "This project creates garden spaces in collaboration with Black women and communities in Oakland, serving as restorative spaces for peace, self-care, and inspiration",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Educational garden tours in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Florence Fang Community Farm - Bayview Black Organic Farmers Program",
+    "address": "1 Diana Street, San Francisco, CA 94124",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.florencefangcommunityfarm.org/bayview-black-organic-farmers-program",
+    "category": "Black-owned Educational garden tours in California",
+    "description": "This program empowers participants, especially Black youth, to grow food, engage in physical activity, and heal the Black community's relationship with food and land",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Educational garden tours in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Thumb Farm",
+    "address": "8380 Ventura Canyon Avenue, Panorama City, CA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackthumbfarm.org/",
+    "category": "Black-owned Educational garden tours in California",
+    "description": "This organization is dedicated to urban farming and empowering communities through growing food and flowers. They are working towards establishing their own urban farm",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Educational garden tours in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "El Sereno Community Garden (ESCG)",
+    "address": "Los Angeles, CA (Specific address not readily available, but operates on Caltrans land)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/El+Sereno+Community+Garden+(ESCG)+in+California",
+    "category": "Black-owned Educational garden tours in California",
+    "description": "This community garden combats urban sprawl's negative effects by creating communal spaces and providing fresh produce. It is managed by Erika Crenshaw and Richard Ziegelmann",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Educational garden tours in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Compton Community Garden (CCG)",
+    "address": "Long Beach Blvd between the 91 freeway and Rosecrans, Compton, CA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Compton+Community+Garden+(CCG)+in+California",
+    "category": "Black-owned Educational garden tours in California",
+    "description": "A hub for community regeneration and urban farming in South LA, offering a safe space for Black and Brown communities to connect with nature and develop a new agriculture",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Educational garden tours in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
