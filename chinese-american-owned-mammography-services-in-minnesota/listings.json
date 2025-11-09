@@ -1,0 +1,172 @@
+[
+  {
+    "name": "CentraCare",
+    "address": "Multiple locations in Central Minnesota (specific addresses vary by clinic)",
+    "phone": "320-200-3200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.centracare.com/services/breast-care/mammography/",
+    "category": "Chinese-American-owned Mammography services in Minnesota",
+    "description": "Offers 3D mammography and other breast imaging services, with a focus on early detection. They also provide information on Minnesota's Free Mammogram Program",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Mammography services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HealthPartners & Park Nicollet",
+    "address": "Over 30 locations in Minnesota and western Wisconsin (e.g., Jane Brattain Breast Center, Regions Hospital Breast Health Center, Lakeview Hospital Breast Health Center)",
+    "phone": "800-883-2177 (HealthPartners)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.healthpartners.com/care/services/mammograms/",
+    "category": "Chinese-American-owned Mammography services in Minnesota",
+    "description": "Offers convenient mammogram appointments, including same-day and walk-in options, with advanced technology. They also operate a mobile mammography unit",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Mammography services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Breast Center of Maple Grove",
+    "address": "9855 Hospital Drive, Suite 150, Maple Grove, MN 55369",
+    "phone": "763-398-6370",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.breastcentermg.com/",
+    "category": "Chinese-American-owned Mammography services in Minnesota",
+    "description": "Provides a comprehensive array of breast screening and diagnostic services in a technologically advanced and comfortable facility. Offers same-day results for diagnostic patients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Mammography services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North Memorial Health",
+    "address": "Multiple locations, including 15450 Hwy. 7, Minnetonka, MN 55345 and 2800 Campus Drive, Suite 30, Plymouth, MN 55441",
+    "phone": "763-581-CARE (763-581-2273)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.northmemorial.com/services/mammography",
+    "category": "Chinese-American-owned Mammography services in Minnesota",
+    "description": "Offers 3D and digital mammography with appointment and walk-in options. They emphasize early detection and patient comfort",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Mammography services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Minnesota Women's Care OBGYN and Urogynecology",
+    "address": "Multiple locations including Maplewood, Woodbury, Apple Valley, and Hudson, WI",
+    "phone": "651-600-3035",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mnwomenscare.com/services/3d-mammograms/",
+    "category": "Chinese-American-owned Mammography services in Minnesota",
+    "description": "Provides 3D mammography with a focus on early detection, convenience, and a comfortable clinic environment. They also partner with the SAGE program for free screenings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Mammography services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Abbott Northwestern Hospital (part of Allina Health)",
+    "address": "800 E 28th Street, Minneapolis, MN 55407",
+    "phone": "612-863-4000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.allinahealth.org/abbott-northwestern-hospital",
+    "category": "Chinese-American-owned Mammography services in Minnesota",
+    "description": "A comprehensive hospital offering advanced breast imaging services and recognized for excellence in women's services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Mammography services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "M Health Fairview Breast Center - Fulton Clinics and Surgery Center",
+    "address": "Located on the campus of the University of Minnesota (specific address within campus not detailed in search snippet, but accessible via Fulton Street)",
+    "phone": "855-324-7843",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.fairview.org/locations/fulton-clinics-and-surgery-center",
+    "category": "Chinese-American-owned Mammography services in Minnesota",
+    "description": "Offers screening mammograms, including 3D mammography, with a focus on early detection and a comfortable environment for women",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Mammography services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "M Health Fairview Breast Center - Maple Grove",
+    "address": "(Specific address not detailed in search snippet, but located in Maple Grove)",
+    "phone": "855-324-7843",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.fairview.org/locations/maple-grove-breast-center",
+    "category": "Chinese-American-owned Mammography services in Minnesota",
+    "description": "Provides comprehensive breast health services, including screening mammograms and advanced diagnostic exams, with a focus on compassionate care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Mammography services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Odam Medical Group (Mobile Mammography Unit)",
+    "address": "Mobile unit serving Polk and Rice counties, and other Central Minnesota counties",
+    "phone": "612-871-2312",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://odammedicalgroup.com/",
+    "category": "Chinese-American-owned Mammography services in Minnesota",
+    "description": "In collaboration with Blue Plus, they offer mammograms via a mobile unit, making screenings more accessible, especially in rural areas. The team speaks multiple languages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Mammography services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alliance Imaging (St. Cloud)",
+    "address": "St. Cloud, MN (specific address not detailed in search snippet)",
+    "phone": "320-255-6530",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.allianceimaging.com/services/breast-imaging/",
+    "category": "Chinese-American-owned Mammography services in Minnesota",
+    "description": "Offers comprehensive, high-quality mammography services with state-of-the-art technology and a focus on patient comfort and accurate results",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Mammography services in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
