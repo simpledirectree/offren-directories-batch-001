@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Living Well Center for Integrative Health",
+    "address": "1475 Mountain View Rd, Essex Junction, VT 05452",
+    "phone": "(802) 878-9292",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.livingwellvt.com/",
+    "category": "Catholic-owned Hydrotherapy in Vermont",
+    "description": "Offers aquatic therapy as part of their integrative health services, focusing on exercises in warm water to aid in lymphatic drainage, reduce swelling, and relieve pain",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hydrotherapy in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Battenkill Aquatics & Physical Therapy",
+    "address": "215 North Street, Bennington, VT 05201",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.beaminghealth.com/listing/battenkill-aquatics-physical-therapy-2/",
+    "category": "Catholic-owned Hydrotherapy in Vermont",
+    "description": "Provides aquatic therapy using a warm water therapy pool to help with rehabilitation for various disabilities, offering exercises in standing, sitting, walking, swimming, and floating positions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hydrotherapy in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Vermont Health Network (Various Locations)",
+    "address": "Multiple locations including Middlebury, Winooski, and Berlin",
+    "phone": "(802) 388-4430 (Middlebury), (802) 847-0080 (Winooski), (802) 225-3942 (Berlin)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.uvmhealth.org/services/rehabilitation-therapy/aquatic-therapy",
+    "category": "Catholic-owned Hydrotherapy in Vermont",
+    "description": "Offers aquatic physical therapy at several locations, utilizing therapy pools to reduce pressure on joints and muscles, ideal for individuals with balance issues, pain, or low endurance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hydrotherapy in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mt. Ascutney Hospital and Health Center (Miller Therapeutic Pool)",
+    "address": "289 County Road, Windsor, VT 05089",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mountascutneyhospital.org/services/rehabilitation-therapy/aquatic-therapy/",
+    "category": "Catholic-owned Hydrotherapy in Vermont",
+    "description": "Features the Miller Therapeutic Pool, the only rehabilitation pool of its kind in Vermont, offering aquatic therapy in a 92-93 degree Fahrenheit pool for various rehabilitation needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hydrotherapy in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PRIORI Pool (Part of Aquatic Therapy Services)",
+    "address": "Information not available (located in Essex Junction, VT based on context)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.priori.com/pool-therapy/",
+    "category": "Catholic-owned Hydrotherapy in Vermont",
+    "description": "Utilizes an innovative \"PRIORI Pool\" for aquatic therapy, featuring specialized treatment stations and a UV filter system, maintaining a therapeutic temperature of 88-92\u00b0F",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hydrotherapy in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
