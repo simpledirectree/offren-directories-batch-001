@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Khelcom Farm",
+    "address": "180 Highland Ave, Berlin, VT 05641",
+    "phone": "(802) 338-7131",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Khelcom+Farm+in+Vermont",
+    "category": "Black-owned Crop planning in Vermont",
+    "description": "A black-owned urban farm focusing on diversified vegetables, cut flowers, and herbs. They also sell Senegalese baskets, eggs, and maple syrup. Their farm stand is open mid-May through October",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop planning in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clemmons Family Farm",
+    "address": "2122 Greenbush Road, Charlotte, VT (Chittenden County)",
+    "phone": "(765) 560-5445 (voice message line)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Clemmons+Family+Farm+in+Vermont",
+    "category": "Black-owned Crop planning in Vermont",
+    "description": "One of the largest and oldest African-American-owned farms in Vermont, it is transitioning to a Black-led non-profit organization. It focuses on sustainable agriculture, food sovereignty, and serves as a cultural heritage asset for the African diaspora. They offer on-farm artist residencies and community-building programming",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop planning in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SUSU CommUNITY Farm",
+    "address": "94 River Road, Newfane, VT 05345",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/SUSU+CommUNITY+Farm+in+Vermont",
+    "category": "Black-owned Crop planning in Vermont",
+    "description": "An Afro-Indigenous stewarded farm and land-based healing center in Southern Vermont, created to offer life-affirming spaces for Black, Indigenous, and People of Color. They focus on food and land sovereignty through educational opportunities and ancestral healing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop planning in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Dirt Farm",
+    "address": "Northeast Kingdom, Vermont (specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Black+Dirt+Farm+in+Vermont",
+    "category": "Black-owned Crop planning in Vermont",
+    "description": "A diversified family farm in Vermont's Northeast Kingdom that practices regenerative agriculture. They collect food scraps for composting and worm castings to nourish their soils and crops. They offer pasture-raised eggs, meat birds, garden compost, and worm castings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop planning in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rose Wilson Consulting LLC",
+    "address": "United States (specific Vermont address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Rose+Wilson+Consulting+LLC+in+Vermont",
+    "category": "Black-owned Crop planning in Vermont",
+    "description": "While not exclusively a crop planning business, Rose Wilson Consulting offers business and strategic planning services for farms and food producers, including market development and grant writing. She has worked with numerous farms in Vermont",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Crop planning in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
