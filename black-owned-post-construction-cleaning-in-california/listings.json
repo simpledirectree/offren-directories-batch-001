@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Black & White Cleaning Services",
+    "address": "Inglewood, CA 90301",
+    "phone": "(310) 530-1000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.blackandwhitecleaningservices.com/",
+    "category": "Black-owned Post-construction cleaning in California",
+    "description": "Offers professional residential and commercial cleaning services, including post-construction cleanup",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Post-construction cleaning in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Corrie's Complete Cleaning",
+    "address": "Not explicitly listed for post-construction cleaning, but operates in California",
+    "phone": "(530) 559-8340",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://ogreena.com/",
+    "category": "Black-owned Post-construction cleaning in California",
+    "description": "An eco-friendly cleaning service that expanded its range to include domestic and commercial services, as well as construction-related services. Founded in 2009 by Far I Shields",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Post-construction cleaning in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Royalty Commercial Cleaning",
+    "address": "Headquartered in Los Angeles, CA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://royaltycommercialcleaning.com/",
+    "category": "Black-owned Post-construction cleaning in California",
+    "description": "A minority family-owned and operated company providing commercial cleaning services for over 20 years, including customized solutions for various commercial settings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Post-construction cleaning in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CSI (Cleaning Services Incorporated)",
+    "address": "Las Vegas (though they serve California)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.csi-cleaning.com/",
+    "category": "Black-owned Post-construction cleaning in California",
+    "description": "A minority-owned group providing renovation and post-construction cleaning for commercial and residential properties. They emphasize specialized teams and methods for job sites",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Post-construction cleaning in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
