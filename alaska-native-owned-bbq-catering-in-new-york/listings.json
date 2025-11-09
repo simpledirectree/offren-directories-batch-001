@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Buffalo Jump NYC",
+    "address": "(Not publicly listed, but operates in New York City)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.buffalojump.nyc/",
+    "category": "Alaska-Native-owned BBQ catering in New-York",
+    "description": "Buffalo Jump NYC is a Native American-owned and operated catering and food service dedicated to bringing traditional Indigenous foods to New York City. They pride themselves on providing high-quality, culturally rich dining experiences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned BBQ catering in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
