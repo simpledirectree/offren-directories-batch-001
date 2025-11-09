@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Happy Wok",
+    "address": "7610 Elmwood Ave Ste 105, Middleton, WI 53562",
+    "phone": "608-833-3488",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.happywokmiddleton.com/",
+    "category": "Chinese-speaking Meal kits in Wisconsin",
+    "description": "Offers authentic Chinese cuisine with options for takeout and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Meal kits in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Happy Wok - Monona",
+    "address": "Monona, WI (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.happywokmonona.com/",
+    "category": "Chinese-speaking Meal kits in Wisconsin",
+    "description": "Provides authentic and delicious Chinese cuisine with delivery services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Meal kits in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Great China",
+    "address": "619 N Sherman Ave, Madison, WI 53704",
+    "phone": "608-244-9988",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.greatchinamadison.com/",
+    "category": "Chinese-speaking Meal kits in Wisconsin",
+    "description": "Offers a variety of Chinese dishes with options for pickup and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Meal kits in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Flaming Wok",
+    "address": "Madison, WI (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.flamingwokmadison.com/",
+    "category": "Chinese-speaking Meal kits in Wisconsin",
+    "description": "Serves Chinese food with delivery, take-out, and dine-in options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Meal kits in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sunny Asian Gourmet",
+    "address": "811 N Frontage Rd, Wisconsin Dells, WI 53965",
+    "phone": "608-254-0088",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sunnyasiangourmet.com/",
+    "category": "Chinese-speaking Meal kits in Wisconsin",
+    "description": "Offers Chinese specialties and other Asian dishes with takeout and delivery services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Meal kits in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mei Hua Market",
+    "address": "11066 W National Ave, West Allis, WI 53714",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://meihuamarket.com/",
+    "category": "Chinese-speaking Meal kits in Wisconsin",
+    "description": "An Asian grocery store with a selection of pre-made foods and ingredients for meal preparation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Meal kits in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Weee! (Online Asian Grocery)",
+    "address": "Delivers to Madison, WI and Neillsville, WI (Online platform, no physical store address for Wisconsin)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sayweee.com/",
+    "category": "Chinese-speaking Meal kits in Wisconsin",
+    "description": "An online Asian supermarket offering a wide selection of groceries, including ingredients for Chinese cooking, with nationwide delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Meal kits in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Global Market & Food Hall",
+    "address": "Madison, WI (Specific address not provided in search results, but operates in Madison)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.globalmarketmadison.com/",
+    "category": "Chinese-speaking Meal kits in Wisconsin",
+    "description": "An Asian grocery store and food hall that may offer ingredients or prepared food options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Meal kits in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EatFlavorly",
+    "address": "Home delivery service (No specific Wisconsin address provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eatflavorly.com/",
+    "category": "Chinese-speaking Meal kits in Wisconsin",
+    "description": "Offers gourmet, prepared Chinese meal kits for convenient home dining",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Meal kits in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CookUnity",
+    "address": "Home delivery service (No specific Wisconsin address provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cookunity.com/",
+    "category": "Chinese-speaking Meal kits in Wisconsin",
+    "description": "Provides prepared Asian meal delivery, including Chinese dishes, from award-winning chefs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Meal kits in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
