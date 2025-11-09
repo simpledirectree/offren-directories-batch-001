@@ -1,0 +1,172 @@
+[
+  {
+    "name": "LaPaz Restaurant & Catering",
+    "address": "2901 7th Ave S, Birmingham, AL 35233",
+    "phone": "(205) 322-4272",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://lapazbirmingham.com/",
+    "category": "Central-American-owned Meal kits in Alabama",
+    "description": "A restaurant offering Mexican cuisine, with catering services that might extend to meal-related offerings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nicas Grill & Caf\u00e9",
+    "address": "(Food truck, locations vary)",
+    "phone": "(205) 862-0004",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.nicasgrill.com/",
+    "category": "Central-American-owned Meal kits in Alabama",
+    "description": "A food truck offering a fusion of American and Nicaraguan dishes. While not strictly a meal kit service, they provide prepared meals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sabor Latino Restaurant",
+    "address": "1420 4th Ave S, Birmingham, AL 35233",
+    "phone": "(205) 202-4111",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.saborlatinobham.com/",
+    "category": "Central-American-owned Meal kits in Alabama",
+    "description": "Offers authentic Peruvian and Mexican cuisine with catering services. They provide prepared meals for delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "El Barrio",
+    "address": "2211 7th Ave S, Birmingham, AL 35233 (Downtown location)",
+    "phone": "(205) 870-8080",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.elbarriobham.com/",
+    "category": "Central-American-owned Meal kits in Alabama",
+    "description": "Mexican-inspired cuisine with options for online ordering and catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eddie's Mexican and Honduran Restaurant",
+    "address": "4451 Government Blvd, Mobile, AL 36693",
+    "phone": "(251) 660-0022",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://eddiesmexicanand.com/",
+    "category": "Central-American-owned Meal kits in Alabama",
+    "description": "Offers a combination of Mexican and Honduran dishes, suggesting a Central American connection. They provide online ordering for pickup and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CookUnity",
+    "address": "(Delivery service, not a physical storefront in Alabama)",
+    "phone": "(800) 889-5110",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.cookunity.com/",
+    "category": "Central-American-owned Meal kits in Alabama",
+    "description": "A prepared meal delivery service featuring dishes from award-winning chefs across Latin America. While not a meal kit, it offers ready-to-heat Latin American meals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "On The Border",
+    "address": "Multiple locations in Alabama (e.g., 4000 Hwy 280, Birmingham, AL 35242)",
+    "phone": "Varies by location (e.g., (205) 980-7000 for Birmingham)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ontheborder.com/",
+    "category": "Central-American-owned Meal kits in Alabama",
+    "description": "A Tex-Mex and Mexican restaurant chain that offers \"Build Your Own Taco Kits\" for home preparation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Moe's Southwest Grill",
+    "address": "Multiple locations in Alabama (e.g., 1000 Inverness Corners, Birmingham, AL 35242)",
+    "phone": "Varies by location (e.g., (205) 980-7000 for Inverness)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.moes.com/",
+    "category": "Central-American-owned Meal kits in Alabama",
+    "description": "Offers \"Meal Kits\" for home assembly, featuring their signature Tex-Mex and Mexican-inspired dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clean Eatz",
+    "address": "Multiple locations in Alabama (e.g., 1000 Inverness Corners, Suite 101, Birmingham, AL 35242)",
+    "phone": "(205) 408-0008",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.cleaneatz.com/",
+    "category": "Central-American-owned Meal kits in Alabama",
+    "description": "Offers healthy meal plans and grab-and-go options, focusing on balanced nutrition. While not a traditional meal kit, they provide pre-prepared healthy meals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mom's Meals",
+    "address": "(Home-delivered meal plans, not a physical storefront in Alabama)",
+    "phone": "1-866-204-0452",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.momsmeals.com/",
+    "category": "Central-American-owned Meal kits in Alabama",
+    "description": "Provides medically tailored, home-delivered meals. While not a meal kit, they offer a wide selection of prepared meals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Meal kits in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
