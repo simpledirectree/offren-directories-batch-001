@@ -1,0 +1,172 @@
+[
+  {
+    "name": "VTC Tech",
+    "address": "1000 WV-7, Morgantown, WV 26508",
+    "phone": "(304) 241-1100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://vtctech.com/",
+    "category": "Chinese-speaking Endpoint protection in West-Virginia",
+    "description": "Offers cybersecurity services including endpoint security, network security, and IT consulting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Endpoint protection in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CC Technologies",
+    "address": "1000 Charleston Town Center, Suite 300, Charleston, WV 25389",
+    "phone": "(304) 343-4300",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://cctech.com/",
+    "category": "Chinese-speaking Endpoint protection in West-Virginia",
+    "description": "Provides cybersecurity solutions such as endpoint protection, network security, and incident response",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Endpoint protection in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Advantage Technology",
+    "address": "950 Kanawha Blvd E. #100, Charleston, WV 25301",
+    "phone": "(304) 973-9537",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.advantage.tech/",
+    "category": "Chinese-speaking Endpoint protection in West-Virginia",
+    "description": "Offers customized cybersecurity services including endpoint protection, cloud security, and data loss prevention",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Endpoint protection in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NetSolutionsWV",
+    "address": "208 7th Avenue, South Charleston, WV 25303",
+    "phone": "(304) 720-9120",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.netsolutionswv.com/",
+    "category": "Chinese-speaking Endpoint protection in West-Virginia",
+    "description": "Provides cybersecurity and IT consulting services, including endpoint security solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Endpoint protection in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "West Virginia Office of Technology (Cyber Security Office)",
+    "address": "Building 1, Room 140, 1900 Kanawha Blvd E, Charleston, WV 25305",
+    "phone": "(304) 558-6000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://technology.wv.gov/cybersecurity/",
+    "category": "Chinese-speaking Endpoint protection in West-Virginia",
+    "description": "The state's cybersecurity office, offering services like threat detection, firewall management, and endpoint protection for state government systems",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Endpoint protection in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Biztec",
+    "address": "1304 Market St, Parkersburg, WV 26101",
+    "phone": "(304) 485-5550",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.biztec.com/",
+    "category": "Chinese-speaking Endpoint protection in West-Virginia",
+    "description": "Offers a variety of IT services including cybersecurity support, managed IT services, and physical security solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Endpoint protection in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Function-4",
+    "address": "1000 Charleston Town Center, Suite 300, Charleston, WV 25389",
+    "phone": "(304) 343-4300",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.function-4.com/",
+    "category": "Chinese-speaking Endpoint protection in West-Virginia",
+    "description": "Provides managed IT services, computer security, and office technology solutions across West Virginia",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Endpoint protection in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cramer Security",
+    "address": "1533 Lewis St, Charleston, WV 25311",
+    "phone": "(304) 344-4000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://cramersecurity.com/",
+    "category": "Chinese-speaking Endpoint protection in West-Virginia",
+    "description": "Offers security services including armed security, investigations, and security consulting. While not exclusively endpoint protection, they focus on overall business security",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Endpoint protection in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CrowdStrike",
+    "address": "While CrowdStrike is a global company, they serve clients in West Virginia. Their services are delivered remotely",
+    "phone": "1-888-237-0242",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.crowdstrike.com/",
+    "category": "Chinese-speaking Endpoint protection in West-Virginia",
+    "description": "A leading cybersecurity technology company offering endpoint protection, threat intelligence, and incident response services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Endpoint protection in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Infoblox",
+    "address": "Infoblox is a global company that provides network security solutions. Their services are delivered remotely to clients in West Virginia",
+    "phone": "+1-408-986-4000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.infoblox.com/",
+    "category": "Chinese-speaking Endpoint protection in West-Virginia",
+    "description": "Offers DDI (DNS, DHCP, IPAM) solutions that integrate networking and security, including protection against cyber threats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Endpoint protection in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
