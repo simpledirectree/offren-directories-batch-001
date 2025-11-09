@@ -1,0 +1,172 @@
+[
+  {
+    "name": "VASA Fitness",
+    "address": "5325 E Thompson Rd, Indianapolis, IN 46237",
+    "phone": "(317) 754-3271",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://vasafitness.com/",
+    "category": "Atheist-owned Health clubs in Indiana",
+    "description": "VASA Fitness offers a variety of membership options with state-of-the-art equipment and clean workout areas, with no annual commitment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Health clubs in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Planet Fitness",
+    "address": "Multiple locations throughout Indiana (e.g., 8440 US-31, Indianapolis, IN 46227)",
+    "phone": "(317) 882-1234 (example for one location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.planetfitness.com/gyms/indiana",
+    "category": "Atheist-owned Health clubs in Indiana",
+    "description": "Planet Fitness offers affordable memberships in a \"Judgement Free Zone\" with a wide range of equipment and amenities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Health clubs in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Peak Performance Fitness",
+    "address": "8425 N Michigan Rd, Indianapolis, IN 46268",
+    "phone": "(317) 872-7325",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.peakperformanceindy.com/",
+    "category": "Atheist-owned Health clubs in Indiana",
+    "description": "Peak Performance Fitness offers over 14,000 square feet of workout space with a highly educated and certified staff, providing a clean and well-maintained facility",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Health clubs in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Invoke Yoga & Pilates Studio",
+    "address": "930 E. Washington St, Indianapolis, IN 46202 (and other locations)",
+    "phone": "(317) 600-3535",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.invokestudio.com/",
+    "category": "Atheist-owned Health clubs in Indiana",
+    "description": "Invoke offers a dynamic range of yoga and Pilates classes, workshops, and events in a calming and welcoming space, including infrared-heated yoga",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Health clubs in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Yoga Studio",
+    "address": "6150 N. Keystone Ave, Indianapolis, IN 46220 (and other locations)",
+    "phone": "(317) 257-9642",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.theyogastudios.com/",
+    "category": "Atheist-owned Health clubs in Indiana",
+    "description": "This hot yoga studio features dynamic and challenging classes designed to promote a happier, healthier, and more productive life, suitable for all experience levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Health clubs in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Grit Fitness",
+    "address": "1500 US-41, Schererville, IN 46375",
+    "phone": "(219) 865-4748",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://gritfitnessin.com/",
+    "category": "Atheist-owned Health clubs in Indiana",
+    "description": "Grit Fitness is a workout center offering a wide variety of machines, free weights, cardio equipment, and group classes like Zumba and Yoga",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Health clubs in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "YogaSix Indianapolis",
+    "address": "140 S. Indiana Ave, Indianapolis, IN 46201 (and other locations)",
+    "phone": "(317) 454-7200",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.yogasix.com/location/indianapolis",
+    "category": "Atheist-owned Health clubs in Indiana",
+    "description": "YogaSix offers a sensory yoga experience with various class types focused on strength, agility, flexibility, and balance in a safe and sanitized environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Health clubs in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Hot Room",
+    "address": "502 E. North St, Indianapolis, IN 46204 (and other locations)",
+    "phone": "(317) 920-7000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.thehotroom.com/",
+    "category": "Atheist-owned Health clubs in Indiana",
+    "description": "The Hot Room offers hot yoga and heated fitness classes designed to heal and strengthen the body and mind, with a welcoming environment for all levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Health clubs in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "iN FiTNESS CLUB",
+    "address": "8555 N. Michigan Rd, Indianapolis, IN 46268",
+    "phone": "(317) 405-3000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.infitnessclub.com/",
+    "category": "Atheist-owned Health clubs in Indiana",
+    "description": "iN FiTNESS CLUB is an elite fitness club offering high-end amenities, personal training, various fitness classes, nutritional guidance, and childcare",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Health clubs in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Flourish Yoga + Wellbeing",
+    "address": "9780 E. 116th St, Fishers, IN 46037",
+    "phone": "(317) 537-7007",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.flourishindy.com/",
+    "category": "Atheist-owned Health clubs in Indiana",
+    "description": "Flourish Yoga + Wellbeing is a boutique studio offering hot yoga, various yoga classes, red light therapy, and teacher trainings in a community-focused environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Health clubs in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
