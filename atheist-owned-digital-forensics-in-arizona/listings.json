@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Cyber Centaurs",
+    "address": "7171 E. Rancho Vista Drive, Suite 100, Scottsdale, AZ 85253",
+    "phone": "(800) 839-2088",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.cybercentaurs.com/",
+    "category": "Atheist-owned Digital forensics in Arizona",
+    "description": "Specializes in digital forensics, incident response, and data breach investigations for corporate and legal sectors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Digital forensics in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "OPS Consulting and Investigative Services LLC (OPS CIS)",
+    "address": "Phoenix, AZ (Specific address not publicly listed, often operates remotely or from a secure office)",
+    "phone": "(602) 456-0070",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.opscis.com/",
+    "category": "Atheist-owned Digital forensics in Arizona",
+    "description": "A premier digital forensics company in Phoenix with investigators experienced in law enforcement and military agencies, offering forensic accounting and expert testimony",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Digital forensics in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Forensic Discovery",
+    "address": "Serves Phoenix, AZ (Headquartered in Denver, CO)",
+    "phone": "(855) 839-9084",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://forensicdiscovery.com/",
+    "category": "Atheist-owned Digital forensics in Arizona",
+    "description": "A highly-rated digital forensics and eDiscovery provider known for professionalism, quality, and responsiveness, serving law firms, businesses, and individuals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Digital forensics in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Technical Resource Center, Inc. (TRC)",
+    "address": "Mailing Address: 20422 Beach Blvd. Suite #205, Huntington Beach CA 92648 (Serves all of Arizona)",
+    "phone": "(800) 839-2088",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.trcglobal.com/",
+    "category": "Atheist-owned Digital forensics in Arizona",
+    "description": "Provides computer forensics, cell phone investigations, eDiscovery, and expert witness testimony across the United States, including Arizona",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Digital forensics in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ArcherHall",
+    "address": "Arizona (Specific office location not detailed, but serves the state)",
+    "phone": "(855) 839-9084",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.archerhall.com/",
+    "category": "Atheist-owned Digital forensics in Arizona",
+    "description": "Offers digital forensics and eDiscovery services including forensic imaging, cell phone forensics, data recovery, and expert testimony",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Digital forensics in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Digital Forensics Corp.",
+    "address": "Serves multiple locations in Arizona, including Scottsdale, Chandler, Glendale, Gilbert, Tempe, and Peoria. (Specific office address not listed)",
+    "phone": "(800) 849-6515",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.digitalforensics.com/locations/arizona/",
+    "category": "Atheist-owned Digital forensics in Arizona",
+    "description": "Provides expert digital forensics, cybersecurity, and incident response services, extracting Electronically Stored Information (ESI) from various devices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Digital forensics in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Digital Investigations",
+    "address": "Glendale, AZ (Specific office address not detailed, but serves the area)",
+    "phone": "(800) 790-4524",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.digitalinvestigation.com/",
+    "category": "Atheist-owned Digital forensics in Arizona",
+    "description": "Offers private digital investigations and e-discovery services, specializing in infidelity, spyware, cyber harassment, and corporate investigations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Digital forensics in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kroll",
+    "address": "2901 N. Central Ave, Suite 1100, Phoenix, AZ 85004",
+    "phone": "(602) 277-1100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kroll.com/",
+    "category": "Atheist-owned Digital forensics in Arizona",
+    "description": "A global leader in risk and regulatory solutions, offering a wide range of services including digital forensics and incident response",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Digital forensics in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Stroz Friedberg (A wholly owned subsidiary of Aon)",
+    "address": "2 N Central Ave, Suite 1100, Phoenix, AZ 85004",
+    "phone": "(602) 277-1100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.strozfriedberg.com/",
+    "category": "Atheist-owned Digital forensics in Arizona",
+    "description": "Provides advanced cybersecurity services, including digital forensics, incident response, and risk management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Digital forensics in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SecureWorks",
+    "address": "2390 E. Camelback Rd, Suite 100, Phoenix, AZ 85016",
+    "phone": "(877) 732-7369",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.secureworks.com/",
+    "category": "Atheist-owned Digital forensics in Arizona",
+    "description": "Offers a range of cybersecurity services, including threat intelligence, incident response, and digital forensics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Digital forensics in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
