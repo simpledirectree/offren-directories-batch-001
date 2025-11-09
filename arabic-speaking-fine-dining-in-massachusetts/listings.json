@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Al Wadi",
+    "address": "1249 V.F.W. Parkway, West Roxbury, MA 02132",
+    "phone": "(617) 325-3254",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.alwadiboston.com/",
+    "category": "Arabic-speaking Fine dining in Massachusetts",
+    "description": "Offers an upscale Lebanese dining experience with traditional food infused with a modern twist",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Molana Restaurant",
+    "address": "580 Mt Auburn St, Watertown, MA 02472",
+    "phone": "(617) 923-2554",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://molanarestaurant.com/",
+    "category": "Arabic-speaking Fine dining in Massachusetts",
+    "description": "Serves authentic Persian halal dishes, using high-quality ingredients and spices imported from Iran",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vanak Food",
+    "address": "Information not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://vanakfood.com/",
+    "category": "Arabic-speaking Fine dining in Massachusetts",
+    "description": "Offers authentic Persian halal dishes, including kebabs and falafel, with a focus on fresh, premium ingredients and traditional recipes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oleana Restaurant",
+    "address": "134 Hampshire Street, Cambridge, MA 02139",
+    "phone": "617-661-0505",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://oleanarestaurant.com/",
+    "category": "Arabic-speaking Fine dining in Massachusetts",
+    "description": "Celebrates the cuisine of Turkey and the Middle East with vivid flavors, aromatic spices, and a commitment to fresh ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Byblos Restaurant",
+    "address": "678 Washington St, Norwood, MA 02062",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://byblosnorwood.com/",
+    "category": "Arabic-speaking Fine dining in Massachusetts",
+    "description": "A family restaurant offering authentic Lebanese cuisine with traditional dishes like falafel, kibbeh, and hummus",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "El Basha Restaurant",
+    "address": "Multiple locations, including Westborough, MA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://elbasharestaurants.com/",
+    "category": "Arabic-speaking Fine dining in Massachusetts",
+    "description": "Offers a Mediterranean dining experience with authentic flavors and exceptional service across four locations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blue Fez Restaurant",
+    "address": "118 Washington St, Salem, MA",
+    "phone": "(978) 744-2700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://bluefezrestaurant.com/",
+    "category": "Arabic-speaking Fine dining in Massachusetts",
+    "description": "Features Moroccan and Mediterranean cuisine with a unique twist on traditional dishes, prepared by a chef with over 30 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yafa Bakery Cafe",
+    "address": "Information not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Yafa+Bakery+Cafe+in+Massachusetts",
+    "category": "Arabic-speaking Fine dining in Massachusetts",
+    "description": "Known for its sweet and savory offerings, it has been voted the best bakery in Boston for two consecutive years",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Luxor Cafe",
+    "address": "148 Mt Auburn St, Cambridge, MA 02138",
+    "phone": "(617) 661-0904",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://luxorcafee.com/",
+    "category": "Arabic-speaking Fine dining in Massachusetts",
+    "description": "A family-owned cafe serving Egyptian-inspired coffee, pastries, and Mediterranean dishes with a unique atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fattoush Restaurant",
+    "address": "142 Massachusetts Ave, Arlington, MA 02474",
+    "phone": "(781) 777-1528",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://fattoushrestaurant.com/",
+    "category": "Arabic-speaking Fine dining in Massachusetts",
+    "description": "A vegan and Mediterranean restaurant offering authentic traditional Mediterranean cuisine with Levantine influences",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Fine dining in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
