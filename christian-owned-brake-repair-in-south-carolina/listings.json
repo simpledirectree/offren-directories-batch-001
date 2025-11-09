@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Christian Brothers Automotive - Lexington",
+    "address": "1007 W Main St, Lexington, SC 29072",
+    "phone": "(803) 957-1111",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.christianbrothersauto.com/locations/lexington/",
+    "category": "Christian-owned Brake repair in South-Carolina",
+    "description": "This shop offers a full range of automotive repair and maintenance services, including brake repair. They emphasize honesty, reliability, and excellent customer service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Brake repair in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Brothers Automotive - Irmo",
+    "address": "1155 Lake Murray Blvd, Irmo, SC 29063",
+    "phone": "(803) 732-3200",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.christianbrothersauto.com/locations/irmo/",
+    "category": "Christian-owned Brake repair in South-Carolina",
+    "description": "This location provides comprehensive auto repair services, including brake diagnostics and repair. They are known for their professional and friendly service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Brake repair in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Brothers Automotive - Goose Creek",
+    "address": "1105 Red Bank Rd, Goose Creek, SC 29445",
+    "phone": "(843) 948-5251",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.christianbrothersauto.com/locations/goose-creek/",
+    "category": "Christian-owned Brake repair in South-Carolina",
+    "description": "This branch offers a wide range of auto repair services, including brake work, with a focus on customer satisfaction and transparency",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Brake repair in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Brothers Automotive - Folly Road (Charleston)",
+    "address": "1475 Folly Road, Charleston, SC 29412",
+    "phone": "(854) 842-3552",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.christianbrothersauto.com/locations/folly-road/",
+    "category": "Christian-owned Brake repair in South-Carolina",
+    "description": "This family-owned auto shop provides reliable repairs and maintenance, including brake services, with a commitment to excellent customer service and a 3-year/36,000-mile warranty",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Brake repair in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Brothers Automotive - Greenville",
+    "address": "2055 E Washington St, Greenville, SC 29607",
+    "phone": "(864) 244-1111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.christianbrothersauto.com/locations/greenville/",
+    "category": "Christian-owned Brake repair in South-Carolina",
+    "description": "This location offers professional auto repair services, including brake inspections and repairs, with a focus on building long-term customer relationships",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Brake repair in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Automotive Repair",
+    "address": "2148 Dolly Rose Drive, York, South Carolina 29745",
+    "phone": "(803) 659-0927",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.christianautomotiverepair.com/",
+    "category": "Christian-owned Brake repair in South-Carolina",
+    "description": "This shop provides expert auto repair services, including maintenance and repairs for various car issues. They emphasize reliable and efficient solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned Brake repair in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
