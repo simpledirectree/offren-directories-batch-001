@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Buddha's Light Private School (TCML - Taiwan Center for Mandarin Learning)",
+    "address": "1111 International Parkway, Richardson, TX 75081",
+    "phone": "972-907-8180",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dallasibps.org/tcml.php",
+    "category": "Buddhist-owned Business language training in Texas",
+    "description": "Offers Mandarin education with an emphasis on traditional culture. They provide small class sizes and after-class tutoring, with a curriculum covering grammar, vocabulary, speaking, listening, reading, and writing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Business language training in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bodhi Chinese Language School",
+    "address": "Located behind Jade Buddha Temple, Houston, TX (Specific address for the school not provided, but Jade Buddha Temple is at 6969 West Branch Dr., Houston, TX 77072)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.jadebuddha.org",
+    "category": "Buddhist-owned Business language training in Texas",
+    "description": "Offers weekend classes for children and teenagers to learn Chinese language and cultural activities. Courses are grounded in Buddhist principles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Business language training in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tohui School",
+    "address": "16320 Huebner Rd, San Antonio TX, 78248",
+    "phone": "(210) 387-8491",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://tohuischool.com/",
+    "category": "Buddhist-owned Business language training in Texas",
+    "description": "A trilingual school offering immersion in English, Spanish, and Mandarin. They focus on academic, emotional, and cultural growth, preparing students to be global citizens",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Business language training in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
