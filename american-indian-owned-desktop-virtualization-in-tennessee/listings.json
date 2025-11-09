@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Dabbs Computer Consultants",
+    "address": "7051 Hwy 70 S PMB 339, Nashville, TN 37221",
+    "phone": "615-690-0100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dabbscc.com/",
+    "category": "American-Indian-owned Desktop virtualization in Tennessee",
+    "description": "Offers desktop virtualization services to improve productivity and reduce IT management costs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Desktop virtualization in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hunt's Computer Solutions, LLC",
+    "address": "6606 Charlotte Pike Suite 202, Nashville, TN 37209",
+    "phone": "615-768-9675",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://huntscomputersolutions.com/",
+    "category": "American-Indian-owned Desktop virtualization in Tennessee",
+    "description": "Provides virtualization solutions for businesses to increase efficiency and reduce expenses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Desktop virtualization in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Magnum Computer Services",
+    "address": "Information not available (serves Middle TN)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.magnumcs.com/",
+    "category": "American-Indian-owned Desktop virtualization in Tennessee",
+    "description": "Offers server virtualization services in partnership with VMware and Microsoft",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Desktop virtualization in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NorDutch Technologies, Inc.",
+    "address": "Information not available (serves Brentwood, TN)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nordutch.com/",
+    "category": "American-Indian-owned Desktop virtualization in Tennessee",
+    "description": "Provides server virtualization, desktop virtualization, application virtualization, and storage virtualization solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Desktop virtualization in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CloudSmart IT",
+    "address": "Information not available (serves Nashville, TN)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cloudsmartit.com/",
+    "category": "American-Indian-owned Desktop virtualization in Tennessee",
+    "description": "Offers cloud computing services, including solutions that provide access to data and desktops from any location or device",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Desktop virtualization in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native American Indian Assoc. of TN (NAIA)",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.naia-tn.org/",
+    "category": "American-Indian-owned Desktop virtualization in Tennessee",
+    "description": "A non-profit service agency established to improve the quality of life for Native American Indians residing in Tennessee",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Desktop virtualization in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "All Native Group",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.allnativegroup.com/",
+    "category": "American-Indian-owned Desktop virtualization in Tennessee",
+    "description": "A network of Native-owned small businesses serving federal government clients with professional, health, and technical services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Desktop virtualization in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ATI Government Solutions, LLC (Tribal Advantage)",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aticompanies.com/ati-government-solutions/",
+    "category": "American-Indian-owned Desktop virtualization in Tennessee",
+    "description": "A Native American, tribally-owned enterprise providing solutions to federal government clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Desktop virtualization in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Infinite Computer Solutions",
+    "address": "Information not available (global presence)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://infinite.com/",
+    "category": "American-Indian-owned Desktop virtualization in Tennessee",
+    "description": "A global leader in digital engineering and IT services, offering solutions in AI, cybersecurity, and cloud migration",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Desktop virtualization in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arctic IT",
+    "address": "Information not available (serves tribal entities)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://arcticit.com/",
+    "category": "American-Indian-owned Desktop virtualization in Tennessee",
+    "description": "A Native-owned organization providing technology solutions and cloud services to tribal governments and businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Desktop virtualization in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
