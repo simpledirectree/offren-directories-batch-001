@@ -1,0 +1,172 @@
+[
+  {
+    "name": "AmazingTalker",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.amazingtalker.com/",
+    "category": "Chinese-speaking Test preparation in Alaska",
+    "description": "An online platform connecting students with Chinese tutors for personalized lessons. They offer various courses, including those for test preparation. Ratings and reviews are available for individual tutors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Test preparation in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Preply",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://preply.com/en/",
+    "category": "Chinese-speaking Test preparation in Alaska",
+    "description": "Similar to AmazingTalker, Preply offers a wide selection of online Chinese tutors. You can find tutors based on your learning goals, including test preparation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Test preparation in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wyzant",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wyzant.com/",
+    "category": "Chinese-speaking Test preparation in Alaska",
+    "description": "Wyzant is a platform where you can find local and online tutors for various subjects, including Chinese language. Many tutors have detailed profiles with ratings and reviews",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Test preparation in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Alaska Fairbanks (UAF)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.uaf.edu/catalog/current/CHNS.html",
+    "category": "Chinese-speaking Test preparation in Alaska",
+    "description": "UAF offers Chinese language courses (CHNS) as part of its academic programs. These courses can provide a strong foundation for test preparation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Test preparation in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Alaska Anchorage (UAA) Confucius Institute",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.uaa.alaska.edu/confucius-institute/",
+    "category": "Chinese-speaking Test preparation in Alaska",
+    "description": "UAA's Confucius Institute has offered non-credit Mandarin Chinese courses for community members, which could be beneficial for language learners",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Test preparation in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jade Chinese School",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jadechineseschool.com/hsk-exam-preparation",
+    "category": "Chinese-speaking Test preparation in Alaska",
+    "description": "This school specifically offers HSK (Hanyu Shuiping Kaoshi) exam preparation courses, focusing on vocabulary, grammar, and test-taking strategies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Test preparation in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "eBLCU.com",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eblcu.com/",
+    "category": "Chinese-speaking Test preparation in Alaska",
+    "description": "Offers online HSK test preparation courses with live lessons from Beijing Language and Culture University teachers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Test preparation in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "FCIAlaska.org (Friends of Chinese Immersion)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.fcialaska.org/",
+    "category": "Chinese-speaking Test preparation in Alaska",
+    "description": "Supports Chinese immersion programs in Anchorage schools and promotes Chinese language and culture. While not a direct test prep center, immersion can significantly aid language proficiency",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Test preparation in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alaska Chinese Association",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alaskachinese.org/",
+    "category": "Chinese-speaking Test preparation in Alaska",
+    "description": "This association supports the Chinese community in Anchorage and maintains a Chinese school to teach Mandarin Chinese and foster cultural appreciation. They may offer resources or classes that can help with test preparation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Test preparation in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Avant Assessment",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://avantassessment.com/",
+    "category": "Chinese-speaking Test preparation in Alaska",
+    "description": "While not a direct preparation center, Avant Assessment provides sample tests for various languages, including Mandarin Chinese, which can be useful for understanding test formats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Test preparation in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
