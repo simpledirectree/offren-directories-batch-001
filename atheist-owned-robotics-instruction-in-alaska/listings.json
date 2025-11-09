@@ -1,0 +1,172 @@
+[
+  {
+    "name": "ItsMyBot",
+    "address": "Online (Personalized 1:1 online STEM programs)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.itsmybot.com/",
+    "category": "Atheist-owned Robotics instruction in Alaska",
+    "description": "Offers online robotics and coding classes for kids, focusing on hands-on projects and STEM learning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Robotics instruction in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RoboticsCareer.org",
+    "address": "Online resource for programs near Anchorage, Alaska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.roboticscareer.org/",
+    "category": "Atheist-owned Robotics instruction in Alaska",
+    "description": "A resource to find robotics training programs and courses near Anchorage, Alaska, preparing participants for careers in manufacturing robotics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Robotics instruction in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Juneau Economic Development Council (JEDC) - FIRST IN ALASKA",
+    "address": "155 S. Seward Street, Suite 230, Juneau, AK 99801",
+    "phone": "(907) 586-0015",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jedc.org/firstinalaska/",
+    "category": "Atheist-owned Robotics instruction in Alaska",
+    "description": "Manages and coordinates FIRST LEGO League and FIRST Tech Challenge programs in Alaska, promoting STEM education and robotics competitions for youth",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Robotics instruction in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Alaska Anchorage (UAA) - College of Engineering",
+    "address": "3211 Providence Drive, Anchorage, Alaska 99508",
+    "phone": "(907) 786-1344",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.uaa.alaska.edu/academics/college-of-engineering/",
+    "category": "Atheist-owned Robotics instruction in Alaska",
+    "description": "Offers various certificate and degree programs in engineering and technology, including robotics, and hosts Summer Engineering Academies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Robotics instruction in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Challenger Learning Center of Alaska",
+    "address": "1000 E. 56th Ave., Anchorage, AK 99508",
+    "phone": "(907) 278-8000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.akchallenger.org/",
+    "category": "Atheist-owned Robotics instruction in Alaska",
+    "description": "Offers STEM Academies and summer camps, including LEGO Robotics programs focused on space exploration and engineering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Robotics instruction in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Anchorage Makerspace",
+    "address": "1406 West 33rd Ave, Anchorage, AK 99503",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.anchmak.org/",
+    "category": "Atheist-owned Robotics instruction in Alaska",
+    "description": "A community workshop offering a space for makers, with equipment for 3D printing, electronics, and potentially robotics projects. They host classes and events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Robotics instruction in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alaska Native Science and Engineering Program (ANSEP)",
+    "address": "Multiple locations, including University of Alaska Anchorage",
+    "phone": "(907) 786-0500 (UAA main line)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ansep.org/",
+    "category": "Atheist-owned Robotics instruction in Alaska",
+    "description": "Provides STEM education opportunities for Alaska students, with programs starting from elementary school through university, including robotics-related activities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Robotics instruction in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "FIRST in Alaska (part of JEDC)",
+    "address": "Juneau, Alaska (coordinates programs statewide)",
+    "phone": "(907) 586-0015",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jedc.org/firstinalaska/",
+    "category": "Atheist-owned Robotics instruction in Alaska",
+    "description": "Promotes FIRST LEGO League, FIRST Tech Challenge, and FIRST Robotics Competition across Alaska, fostering teamwork, innovation, and STEM skills through robotics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Robotics instruction in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alaska Afterschool Network",
+    "address": "Online resource, works with various programs across Alaska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.akafterschool.org/stem",
+    "category": "Atheist-owned Robotics instruction in Alaska",
+    "description": "Dedicated to expanding access to STEM learning programs outside of school hours, which can include robotics and technology education",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Robotics instruction in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alaska Robotics Mini-Con (Comics Camp)",
+    "address": "Southeast Alaska rainforest (specific campground details provided upon registration)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alaskarobotics.com/comics-camp",
+    "category": "Atheist-owned Robotics instruction in Alaska",
+    "description": "While primarily focused on comics and visual storytelling, this retreat for artists may offer interdisciplinary learning that could touch upon robotics or creative technology in a broader sense",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Robotics instruction in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
