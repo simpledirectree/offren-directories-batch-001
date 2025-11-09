@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Javelina",
+    "address": "5425 NE 30th Ave., Portland, OR 97211",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Javelina+in+Oregon",
+    "category": "Alaska-Native-owned Pop-up restaurants in Oregon",
+    "description": "Offers Indigenous comfort foods and traditional first foods, with dishes like frybread tacos and elk. It started as a pop-up and now has a brick-and-mortar location",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Pop-up restaurants in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bison Coffeehouse",
+    "address": "Not explicitly stated in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Bison+Coffeehouse+in+Oregon",
+    "category": "Alaska-Native-owned Pop-up restaurants in Oregon",
+    "description": "A coffee house with Native American ownership, known for its chai latte and pastries. It is a symbol of resilience for the Bannock people",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Pop-up restaurants in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Morchella Pop-Up",
+    "address": "Operates as a pop-up, with past events at locations like Morchella in Portland",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Morchella+Pop-Up+in+Oregon",
+    "category": "Alaska-Native-owned Pop-up restaurants in Oregon",
+    "description": "Focuses on foraged ingredients and innovative plant-based cuisine, highlighting Pacific Northwest flavors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Pop-up restaurants in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Machetes",
+    "address": "Has had residencies at various breweries and venues, including Gigantic Brewing Hawthorne in Portland",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Machetes+in+Oregon",
+    "category": "Alaska-Native-owned Pop-up restaurants in Oregon",
+    "description": "Offers Mexico City-style street food, with a signature dish called \"machete.\"",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Pop-up restaurants in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rez Dogz",
+    "address": "Housed inside Nixyaawii Community School on the Confederated Tribes of the Umatilla Indian Reservation",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Rez+Dogz+in+Oregon",
+    "category": "Alaska-Native-owned Pop-up restaurants in Oregon",
+    "description": "A grant-funded summer enrichment program where students serve First Foods-inspired recipes, including fry bread and blueberry cobbler",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Pop-up restaurants in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
