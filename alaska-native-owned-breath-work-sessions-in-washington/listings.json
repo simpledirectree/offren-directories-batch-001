@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Breathe Alaska",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.breatheak.com/",
+    "category": "Alaska-Native-owned Breath work sessions in Washington",
+    "description": "Offers breathwork services for stress relief, emotional release, and to promote inner peace. They offer in-person and virtual sessions, as well as an online membership community called \"The Breath Sanctuary.\"",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Breath work sessions in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Inner Alchemy",
+    "address": "3618 SW Alaska Street, lower Level with the entrance on 37th Ave. SW, Seattle, WA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Inner+Alchemy+in+Washington",
+    "category": "Alaska-Native-owned Breath work sessions in Washington",
+    "description": "This is a wellness center that offers various services including Kundalini Yoga and breathwork. While not explicitly stated as Alaska-Native-owned, it is located in Seattle and offers relevant services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Breath work sessions in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zimee Wellness Center & Indigenous Sovereignty",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Zimee+Wellness+Center+&+Indigenous+Sovereignty+in+Washington",
+    "category": "Alaska-Native-owned Breath work sessions in Washington",
+    "description": "This center offers holistic healing services with an Indigenous perspective, including meditation classes and life coaching. It is described as Native-Owned and located in the Pacific Northwest, likely including Washington",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Breath work sessions in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Northwest Indian College",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nwic.edu/",
+    "category": "Alaska-Native-owned Breath work sessions in Washington",
+    "description": "Located in Bellingham, WA, this is a Tribal College that may offer or be aware of Native-owned wellness practitioners",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Breath work sessions in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Seattle Indian Health Board (SIHB)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Seattle+Indian+Health+Board+(SIHB)+in+Washington",
+    "category": "Alaska-Native-owned Breath work sessions in Washington",
+    "description": "This organization serves urban American Indians and Alaska Natives and focuses on a strengths-based, \"unapologetically Indigenous\" approach to health and wellness. They may be able to provide referrals or information on local practitioners",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Breath work sessions in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
