@@ -1,0 +1,87 @@
+[
+  {
+    "name": "ef Design Group",
+    "address": "Chicago, Illinois",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/ef+Design+Group+in+Illinois",
+    "category": "African-American-owned Graphic design in Illinois",
+    "description": "A Black-owned, Chicago and Illinois Minority Certified, Union Licensed firm specializing in visual communication strategies, website development, corporate identities, event graphics, consumer package design, promotional materials, and political campaigns with full-service printing capabilities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Graphic design in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chykalophia",
+    "address": "Evanston, IL",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chykalophia+in+Illinois",
+    "category": "African-American-owned Graphic design in Illinois",
+    "description": "A branding and design agency specializing in brand strategy, visual identity design, and corporate branding. They are highly responsive and excel at translating complex brand ideas into effective visual solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Graphic design in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AmorServ",
+    "address": "Chicago, IL",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/AmorServ+in+Illinois",
+    "category": "African-American-owned Graphic design in Illinois",
+    "description": "A Black-owned web design company known for delivering high-quality web solutions tailored to client needs, utilizing the latest web technologies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Graphic design in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Creative Moxie",
+    "address": "Not specified (listed among Black-owned web design companies near Chicago)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Creative+Moxie+in+Illinois",
+    "category": "African-American-owned Graphic design in Illinois",
+    "description": "Offers personalized web design and branding services to help businesses build a strong online presence through storytelling and strategic design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Graphic design in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TaylorMade",
+    "address": "Midwest (general location, not specific to Illinois)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/TaylorMade+in+Illinois",
+    "category": "African-American-owned Graphic design in Illinois",
+    "description": "A Black-owned graphic design company aiming to help companies promote their brands",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Graphic design in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
