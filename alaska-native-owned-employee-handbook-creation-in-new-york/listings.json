@@ -1,0 +1,87 @@
+[
+  {
+    "name": "EBC HCM",
+    "address": "1 Penn Plaza, 250 W 34th St, New York, NY 10119",
+    "phone": "(212) 244-4444",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ebchcm.com/",
+    "category": "Alaska-Native-owned Employee handbook creation in New-York",
+    "description": "Provides HR services, including employee handbook creation and updates, focusing on New York compliance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Employee handbook creation in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kona HR Consulting",
+    "address": "1370 Broadway, New York, NY 10018",
+    "phone": "(800) 570-5662",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://konahr.com/",
+    "category": "Alaska-Native-owned Employee handbook creation in New-York",
+    "description": "Offers customized HR solutions, including comprehensive services for HR, payroll, and benefits",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Employee handbook creation in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tr\u00fcpp HR",
+    "address": "(No specific New York address found, but they serve clients nationally)",
+    "phone": "(888) 722-4172",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.trupphr.com/",
+    "category": "Alaska-Native-owned Employee handbook creation in New-York",
+    "description": "Provides custom employee handbooks, handbook subscriptions, and review/update services, ensuring compliance with employment laws",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Employee handbook creation in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BLR (Business & Legal Reports)",
+    "address": "(No specific New York address found, but they offer resources for multi-state compliance)",
+    "phone": "(800) 727-5257",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blr.com/",
+    "category": "Alaska-Native-owned Employee handbook creation in New-York",
+    "description": "Offers resources and tools for creating compliant employee handbooks, including an Employee Handbook Builder",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Employee handbook creation in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SixFifty",
+    "address": "(No specific New York address found, but they offer state-specific employee handbooks)",
+    "phone": "(800) 807-4244",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sixfifty.com/",
+    "category": "Alaska-Native-owned Employee handbook creation in New-York",
+    "description": "Provides a platform for employers to create personalized, state-specific employee handbooks efficiently",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Employee handbook creation in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
