@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Chamisa Veterinary Services",
+    "address": "7502 Mallard Way Unit A, Santa Fe, NM 87507",
+    "phone": "(505) 795-2300",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chamisaveterinary.com/",
+    "category": "Buddhist-owned Veterinary services in New-Mexico",
+    "description": "Offers comprehensive veterinary care, including in-home and in-clinic services, fear-free examinations, diagnostics, vaccinations, pain management, palliative care, and end-of-life euthanasia. They also provide physical rehabilitation services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sunrise Veterinary Clinic",
+    "address": "132 Rio Rancho Blvd NE, Rio Rancho, NM 87124",
+    "phone": "(505) 892-6538",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://sunriseveterinary.com/",
+    "category": "Buddhist-owned Veterinary services in New-Mexico",
+    "description": "Provides full-service veterinary care for dogs, cats, rabbits, birds, and more. They have been serving the Rio Rancho and Albuquerque communities for over 30 years and offer 24/7 emergency services to existing clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eubank Animal Clinic",
+    "address": "1601 Eubank Blvd NE, Albuquerque, NM 87112",
+    "phone": "(505) 296-0715",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eubankanimalclinic.com/",
+    "category": "Buddhist-owned Veterinary services in New-Mexico",
+    "description": "A full-service veterinary clinic offering medical, surgical, dental, radiographic, ultrasound, and lab services. They welcome dogs, cats, birds, pocket pets, and exotics and are currently accepting new patients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Valle Verde Animal Hospital",
+    "address": "4325 Carlisle Blvd NE, Albuquerque, NM 87107",
+    "phone": "(505) 494-5000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.valleverdeah.com/",
+    "category": "Buddhist-owned Veterinary services in New-Mexico",
+    "description": "Offers complete veterinary care services, specializing in dogs, cats, exotic animals, birds, and small mammals. They provide specialty services and advanced surgeries in-house, including emergency care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Francis Animal Clinic",
+    "address": "10120 Menaul Blvd NE, Albuquerque, NM 87112",
+    "phone": "(505) 881-3030",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stfrancisanimalclinic.com/",
+    "category": "Buddhist-owned Veterinary services in New-Mexico",
+    "description": "Has provided competent and compassionate care in Albuquerque for over 60 years. They specialize in medical pet services, vaccines, dental care, boarding, and bathing at competitive rates",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sandia Animal Clinic",
+    "address": "8914 Menaul Blvd NE, Albuquerque, NM 87112",
+    "phone": "(505) 294-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://sandiaanimalclinic.com/",
+    "category": "Buddhist-owned Veterinary services in New-Mexico",
+    "description": "A veterinary hospital with friendly, caring, and knowledgeable veterinarians and staff. They offer quality care at reasonable prices and are known for their compassionate approach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cameron Veterinary Clinic",
+    "address": "1007 Old Santa Fe Trail, Santa Fe, NM 87505",
+    "phone": "(505) 466-1540",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cameronvet.com/",
+    "category": "Buddhist-owned Veterinary services in New-Mexico",
+    "description": "Offers holistic and traditional medicine, including acupuncture and Western herbal therapy, to help pets heal. They treat the patient as a whole and focus on improving overall well-being",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aztec Animal Clinic",
+    "address": "11000 Montgomery Blvd NE, Albuquerque, NM 87111",
+    "phone": "(505) 296-5404",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aztecanimalclinic.com/",
+    "category": "Buddhist-owned Veterinary services in New-Mexico",
+    "description": "A progressive veterinary medical hospital focused on improving the well-being of patients, clients, staff, and the community. They treat pets with respect and focus on individual needs and the latest developments in veterinary medicine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Animal Humane New Mexico - Veterinary Clinic",
+    "address": "615 Virginia St SE, Albuquerque, NM 87108",
+    "phone": "(505) 938-7555",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.animalhumanenm.org/services/veterinary-clinic/",
+    "category": "Buddhist-owned Veterinary services in New-Mexico",
+    "description": "Offers affordable, preventative care for qualified clients. While not a free clinic, their prices are reduced compared to industry standards. They provide medical treatment, euthanasia, spays, neuters, dentals, and other surgical procedures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Petroglyph Animal Hospital",
+    "address": "6633 Caminito Coors NW, Albuquerque, NM 87120",
+    "phone": "(505) 898-8874",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.petroglyphvet.com/",
+    "category": "Buddhist-owned Veterinary services in New-Mexico",
+    "description": "Provides comprehensive veterinary care for pets. They offer a range of services to keep pets healthy and happy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Veterinary services in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
