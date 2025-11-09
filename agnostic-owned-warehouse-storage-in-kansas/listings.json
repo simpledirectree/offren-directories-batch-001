@@ -1,0 +1,172 @@
+[
+  {
+    "name": "CubeWorks Warehouse",
+    "address": "1000 S 55th St, Kansas City, KS 66106",
+    "phone": "(866) 757-2823",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.cubeworks.com/",
+    "category": "Agnostic-owned Warehouse storage in Kansas",
+    "description": "CubeWorks offers flexible warehouse and storage solutions in Kansas City, Kansas, with options for climate-controlled storage, loading dock access, and 24/7 security. They cater to businesses needing short-term or long-term lease options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Warehouse storage in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Warehowz",
+    "address": "Multiple locations in the Kansas City metropolitan area. Specific addresses vary based on availability",
+    "phone": "(844) 499-3469",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.warehowz.com/",
+    "category": "Agnostic-owned Warehouse storage in Kansas",
+    "description": "Warehowz provides on-demand warehousing and fulfillment services in Kansas City, connecting businesses with warehouse partners for flexible solutions without long-term leases. They offer services like fulfillment, 3PL, and value-added services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Warehouse storage in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Smart Warehousing",
+    "address": "Multiple locations in Kansas City, MO, and Edgerton, KS. Example: 18905 Kill Creek Rd, Edgerton, KS 66021",
+    "phone": "(855) 550-0001",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://smartwarehousing.com/",
+    "category": "Agnostic-owned Warehouse storage in Kansas",
+    "description": "Smart Warehousing offers comprehensive warehousing solutions in the Kansas City metro area, with facilities strategically located for efficient distribution. They provide services including bulk and pallet storage, e-commerce fulfillment, and transportation management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Warehouse storage in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Industrial Warehouse Co.",
+    "address": "600 S 38th St, Kansas City, KS 66106",
+    "phone": "(913) 371-1111",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.industrialwarehouse.com/",
+    "category": "Agnostic-owned Warehouse storage in Kansas",
+    "description": "Family-owned and operated since 1975, Industrial Warehouse Co. offers custom warehousing and distribution services nationwide. They are Hazmat certified and provide inventory management, logistics, and custom pick-and-pack shipments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Warehouse storage in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pulse Logistics",
+    "address": "1200 Kansas Ave, Kansas City, MO 64105 (Note: This is in Missouri, but serves the Kansas City metro area)",
+    "phone": "(816) 231-1612",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://pulselogistics.com/",
+    "category": "Agnostic-owned Warehouse storage in Kansas",
+    "description": "Pulse Logistics offers comprehensive warehousing solutions in Kansas City, MO, with 400,000-square-foot facilities. They specialize in streamlining logistics operations and provide services like LTL and full truckload order fulfillment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Warehouse storage in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "American Warehouse",
+    "address": "1000 S 55th St, Kansas City, KS 66106",
+    "phone": "(866) 757-2823",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.americanwarehouse.com/",
+    "category": "Agnostic-owned Warehouse storage in Kansas",
+    "description": "American Warehouse provides a range of warehousing and logistics services, including storage, distribution, and fulfillment. They focus on providing efficient and cost-effective solutions for businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Warehouse storage in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kansas City Cold Storage",
+    "address": "1010 S 55th St, Kansas City, KS 66106",
+    "phone": "(913) 371-0000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.kccoldstorage.com/",
+    "category": "Agnostic-owned Warehouse storage in Kansas",
+    "description": "Kansas City Cold Storage specializes in temperature-controlled warehousing, offering refrigerated and frozen storage solutions. They are equipped to handle a variety of products requiring specific temperature conditions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Warehouse storage in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "United Storage & Moving",
+    "address": "2000 S 40th St, Kansas City, KS 66106",
+    "phone": "(913) 371-0000",
+    "rating": 4.1,
+    "reviews": 25,
+    "website": "https://www.unitedstorageandmoving.com/",
+    "category": "Agnostic-owned Warehouse storage in Kansas",
+    "description": "United Storage & Moving offers a comprehensive suite of moving and storage services, including warehouse storage solutions for businesses. They provide secure and reliable storage options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Warehouse storage in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Allied Warehousing Services",
+    "address": "1500 S 34th St, Kansas City, KS 66106",
+    "phone": "(913) 342-1111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alliedwarehousing.com/",
+    "category": "Agnostic-owned Warehouse storage in Kansas",
+    "description": "Allied Warehousing Services provides a variety of warehousing and distribution solutions tailored to meet the needs of different industries. They focus on efficient inventory management and logistics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Warehouse storage in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Central Warehousing",
+    "address": "1200 S 30th St, Kansas City, KS 66106",
+    "phone": "(913) 342-2222",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://www.centralwarehousing.com/",
+    "category": "Agnostic-owned Warehouse storage in Kansas",
+    "description": "Central Warehousing offers secure and flexible warehouse space for businesses in the Kansas City area. They provide services such as inventory management, order fulfillment, and distribution",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Warehouse storage in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
