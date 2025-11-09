@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Mei Wei Asian Bistro",
+    "address": "Multiple locations in Huntsville, AL (e.g., University and Downtown)",
+    "phone": "(256) 536-0088 (Downtown location)",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://meiweihsv.com/",
+    "category": "Asian-owned Casual dining in Alabama",
+    "description": "Offers a contemporary take on traditional Chinese, Thai, and Vietnamese cuisine with fresh, made-to-order dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Casual dining in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Taste of Asia",
+    "address": "Auburn and Opelika, AL (located within Asian Supermarket)",
+    "phone": "",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.tasteofasiaauburn.com/",
+    "category": "Asian-owned Casual dining in Alabama",
+    "description": "Specializes in authentic Cantonese and Szechuan Chinese cuisine, offering takeout and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Casual dining in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Four Leaves Asian Restaurant",
+    "address": "1007 Bob Wallace Ave SW, Huntsville, AL 35801",
+    "phone": "(256) 533-3300",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.fourleaveshsv.com/",
+    "category": "Asian-owned Casual dining in Alabama",
+    "description": "Provides an authentic Asian dining experience with a focus on fresh ingredients and minimal oil in cooking",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Casual dining in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asia Bistro & Seafood",
+    "address": "10680 Chantilly Pkwy, Montgomery, AL 36117",
+    "phone": "(334) 819-4111",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://asiabistromontgomery.com/",
+    "category": "Asian-owned Casual dining in Alabama",
+    "description": "Offers authentic Chinese, Japanese, and Thai cuisine with a focus on fresh ingredients and friendly service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Casual dining in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yuan Mei Asian Noodle",
+    "address": "2714 Government Blvd, Mobile, AL 36606",
+    "phone": "(251) 479-8886",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://yuanmeimobile.com/",
+    "category": "Asian-owned Casual dining in Alabama",
+    "description": "Serves authentic Chinese and Asian cuisine with convenient location and affordable prices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Casual dining in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Umami",
+    "address": "2707 7th Ave S, Birmingham, AL 35233",
+    "phone": "(205) 407-4171",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://umami-bham.com/",
+    "category": "Asian-owned Casual dining in Alabama",
+    "description": "Offers Asian-inspired cuisine and sushi with a focus on carefully selected ingredients and a unique dining experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Casual dining in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian Cafe Restaurant",
+    "address": "10680 Chantilly Pkwy, Montgomery, AL 36117",
+    "phone": "(334) 819-4111",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://asiancafemontgomery.com/",
+    "category": "Asian-owned Casual dining in Alabama",
+    "description": "Provides authentic Chinese, Japanese, and Thai cuisine with a focus on fresh ingredients and friendly service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Casual dining in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Beyond The Wok",
+    "address": "339 S College St. Suite F, Auburn AL 36830",
+    "phone": "(334) 209-6132",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://beyondthewok.com/",
+    "category": "Asian-owned Casual dining in Alabama",
+    "description": "Serves fresh, flavorful Asian dishes for dine-in, takeout, and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Casual dining in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian Garden",
+    "address": "2488 Hillcrest Rd, Mobile, AL 36695",
+    "phone": "(251) 661-8338",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://asiangardenmobile.com/",
+    "category": "Asian-owned Casual dining in Alabama",
+    "description": "Offers authentic Chinese cuisine in a casual yet classy atmosphere with takeout, delivery, and catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Casual dining in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "China Garden",
+    "address": "1888 Ogletree Rd #120, Auburn, AL 36830",
+    "phone": "(334) 887-0388",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "https://chinagarden-auburn.com/",
+    "category": "Asian-owned Casual dining in Alabama",
+    "description": "Provides fresh Chinese food with friendly and attentive service to the Auburn community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Casual dining in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
