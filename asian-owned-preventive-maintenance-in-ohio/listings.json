@@ -1,0 +1,121 @@
+[
+  {
+    "name": "C's Autohaus (Asian Auto Repair)",
+    "address": "5000 Fields Ertel Rd, Cincinnati, OH 45249",
+    "phone": "(513) 621-2000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.csautohaus.com/",
+    "category": "Asian-owned Preventive maintenance in Ohio",
+    "description": "Specializes in repair and maintenance for European, Asian, and domestic vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Preventive maintenance in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Import AutoCare",
+    "address": "2094 State Rd, Cuyahoga Falls, OH 44223",
+    "phone": "(330) 923-1233",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.importautocare.com/",
+    "category": "Asian-owned Preventive maintenance in Ohio",
+    "description": "Known for expertise in Asian import repair and maintenance for brands like Honda, Toyota, KIA, Subaru, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Preventive maintenance in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Springboro Automotive",
+    "address": "216 Hiawatha Trail, Springboro, OH 45066",
+    "phone": "(937) 746-7999",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.springboroautomotive.com/",
+    "category": "Asian-owned Preventive maintenance in Ohio",
+    "description": "Provides maintenance and repairs for Asian vehicle brands, with over 30 years of service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Preventive maintenance in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Steve's Car Care",
+    "address": "8033 Main St, Milford, OH 45150",
+    "phone": "(513) 880-4448",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.stevescarcareohio.com/",
+    "category": "Asian-owned Preventive maintenance in Ohio",
+    "description": "Specializes in expert Asian auto repair and maintenance services for various Asian vehicle makes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Preventive maintenance in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Luke's Auto",
+    "address": "5000 E Main St, Columbus, OH 43213",
+    "phone": "(614) 237-7777",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://lukesauto.net/",
+    "category": "Asian-owned Preventive maintenance in Ohio",
+    "description": "Offers comprehensive Asian vehicle services, including routine maintenance and major repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Preventive maintenance in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "R&M Foreign Auto Repair",
+    "address": "5500 Mason Montgomery Rd, Mason, OH 45040",
+    "phone": "(513) 398-7777",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.rmforeignauto.com/",
+    "category": "Asian-owned Preventive maintenance in Ohio",
+    "description": "A full-service facility specializing in Asian vehicle repairs and preventative maintenance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Preventive maintenance in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Super Tech Automotive",
+    "address": "106 N Main St, Union, OH 45322",
+    "phone": "(937) 836-6791",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.supertechauto.com/",
+    "category": "Asian-owned Preventive maintenance in Ohio",
+    "description": "Provides full-service auto repair and preventative maintenance, with a specialization in Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Preventive maintenance in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
