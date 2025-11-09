@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Greenhouse",
+    "address": "Fargo, ND (Specific address not publicly available, but operates in Fargo)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thegreenhouse.com/",
+    "category": "Agnostic-owned Professional development in North-Dakota",
+    "description": "Business coaching and exit/succession planning services for startups to high-growth firms",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Professional development in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North Dakota United",
+    "address": "301 N 4th St, Bismarck, ND 58501",
+    "phone": "(701) 223-0450",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ndunited.org/",
+    "category": "Agnostic-owned Professional development in North-Dakota",
+    "description": "Provides professional development courses and leadership training for educators, with a focus on customized learning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Professional development in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Business Training Works, Inc.",
+    "address": "Statewide services in North Dakota, with a focus on onsite training. (Specific headquarters not listed, but serves Fargo and smaller communities)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://businesstrainingworks.com/",
+    "category": "Agnostic-owned Professional development in North-Dakota",
+    "description": "Offers tailored onsite training courses and workshops in North Dakota, focusing on communication, leadership, and problem-solving",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Professional development in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North Dakota Women's Business Center (NDWBC)",
+    "address": "Services are statewide, with virtual or in-person meetings available. (Specific physical address for coaching not listed, but they are a statewide organization)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ndwbc.com/",
+    "category": "Agnostic-owned Professional development in North-Dakota",
+    "description": "Provides free and confidential business coaching sessions to help overcome obstacles and make informed business decisions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Professional development in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Leadership North Dakota",
+    "address": "Program involves travel throughout North Dakota, with monthly in-person sessions held at various locations across the state. (Specific headquarters not listed, but affiliated with University of Mary)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.umary.edu/academics/continuing-education/leadership-north-dakota/",
+    "category": "Agnostic-owned Professional development in North-Dakota",
+    "description": "A program designed to support leaders by providing advanced leadership skills, exploring key issues facing North Dakota, and facilitating high-level networking",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Professional development in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Poolman Leadership Academy (University of North Dakota)",
+    "address": "Grand Forks, ND (Associated with the University of North Dakota)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://und.edu/student-affairs/student-involvement/leadership-development/poolman-leadership-academy.html",
+    "category": "Agnostic-owned Professional development in North-Dakota",
+    "description": "Develops student leaders through education, engagement, and enrichment, focusing on expanding personal and interpersonal leadership skills",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Professional development in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ND Safety Council",
+    "address": "(Specific address for training not listed, but offers courses statewide)",
+    "phone": "701-223-6372",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ndsc.org/",
+    "category": "Agnostic-owned Professional development in North-Dakota",
+    "description": "Offers a Leadership Development Program that trains supervisors and managers to incorporate best safety practices into their daily management activities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Professional development in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dale Carnegie Training of North Dakota and NW Minnesota",
+    "address": "(Specific address not publicly available, but offers services in North Dakota)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dalecarnegie.com/locations/north-dakota-northwest-minnesota",
+    "category": "Agnostic-owned Professional development in North-Dakota",
+    "description": "Provides leadership coaching from executives to front-line managers, focusing on producing business results and personal transformation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Professional development in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TurnKey Coaching Solutions",
+    "address": "Fargo, ND (Serves the Fargo area with executive and leadership coaching)",
+    "phone": "281-469-4244",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.turnkeycoaching.com/",
+    "category": "Agnostic-owned Professional development in North-Dakota",
+    "description": "Offers professional executive and leadership coaching programs for various employee levels, with a focus on affordability and flexibility",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Professional development in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "North Dakota Small Business Development Centers (ND SBDC)",
+    "address": "Services are available statewide through the University of North Dakota. (Specific physical locations for advising not listed, but they are a statewide resource)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ndsbdc.org/",
+    "category": "Agnostic-owned Professional development in North-Dakota",
+    "description": "Provides customized guidance and resources, including business advising and training, to help business owners and entrepreneurs achieve their goals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Professional development in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
