@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Mahoney's Garden Center",
+    "address": "449 Western Ave, Brighton, MA 02135",
+    "phone": "(617) 782-5070",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.mahonys.com/",
+    "category": "Baby-Boomer-owned Indoor plant care in Massachusetts",
+    "description": "Mahoney's Garden Center is a large garden center offering a wide selection of annuals, perennials, trees, shrubs, houseplants, and decor. They are known for their rare indoor plants and diverse collection of pottery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Indoor plant care in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pemberton Farms Marketplace",
+    "address": "2225 Massachusetts Ave, Cambridge, MA 02140",
+    "phone": "(617) 491-2244",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pembertonfarms.com/",
+    "category": "Baby-Boomer-owned Indoor plant care in Massachusetts",
+    "description": "Pemberton Farms is a plant nursery and grocery store with a highly-rated selection of plants",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Indoor plant care in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ricky's Flower Market",
+    "address": "345 Union Square, Somerville, MA 02143",
+    "phone": "(617) 628-7569",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.rickysflowermarket.com/",
+    "category": "Baby-Boomer-owned Indoor plant care in Massachusetts",
+    "description": "Ricky's Flower Market offers a huge variety of interior and houseplants, including tropicals, cacti, succulents, and more. They also have a large selection of seeds and gardening supplies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Indoor plant care in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Seed to Stem",
+    "address": "138 Green St, Worcester, MA 01604",
+    "phone": "(508) 890-0933",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://seedtostem.shop/",
+    "category": "Baby-Boomer-owned Indoor plant care in Massachusetts",
+    "description": "Seed to Stem is a curated nature, plant, and lifestyle boutique offering unusual botanicals, natural wonders, terrariums, and home decor. They also have a location in Westborough",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Indoor plant care in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Niche Urban Garden Supply",
+    "address": "259 Elm Street, Somerville, MA 02144",
+    "phone": "(857) 706-1164",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://nicheplantshop.com/",
+    "category": "Baby-Boomer-owned Indoor plant care in Massachusetts",
+    "description": "Niche Plant Shop sells houseplants, pots, potting soil, and accessories, and offers houseplant help, consultations, and potting services. They have a location in Davis Square, Somerville",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Indoor plant care in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Growing Season",
+    "address": "1450 Beacon St, Brookline, MA 02446",
+    "phone": "(617) 566-0100",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.grow-season.com/",
+    "category": "Baby-Boomer-owned Indoor plant care in Massachusetts",
+    "description": "Growing Season is a plant shop with a great selection of plants and a knowledgeable owner",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Indoor plant care in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Allandale Farm",
+    "address": "259 Allandale Road, Brookline, MA 02467",
+    "phone": "(617) 524-1531",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.allandalefarm.com/",
+    "category": "Baby-Boomer-owned Indoor plant care in Massachusetts",
+    "description": "Allandale Farm offers sustainably grown perennials, annuals, herbs, and vegetable starts from their greenhouse. They have been awarded Best of Boston for their garden center",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Indoor plant care in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Briggs Nursery",
+    "address": "1500 Newport Ave, Attleboro, MA 02703",
+    "phone": "(508) 222-1110",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.briggsgarden.com/",
+    "category": "Baby-Boomer-owned Indoor plant care in Massachusetts",
+    "description": "Briggs Nursery is a large garden center with a wide selection of plants, tools, and fertilizers. They also have a cafe on-site",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Indoor plant care in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Echobrook Nursery",
+    "address": "106 Worcester Rd, Charlton, MA 01507",
+    "phone": "(508) 248-5100",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.echobrooknursery.com/",
+    "category": "Baby-Boomer-owned Indoor plant care in Massachusetts",
+    "description": "Echobrook Nursery is a full-service nursery offering a wide variety of distinctive plants and flowers, and is known for its knowledgeable and friendly staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Indoor plant care in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Newton Greenhouse",
+    "address": "245 Central St, Newton, NH 03858",
+    "phone": "(603) 382-5141",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.newtongreenhouse.com/",
+    "category": "Baby-Boomer-owned Indoor plant care in Massachusetts",
+    "description": "Newton Greenhouse has been in business since the 1970s and offers a wide variety of houseplants, flowering plants, vegetables, and holiday props. They have 18 greenhouses on their 15-acre property",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Indoor plant care in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
