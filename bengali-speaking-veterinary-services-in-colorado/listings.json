@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Sploot Veterinary Care",
+    "address": "Denver, CO 80211",
+    "phone": "(720) 730-8890",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.sploot.vet/",
+    "category": "Bengali-speaking Veterinary services in Colorado",
+    "description": "Offers both Primary Care and Urgent Care for pets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Veterinary services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yorkshire Veterinary Clinic",
+    "address": "8305 York Rd, Colorado Springs, CO 80918",
+    "phone": "(719) 598-3192",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://yorkshirevet.com/",
+    "category": "Bengali-speaking Veterinary services in Colorado",
+    "description": "Committed to offering high-quality medicine and surgery for small animals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Veterinary services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bear Valley Veterinary Clinic",
+    "address": "Denver, CO 80227",
+    "phone": "(303) 985-3316",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://bearvalleyvet.com/",
+    "category": "Bengali-speaking Veterinary services in Colorado",
+    "description": "A full-service veterinary hospital offering services for cats and dogs, including laser surgery and radiology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Veterinary services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mountain Ridge Animal Hospital & Pain Management Center",
+    "address": "Lafayette, CO 80026",
+    "phone": "(303) 665-3525",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.mountainridgeanimalhospital.com/",
+    "category": "Bengali-speaking Veterinary services in Colorado",
+    "description": "A full-service veterinary practice specializing in companion animal health care, including pain management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Veterinary services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bouton Veterinary Hospital",
+    "address": "Littleton, CO 80127",
+    "phone": "(303) 979-7373",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.boutonvet.com/",
+    "category": "Bengali-speaking Veterinary services in Colorado",
+    "description": "Offers a wide range of veterinary services for pets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Veterinary services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "East Springs Animal Hospital",
+    "address": "Colorado Springs, CO 80915",
+    "phone": "(719) 597-6411",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.eastspringsanimalhospital.com/",
+    "category": "Bengali-speaking Veterinary services in Colorado",
+    "description": "Provides high-quality, compassionate care to pets with a high standard of service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Veterinary services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hampden Family Pet Hospital",
+    "address": "3540 S. Logan Street, Englewood, CO 80113",
+    "phone": "(720) 664-8485",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://hampdenfph.com/",
+    "category": "Bengali-speaking Veterinary services in Colorado",
+    "description": "An AAHA-accredited practice offering traditional and specialty veterinary services, including cardiology and oncology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Veterinary services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Homestead Animal Hospital",
+    "address": "6900 S. Holly Circle, Centennial, CO 80112",
+    "phone": "(303) 771-7350",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "http://homestead-animal-hospital.com/",
+    "category": "Bengali-speaking Veterinary services in Colorado",
+    "description": "A full-service veterinary clinic offering services for small animals, avian, and exotic species, including urgent care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Veterinary services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tender Touch Animal Hospital",
+    "address": "Denver, CO",
+    "phone": "(303) 757-7881",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.tendertouchanimalhospital.com/",
+    "category": "Bengali-speaking Veterinary services in Colorado",
+    "description": "An AAHA-accredited small animal practice offering high-quality, innovative veterinary care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Veterinary services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Belcaro Animal Hospital P.C.",
+    "address": "3033 E. 1st Avenue, Denver, CO 80206",
+    "phone": "(303) 333-8800",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.belcarohospital.com/",
+    "category": "Bengali-speaking Veterinary services in Colorado",
+    "description": "A full-service animal hospital founded in 1947, providing medical, surgical, and dental veterinary care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Veterinary services in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
