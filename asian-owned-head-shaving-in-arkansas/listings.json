@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Handsome John's Barbershop",
+    "address": "202 E Emma Ave, Springdale, AR 72764",
+    "phone": "(479) 507-4600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thecavegrooming.com/",
+    "category": "Asian-owned Head shaving in Arkansas",
+    "description": "Offers upscale grooming services including haircuts and shaving",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Head shaving in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Letty's Barbershop",
+    "address": "5100 JFK Blvd Unit 7, North Little Rock, AR 72116",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Letty's+Barbershop+in+Arkansas",
+    "category": "Asian-owned Head shaving in Arkansas",
+    "description": "Offers head shaves and other barber services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Head shaving in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maxxed Out Blends - Little Rock",
+    "address": "821 W. Daisy L. Gatson Bates Dr., World Champion Cutts Barber Shop, Little Rock, AR 72202",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Maxxed+Out+Blends+-+Little+Rock+in+Arkansas",
+    "category": "Asian-owned Head shaving in Arkansas",
+    "description": "Offers head shaves and other barber services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Head shaving in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New U Barber Lounge - Little Rock",
+    "address": "7212 Geyer Springs Rd, Suite 4, Little Rock, AR 72209",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/New+U+Barber+Lounge+-+Little+Rock+in+Arkansas",
+    "category": "Asian-owned Head shaving in Arkansas",
+    "description": "Offers head shaves and other barber services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Head shaving in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Robinson Fades",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Robinson+Fades+in+Arkansas",
+    "category": "Asian-owned Head shaving in Arkansas",
+    "description": "Offers barber services including head shaves",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Head shaving in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bboythabarber",
+    "address": "3700 S University Ave, Little Rock, AR 72204",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Bboythabarber+in+Arkansas",
+    "category": "Asian-owned Head shaving in Arkansas",
+    "description": "Offers barber services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Head shaving in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AP",
+    "address": "3901 S University Ave, Little Rock, AR 72204",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/AP+in+Arkansas",
+    "category": "Asian-owned Head shaving in Arkansas",
+    "description": "Offers barber services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Head shaving in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Devine Cuts",
+    "address": "5108 Baseline Rd, Suite 114, Little Rock, AR 72209",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Devine+Cuts+in+Arkansas",
+    "category": "Asian-owned Head shaving in Arkansas",
+    "description": "Offers barber services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Head shaving in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
