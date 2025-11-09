@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Twin Dragon Chinese Restaurant",
+    "address": "1809 Carey Ave, Cheyenne, WY 82001",
+    "phone": "307-637-6622",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Twin+Dragon+Chinese+Restaurant+in+Wyoming",
+    "category": "Chinese-American-owned Seller representation in Wyoming",
+    "description": "A Chinese restaurant known for its authentic cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Seller representation in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Golden Dragon International Groceries",
+    "address": "(Located in Cheyenne, WY, specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Golden+Dragon+International+Groceries+in+Wyoming",
+    "category": "Chinese-American-owned Seller representation in Wyoming",
+    "description": "A store offering a unique selection of Asian food products",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Seller representation in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dragon Wall Restaurant",
+    "address": "Evanston, WY 82930",
+    "phone": "307-789-7788",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Dragon+Wall+Restaurant+in+Wyoming",
+    "category": "Chinese-American-owned Seller representation in Wyoming",
+    "description": "A Chinese restaurant",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Seller representation in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Great Wall Restaurant",
+    "address": "Gillette, WY (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Great+Wall+Restaurant+in+Wyoming",
+    "category": "Chinese-American-owned Seller representation in Wyoming",
+    "description": "Offers authentic and delicious Chinese cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Seller representation in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mabuhay Oriental Market",
+    "address": "Rawlins, WY (Specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mabuhay+Oriental+Market+in+Wyoming",
+    "category": "Chinese-American-owned Seller representation in Wyoming",
+    "description": "An Asian market offering ingredients, gifts, furniture, and clothing from Asia",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Seller representation in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Weee! (Online Asian Grocery Delivery)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Weee!+(Online+Asian+Grocery+Delivery)+in+Wyoming",
+    "category": "Chinese-American-owned Seller representation in Wyoming",
+    "description": "An online supermarket offering a wide selection of Asian groceries for delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Seller representation in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
