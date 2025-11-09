@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Vermont Insight Meditation Center",
+    "address": "28 Vernon St, Brattleboro, VT 05301 (This is their physical location, online classes are offered remotely)",
+    "phone": "(802) 490-3120",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vimc.org/",
+    "category": "Buddhist-owned Live online classes in Vermont",
+    "description": "Offers a variety of online courses, retreats, and meditation groups focused on Insight (Vipassana) meditation. They have recurring online sittings and dharma talks",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Live online classes in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vermont Zen Center",
+    "address": "108 Plank Rd, Shelburne, VT 05482 (This is their physical location, online classes are offered remotely)",
+    "phone": "(802) 985-8921",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vermontzen.org/",
+    "category": "Buddhist-owned Live online classes in Vermont",
+    "description": "Provides online Zen Buddhist teachings, workshops, and meditation sittings via Zoom. They offer introductory workshops and longer training programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Live online classes in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Burlington Buddhist Sangha",
+    "address": "(Online classes offered remotely, physical location not specified for online offerings)",
+    "phone": "(802) 540-2544 (This number is associated with Burlington Friends Meeting, where they sometimes meet)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://burlingtonbuddhist.org/",
+    "category": "Buddhist-owned Live online classes in Vermont",
+    "description": "This group, primarily based in the Insight Meditation school, offers online introductory drop-in classes and occasional longer courses for beginners and experienced practitioners",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Live online classes in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Karm\u00ea Ch\u00f6ling",
+    "address": "18-20 Old High Band Rd, Barnet, VT 05821 (This is their physical retreat center, online classes are offered remotely)",
+    "phone": "(802) 633-2384",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://karmecoling.org/",
+    "category": "Buddhist-owned Live online classes in Vermont",
+    "description": "A Buddhist meditation retreat center offering online programs, including meditation, mindfulness, and contemplation practices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Live online classes in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vermont Meditation Center (TM)",
+    "address": "(Online classes offered remotely, physical location not specified for online offerings)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tm.org/vermont-meditation-center",
+    "category": "Buddhist-owned Live online classes in Vermont",
+    "description": "Offers online introductory sessions and courses for Transcendental Meditation (TM), focusing on stress reduction and inner peace",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Live online classes in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kadampa Meditation Center New York (with Burlington, VT offerings)",
+    "address": "Burlington Friends Meeting, 173 North Prospect Street, Burlington, VT (for in-person meetings, online classes are remote)",
+    "phone": "(845) 856-9000 (main center number)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://kadampanewyork.org/",
+    "category": "Buddhist-owned Live online classes in Vermont",
+    "description": "While based in New York, they offer monthly classes in Burlington, VT, and also provide online resources and teachings based on Kadampa Buddhism",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Live online classes in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vipassana Meditation Center \u2013 Dhamma Dhar\u0101",
+    "address": "(Online classes offered remotely, physical location not specified for online offerings)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dhamma.org/en/locations/dhar\u0101",
+    "category": "Buddhist-owned Live online classes in Vermont",
+    "description": "This center offers Vipassana meditation courses, which can sometimes include online components or be a precursor to residential retreats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Live online classes in Vermont consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
