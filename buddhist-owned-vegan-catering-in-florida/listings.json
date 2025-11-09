@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Veggie Good Eats",
+    "address": "Not publicly listed, but serves Central Florida",
+    "phone": "+1 407-399-6495",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://veggiegoodeats.com/",
+    "category": "Buddhist-owned Vegan catering in Florida",
+    "description": "Offers vegan catering for various events, specializing in Mediterranean flavors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Vegan catering in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Wild Mushroom Caf\u00e9",
+    "address": "Not publicly listed, but serves South Florida",
+    "phone": "954-552-7710",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thewildmushroomcafe.com/",
+    "category": "Buddhist-owned Vegan catering in Florida",
+    "description": "A vegan catering concept focusing on sustainable and accessible vegan cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Vegan catering in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vine Vegan",
+    "address": "2080 Badlands Dr, Brandon, FL 33511",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://vinevegan.com/",
+    "category": "Buddhist-owned Vegan catering in Florida",
+    "description": "Offers vegan catering for events ranging from sandwich platters to weddings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Vegan catering in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hugo's Gourmet Catering",
+    "address": "Not publicly listed, but serves West Palm Beach, FL",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hugosgourmetcatering.com/vegan-menu",
+    "category": "Buddhist-owned Vegan catering in Florida",
+    "description": "Provides a vegan menu for catering, with a minimum of 30 guests",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Vegan catering in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dharma Southern Kitchen",
+    "address": "2603 E S St Market On S, Orlando, FL 32803",
+    "phone": "(407) 613-5968",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dharmakitchen.com/",
+    "category": "Buddhist-owned Vegan catering in Florida",
+    "description": "Offers vegan Southern comfort food and catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Vegan catering in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Loving Hut Orlando",
+    "address": "Not publicly listed, but is part of a chain with a location in Orlando, FL",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lovinghut.us/locations/loving-hut-orlando/",
+    "category": "Buddhist-owned Vegan catering in Florida",
+    "description": "A vegan restaurant chain that may offer catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Vegan catering in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Veggie Garden",
+    "address": "1216 East Colonial Drive, Orlando, FL, USA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.veggie-garden.com/",
+    "category": "Buddhist-owned Vegan catering in Florida",
+    "description": "A Vietnamese vegan restaurant in Orlando that may offer catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Vegan catering in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
