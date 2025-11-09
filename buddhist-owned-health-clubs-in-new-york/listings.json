@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Three Jewels NYC",
+    "address": "117 W 28th St, New York, NY 10001",
+    "phone": "(212) 725-1234",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.threejewels.org/",
+    "category": "Buddhist-owned Health clubs in New-York",
+    "description": "Offers yoga and meditation classes with a focus on Tibetan Buddhism",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Health clubs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dharmakaya Center for Wellbeing",
+    "address": "191 Cragsmoor Road, Cragsmoor, NY 12566",
+    "phone": "(845) 640-4593",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dharmakaya.org/",
+    "category": "Buddhist-owned Health clubs in New-York",
+    "description": "A center for spiritual wellbeing offering programs in Buddhist studies, meditation, yoga, and health",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Health clubs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blue Cliff Monastery",
+    "address": "340 St. Joseph's Way, Pine Bush, NY 12566",
+    "phone": "(845) 733-1700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bluecliffmonastery.org/",
+    "category": "Buddhist-owned Health clubs in New-York",
+    "description": "A mindfulness and meditation center founded by Thich Nhat Hanh, offering retreats and community events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Health clubs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kadampa Meditation Center New York",
+    "address": "420 State Route 299, Bloomingburg, NY 12721",
+    "phone": "(845) 733-1040",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://kadampanewyork.org/",
+    "category": "Buddhist-owned Health clubs in New-York",
+    "description": "Offers Buddhist meditation classes and retreats, aiming to provide inner peace and spiritual growth",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Health clubs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kadampa Meditation Center NYC",
+    "address": "142 W 19th St, New York, NY 10011",
+    "phone": "(212) 777-5200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kadampanyc.org/",
+    "category": "Buddhist-owned Health clubs in New-York",
+    "description": "Provides drop-in meditation classes using Buddhist methods to cultivate inner peace and happiness in the heart of NYC",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Health clubs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New York Zen Center",
+    "address": "121 4th Ave, New York, NY 10003",
+    "phone": "(212) 505-0333",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.newyorkzen.org/",
+    "category": "Buddhist-owned Health clubs in New-York",
+    "description": "A Zen community offering meditation, teachings, and service opportunities, rooted in Zen wisdom",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Health clubs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Buddha Barn: Yoga & Wellness",
+    "address": "2400 Bellmore Ave, Bellmore, NY 11710",
+    "phone": "(516) 637-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.buddhabarn.yoga/",
+    "category": "Buddhist-owned Health clubs in New-York",
+    "description": "A yoga and wellness studio offering yoga, meditation, and healing circles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Health clubs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Buddha Body Yoga",
+    "address": "41 Union Square West, Suite 724, New York, NY 10003 (Union Square Studio) and 1123 Broadway, Suite 1109, New York, NY 10010 (In Person Classes)",
+    "phone": "(917) 553-7710",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.buddhabodyyoga.com/",
+    "category": "Buddhist-owned Health clubs in New-York",
+    "description": "Offers modified yoga classes for all body types, with a focus on accessibility and well-being",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Health clubs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "USA Shaolin Temple",
+    "address": "102 Allen St, New York, NY 10002",
+    "phone": "(212) 358-7876",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://usashaolintemple.org/",
+    "category": "Buddhist-owned Health clubs in New-York",
+    "description": "Provides training in Kung Fu, Chi Gong, Tai Chi, and Ch'an Buddhism, aiming for physical, mental, and spiritual harmony",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Health clubs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zen Center of New York City: Fire Lotus Temple",
+    "address": "115 W 27th St, New York, NY 10001",
+    "phone": "(212) 677-1070",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.zenicny.org/",
+    "category": "Buddhist-owned Health clubs in New-York",
+    "description": "A refuge for spiritual practitioners offering zazen, workshops, and meditation intensives",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Health clubs in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
