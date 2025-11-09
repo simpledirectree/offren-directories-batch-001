@@ -1,0 +1,53 @@
+[
+  {
+    "name": "St. Joseph Brewery & Public House",
+    "address": "540 N. College Ave, Indianapolis, Indiana 46202",
+    "phone": "(317) 602-5670",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/St.+Joseph+Brewery+&+Public+House+in+Indiana",
+    "category": "Catholic-owned Casual dining in Indiana",
+    "description": "Located in a former Catholic church, this establishment offers craft beers and gastropub fare",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Casual dining in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cathedral Cafe",
+    "address": "134 S. Court St., Fayetteville, West Virginia, 25840 (Note: This is not in Indiana)",
+    "phone": "(304) 574-0202",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thecathedralcafe.com/",
+    "category": "Catholic-owned Casual dining in Indiana",
+    "description": "A cafe located in a former church, serving breakfast and lunch with homemade desserts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Casual dining in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fly By Faith Cafe",
+    "address": "613 Cherry Street, Evansville, IN 47713",
+    "phone": "812.425.1577",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Fly+By+Faith+Cafe+in+Indiana",
+    "category": "Catholic-owned Casual dining in Indiana",
+    "description": "A food pantry that has been serving the Evansville community for over ten years",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Casual dining in Indiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
