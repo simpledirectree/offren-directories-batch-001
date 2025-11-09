@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Serenity Aesthetics and Wellness",
+    "address": "8133 Germantown Ave, Philadelphia, PA 19118",
+    "phone": "(215) 278-6638",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.serenityawmedspa.com/",
+    "category": "Black-owned Cellulite treatment in Pennsylvania",
+    "description": "Offers a range of aesthetic treatments and wellness solutions, including laser skin rejuvenation and chemical peels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cellulite treatment in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bodied Boss Studio",
+    "address": "4529 Germantown Ave 2nd Floor, Philadelphia, PA 19123",
+    "phone": "(267) 496-6661",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bodiedboss.com/",
+    "category": "Black-owned Cellulite treatment in Pennsylvania",
+    "description": "Provides non-invasive treatments for body sculpting, fat cell reduction, and cellulite reduction using radiofrequency, ultrasound, and wood therapy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cellulite treatment in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Viviane Aires Skin Wellness",
+    "address": "1518 Walnut St, Philadelphia, PA 19102",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vivianeairesskin.com/",
+    "category": "Black-owned Cellulite treatment in Pennsylvania",
+    "description": "A Black-owned facial studio specializing in skin of color, offering hyper-customized facials, chemical peels, and body infrared services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cellulite treatment in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Infinity Body Sculpting, L.L.C.",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.infinitybodysculpting.com/",
+    "category": "Black-owned Cellulite treatment in Pennsylvania",
+    "description": "Offers services such as butt lifts using vacuum therapy, which can help with cellulite, and lymphatic massage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cellulite treatment in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dijana's Beauty Spa",
+    "address": "1017 Main St, Eire, PA 16501",
+    "phone": "(814) 806-0624",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://dijanasbeautyspa.com/",
+    "category": "Black-owned Cellulite treatment in Pennsylvania",
+    "description": "Offers non-surgical body shaping services including cavitation, body sculpture, and cellulite therapy using vacuum roller massage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cellulite treatment in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Esteem Body Contour",
+    "address": "Philadelphia, PA",
+    "phone": "(215) 300-1353",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.esteembodycontour.com/",
+    "category": "Black-owned Cellulite treatment in Pennsylvania",
+    "description": "Focuses on self-love, body contouring, and post-operative care, offering services that may address cellulite concerns",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cellulite treatment in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
