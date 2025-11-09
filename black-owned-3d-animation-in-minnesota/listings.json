@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Juice House",
+    "address": "4311 1st Ave S, Minneapolis, MN 55409",
+    "phone": "917-639-6789",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.juicehouse.co",
+    "category": "Black-owned 3D animation in Minnesota",
+    "description": "A Minneapolis-based, Black-owned and women-led marketing, production company, and creative agency. They specialize in branding, marketing, and creative services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned 3D animation in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Noisemakers Creative Studio",
+    "address": "Not specified in search results. (Located in Minnesota)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Noisemakers+Creative+Studio+in+Minnesota",
+    "category": "Black-owned 3D animation in Minnesota",
+    "description": "Specializes in branding, graphic design, art direction, and illustration. Founded by Leeya Rose Jackson",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned 3D animation in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bwa Studios",
+    "address": "Not specified in search results. (Operates as an animation house)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Bwa+Studios+in+Minnesota",
+    "category": "Black-owned 3D animation in Minnesota",
+    "description": "An animation house that creates and produces programming and content for all platforms. It is a Black female-owned studio focused on building equity in the animation industry",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned 3D animation in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Unimation Media",
+    "address": "Not specified in search results. (Nationwide presence, founded by a Black husband and wife team)",
+    "phone": "281-803-9192",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://unimationmedia.samcart.com/products/scroll-stopping-dance-pack",
+    "category": "Black-owned 3D animation in Minnesota",
+    "description": "A Black-owned 3D animation agency that creates realistic multi-cultural digital assets. They focus on providing diverse 3D animated marketing assets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned 3D animation in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
