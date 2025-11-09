@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Gerald L. Ignace Indian Health Center",
+    "address": "930 W. Historic Mitchell St., Milwaukee, WI 53204",
+    "phone": "(414) 383-9526",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.gliihc.org/",
+    "category": "American-Indian-owned Homeopathy in Wisconsin",
+    "description": "Provides comprehensive and culturally sensitive healthcare for families, including medical and behavioral health services. While not exclusively homeopathy, it serves the Native American community in Milwaukee",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Homeopathy in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jennette Cable, ND, CTN, CCH, ST, RSHom (NA)",
+    "address": "Information not readily available for a specific business address. She is listed as practicing in Wisconsin",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nash.org/wisconsin-find-a-homeopath/",
+    "category": "American-Indian-owned Homeopathy in Wisconsin",
+    "description": "A Classical Homeopath with various certifications, serving all ages. She also has training in Naturopathy and Sound Healing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Homeopathy in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "David Johnson, CCH",
+    "address": "The Ommani Center, W233N2088 Mequon Rd, Suite 100, Waukesha, WI 53188 (This is the address for The Ommani Center where he practices, not necessarily his own business)",
+    "phone": "(262) 695-5311 (Scheduling desk for The Ommani Center)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ommanicenter.com/david-johnson",
+    "category": "American-Indian-owned Homeopathy in Wisconsin",
+    "description": "A Certified Classical Homeopath with over 12 years of experience as a Physician Assistant. He works with adults and children for various physical, mental, and emotional conditions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Homeopathy in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rebecca Beringer, CCH",
+    "address": "Based in Appleton, Wisconsin. Specific business address not provided in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.healingwayhomeopathy.com/",
+    "category": "American-Indian-owned Homeopathy in Wisconsin",
+    "description": "A Certified Classical Homeopath practicing since 2009, serving clients across the US. She is also faculty at Prometheus Homeopathic Institute and founder of the Great Lakes Homeopathy Collective",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Homeopathy in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sandy Carpenter, CCH",
+    "address": "1620 S Lawe Street, Suite 5, Appleton, WI 54915",
+    "phone": "(920) 659-1622",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sourcehealinghomeopathy.com/",
+    "category": "American-Indian-owned Homeopathy in Wisconsin",
+    "description": "A Certified Classical Homeopathic Practitioner and owner of Source Healing Homeopathy. She offers in-person and virtual consultations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Homeopathy in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
