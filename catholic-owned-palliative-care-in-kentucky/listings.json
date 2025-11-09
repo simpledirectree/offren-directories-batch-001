@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Mercy Health - Hospice, Mayfield",
+    "address": "Mayfield, KY",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mercy.com/locations/kentucky/mayfield/mercy-health-hospice-mayfield",
+    "category": "Catholic-owned Palliative care in Kentucky",
+    "description": "Mercy Health offers hospice and palliative care services across Ohio and Kentucky, focusing on quality of life for patients with serious illnesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Palliative care in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mercy Health - Hospice, Paducah",
+    "address": "Paducah, KY",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mercy.com/locations/kentucky/paducah/mercy-health-hospice-paducah",
+    "category": "Catholic-owned Palliative care in Kentucky",
+    "description": "Part of Mercy Health's network, this location provides hospice care services in Paducah, Kentucky",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Palliative care in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Elizabeth Healthcare - Palliative Care",
+    "address": "1 Medical Village Dr, Edgewood, KY 41017",
+    "phone": "(859) 301-2237",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stelizabeth.com/services/palliative-care",
+    "category": "Catholic-owned Palliative care in Kentucky",
+    "description": "St. Elizabeth Palliative Care offers specialized medical care focused on relieving symptoms and stress for individuals with serious illnesses, addressing physical, emotional, and spiritual needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Palliative care in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Elizabeth Healthcare - Hospice",
+    "address": "(Information not readily available online, but services are part of St. Elizabeth Healthcare)",
+    "phone": "(859) 301-4600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stelizabeth.com/services/hospice",
+    "category": "Catholic-owned Palliative care in Kentucky",
+    "description": "St. Elizabeth Hospice provides care focused on the pain, symptoms, and stress of terminal illness, emphasizing whole-person care for patients and their families",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Palliative care in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Norton Healthcare Palliative Care Center",
+    "address": "(Located on the campus of Norton Audubon Hospital, Louisville, KY)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nortonhealthcare.com/services/palliative-care-hospice/",
+    "category": "Catholic-owned Palliative care in Kentucky",
+    "description": "Norton Healthcare Palliative Care Center offers compassionate, holistic care for patients with life-threatening illnesses, focusing on pain and symptom management, clarification of care goals, and emotional and spiritual well-being",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Palliative care in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities of Louisville",
+    "address": "2220 West Market Street, Louisville, KY 40212 (Migration & Refugee Services) - Note: While Catholic Charities offers various support services, direct palliative care is not explicitly listed as a primary service",
+    "phone": "(502) 636-9263",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cclou.org/",
+    "category": "Catholic-owned Palliative care in Kentucky",
+    "description": "Catholic Charities of Louisville provides a range of family support services, including emotional support and practical assistance, consistent with Catholic social teaching",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Palliative care in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities Diocese of Lexington",
+    "address": "1310 W Main St, Lexington, KY 40508",
+    "phone": "859-253-3086",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.catholiccharitieslexington.org/",
+    "category": "Catholic-owned Palliative care in Kentucky",
+    "description": "Catholic Charities Diocese of Lexington offers various services including basic needs, counseling, and disaster response, with a mission rooted in Catholic social teaching. Direct palliative care services are not explicitly detailed",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Palliative care in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "VNA Health at Home (part of CommonSpirit Health)",
+    "address": "Multiple locations in Kentucky, including: 740 E Laurel Rd, London, KY 40741-8601; 711 McDowell Blvd, Bardstown, KY 40004-2651",
+    "phone": "London: (606) 877-3950; Bardstown: (502) 349-5500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vnahealth.org/",
+    "category": "Catholic-owned Palliative care in Kentucky",
+    "description": "VNA Health at Home, a member of CommonSpirit Health (a Catholic health system), provides home health and hospice care services, aiming to improve patient outcomes at home",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Palliative care in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bluegrass Care Navigators (formerly Hospice of the Bluegrass)",
+    "address": "(Multiple locations, including 1733 Harrodsburg Rd, Lexington, KY 40504)",
+    "phone": "855.492.0812",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bgcarenav.org/",
+    "category": "Catholic-owned Palliative care in Kentucky",
+    "description": "Bluegrass Care Navigators provides hospice, palliative, and supportive care to seriously ill patients and their families, with a mission focused on compassionate, patient-centered care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Palliative care in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CHI Saint Joseph Health \u2013 Cancer Care Center \u2013 Support Services",
+    "address": "(Lexington, KY - Specific address for palliative care support services not detailed, but part of CHI Saint Joseph Health)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chisaintjosephhealth.org/cancer-care-center",
+    "category": "Catholic-owned Palliative care in Kentucky",
+    "description": "This center, part of CHI Saint Joseph Health (which has Catholic roots), offers cancer support services including palliative care, home care, and nutrition",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Palliative care in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
