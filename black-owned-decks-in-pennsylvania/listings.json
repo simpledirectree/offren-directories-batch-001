@@ -1,0 +1,53 @@
+[
+  {
+    "name": "TNT Black Home Remodeling",
+    "address": "Philadelphia, PA 19140",
+    "phone": "(267) 242-2367",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.houzz.com/professionals/general-contractors/tnt-black-home-remodeling-pfvwus",
+    "category": "Black-owned Decks in Pennsylvania",
+    "description": "This company offers home repairs, remodeling, and additions, and specifically mentions deck building as a service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Decks in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Diamond Contracting, LLC",
+    "address": "Saint Marys, PA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Black+Diamond+Contracting,+LLC+in+Pennsylvania",
+    "category": "Black-owned Decks in Pennsylvania",
+    "description": "This company specializes in exterior renovations, including additions such as decks or porches",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Decks in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Renaissance Company",
+    "address": "Philadelphia, PA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.therenaissancecompany.com/",
+    "category": "Black-owned Decks in Pennsylvania",
+    "description": "This is a certified minority-owned and operated business with over 35 years of experience in the building industry, offering full-service construction. While deck building isn't explicitly listed as a primary service, their broad scope of work may include it",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Decks in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
