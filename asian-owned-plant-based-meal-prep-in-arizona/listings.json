@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Tasteful Kitchen",
+    "address": "1020 S. Plumer Ave, Tucson, AZ 85719",
+    "phone": "(520) 250-9600",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.tastefulkitchentucson.com/",
+    "category": "Asian-owned Plant-based meal prep in Arizona",
+    "description": "Offers weekly vegan meal prep services with a focus on fresh, seasonal, and organic produce. They have a diverse menu that includes dishes like \"Lemongrass Tofu & Veggie Stir-Fry.\"",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Guilin Chinese Restaurant",
+    "address": "4445 E Broadway Blvd, Tucson, AZ 85711",
+    "phone": "(520) 320-7768",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.guilintucson.com/",
+    "category": "Asian-owned Plant-based meal prep in Arizona",
+    "description": "A Chinese restaurant that offers a dedicated vegetarian and vegan menu with many plant-based options, including dishes with vegan meat substitutes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Loving Hut Phoenix",
+    "address": "2121 N 7th St, Phoenix, AZ 85006",
+    "phone": "(602) 279-0150",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.lovinghut.com/",
+    "category": "Asian-owned Plant-based meal prep in Arizona",
+    "description": "A vegan restaurant with a focus on Asian-inspired cuisine. They offer a variety of plant-based dishes, including noodle dishes, stir-fries, and curries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Veggie Village",
+    "address": "1255 E Northern Ave, Phoenix, AZ 85020",
+    "phone": "(602) 944-1088",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.veggievillageaz.com/",
+    "category": "Asian-owned Plant-based meal prep in Arizona",
+    "description": "This restaurant specializes in vegan and vegetarian Asian cuisine, offering dishes like Malaysian Curry and Hawaiian fried rice, with vegan shrimp and other meat alternatives",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cura Kitchen",
+    "address": "1616 E Indian School Rd, Phoenix, AZ 85016",
+    "phone": "(602) 626-5100",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://curakitchenaz.com/",
+    "category": "Asian-owned Plant-based meal prep in Arizona",
+    "description": "Offers organic, plant-based meal delivery with a focus on whole foods. While not exclusively Asian, their menu is designed for healthy eating and can be customized",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eat Clean Phx",
+    "address": "1644 W Camelback Rd, Phoenix, AZ 85015",
+    "phone": "(602) 354-7070",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://eatcleanphx.com/",
+    "category": "Asian-owned Plant-based meal prep in Arizona",
+    "description": "Provides healthy meal delivery with a focus on fresh, never frozen, chef-prepared meals. They offer a rotating menu with various options, and while not specifically Asian, they cater to healthy eating lifestyles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Green Lotus Vegan",
+    "address": "835 N Gilbert Rd Ste 106, Gilbert, AZ 85234",
+    "phone": "(480) 264-4680",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.greenlotusvegan.com/",
+    "category": "Asian-owned Plant-based meal prep in Arizona",
+    "description": "A vegan restaurant offering Vietnamese, curry, and noodle dishes. They provide a casual dining experience with healthy, plant-based options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Vegan Taste",
+    "address": "(Delivery service, no physical storefront listed)",
+    "phone": "(480) 420-0010",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.thevegantaste.com/",
+    "category": "Asian-owned Plant-based meal prep in Arizona",
+    "description": "Offers artisan vegan meal delivery in the Phoenix Metro area, crafted by Chef Jason Wyrick. Their meals are designed for a healthy lifestyle and focus on flavor",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PreppedAZ",
+    "address": "(Delivery service, no physical storefront listed)",
+    "phone": "(480) 571-0000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.preppedaz.com/",
+    "category": "Asian-owned Plant-based meal prep in Arizona",
+    "description": "Delivers vegan, AIP, and paleo meals. Their menu includes options like \"Asian Chicken Lettuce Wraps\" and \"Korean BBQ Beef Bowls,\" catering to various dietary needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chef Moon Vital Vegan",
+    "address": "(Personal chef services, location varies)",
+    "phone": "(602) 492-8000",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.chefmoonvitalvegan.com/",
+    "category": "Asian-owned Plant-based meal prep in Arizona",
+    "description": "A personal chef specializing in plant-based, vegan, and gluten-free diets. Chef Moon offers customized meal preparation with a focus on international cuisines, including Thai, Chinese, and Japanese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Plant-based meal prep in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
