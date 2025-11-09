@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Church Street Cafe",
+    "address": "2111 Church St NW, Albuquerque, NM 87104",
+    "phone": "505-247-8522",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.churchstreetcafe.com/",
+    "category": "Catholic-owned Casual dining in New-Mexico",
+    "description": "Located in a historic building in Old Town Albuquerque, Church Street Cafe offers traditional New Mexican cuisine with award-winning salsas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Casual dining in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Pantry Restaurant",
+    "address": "1820 Cerrillos Rd, Santa Fe, NM 87505",
+    "phone": "505-986-0022",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.pantrysantafe.com/",
+    "category": "Catholic-owned Casual dining in New-Mexico",
+    "description": "Serving comfort food for over seventy-five years, The Pantry Restaurant is a family-owned business known for its fresh, scratch-made dishes and friendly service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Casual dining in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cafe Pasqual's",
+    "address": "121 Don Gaspar Ave, Santa Fe, NM 87501",
+    "phone": "505-983-9340",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.pasquals.com/",
+    "category": "Catholic-owned Casual dining in New-Mexico",
+    "description": "A Santa Fe institution since 1979, Cafe Pasqual's offers wonderful, fresh food with friendly service in a festive atmosphere, using organic and sustainable ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Casual dining in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
