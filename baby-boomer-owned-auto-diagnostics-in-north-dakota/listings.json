@@ -1,0 +1,172 @@
+[
+  {
+    "name": "A+ Auto Repair",
+    "address": "1020 19th Ave E, Bismarck, ND 58503",
+    "phone": "(701) 415-0500",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.aplusautorepairnd.com/",
+    "category": "Baby-Boomer-owned Auto diagnostics in North-Dakota",
+    "description": "Specializes in auto computer and electrical diagnostics for domestic and foreign vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Auto diagnostics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Certified Auto Repair",
+    "address": "3060 25th St S, Fargo, ND 58104",
+    "phone": "(701) 237-4422",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.certifiedautorepairfargo.com/",
+    "category": "Baby-Boomer-owned Auto diagnostics in North-Dakota",
+    "description": "Offers professional engine diagnostics, scanning vehicle computer systems, and detailed inspections",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Auto diagnostics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Capital Auto Repair",
+    "address": "2016 Morrison Ave, Bismarck, ND 58504",
+    "phone": "(701) 223-2444",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.capitalautorepairnd.com/",
+    "category": "Baby-Boomer-owned Auto diagnostics in North-Dakota",
+    "description": "Provides honest and efficient auto repair services, including diagnostics, with a focus on customer satisfaction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Auto diagnostics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Earl's Repair Lt. Truck & Auto",
+    "address": "102 Main St, Casselton, ND 58012",
+    "phone": "(701) 347-0195",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.earlsrepair.com/",
+    "category": "Baby-Boomer-owned Auto diagnostics in North-Dakota",
+    "description": "Offers professional auto diagnostics, using the latest technology to diagnose issues indicated by dashboard warning lights",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Auto diagnostics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Auto Doctors Complete Auto Care",
+    "address": "415 Christianson Dr, West Fargo, ND 58078",
+    "phone": "(701) 277-7288",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://autodoctorscompleteautocare.com/",
+    "category": "Baby-Boomer-owned Auto diagnostics in North-Dakota",
+    "description": "Provides diagnostic services for various warning lights, emphasizing preventative maintenance and informed customer decisions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Auto diagnostics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "United Automotive Tech Center",
+    "address": "308 1st Ave N, Fargo, ND 58102 (Downtown location)",
+    "phone": "(701) 237-4151",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.unitedautomotivefargo.com/",
+    "category": "Baby-Boomer-owned Auto diagnostics in North-Dakota",
+    "description": "A locally owned business that services and repairs all makes of vehicles, investing in the latest equipment and ASE-certified technicians for diagnostics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Auto diagnostics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "JB Repair",
+    "address": "5 2nd St SW, Garrison, ND 58540",
+    "phone": "(701) 463-2266",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.jbrepairgarrison.com/",
+    "category": "Baby-Boomer-owned Auto diagnostics in North-Dakota",
+    "description": "Offers auto maintenance and repair services, including diagnostics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Auto diagnostics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hometown Service Center",
+    "address": "501 10th St, Cooperstown, ND 58425",
+    "phone": "(701) 797-2500",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.hometownservicecenter.com/",
+    "category": "Baby-Boomer-owned Auto diagnostics in North-Dakota",
+    "description": "Provides auto repair services, including diagnostics, with a focus on customer service and fair pricing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Auto diagnostics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "All Pro Automotive Inc.",
+    "address": "1020 19th Ave E, Bismarck, ND 58503",
+    "phone": "(701) 258-2000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.allproautomotivebismarck.com/",
+    "category": "Baby-Boomer-owned Auto diagnostics in North-Dakota",
+    "description": "Offers quality workmanship and affordable prices, quickly diagnosing and correcting vehicle problems",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Auto diagnostics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Modern Auto Body Inc.",
+    "address": "4075 S Washington St, Grand Forks, ND 58201",
+    "phone": "(701) 775-0551",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.modernautobodygf.com/",
+    "category": "Baby-Boomer-owned Auto diagnostics in North-Dakota",
+    "description": "While primarily an auto body shop, they offer diagnostic services as part of their comprehensive vehicle repair solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Auto diagnostics in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
