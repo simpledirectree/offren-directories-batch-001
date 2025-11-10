@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Chinese Boxing Academy",
+    "address": "1000 S Rolling Rd, Baltimore, MD 21228",
+    "phone": "443-413-3523",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.chineseboxingacademy.com/",
+    "category": "Chinese-speaking Boutique fitness studios in Maryland",
+    "description": "This is an internal martial arts school focusing on Baguazhang, Tai Chi, and Xingyiquan. They offer classes in these disciplines",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Boutique fitness studios in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
