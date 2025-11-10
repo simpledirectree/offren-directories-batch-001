@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Bred Gourmet",
+    "address": "1416 Dorchester Ave, Boston, MA 02122",
+    "phone": "(617) 297-9044",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.bredgourmet.com/",
+    "category": "Black-owned Fast casual in Massachusetts",
+    "description": "Known for its gourmet burgers with Caribbean and healthy flair, offering unique sandwiches and delicious sides like sweet plantains and truffle fries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Fast casual in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cafe Sauvage",
+    "address": "333 Newbury St, Boston, MA 02115",
+    "phone": "(857) 277-1449",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.cafesauvage.com/",
+    "category": "Black-owned Fast casual in Massachusetts",
+    "description": "A chic bistro offering a fusion of French and African flavors, with dishes like Senegalese yassa chicken and classic French pastries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Fast casual in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fresh Food Generation",
+    "address": "500 River St, Boston, MA 02126",
+    "phone": "(617) 404-4004",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.freshfoodgeneration.com/",
+    "category": "Black-owned Fast casual in Massachusetts",
+    "description": "A mission-driven food business focused on healthy, affordable, and locally sourced meals, featuring Caribbean-inspired dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Fast casual in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rhythm and Wraps",
+    "address": "1096 Commonwealth Ave, Boston, MA 02134",
+    "phone": "(857) 263-7177",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.rhythmnwraps.com/",
+    "category": "Black-owned Fast casual in Massachusetts",
+    "description": "A vibrant eatery known for its healthy and flavorful plant-based wraps and bowls, with options like Jerk Jackfruit Wrap and BBQ Tempeh Bowl",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Fast casual in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oggi Gourmet",
+    "address": "30 Dunster St, Cambridge, MA 02138",
+    "phone": "(617) 492-6444",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.oggigourmetmenu.com/",
+    "category": "Black-owned Fast casual in Massachusetts",
+    "description": "Offers gourmet pizzas, salads, custom-made sandwiches, and soups, perfect for a quick and delicious meal on the go",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Fast casual in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Akra Eatery & Juice Bar",
+    "address": "150 Green St, Worcester, MA 01604",
+    "phone": "(508) 459-0054",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://akraeatery.com/",
+    "category": "Black-owned Fast casual in Massachusetts",
+    "description": "Features natural food influenced by West African cooking traditions, offering customizable bowls and wraps, as well as juices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Fast casual in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Addie Lee's Soul Food",
+    "address": "596 Main St, Worcester, MA 01608",
+    "phone": "(508) 752-0569",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Addie+Lee's+Soul+Food+in+Massachusetts",
+    "category": "Black-owned Fast casual in Massachusetts",
+    "description": "Known for their customer service and value, offering classic comfort foods like fried chicken and beef ribs, as well as Jamaican beef patties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Fast casual in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Elder Paintsil's African Restaurant",
+    "address": "984 Main St, Worcester, MA 01603",
+    "phone": "(508) 755-5510",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Elder+Paintsil's+African+Restaurant+in+Massachusetts",
+    "category": "Black-owned Fast casual in Massachusetts",
+    "description": "Offers authentic African cuisine, with local recommendations including jollof rice, fried fish, and fried tomato stew",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Fast casual in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fatima's Caf\u00e9",
+    "address": "43 West Boylston St, Worcester, MA 01605",
+    "phone": "(508) 762-9797",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Fatima's+Caf\u00e9+in+Massachusetts",
+    "category": "Black-owned Fast casual in Massachusetts",
+    "description": "Provides a taste of home with traditional Somali dishes, with popular favorites including chicken and steak sandwiches",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Fast casual in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Northern Soul Cafe",
+    "address": "1244 Main St, Springfield, MA 01103",
+    "phone": "(413) 733-7685",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.northernsoulcafe.com/",
+    "category": "Black-owned Fast casual in Massachusetts",
+    "description": "A family-oriented soul food restaurant emphasizing hospitality and customer service, offering a variety of delicious soul food dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Fast casual in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
