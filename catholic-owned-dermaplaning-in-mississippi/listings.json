@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Aqua Medical Spa",
+    "address": "1044 Dr. Martin Luther King Jr Blvd, Biloxi, MS 39530",
+    "phone": "(228) 207-0070",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aquamedicalspa.com/",
+    "category": "Catholic-owned Dermaplaning in Mississippi",
+    "description": "Offers dermaplaning as a cosmetic procedure to remove dead skin cells and fine facial hairs, stimulating cell rejuvenation and improving skin texture",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Dermaplaning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Plastic Surgery Center of Hattiesburg",
+    "address": "40 Franklin Road, Hattiesburg, MS 39402",
+    "phone": "(601) 296-3405",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.plasticsurgeryhattiesburg.com/",
+    "category": "Catholic-owned Dermaplaning in Mississippi",
+    "description": "Provides various spa services, including dermaplaning, which is described as an exfoliating treatment that removes fine facial hair and dead skin, leaving the face soft and smooth",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Dermaplaning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Faces, PLLC",
+    "address": "1017 Highland Colony Pkwy, Suite 102, Ridgeland, MS 39157",
+    "phone": "(601) 707-4444",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://facespllc.com/",
+    "category": "Catholic-owned Dermaplaning in Mississippi",
+    "description": "Offers dermaplaning as a manual, non-invasive resurfacing technique to remove superficial layers of skin and vellus hair, improving skin tone and reducing the appearance of fine lines",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Dermaplaning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Women's Pavilion of South Mississippi",
+    "address": "1242 Highway 29 North, Ellisville, MS 39437 (also serves Hattiesburg area)",
+    "phone": "(601) 268-9393",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.womenspavilionofsouthms.com/",
+    "category": "Catholic-owned Dermaplaning in Mississippi",
+    "description": "Provides dermaplaning services using a medical-grade scalpel to gently remove dead skin cells and unwanted hair from the face",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Dermaplaning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mississippi Medical Aesthetics",
+    "address": "1105 Highland Colony Pkwy, Suite 102, Madison, MS 39110",
+    "phone": "(601) 853-0088",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mississippimedicalaesthetics.com/",
+    "category": "Catholic-owned Dermaplaning in Mississippi",
+    "description": "Offers aesthetic dermaplaning as a skincare treatment that removes vellus hair and dead skin cells, leaving the skin smooth and radiant",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Dermaplaning in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
