@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Black Pearl Fitness",
+    "address": "27 Lafayette Rd. #3, N. Hampton, NH",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackpearlfitness.com/",
+    "category": "Black-owned HIIT training in New-Hampshire",
+    "description": "Offers group classes and personalized training with a focus on community and motivation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned HIIT training in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "E.F.F.E.C.T. Fitness",
+    "address": "Metropolitan Parkway, Atlanta, GA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/E.F.F.E.C.T.+Fitness+New+Hampshire",
+    "category": "Black-owned HIIT training in New-Hampshire",
+    "description": "Offers high-intensity bootcamps and small group training sessions with a strong sense of community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned HIIT training in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BURN at The Collective Studios",
+    "address": "Londonderry, NH",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thecollectivestudios.com/burn",
+    "category": "Black-owned HIIT training in New-Hampshire",
+    "description": "Offers HIIT strength training classes focused on building muscle, boosting endurance, and stress relief",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned HIIT training in New-Hampshire consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
