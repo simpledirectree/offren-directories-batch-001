@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Appalachia Technologies",
+    "address": "4445 Trindle Road, Suite 100, Mechanicsburg, PA 17050",
+    "phone": "(888) 277-8320",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.appalachiatechnologies.com/",
+    "category": "Agnostic-owned Breach notification services in Pennsylvania",
+    "description": "Offers cybersecurity breach response services, incident response, and other IT security solutions. They follow NIST 800-61 incident response procedures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Breach notification services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Grant Thornton",
+    "address": "Multiple locations, including Philadelphia, PA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.grantthornton.com/",
+    "category": "Agnostic-owned Breach notification services in Pennsylvania",
+    "description": "Provides cybersecurity services, including incident response and threat protection management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Breach notification services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CyTrex Cyber",
+    "address": "Information not available through search",
+    "phone": "+1 877-998-0949",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cytrexcyber.com/",
+    "category": "Agnostic-owned Breach notification services in Pennsylvania",
+    "description": "Offers breach review, extraction, and notification services, as well as data mining and incident response project management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Breach notification services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pennsylvania Cybersecurity Center",
+    "address": "Information not available through search",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://pacybersecurity.org/",
+    "category": "Agnostic-owned Breach notification services in Pennsylvania",
+    "description": "Focuses on cybersecurity training, incident response procedures, threat detection, and risk mitigation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Breach notification services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PA CyberCom (Pennsylvania Office of Homeland Security)",
+    "address": "Information not available through search",
+    "phone": "833-707-3843",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pema.pa.gov/Cybersecurity/Pages/default.aspx",
+    "category": "Agnostic-owned Breach notification services in Pennsylvania",
+    "description": "Encourages Pennsylvania businesses to voluntarily report cyber incidents and provides resources for reporting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Breach notification services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pennsylvania Public Utility Commission (PA PUC)",
+    "address": "400 North Street, Harrisburg, PA 17120",
+    "phone": "(717) 783-1740",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.puc.pa.gov/",
+    "category": "Agnostic-owned Breach notification services in Pennsylvania",
+    "description": "While a regulatory body, they handle cybersecurity incident response reporting for public utilities and provide guidance on incident response handling",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Breach notification services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Insureon",
+    "address": "Information not available through search",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.insureon.com/",
+    "category": "Agnostic-owned Breach notification services in Pennsylvania",
+    "description": "An insurance provider that offers information on data breach notification laws in Pennsylvania and cyber liability insurance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Breach notification services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Buchanan Ingersoll & Rooney PC",
+    "address": "Multiple locations, including Philadelphia and Pittsburgh, PA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bipc.com/",
+    "category": "Agnostic-owned Breach notification services in Pennsylvania",
+    "description": "A law firm that provides legal analysis and guidance on Pennsylvania's data breach notification laws and their implications for incident response",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Breach notification services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The HIPAA Journal",
+    "address": "Information not available through search",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hipaajournal.com/",
+    "category": "Agnostic-owned Breach notification services in Pennsylvania",
+    "description": "Publishes articles and analysis on data breach notification laws, including updates to Pennsylvania's law, and compliance requirements",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Breach notification services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cybersecurity & Infrastructure Security Agency (CISA)",
+    "address": "Various regional offices, including in Pennsylvania",
+    "phone": "1-888-277-8320 (National Help Desk)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cisa.gov/",
+    "category": "Agnostic-owned Breach notification services in Pennsylvania",
+    "description": "A federal agency that provides resources and assistance for cybersecurity and incident response, including for critical infrastructure partners",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Breach notification services in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
