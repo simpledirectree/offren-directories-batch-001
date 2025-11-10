@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Catholic Charities of Arkansas",
+    "address": "2500 N Tyler St, Little Rock, AR 72207",
+    "phone": "(501) 664-0340",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Charities+of+Arkansas+in+Arkansas",
+    "category": "Catholic-owned On-site management in Arkansas",
+    "description": "Provides a wide range of services including addiction services, adoption services, basic needs, case management, counseling, disaster response, housing services, and migrant services. They are committed to serving those who are poor or marginalized",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned On-site management in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christopher Homes of Arkansas, Inc.",
+    "address": "Multiple complexes across Arkansas; administrative office at 2500 N. Tyler St., Little Rock, AR 72207 (associated with the Diocese of Little Rock)",
+    "phone": "(501) 664-0340 (Diocese of Little Rock main number)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Christopher+Homes+of+Arkansas,+Inc.+in+Arkansas",
+    "category": "Catholic-owned On-site management in Arkansas",
+    "description": "A housing ministry of the Diocese of Little Rock that provides safe, attractive, and affordable housing for low-income individuals aged 62 and older, or those with mobility impairments. They manage 24 complexes across Arkansas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned On-site management in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
