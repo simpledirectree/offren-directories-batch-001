@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Wild Thyme",
+    "address": "4114 Belden Village St NW, Canton, OH 44718",
+    "phone": "(330) 492-9453",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://wildthymecanton.com/",
+    "category": "Armenian-speaking Fine dining in Ohio",
+    "description": "An Armenian and Georgian restaurant aiming to share its culture and love for food",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Fine dining in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lavash Cafe",
+    "address": "12777 Madison Ave, Lakewood, OH 44107",
+    "phone": "(216) 230-2050",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.lavashcafe.com/",
+    "category": "Armenian-speaking Fine dining in Ohio",
+    "description": "Offers a variety of dishes including low-carb salads, shrimp platters, and gyro entrees with large portion sizes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Fine dining in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Artemis Mediterranean Bistro",
+    "address": "9328 Montgomery Rd, Montgomery, OH 45242",
+    "phone": "(513) 791-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://artemisbistro.com/",
+    "category": "Armenian-speaking Fine dining in Ohio",
+    "description": "Serves Mediterranean, Turkish, Greek, Lebanese, and Middle Eastern cuisines, with a full bar offering various wines and beers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Fine dining in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Olive Tree Mediterranean Cafe",
+    "address": "3185 Hilliard Rome Rd, Hilliard, OH 43026",
+    "phone": "(614) 771-0000",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.olivetreehilliard.com/",
+    "category": "Armenian-speaking Fine dining in Ohio",
+    "description": "Offers Lebanese and Mediterranean comfort food, with fresh ingredients and a friendly atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Fine dining in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Belly's Hip Hop Eatery",
+    "address": "1584 Kohr Pl, Columbus, OH 43211",
+    "phone": "",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Belly's+Hip+Hop+Eatery+in+Ohio",
+    "category": "Armenian-speaking Fine dining in Ohio",
+    "description": "Listed as an Armenian Restaurant in Columbus, Ohio",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Fine dining in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Gregory of Narek Armenian Church (Festival Food)",
+    "address": "6310 Richmond Rd, Richmond Heights, OH 44143",
+    "phone": "(216) 382-1790",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://stgregoryofnarek.org/",
+    "category": "Armenian-speaking Fine dining in Ohio",
+    "description": "Hosts an annual Armenian Festival featuring traditional Armenian food, music, and cultural exhibits",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Fine dining in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Doner House",
+    "address": "Multiple locations, including 10050 Montgomery Rd, Cincinnati, OH 45242",
+    "phone": "(513) 914-5000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.donerhouse.com/",
+    "category": "Armenian-speaking Fine dining in Ohio",
+    "description": "Offers Mediterranean and Middle Eastern cuisine, including doner kebabs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Fine dining in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aladdin's Eatery",
+    "address": "Multiple locations, including 1738 W 5th Ave, Columbus, OH 43212",
+    "phone": "(614) 488-3200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://aladdinseatery.com/",
+    "category": "Armenian-speaking Fine dining in Ohio",
+    "description": "Serves a variety of Mediterranean dishes, including kafta, kibbie, and falafel",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Fine dining in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ali Baba Restaurant",
+    "address": "4500 W 38th St, Cleveland, OH 44102",
+    "phone": "(216) 631-7200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Ali+Baba+Restaurant+in+Ohio",
+    "category": "Armenian-speaking Fine dining in Ohio",
+    "description": "Offers Mediterranean cuisine, with reviews mentioning falafel and doner sandwiches",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Fine dining in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Truva Turkish Kitchen",
+    "address": "2071 E. 4th St, Cleveland, OH 44115",
+    "phone": "(216) 522-1500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://truvakitchen.com/",
+    "category": "Armenian-speaking Fine dining in Ohio",
+    "description": "Serves Turkish cuisine, including lamb shish kebab, hummus, and lahmathun",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Fine dining in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
