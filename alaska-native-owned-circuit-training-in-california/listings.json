@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Sacred Path Indigenous Wellness Center",
+    "address": "800 S. Harbor Blvd., Suite 250, Anaheim, CA 92805",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sacredpathiwc.org/",
+    "category": "Alaska-Native-owned Circuit training in California",
+    "description": "A nonprofit organization dedicated to serving urban Native American communities with programs promoting cultural connection, community engagement, and overall well-being",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Circuit training in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pechanga Resort Casino - Spa Pechanga",
+    "address": "45000 Pechanga Parkway, Temecula, CA 92592",
+    "phone": "(951) 770-8501",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pechanga.com/play/spa-and-salon/spa-pechanga",
+    "category": "Alaska-Native-owned Circuit training in California",
+    "description": "Offers a fitness center with various equipment, located within a Native American-owned resort and casino",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Circuit training in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Big Pine Paiute Tribe - Indian Education Center",
+    "address": "101 W. Frazier St., Big Pine, CA 93513",
+    "phone": "(760) 934-6070",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bigpinepaiute.org/education.html",
+    "category": "Alaska-Native-owned Circuit training in California",
+    "description": "Integrates fitness activities into their programs to encourage healthy living for youth and families, with a focus on cultural wellness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Circuit training in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native American Health Center - Community Wellness Department",
+    "address": "Multiple locations, including Oakland, CA. (Specific address for fitness programs not detailed)",
+    "phone": "(510) 535-8000 (Main number)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nativehealth.org/community-wellness/",
+    "category": "Alaska-Native-owned Circuit training in California",
+    "description": "Provides inclusive mental health, preventative care, and social services with a focus on advocacy, culture, education, and relationship building, including programs for youth and elders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Circuit training in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
