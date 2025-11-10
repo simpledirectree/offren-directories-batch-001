@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Montana's Great Indoors",
+    "address": "565 East Swift Creek Way, Kalispell, MT 59901",
+    "phone": "(406) 755-7529",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.mtgreatindoors.com/",
+    "category": "Agnostic-owned Childrens activities in Montana",
+    "description": "An indoor playground with climbing structures, a ninja wall, and a toddler play area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Childrens activities in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ExplorationWorks",
+    "address": "201 E. European Blvd., Helena, MT 59601",
+    "phone": "(406) 443-7365",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.explorationworks.org/",
+    "category": "Agnostic-owned Childrens activities in Montana",
+    "description": "An interactive science center with hands-on activities, camps, and exhibits focused on STEM",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Childrens activities in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Music Class - Five Valleys",
+    "address": "Multiple locations including Hamilton, Missoula, and Stevensville. (Example: Missoula Children's Theatre, 200 N. Adams Street, Missoula, MT 59802)",
+    "phone": "(406) 544-1400",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.themusicclass.com/fivevalleys/",
+    "category": "Agnostic-owned Childrens activities in Montana",
+    "description": "Offers early childhood music education classes for children aged 0-5, including infant/parent sessions and birthday parties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Childrens activities in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kindred Art",
+    "address": "Multiple locations in Bozeman and Belgrade, MT. (Specific addresses vary by class)",
+    "phone": "(406) 580-7590",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://kindredart.com/",
+    "category": "Agnostic-owned Childrens activities in Montana",
+    "description": "Provides art lessons for children with a focus on an internationally acclaimed drawing method, offering online and in-person options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Childrens activities in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Orphan Girl Children's Theatre",
+    "address": "137 E. Broadway St., Butte, MT 59701",
+    "phone": "(406) 782-5972",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.orphangirl.org/",
+    "category": "Agnostic-owned Childrens activities in Montana",
+    "description": "A non-profit arts organization that produces theatre for young people and offers an After School Academy with workshops and classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Childrens activities in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Children's Museum of Montana",
+    "address": "221 4th Ave N, Great Falls, MT 59401",
+    "phone": "(406) 727-8255",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.cmom.org/",
+    "category": "Agnostic-owned Childrens activities in Montana",
+    "description": "Features hands-on activities and interactive exhibits to ignite a passion for learning in science, math, and culture",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Childrens activities in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sprouts Club Drop In Playcare LLC",
+    "address": "40 Commons Way, Kalispell, MT 59901",
+    "phone": "(406) 752-7529",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.sproutsclub.com/",
+    "category": "Agnostic-owned Childrens activities in Montana",
+    "description": "Offers drop-in daycare and an indoor playground for children aged 18 months to 12 years old",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Childrens activities in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Art of Play",
+    "address": "1002 10th St W #4, Billings, MT 59102",
+    "phone": "(406) 671-4204",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.theartofplaybillings.com/",
+    "category": "Agnostic-owned Childrens activities in Montana",
+    "description": "A Montessori-based indoor play area for children up to age 5, with toys, play structures, and imaginative stations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Childrens activities in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Missoula Children's Theatre (MCT)",
+    "address": "200 N. Adams St., Missoula, MT 59802",
+    "phone": "(406) 543-0727",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.missou",
+    "category": "Agnostic-owned Childrens activities in Montana",
+    "description": "A renowned touring children's theatre that has been bringing communities together for over 50 years with camps, workshops, and performances",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Childrens activities in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wise Wonders Science & Discovery Center",
+    "address": "815 S 27th St, Billings, MT 59101",
+    "phone": "(406) 245-4111",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.wisewonders.org/",
+    "category": "Agnostic-owned Childrens activities in Montana",
+    "description": "A science and discovery museum designed to engage children and families in playful learning environments, encouraging exploration of science, technology, engineering, and math",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Childrens activities in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
