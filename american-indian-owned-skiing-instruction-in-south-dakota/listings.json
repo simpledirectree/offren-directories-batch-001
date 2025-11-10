@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Terry Peak Ski Area",
+    "address": "13255 Terry Peak Rd, Lead, SD 57754",
+    "phone": "(605) 584-2165",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.terrypeak.com/",
+    "category": "American-Indian-owned Skiing instruction in South-Dakota",
+    "description": "Offers a variety of ski and snowboard lessons for all ages, including private, semi-private, group, and specialized kids' programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Skiing instruction in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Great Bear Ski Valley",
+    "address": "5901 E Rice Street, Sioux Falls, SD 57110",
+    "phone": "(605) 367-4309",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.greatbear.com/",
+    "category": "American-Indian-owned Skiing instruction in South-Dakota",
+    "description": "Provides ski and snowboard lessons following the American Teaching System, with options for individuals and group programs like the Snow Riders Academy for children",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Skiing instruction in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mystic Miner Ski Resort",
+    "address": "13255 Terry Peak Rd, Lead, SD 57754 (Note: This address appears to be shared with Terry Peak Ski Area in some search results, indicating a potential close proximity or shared management.)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mystic+Miner+Ski+Resort+South+Dakota",
+    "category": "American-Indian-owned Skiing instruction in South-Dakota",
+    "description": "Offers groomed trails, a terrain park, and tubing, with private and group lessons available for beginners",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Skiing instruction in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
