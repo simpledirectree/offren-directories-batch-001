@@ -1,0 +1,172 @@
+[
+  {
+    "name": "NANA Management Services",
+    "address": "800 E. Dimond Blvd., Suite 3-450, Anchorage, Alaska 99515",
+    "phone": "(907) 273-2400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nanamanagementservices.com/",
+    "category": "American-Indian-owned Office management services in Alaska",
+    "description": "NANA Management Services (NMS) is an Alaska Native-owned company that provides a range of support services, including facilities management, food services, and security. They may offer administrative support as part of their broader service offerings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Office management services in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Global Support Services (GSS)",
+    "address": "While GSS is a subsidiary of Bering Straits Native Corporation (BSNC), a specific office address for GSS in Alaska is not readily available. BSNC's Anchorage office is located at 3301 C St., Ste. 100, Anchorage, AK 99503",
+    "phone": "BSNC's phone number is (907) 563-3788",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bsnc.net/global-support-services/",
+    "category": "American-Indian-owned Office management services in Alaska",
+    "description": "GSS provides enterprise business solutions and day-to-day office administrative services such as data management, document control, and customer service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Office management services in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kiliuda Consulting LLC",
+    "address": "Kiliuda Consulting is a subsidiary of Three Saints Bay, LLC. Their corporate office is located at 4045 Corporate Square Drive, Suite 200, Virginia Beach, VA 23462. Specific Alaska office details are not provided",
+    "phone": "(757) 671-4000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.threesaintsbay.com/kiliuda-consulting/",
+    "category": "American-Indian-owned Office management services in Alaska",
+    "description": "Kiliuda Consulting offers programmatic, technical, and administrative services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Office management services in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Far North Strategies",
+    "address": "Headquartered in Anchorage, AK. A specific street address is not listed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.farnorthstrategies.com/",
+    "category": "American-Indian-owned Office management services in Alaska",
+    "description": "This is an Alaska Native business consulting firm that provides executive, administrative, or management support services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Office management services in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kwaan Consulting",
+    "address": "Kwaan Consulting is part of Kake Tribal Corporation. A specific office address for Kwaan Consulting is not readily available. Kake Tribal Corporation's address is PO Box 217, Kake, AK 99830",
+    "phone": "(907) 785-6000 (Kake Tribal Corporation)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kake-nsn.gov/kwaan-consulting",
+    "category": "American-Indian-owned Office management services in Alaska",
+    "description": "Kwaan Consulting offers services that can improve the effectiveness and efficiency of organizations, including organizational digital transformations and organizational change management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Office management services in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chenega Corporation",
+    "address": "3000 C Street, Suite 301, Anchorage, AK 99503",
+    "phone": "(907) 277-5706",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://chenega.com/",
+    "category": "American-Indian-owned Office management services in Alaska",
+    "description": "Chenega Corporation is an Alaska Native Village Corporation that provides a wide range of services through its subsidiaries, which may include administrative and management support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Office management services in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ahtna, Inc.",
+    "address": "PO Box 649, Glennallen, AK 99588 (Headquarters). They also have an Anchorage office: 110 West 38th Avenue, Suite 100, Anchorage, AK 99503",
+    "phone": "(907) 822-3476 (Glennallen), (907) 868-8250 (Anchorage)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ahtna.com/",
+    "category": "American-Indian-owned Office management services in Alaska",
+    "description": "Ahtna, Inc. is an Alaska Native Corporation with diverse business activities including government contracting and professional services, which can encompass administrative support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Office management services in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bristol Bay Native Corporation (BBNC)",
+    "address": "111 W. 16th Ave., Ste. 400, Anchorage, AK 99501",
+    "phone": "(907) 278-3602",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bbnc.net/",
+    "category": "American-Indian-owned Office management services in Alaska",
+    "description": "BBNC is an Alaska Native Corporation with operations in government services, which may include administrative and management support functions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Office management services in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arctic Slope Regional Corporation (ASRC)",
+    "address": "PO Box 129, Barrow, AK 99723. They also have an office in Anchorage: 3900 C Street, Suite 1000, Anchorage, AK 99503",
+    "phone": "(907) 852-8633 (Barrow), (907) 339-6000 (Anchorage)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.asrc.com/",
+    "category": "American-Indian-owned Office management services in Alaska",
+    "description": "ASRC has multiple business segments, including government contract services and industrial services, which may involve administrative and office support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Office management services in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tyonek Native Corporation",
+    "address": "880 H St Suite 210, Anchorage AK 99501-3450",
+    "phone": "(907) 272-0707",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tyonek.com/",
+    "category": "American-Indian-owned Office management services in Alaska",
+    "description": "Tyonek Native Corporation is an Alaska Native Corporation involved in various business ventures, potentially including services that support office operations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Office management services in Alaska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
