@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Asian Pot",
+    "address": "2801 Packerland Way #1, Louisville, KY 40213",
+    "phone": "(502) 969-6888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.asianpotlouisville.com/",
+    "category": "Asian-owned Pubs in Kentucky",
+    "description": "Offers a variety of Chinese and Japanese dishes with a friendly atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Pubs in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jasmine Asian Bistro",
+    "address": "4001 Dutchmans Ln, Louisville, KY 40207",
+    "phone": "(502) 895-9999",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "http://www.jasmineasianbistrolouisville.com/",
+    "category": "Asian-owned Pubs in Kentucky",
+    "description": "Serves authentic Chinese and Asian cuisine, as well as fresh sushi rolls",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Pubs in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian House",
+    "address": "9707 Dixie Hwy, Louisville, KY 40272",
+    "phone": "(502) 822-1017",
+    "rating": 4.1,
+    "reviews": 25,
+    "website": "http://www.asianhouselouisville.com/",
+    "category": "Asian-owned Pubs in Kentucky",
+    "description": "Offers fresh Chinese and Japanese dishes with a focus on friendly service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Pubs in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sichuan House",
+    "address": "7309 Preston Hwy, Louisville, KY 40219",
+    "phone": "(502) 968-3188",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "http://www.sichuanhouseky.com/",
+    "category": "Asian-owned Pubs in Kentucky",
+    "description": "Known for authentic Sichuan cuisine, with options for dine-in and take-out",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Pubs in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kung Food Chu's Amerasia",
+    "address": "604 Madison Ave, Covington, KY 41011",
+    "phone": "(859) 261-1234",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.kungfoodchus.com/",
+    "category": "Asian-owned Pubs in Kentucky",
+    "description": "Features Taiwanese dishes and a wide selection of craft beers in a unique setting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Pubs in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cathay Kitchen",
+    "address": "8600 US-42, Florence, KY 41042",
+    "phone": "(859) 282-8888",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "http://www.cathaykitchenflorence.com/",
+    "category": "Asian-owned Pubs in Kentucky",
+    "description": "A casual Chinese spot serving classic noodles, stir-fries, and spicy dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Pubs in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Siam Orchid",
+    "address": "311 Fairfield Ave, Bellevue, KY 41073",
+    "phone": "(859) 261-6000",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "http://www.siamorchidky.com/",
+    "category": "Asian-owned Pubs in Kentucky",
+    "description": "Offers authentic Thai fare, including curry, soups, and Pad Thai",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Pubs in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mai Thai Restaurant & Sushi Bar",
+    "address": "8400 US-42, Florence, KY 41042",
+    "phone": "(859) 282-0000",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "http://www.maithaiky.com/",
+    "category": "Asian-owned Pubs in Kentucky",
+    "description": "Serves genuine, flavorful Thai and Japanese cuisine, including a sushi bar",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Pubs in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oriental House",
+    "address": "2736 St Matthews Station, Louisville, KY 40207",
+    "phone": "(502) 895-3291",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.orientalhouseky.com/",
+    "category": "Asian-owned Pubs in Kentucky",
+    "description": "A long-standing family-owned restaurant offering authentic Chinese food, including a Dim Sum menu",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Pubs in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian Wind",
+    "address": "3735 Palomar Centre Dr #40, Lexington, KY 40513",
+    "phone": "(859) 223-0060",
+    "rating": 4.2,
+    "reviews": 25,
+    "website": "http://www.asianwindlexingtonky.com/",
+    "category": "Asian-owned Pubs in Kentucky",
+    "description": "Offers Chinese, Asian, and vegetarian cuisine with dine-in and take-out options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Pubs in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
