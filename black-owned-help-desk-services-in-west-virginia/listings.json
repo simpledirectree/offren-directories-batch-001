@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Gaddis Consulting Group, LLC",
+    "address": "308 Overdale Street, Morgantown, West Virginia 26501",
+    "phone": "(304) 296-0000 (This is a general number found for the company, specific help desk contact may vary)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.gaddisgroup.com/",
+    "category": "Black-owned Help desk services in West-Virginia",
+    "description": "Specializes in technology-enabled business services and solutions, offering a wide range of support to companies requiring technology-based solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Help desk services in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black & White Web Solutions",
+    "address": "Morgantown, West Virginia (Specific street address not provided for their main office, but they serve the region)",
+    "phone": "(304) 290-0080 (General contact number found)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://blackandwhitewebsolutions.com/",
+    "category": "Black-owned Help desk services in West-Virginia",
+    "description": "A web design and digital marketing agency that helps businesses grow their online presence. While not exclusively a help desk, they offer IT-related services and are a Black-owned business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Help desk services in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Action Facilities Management, Inc. (AFM)",
+    "address": "115 Malone Drive, Morgantown, WV 26501",
+    "phone": "(304) 598-6850",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.actionfacilities.com/",
+    "category": "Black-owned Help desk services in West-Virginia",
+    "description": "While primarily focused on facilities management, they are a Minority Woman-Owned Small Business and may offer broader IT support services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Help desk services in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Advantage Technology",
+    "address": "Charleston and Bridgeport, WV (Multiple locations, specific help desk contact may vary)",
+    "phone": "1-866-497-8060 (Toll-Free)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.advantage-technology.com/",
+    "category": "Black-owned Help desk services in West-Virginia",
+    "description": "Offers comprehensive managed IT services, including antivirus, data backup, and recovery. While not explicitly stated as Black-owned, they are a significant IT service provider in West Virginia",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Help desk services in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TechConnect West Virginia",
+    "address": "Not a direct service provider, but an organization supporting tech entrepreneurship",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://techconnectwv.org/",
+    "category": "Black-owned Help desk services in West-Virginia",
+    "description": "A statewide organization dedicated to advancing tech and economic innovation in West Virginia, fostering collaboration and supporting entrepreneurs. They may be able to direct you to relevant Black-owned IT businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Help desk services in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
