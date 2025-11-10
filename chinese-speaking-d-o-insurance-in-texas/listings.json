@@ -1,0 +1,19 @@
+[
+  {
+    "name": "SOGO Insurance",
+    "address": "10127 Coachlight St, San Antonio, TX 78216",
+    "phone": "210-741-8398",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sogoinsurance.com/",
+    "category": "Chinese-speaking D&O insurance in Texas",
+    "description": "Ting Yang (Yuki) is an independent insurance agent fluent in both English and Mandarin (Chinese), serving San Antonio and surrounding areas. She offers comprehensive insurance solutions and aims to provide VIP service to her clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking D&O insurance in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
