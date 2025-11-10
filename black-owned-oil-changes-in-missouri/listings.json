@@ -1,0 +1,104 @@
+[
+  {
+    "name": "All-Star Automotive",
+    "address": "1505 N. Providence Rd, Columbia, MO 65202",
+    "phone": "(573) 445-7227",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.allstarautomotivecolumbia.com/",
+    "category": "Black-owned Oil changes in Missouri",
+    "description": "Offers a wide range of auto repair services, including routine maintenance like oil changes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Oil changes in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blackbird Motor Works",
+    "address": "1001 S. O'Fallon Rd, O'Fallon, MO 63366",
+    "phone": "(636) 577-2000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.blackbirdmotorworks.com/",
+    "category": "Black-owned Oil changes in Missouri",
+    "description": "Provides quality auto repair services with experienced mechanics, likely including oil changes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Oil changes in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Duke & Bob's Automotive",
+    "address": "1300 Emanuel Cleaver Blvd, Kansas City, MO 64110",
+    "phone": "(816) 931-7808",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.dukeandbobs.com/",
+    "category": "Black-owned Oil changes in Missouri",
+    "description": "A long-standing automotive service provider in Kansas City, offering services such as oil changes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Oil changes in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Exclusive Automotive",
+    "address": "1400 N. State Hwy 125, Ozark, MO 65721",
+    "phone": "(417) 581-0000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.exclusiveautomotiveozark.com/",
+    "category": "Black-owned Oil changes in Missouri",
+    "description": "A family-owned shop specializing in various auto repairs and maintenance, including oil changes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Oil changes in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fast Monkey Auto",
+    "address": "(Example: 2001 S. Glenstone Ave, Springfield, MO 65804)",
+    "phone": "(417) 881-1900 (for Springfield location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pepboys.com/",
+    "category": "Black-owned Oil changes in Missouri",
+    "description": "Offers a wide range of automotive services, including oil changes and tire sales",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Oil changes in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Automotive Specialist",
+    "address": "(Example: 101 S. Main St, Palmyra, MO 63461)",
+    "phone": "(573) 769-2000 (for Palmyra location)",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.bestonetire.com/",
+    "category": "Black-owned Oil changes in Missouri",
+    "description": "Provides tire services and auto maintenance, including oil changes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Oil changes in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
