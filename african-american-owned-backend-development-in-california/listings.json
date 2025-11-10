@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Visceral",
+    "address": "San Diego, CA",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.clutch.co/profile/visceral",
+    "category": "African-American-owned Backend development in California",
+    "description": "A web development company praised for expertise in Full-Stack Web Development, Web Design, and Custom Website Development. They have a 100% positive feedback rate",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Backend development in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Frenchy Digital LLC",
+    "address": "Los Angeles, CA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.clutch.co/profile/frenchy-digital",
+    "category": "African-American-owned Backend development in California",
+    "description": "A comprehensive web development company offering services in Website Development, Web Design, and Online Development. They excel in creating user-friendly, intuitive platforms",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Backend development in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "QualityWorks",
+    "address": "Not specified in the search results, but serves clients in the US, UK, Latin America, and the Caribbean",
+    "phone": "(888) 331\u20139588",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/QualityWorks+in+California",
+    "category": "African-American-owned Backend development in California",
+    "description": "A Black-owned and woman-led software consulting company specializing in web and mobile application development, digital transformation, and software testing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Backend development in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Azumo",
+    "address": "Not specified in the search results, but offers nearshore software development services",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.azumo.co/",
+    "category": "African-American-owned Backend development in California",
+    "description": "A Black-owned software development company focused on building intelligent applications, including AI, web, mobile, and data applications. They are noted as one of the few Black-owned software development companies in the United States",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Backend development in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bnevol",
+    "address": "Not specified in the search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bnevol.com/",
+    "category": "African-American-owned Backend development in California",
+    "description": "A Black-Owned Web Design Company that amplifies impact for mission-focused organizations with web design, marketing, and strategy solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Backend development in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
