@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Red Apple Buffet-Restaurant",
+    "address": "6474 N Milwaukee Ave, Chicago, IL 60631",
+    "phone": "(773) 775-7444",
+    "rating": 3.8,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Red+Apple+Buffet-Restaurant+in+Illinois",
+    "category": "African-American-owned Buffet restaurants in Illinois",
+    "description": "This Chicago mainstay features traditional Polish foods done mouth-wateringly well in massive quantities, including schnitzel, kielbasa, pierogi, and potato pancakes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Buffet restaurants in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pearl's Place Restaurant",
+    "address": "3901 S Michigan Ave, Chicago, IL 60653",
+    "phone": "(773) 285-1700",
+    "rating": 3.9,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Pearl's+Place+Restaurant+in+Illinois",
+    "category": "African-American-owned Buffet restaurants in Illinois",
+    "description": "A soul food sanctuary in historic Bronzeville, offering a white-tablecloth dining experience with Southern classics like crispy fried chicken, collard greens, and mac & cheese. They also offer an extensive breakfast buffet",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Buffet restaurants in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hibachi Grill Supreme Buffet",
+    "address": "16150 S La Grange Rd, Orland Park, IL 60462 (and other locations)",
+    "phone": "(708) 326-0888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hibachi+Grill+Supreme+Buffet+in+Illinois",
+    "category": "African-American-owned Buffet restaurants in Illinois",
+    "description": "Offers a wide variety of global flavors, including a hibachi grill, sushi bar, Chinese classics, and American comfort foods",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Buffet restaurants in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sawa's Old Warsaw Restaurant",
+    "address": "2051 W. Cermak Rd., Broadview, IL 60155",
+    "phone": "(708) 343-9040",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Sawa's+Old+Warsaw+Restaurant+in+Illinois",
+    "category": "African-American-owned Buffet restaurants in Illinois",
+    "description": "Serving Polish-American cuisine for over 50 years, offering a buffet with traditional favorites and a salad bar",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Buffet restaurants in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dustie's Southern Style Buffet",
+    "address": "4012 Lincoln Highway, Matteson, IL 60443",
+    "phone": "(708) 228-5500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Dustie's+Southern+Style+Buffet+in+Illinois",
+    "category": "African-American-owned Buffet restaurants in Illinois",
+    "description": "A soul food and Southern cuisine buffet",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Buffet restaurants in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
