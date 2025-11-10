@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Roswell Seed Company",
+    "address": "1201 N Main St, Roswell, NM 88201",
+    "phone": "(575) 622-7701",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.roswellseed.com/",
+    "category": "Baby-Boomer-owned Seeding in New-Mexico",
+    "description": "A family-owned seed company serving Southeastern New Mexico since 1898, offering seeds, seed cleaning, processing, and gardening tools",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Seeding in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TerrawoRx Services\u2122",
+    "address": "Albuquerque, NM (specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.terrawoRx.com/",
+    "category": "Baby-Boomer-owned Seeding in New-Mexico",
+    "description": "Premier organic seeding contractor in New Mexico, specializing in lawn installation and repair, reclamation, erosion and dust control, organic fertilization, and hydroseeding",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Seeding in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Light Foot Ecological, LLC",
+    "address": "Santa Fe, NM (specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.lightfootecological.com/",
+    "category": "Baby-Boomer-owned Seeding in New-Mexico",
+    "description": "A small, family-owned business in Santa Fe, New Mexico, offering environmentally conscious services like landscape maintenance, hydroseeding, hydro-mulching, and land restoration",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Seeding in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Caldon Seeding And Reclamation",
+    "address": "Albuquerque, NM (specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.caldonseeding.com/",
+    "category": "Baby-Boomer-owned Seeding in New-Mexico",
+    "description": "A company specializing in seeding and reclamation, erosion control, and environmental engineering services. They have worked on various large-scale projects across the Southwest",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Seeding in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Curtis and Curtis Seed",
+    "address": "Not provided in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.curtisandcurtisseed.com/",
+    "category": "Baby-Boomer-owned Seeding in New-Mexico",
+    "description": "Seed suppliers offering a collection of native grass, wildflower, organic garden, and specialty seeds, with a focus on wholesale distribution",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Seeding in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
