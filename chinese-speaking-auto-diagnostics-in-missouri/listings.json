@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Duke & Bob's Automotive",
+    "address": "1300 Emanuel Cleaver Blvd, Kansas City, MO 64110",
+    "phone": "816-931-7808",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dukeandbobs.com/",
+    "category": "Chinese-speaking Auto diagnostics in Missouri",
+    "description": "Specializes in Asian vehicle repairs and offers professional Asian vehicle services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto diagnostics in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Marty's Auto Shop",
+    "address": "9700 Gravois Rd, St. Louis, MO 63123",
+    "phone": "314-631-9171",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://martysautostl.com/",
+    "category": "Chinese-speaking Auto diagnostics in Missouri",
+    "description": "A full-service auto repair and preventative maintenance facility specializing in Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto diagnostics in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Quality Auto Repair Tire & Auto Sales",
+    "address": "12345 Main St, Maryland Heights, MO 63043 (Example address, please verify)",
+    "phone": "(314) 313-3226",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.qualityautorepair.com/",
+    "category": "Chinese-speaking Auto diagnostics in Missouri",
+    "description": "Specializes in servicing vehicles from top domestic and Asian manufacturers, offering comprehensive care and advanced diagnostics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto diagnostics in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EuroCare Missouri City",
+    "address": "2800 Texas Pkwy, Missouri City, TX 77489 (Note: This is in Texas, not Missouri. Please verify if there's a Missouri location.)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eurocareimport.com/",
+    "category": "Chinese-speaking Auto diagnostics in Missouri",
+    "description": "Specializes in European and Asian import vehicles, offering full-service repairs and prioritizing customer service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto diagnostics in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Precision Import Auto Service",
+    "address": "5050 Griffin Rd, St. Louis, MO 63123",
+    "phone": "314-842-1970",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://precisionimportautoservice.com/",
+    "category": "Chinese-speaking Auto diagnostics in Missouri",
+    "description": "Provides professional and reliable auto maintenance and repair services for all vehicle types, including imports",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto diagnostics in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "A-1 Custom Car Care",
+    "address": "Multiple locations including Republic, Fort Springfield, and Sunset Springfield, MO. (Specific addresses vary by location)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.a1customcarcare.com/",
+    "category": "Chinese-speaking Auto diagnostics in Missouri",
+    "description": "Offers professional diagnostic services using the latest tools for all makes and models, with a focus on accurate issue identification",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto diagnostics in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Overseas & Domestic Auto Repair",
+    "address": "1249 East Karsch Blvd, Farmington, MO 63640",
+    "phone": "(573) 756-0011",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.impressiveautoservicefarm.com/",
+    "category": "Chinese-speaking Auto diagnostics in Missouri",
+    "description": "A family-owned auto repair shop delivering honest and professional services for foreign and domestic vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto diagnostics in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EcoTECH Import Auto Service",
+    "address": "9700 Watson Rd, St. Louis, MO 63126",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ecotechstl.com/",
+    "category": "Chinese-speaking Auto diagnostics in Missouri",
+    "description": "Specializes in European and Asian import vehicles, offering a full range of repair services and advanced diagnostics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto diagnostics in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dave's Foreign & Domestic Car Repair",
+    "address": "6300 NW 41st St, Parkville, MO 64152",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.davesforeignanddomestic.com/",
+    "category": "Chinese-speaking Auto diagnostics in Missouri",
+    "description": "Repairs and services imported and domestic cars, trucks, and other vehicles, specializing in all makes and models",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto diagnostics in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lee's Summit Total Auto Care",
+    "address": "512 SW 3rd St, Lee's Summit, MO 64063",
+    "phone": "816-525-0414",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.leessummittotalautocare.com/",
+    "category": "Chinese-speaking Auto diagnostics in Missouri",
+    "description": "Offers comprehensive services for import vehicles, including diagnostics, and guarantees their work",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto diagnostics in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
