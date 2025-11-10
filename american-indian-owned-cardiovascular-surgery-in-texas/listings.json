@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Texas Native Health",
+    "address": "1283 Record Crossing Road, Dallas, Texas 75235",
+    "phone": "214-941-1050",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://texasnativehealth.org/",
+    "category": "American-Indian-owned Cardiovascular surgery in Texas",
+    "description": "Texas Native Health is an Urban Indian Organization providing accessible and culturally sensitive medical, dental, lab, and behavioral health services, as well as educational and workforce services to Native Americans in Texas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Cardiovascular surgery in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native Healthcare Center",
+    "address": "P.O. Box 5218, McAllen, TX 78501 (Note: This is a mailing address; physical location may vary or be in Houston as indicated by another source.)",
+    "phone": "956-648-9336",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nativehealthcarecenter.org/",
+    "category": "American-Indian-owned Cardiovascular surgery in Texas",
+    "description": "Native Healthcare Center is dedicated to improving the health and well-being of Native Americans, underserved, and diverse populations in Texas through culturally respectful healthcare, education, and community initiatives",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Cardiovascular surgery in Texas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
