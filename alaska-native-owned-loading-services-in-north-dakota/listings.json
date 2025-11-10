@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Simple Moving Labor",
+    "address": "111 W. Main Street, Mandan, ND 58554",
+    "phone": "(701) 595-1000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.simplemovinglabor.com/",
+    "category": "Alaska-Native-owned Loading services in North-Dakota",
+    "description": "Offers moving labor services, including loading and unloading of rental trucks and containers in the Mandan, ND area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Loading services in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "His Workmanship Moving",
+    "address": "1201 2nd Ave S, Fargo, ND 58103",
+    "phone": "(701) 551-0111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hisworkmanship.com/",
+    "category": "Alaska-Native-owned Loading services in North-Dakota",
+    "description": "Provides moving labor services in Fargo, ND, specializing in loading and packing moving trucks and storage containers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Loading services in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DC Heavy Haul",
+    "address": "1407 12th Ave N, Fargo, ND 58102",
+    "phone": "(701) 540-1000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://dchvyhaul.com/",
+    "category": "Alaska-Native-owned Loading services in North-Dakota",
+    "description": "Offers heavy haul and oversized load transport services throughout North Dakota, including industrial machinery, agricultural equipment, and construction materials",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Loading services in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "T.J. Potter Trucking, Inc.",
+    "address": "1002 15th Ave E, West Fargo, ND 58078",
+    "phone": "(800) 755-3143",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tjpottertrucking.com/",
+    "category": "Alaska-Native-owned Loading services in North-Dakota",
+    "description": "Provides heavy haul, oversize load, and flatbed trucking services across North Dakota and nationwide",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Loading services in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Great Plains Transport",
+    "address": "1020 42nd St S, Fargo, ND 58103",
+    "phone": "(701) 293-0070",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.greatplainstransport.com/",
+    "category": "Alaska-Native-owned Loading services in North-Dakota",
+    "description": "Offers heavy haul and flatbed transportation services in North Dakota, handling various types of trailers and freight",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Loading services in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Freedom Heavy Haul",
+    "address": "101 N. 12th Street, Bismarck, ND 58501",
+    "phone": "(701) 223-1111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://freedomheavyhaul.com/",
+    "category": "Alaska-Native-owned Loading services in North-Dakota",
+    "description": "Specializes in heavy hauling services, including transport from North Dakota to Alaska",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Loading services in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
