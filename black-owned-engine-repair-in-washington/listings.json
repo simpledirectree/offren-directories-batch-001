@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Flat Black Automotive",
+    "address": "1313 N State St, Bellingham, WA 98225",
+    "phone": "(360) 676-5400",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.flatblackauto.com/",
+    "category": "Black-owned Engine repair in Washington",
+    "description": "Offers a wide range of automotive repair and maintenance services, including engine, transmission, suspension, and brakes. They emphasize dependable and quality service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Emily's Garage",
+    "address": "8428 Pacific Ave, Tacoma, WA 98444",
+    "phone": "(253) 292-0143",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.emilysgarage.com/",
+    "category": "Black-owned Engine repair in Washington",
+    "description": "A full-service automotive shop offering diagnostic services, scheduled maintenance, and pre-buyer inspections. They are known for being supportive, knowledgeable, and offering smart, affordable solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Peterson Automotive",
+    "address": "13317 NE Fourth Plain Road, Vancouver, WA 98682",
+    "phone": "(360) 326-8592",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://petersonautomotivevancouver.com/",
+    "category": "Black-owned Engine repair in Washington",
+    "description": "Provides honest, expert auto repairs at affordable prices, specializing in brakes, tires, oil changes, and transmission services. They offer transparent pricing and stand behind their work",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zinda & Sons \u2013 Import Auto Repair",
+    "address": "9014 NE St Johns Rd Suite C, Vancouver, WA 98664",
+    "phone": "(360) 573-1622",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.zindasauto.com/",
+    "category": "Black-owned Engine repair in Washington",
+    "description": "Specializes in import vehicles, particularly Volkswagens, and has been family-owned and operated since 1960. They are an authorized Bosch Service center",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hoesly Automotive",
+    "address": "210 W McLoughlin Blvd, Vancouver, WA 98660",
+    "phone": "(360) 694-1111",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.hoeslyauto.com/",
+    "category": "Black-owned Engine repair in Washington",
+    "description": "Offers high-quality automotive services backed by integrity and expertise, servicing all makes and models with transparent and reliable solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Casey's Independent Auto Repair",
+    "address": "8300 NE Vancouver Mall Dr, Vancouver, WA 98662",
+    "phone": "(360) 573-0400",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://caseysindependentautorepair.com/",
+    "category": "Black-owned Engine repair in Washington",
+    "description": "A full-service auto repair and maintenance facility serving the Vancouver area since 1989, known for professionalism and ASE-certified technicians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Easy Street Auto Repair",
+    "address": "5402 Center St, Tacoma, WA 98409",
+    "phone": "(253) 474-0181",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.easystreetautorepair.com/",
+    "category": "Black-owned Engine repair in Washington",
+    "description": "A family- and woman-owned auto repair shop dedicated to providing trusted, full-service automotive care with a commitment to honesty and transparency",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vandervert Automotive Services",
+    "address": "509 E Rowan Ave, Spokane, WA 99207",
+    "phone": "(509) 487-7720",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://vandervertauto.com/",
+    "category": "Black-owned Engine repair in Washington",
+    "description": "Offers reliable auto repair services including brakes, tires, oil changes, and more, with expert technicians providing 5-star service on domestic and import vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wilde Automotive Shop",
+    "address": "103 E Lincoln Rd, Spokane, WA 99208",
+    "phone": "(509) 473-0000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://wildeautomotive.com/spokane/",
+    "category": "Black-owned Engine repair in Washington",
+    "description": "An ASE-certified, family-owned auto repair shop committed to delivering transparent, honest auto repairs with quick turnarounds and accurate diagnostics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nef's Auto Repair",
+    "address": "114 E Ermina Ave, Spokane, WA 99207",
+    "phone": "(509) 245-2607",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://nefsautorepair.com/",
+    "category": "Black-owned Engine repair in Washington",
+    "description": "A family-owned and operated business providing personalized care for all vehicle makes and models, committed to ensuring vehicles are repaired correctly the first time",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Engine repair in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
