@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Bank of Colorado",
+    "address": "Multiple locations across Colorado. For example, a prominent branch is located at 10355 E. Peakview Ave., Englewood, CO 80111",
+    "phone": "(303) 382-6000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bankofcolorado.com/",
+    "category": "Agnostic-owned Banking relationship management in Colorado",
+    "description": "Offers various business accounts, including a \"Business Relationship Account,\" and emphasizes treasury management and online banking tools",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Banking relationship management in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "FirstBank",
+    "address": "Headquarters in Lakewood, Colorado, with numerous branches statewide. For example, the Tech Center Branch is at 5105 DTC Parkway, Suite 100, Greenwood Village, CO 80111",
+    "phone": "(303) 740-5352",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.efirstbank.com/",
+    "category": "Agnostic-owned Banking relationship management in Colorado",
+    "description": "Colorado's largest locally-owned banking organization, offering full-service banking and strong community involvement",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Banking relationship management in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chase Bank",
+    "address": "Over 100 branches in Colorado. A central Denver location is at 1099 18th St, Denver, CO 80202",
+    "phone": "(303) 813-7200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chase.com/",
+    "category": "Agnostic-owned Banking relationship management in Colorado",
+    "description": "Offers a wide range of business checking accounts and advanced technological banking solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Banking relationship management in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "U.S. Bank",
+    "address": "Over 100 branches in Colorado. A notable branch is at 1700 Broadway, Denver, CO 80202",
+    "phone": "(303) 585-6000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.usbank.com/",
+    "category": "Agnostic-owned Banking relationship management in Colorado",
+    "description": "Provides extensive ATM networks and various business checking account options, including premium tiers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Banking relationship management in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PNC Bank",
+    "address": "Over 40 branches in Colorado. A location in Centennial is at 8100 E Arapahoe Rd, Centennial, CO 80112",
+    "phone": "(303) 330-8229",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pnc.com/",
+    "category": "Agnostic-owned Banking relationship management in Colorado",
+    "description": "Offers a broad range of banking services and has a significant presence across Colorado",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Banking relationship management in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Community Banks of Colorado",
+    "address": "Operates banking centers throughout Colorado. For example, a branch is at 7400 E. Mineral Place, Centennial, CO 80112",
+    "phone": "(303) 329-7000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cbofco.com/",
+    "category": "Agnostic-owned Banking relationship management in Colorado",
+    "description": "A division of NBH Bank, offering business checking, savings, loans, and treasury management services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Banking relationship management in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BOK Financial",
+    "address": "Multiple locations in Colorado. A Denver office is at 1225 17th St, Denver, CO 80202",
+    "phone": "(303) 531-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bokfinancial.com/",
+    "category": "Agnostic-owned Banking relationship management in Colorado",
+    "description": "Provides business checking accounts and discounts on business solutions, with a focus on growing businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Banking relationship management in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alpine Bank",
+    "address": "Numerous branches across Colorado. A Denver location is at 1601 Blake St, Denver, CO 80202",
+    "phone": "(303) 572-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alpinebank.com/",
+    "category": "Agnostic-owned Banking relationship management in Colorado",
+    "description": "A Colorado bank committed to local decision-making, lasting relationships, and community service, offering business checking and cash management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Banking relationship management in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "InBank",
+    "address": "Several locations in Colorado. For instance, a branch is at 100 Fillmore St, Denver, CO 80206",
+    "phone": "(720) 358-4000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.inbank.com/",
+    "category": "Agnostic-owned Banking relationship management in Colorado",
+    "description": "A community bank emphasizing relationship-based banking, offering commercial banking expertise and personalized attention to business owners",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Banking relationship management in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vectra Bank Colorado",
+    "address": "Multiple branches in Colorado. A Denver office is at 700 17th St, Denver, CO 80202",
+    "phone": "(303) 575-1700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vectrabank.com/",
+    "category": "Agnostic-owned Banking relationship management in Colorado",
+    "description": "Focuses on affluent clients and offers private banking services with relationship managers who provide customized financial strategies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Banking relationship management in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
