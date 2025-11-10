@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Earth & Aerial Yoga",
+    "address": "142 Washington St, Hudson, MA 01749",
+    "phone": "(978) 333-0800",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.eartheand-aerialyoga.com/",
+    "category": "Buddhist-owned Aerial yoga in Massachusetts",
+    "description": "Offers aerial yoga, lyra classes, workshops, and private sessions in a modern industrial space. They emphasize a supportive, non-judgmental approach to yoga",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Aerial yoga in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "OM Studio Central",
+    "address": "173 Chelmsford St, North Chelmsford, MA 01863",
+    "phone": "(978) 726-4025",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://omstudiocentral.com/",
+    "category": "Buddhist-owned Aerial yoga in Massachusetts",
+    "description": "Provides aerial yoga, meditation, and fitness classes with a focus on a supportive community and a unique \"Stillness Power\" approach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Aerial yoga in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Swet Studio",
+    "address": "480 Tremont St, Boston, MA 02116",
+    "phone": "(617) 670-0631",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.swetstudio.com/",
+    "category": "Buddhist-owned Aerial yoga in Massachusetts",
+    "description": "Boston's LGBTQ-friendly aerial yoga and fitness studio, offering small-group classes in hammocks, barre, and Pilates",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Aerial yoga in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Flying Buddha Studio",
+    "address": "1000s of aerial yoga classes, workshops, and teacher training",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.flyingbuddha.com/",
+    "category": "Buddhist-owned Aerial yoga in Massachusetts",
+    "description": "Offers a range of aerial yoga classes, workshops, teacher training, and special events, with a focus on personal healing and guiding others",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Aerial yoga in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aerial Yoga Classes (General Information)",
+    "address": "Multiple locations and online options may be available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aerialyogaclasses.com/",
+    "category": "Buddhist-owned Aerial yoga in Massachusetts",
+    "description": "Provides information on aerial yoga classes for all levels, emphasizing strengthening the body, releasing muscle tension, and reducing mental stress. They offer beginner, intermediate, and advanced classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Aerial yoga in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
