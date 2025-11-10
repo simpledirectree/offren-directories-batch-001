@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Dr. William Chu, MD",
+    "address": "3131 La Canada St, Las Vegas, NV 89169",
+    "phone": "(702) 360-7600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.everydayhealth.com/doctors/william-chu-md/",
+    "category": "Chinese-speaking Cardiovascular surgery in Nevada",
+    "description": "Dr. Chu is an Interventional Cardiologist who is fluent in English and Chinese. He is affiliated with Spring Valley Hospital and sees new patients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Cardiovascular surgery in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
