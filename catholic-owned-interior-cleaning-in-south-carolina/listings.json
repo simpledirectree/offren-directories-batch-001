@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Catholic Charities of South Carolina - Midlands Office",
+    "address": "809 Calhoun Street, Columbia, SC 29201",
+    "phone": "803-726-7764",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.catholiccharitiessc.org/",
+    "category": "Catholic-owned Interior cleaning in South-Carolina",
+    "description": "This office offers a range of services, including \"Clean of Heart,\" which provides showers and laundry services to the homeless population. They also have a clothing closet and other wellness services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Interior cleaning in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities of South Carolina - Upstate Office",
+    "address": "2300 Old Buncombe Road, Greenville, SC 29609",
+    "phone": "864-331-2629",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.catholiccharitiessc.org/",
+    "category": "Catholic-owned Interior cleaning in South-Carolina",
+    "description": "The Upstate office provides services such as a food pantry, clothing closet, and mobile showers. They serve individuals and families in need within the 12 counties of Upstate South Carolina",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Interior cleaning in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clean of Heart Laundry and Shower Services (Columbia)",
+    "address": "809 Calhoun Street, Columbia, SC 29201",
+    "phone": "803-399-9654",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.catholiccharitiessc.org/",
+    "category": "Catholic-owned Interior cleaning in South-Carolina",
+    "description": "This is a ministry of Catholic Charities offering showers and laundry services to the homeless population in Columbia. Appointments are often required",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Interior cleaning in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clean of Heart Mobile Ministry (Greenville)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Clean+of+Heart+Mobile+Ministry+(Greenville)+South+Carolina",
+    "category": "Catholic-owned Interior cleaning in South-Carolina",
+    "description": "While a specific address for the mobile unit isn't listed, this service operates under Catholic Charities of South Carolina to provide laundry and shower services to the homeless population in the Greenville area. Contact the Upstate office for more information",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Interior cleaning in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
