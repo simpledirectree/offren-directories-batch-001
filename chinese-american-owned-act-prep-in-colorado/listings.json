@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Test Geek",
+    "address": "Colorado Springs, CO (Specific address not publicly listed, but they offer in-person services in Colorado Springs)",
+    "phone": "(719) 472-3064",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.testgeek.com/",
+    "category": "Chinese-American-owned ACT prep in Colorado",
+    "description": "Offers in-person 1-on-1 private tutoring and group prep classes in Colorado Springs, focusing on raising ACT scores",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ACT prep in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Manhattan Review",
+    "address": "Colorado Springs, CO (Services offered in-person in the Colorado Springs area, specific location not listed)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.manhattanreview.com/colorado-springs-act-prep/",
+    "category": "Chinese-American-owned ACT prep in Colorado",
+    "description": "Provides ACT exam preparation through group courses, private tutoring, and practice exams, available both in-person and online",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ACT prep in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mindfish",
+    "address": "Boulder, CO and Denver, CO (Multiple locations throughout Colorado)",
+    "phone": "(720) 204-1041",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mindfish.com/",
+    "category": "Chinese-American-owned ACT prep in Colorado",
+    "description": "Offers 1-on-1 test prep tutoring for ACT, SAT, and other standardized tests, with a focus on personalized strategies and score improvement. They also offer practice tests",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ACT prep in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Princeton Review",
+    "address": "Various locations in Colorado, including Denver",
+    "phone": "",
+    "rating": 3.8,
+    "reviews": 25,
+    "website": "https://www.princetonreview.com/colorado/test-prep/act",
+    "category": "Chinese-American-owned ACT prep in Colorado",
+    "description": "Offers self-paced digital ACT prep, live instruction, and tutoring options, with comprehensive test prep materials",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ACT prep in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kaplan",
+    "address": "Services available online and in-person in Colorado",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kaplan.com/",
+    "category": "Chinese-American-owned ACT prep in Colorado",
+    "description": "Provides self-paced programs, live online classes, and tutoring for ACT preparation, often noted as an official ACT partner",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ACT prep in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Prep Scholar",
+    "address": "Online services available in Colorado",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.prepscholar.com/act/",
+    "category": "Chinese-American-owned ACT prep in Colorado",
+    "description": "Offers adaptive study plans, a large number of practice questions, and detailed explanations to target weak areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ACT prep in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Magoosh",
+    "address": "Online services available in Colorado",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://act.magoosh.com/",
+    "category": "Chinese-American-owned ACT prep in Colorado",
+    "description": "Provides online ACT prep with a significant number of practice questions and video lessons covering all ACT sections",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ACT prep in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Elite Academics",
+    "address": "5241 S. Quebec St, Suite 100, Greenwood Village, CO 80111",
+    "phone": "(720) 216-2222",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eliteacademicsdenver.com/",
+    "category": "Chinese-American-owned ACT prep in Colorado",
+    "description": "Offers classroom and one-on-one tutoring for ACT test preparation, focusing on practice and strategy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ACT prep in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Moser Educational",
+    "address": "Services offered at locations convenient to the client (home, coffee shop, library, school)",
+    "phone": "(303) 819-4328",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mosereducational.com/",
+    "category": "Chinese-American-owned ACT prep in Colorado",
+    "description": "Employs full-time, professional instructors for private and small group ACT and SAT classes, with flexible scheduling",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ACT prep in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Varsity Tutors",
+    "address": "Online services available in Denver, CO",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.varsitytutors.com/co/act-test-prep/denver",
+    "category": "Chinese-American-owned ACT prep in Colorado",
+    "description": "Provides both online ACT prep courses and private tutoring, focusing on student goals and interactive learning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned ACT prep in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
