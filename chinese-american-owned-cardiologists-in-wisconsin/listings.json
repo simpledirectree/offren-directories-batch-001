@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Dr. Zhaowei Ai, MD",
+    "address": "Ascension Medical Group at Elmbrook Medical Office Building, 19475 W North Ave Ste 305, Brookfield, WI 53045 and Ascension SE Wisconsin - Mayfair Road, 201 N Mayfair Rd, Milwaukee, WI 53226",
+    "phone": "(414) 259-7583 (for Mayfair location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://doctors.ascension.org/provider/Zhaowei+Ai/2000100",
+    "category": "Chinese-American-owned Cardiologists in Wisconsin",
+    "description": "Board-certified cardiologist specializing in interventional cardiology and cardiovascular disease. He has over 35 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Cardiologists in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dr. Li Zhou, MD",
+    "address": "5045 W Grande Market Dr, Appleton, WI 54913",
+    "phone": "(920) 886-9380",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.healthgrades.com/physician/li-zhou-227z97z",
+    "category": "Chinese-American-owned Cardiologists in Wisconsin",
+    "description": "Cardiologist with over 15 years of experience, specializing in Cardiac Implantable Device Procedures, Heart Conditions, and Cardiac Electrical System Procedures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Cardiologists in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dr. Yuting Chiang, MD",
+    "address": "Aurora Cardiovascular & Thoracic Services, 2901 W Kinnickinnic River Pkwy, Ste 507, Milwaukee, WI 53215 and 975 Port Washington Rd, Ste 310, Grafton, WI 53024",
+    "phone": "414-649-3780 (Milwaukee) and 262-329-8150 (Grafton)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aurorahealthcare.org/doctors/yuting-chiang-md",
+    "category": "Chinese-American-owned Cardiologists in Wisconsin",
+    "description": "Cardiothoracic surgeon with expertise in Thoracic and Cardiac Surgery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Cardiologists in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
