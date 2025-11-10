@@ -1,0 +1,172 @@
+[
+  {
+    "name": "LaunchPad Lab",
+    "address": "121 W. Monroe St., Suite 300, Chicago, IL 60603",
+    "phone": "(312) 374-0550",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.launchpadlab.com/",
+    "category": "Buddhist-owned Ruby development in Illinois",
+    "description": "A digital product agency specializing in web, mobile, and Salesforce development, known for solving complex business challenges and accelerating growth",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ruby development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Gnar Company",
+    "address": "100 N LaSalle St Ste 2200, Chicago, IL 60602",
+    "phone": "(312) 374-0550",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.thegnarcompany.com/",
+    "category": "Buddhist-owned Ruby development in Illinois",
+    "description": "A web development firm specializing in custom website development, full-stack web development, and web application development using technologies like Ruby on Rails and React",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ruby development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Edvantis",
+    "address": "100 N LaSalle St, Suite 2200, Chicago, IL 60602",
+    "phone": "(312) 374-0550",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.edvantis.com/",
+    "category": "Buddhist-owned Ruby development in Illinois",
+    "description": "A versatile software development company specializing in Full-Stack Web Development, Custom Website Development, and Web Application Development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ruby development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SITE IT NOW",
+    "address": "100 N LaSalle St, Suite 2200, Chicago, IL 60602",
+    "phone": "(312) 374-0550",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.siteitnow.com/",
+    "category": "Buddhist-owned Ruby development in Illinois",
+    "description": "A Chicago web design and SEO company offering professional Website Designing, Logo Designing, Custom Web Development, Web Application Development, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ruby development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Velvetech LLC",
+    "address": "100 N LaSalle St, Suite 2200, Chicago, IL 60602",
+    "phone": "(312) 374-0550",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.velvetech.com/",
+    "category": "Buddhist-owned Ruby development in Illinois",
+    "description": "An award-winning custom software development and consulting company that facilitates innovation and growth",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ruby development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shift Interactive",
+    "address": "100 N LaSalle St, Suite 2200, Chicago, IL 60602",
+    "phone": "(312) 374-0550",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.shiftinteractive.com/",
+    "category": "Buddhist-owned Ruby development in Illinois",
+    "description": "A software development company focusing on Custom Software Development, Web Development, Mobile App Development, and UX/UI Design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ruby development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Graveflex",
+    "address": "100 N LaSalle St, Suite 2200, Chicago, IL 60602",
+    "phone": "(312) 374-0550",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://graveflex.com/",
+    "category": "Buddhist-owned Ruby development in Illinois",
+    "description": "A web development firm offering web development, e-commerce development, UX/UI design, and custom software development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ruby development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "21Twelve Interactive",
+    "address": "100 N LaSalle St, Suite 2200, Chicago, IL 60602",
+    "phone": "(312) 374-0550",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.21twelveinteractive.com/",
+    "category": "Buddhist-owned Ruby development in Illinois",
+    "description": "A company inspired by customer obsession and creativity to fuel customer interaction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ruby development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Enkode Technologies",
+    "address": "100 N LaSalle St, Suite 2200, Chicago, IL 60602",
+    "phone": "(312) 374-0550",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://enkodetechnologies.com/",
+    "category": "Buddhist-owned Ruby development in Illinois",
+    "description": "A pioneering software development agency for startups, specializing in startup consulting, R&D Centers, and web & mobile development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ruby development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "INTERSOG",
+    "address": "100 N LaSalle St, Suite 2200, Chicago, IL 60602",
+    "phone": "(312) 374-0550",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://intersog.com/",
+    "category": "Buddhist-owned Ruby development in Illinois",
+    "description": "A software development company providing AI, data management, and app development services, known for effective communication and problem-solving skills",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Ruby development in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
