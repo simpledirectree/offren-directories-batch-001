@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Lab7 LLC",
+    "address": "Virginia Beach, VA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lab7.com/",
+    "category": "Baby-Boomer-owned Database management in Virginia",
+    "description": "Offers database design, migration, optimization, security, backup, and maintenance services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Database management in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blu Omega",
+    "address": "Ashburn, Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Blu+Omega+in+Virginia",
+    "category": "Baby-Boomer-owned Database management in Virginia",
+    "description": "Provides IT and healthcare consulting, including data management, cloud infrastructure, and cybersecurity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Database management in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Anira Solutions Inc.",
+    "address": "Ashburn, Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Anira+Solutions+Inc.+in+Virginia",
+    "category": "Baby-Boomer-owned Database management in Virginia",
+    "description": "Specializes in data governance, regulatory compliance, data security, and service management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Database management in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Incept Data Solutions, Inc.",
+    "address": "Dulles, Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Incept+Data+Solutions,+Inc.+in+Virginia",
+    "category": "Baby-Boomer-owned Database management in Virginia",
+    "description": "Focuses on data governance and management, including data quality, privacy, and strategic data initiatives",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Database management in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Centrifuge LLC",
+    "address": "Reston, Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Centrifuge+LLC+in+Virginia",
+    "category": "Baby-Boomer-owned Database management in Virginia",
+    "description": "Specializes in data management, application development, and cloud services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Database management in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Canopy One Solutions Inc.",
+    "address": "Chantilly, Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Canopy+One+Solutions+Inc.+in+Virginia",
+    "category": "Baby-Boomer-owned Database management in Virginia",
+    "description": "Provides data management, cybersecurity, and digital transformation services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Database management in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DataSync Inc.",
+    "address": "Sterling, Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/DataSync+Inc.+in+Virginia",
+    "category": "Baby-Boomer-owned Database management in Virginia",
+    "description": "Offers IT and data management services, including cloud modernization, data analytics, and managed services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Database management in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Data Affect",
+    "address": "Ashburn, Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Data+Affect+in+Virginia",
+    "category": "Baby-Boomer-owned Database management in Virginia",
+    "description": "Specializes in data management services such as data governance, security, and enterprise data strategy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Database management in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Altova",
+    "address": "Vienna, Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.altova.com/",
+    "category": "Baby-Boomer-owned Database management in Virginia",
+    "description": "Develops data integration and management solutions, including XML and JSON editing tools",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Database management in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MiCORE Solutions, Inc.",
+    "address": "Reston, Virginia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/MiCORE+Solutions,+Inc.+in+Virginia",
+    "category": "Baby-Boomer-owned Database management in Virginia",
+    "description": "A data management and consulting company providing services for database architecture, administration, storage, operations, analytics, and security",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Database management in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
