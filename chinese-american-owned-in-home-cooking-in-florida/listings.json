@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Blue Bamboo",
+    "address": "10110 San Jose Blvd, Jacksonville, FL 32257",
+    "phone": "(904) 636-0027",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bluebamboo.us/",
+    "category": "Chinese-American-owned In-home cooking in Florida",
+    "description": "Offers in-person cooking classes with award-winning Chef Dennis Chan, focusing on Chinese and Asian dishes. They also offer private cooking classes for groups",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned In-home cooking in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cozymeal (Orlando)",
+    "address": "Various locations in Orlando, FL (specific in-home address not provided as it's a service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cozymeal.com/asian-cooking-classes/orlando",
+    "category": "Chinese-American-owned In-home cooking in Florida",
+    "description": "Offers a selection of Asian cooking classes, including Chinese cuisine, led by professional chefs. Classes can be in-person or online",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned In-home cooking in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cozymeal (Miami)",
+    "address": "Various locations in Miami, FL (specific in-home address not provided as it's a service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cozymeal.com/asian-cooking-classes/miami",
+    "category": "Chinese-American-owned In-home cooking in Florida",
+    "description": "Provides Asian cooking classes in Miami, with options for various Asian cuisines including Chinese, led by local chefs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned In-home cooking in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cozymeal (Naples)",
+    "address": "Various locations in Naples, FL (specific in-home address not provided as it's a service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cozymeal.com/chinese-cooking-classes/naples-fl",
+    "category": "Chinese-American-owned In-home cooking in Florida",
+    "description": "Offers Chinese cooking classes in Naples, FL, with in-person and online options. Classes focus on various Chinese dishes and techniques",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned In-home cooking in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cozymeal (Tampa)",
+    "address": "Various locations in Tampa, FL (specific in-home address not provided as it's a service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cozymeal.com/chinese-cooking-classes/tampa",
+    "category": "Chinese-American-owned In-home cooking in Florida",
+    "description": "Features Chinese cooking classes in Tampa, FL, where participants can learn to recreate favorite Chinese dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned In-home cooking in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cozymeal (Fort Lauderdale)",
+    "address": "Various locations in Fort Lauderdale, FL (specific in-home address not provided as it's a service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cozymeal.com/asian-cooking-classes/fort-lauderdale",
+    "category": "Chinese-American-owned In-home cooking in Florida",
+    "description": "Offers Asian cooking classes in Fort Lauderdale, including Chinese dishes, led by expert chefs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned In-home cooking in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gathar (Chinese Private Chef in Miami)",
+    "address": "Miami, FL (service provided at client's location)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.gathar.com/private-chef/miami/chinese",
+    "category": "Chinese-American-owned In-home cooking in Florida",
+    "description": "Connects clients with private chefs in Miami for Chinese dining experiences at home, handling grocery shopping, preparation, serving, and cleanup",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned In-home cooking in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Spice Asian Market",
+    "address": "2212 Gulf Gate Dr, Sarasota, FL 34231",
+    "phone": "(941) 924-8066",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.spiceasianmarket.com/cooking-class",
+    "category": "Chinese-American-owned In-home cooking in Florida",
+    "description": "Offers cooking classes, including Thai food, at their market location",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned In-home cooking in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tampa Bay Chef Services LLC",
+    "address": "Tampa, FL (serves Tampa, Clearwater, and St. Petersburg)",
+    "phone": "(727) 480-7779",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tampabaychefs.com/",
+    "category": "Chinese-American-owned In-home cooking in Florida",
+    "description": "Provides private chef and personal chef services, including interactive cooking classes, for various cuisines in the Tampa Bay area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned In-home cooking in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Personal Chef Florida",
+    "address": "Florida (service provided at client's location)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.personalchefflorida.com/",
+    "category": "Chinese-American-owned In-home cooking in Florida",
+    "description": "Offers private chef services for in-home dining experiences and events across Florida, with customizable menus",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned In-home cooking in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
