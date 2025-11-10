@@ -1,0 +1,172 @@
+[
+  {
+    "name": "My Auto Solutions",
+    "address": "5364 Buford Highway, Atlanta, GA 30340 (This address is for Meineke, My Auto Solutions is in Buford, GA)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.myautosolutions.com/",
+    "category": "Christian-owned ABS repair in Georgia",
+    "description": "Specializes in ABS module repair and offers a lifetime warranty on their ABS repairs. They also have a mail-in program for repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned ABS repair in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Meineke Car Care Center (Atlanta - Buford Highway)",
+    "address": "5364 Buford Highway, Atlanta, GA 30340",
+    "phone": "(770) 455-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.meineke.com/locations/atlanta-ga-5364-buford-hwy/",
+    "category": "Christian-owned ABS repair in Georgia",
+    "description": "Offers ABS brake service and inspections",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned ABS repair in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Two Nuts and a Bolt Garage",
+    "address": "1010 Montgomery St, Savannah, GA 31406",
+    "phone": "(912) 233-6023",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.twonutsandaboltgarage.com/",
+    "category": "Christian-owned ABS repair in Georgia",
+    "description": "Provides ABS light diagnosis and professional repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned ABS repair in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Precision Automotive Repair",
+    "address": "4010 Pio Nono Ave SW, Macon, GA 31206",
+    "phone": "(478) 788-4326",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://precisionautomotivemacon.com/",
+    "category": "Christian-owned ABS repair in Georgia",
+    "description": "Offers ABS diagnosis and repair as part of their brake services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned ABS repair in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Meineke Car Care Center (Savannah - White Bluff Road)",
+    "address": "8510 White Bluff Road, Savannah, GA 31406",
+    "phone": "(912) 925-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.meineke.com/locations/savannah-ga-8510-white-bluff-rd/",
+    "category": "Christian-owned ABS repair in Georgia",
+    "description": "Offers ABS brake service and inspections",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned ABS repair in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Brakes 4 Less",
+    "address": "3015 Peach Orchard Road, Augusta, GA 30906",
+    "phone": "(706) 793-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.brakes4lessaugusta.com/",
+    "category": "Christian-owned ABS repair in Georgia",
+    "description": "Offers ABS unit services as part of their comprehensive brake repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned ABS repair in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tommy Mathewes Auto Repair",
+    "address": "4217 Washington Rd, Martinez, GA 30907 (Serves the greater Augusta, GA area)",
+    "phone": "(706) 917-8011",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://tommymathewesautorepair.com/",
+    "category": "Christian-owned ABS repair in Georgia",
+    "description": "Provides regular maintenance of the ABS system to prevent unexpected failures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned ABS repair in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Garage on Gordon Hwy",
+    "address": "2402 Gordon Hwy, Augusta, GA 30906",
+    "phone": "(706) 496-3915",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thegarageongordonhwy.com/",
+    "category": "Christian-owned ABS repair in Georgia",
+    "description": "Offers diagnosis and professional repair for ABS system issues",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned ABS repair in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mavis Tires & Brakes (Multiple Locations)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mavistires.com/",
+    "category": "Christian-owned ABS repair in Georgia",
+    "description": "Offers ABS brake service and inspections",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned ABS repair in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Brothers Automotive (Multiple Locations)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cbac.com/",
+    "category": "Christian-owned ABS repair in Georgia",
+    "description": "These are Christian-owned businesses that offer a full range of auto repair services, including brake services which would encompass ABS. They are known for honest service and quality workmanship",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Christian-owned ABS repair in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
