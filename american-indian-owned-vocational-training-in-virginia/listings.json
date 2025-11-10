@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Virginia Tribal Education Consortium (VTEC)",
+    "address": "10469 Atlee Station Road, Suite 200, Ashland, VA 23005",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vtecinc.org/",
+    "category": "American-Indian-owned Vocational training in Virginia",
+    "description": "VTEC's Career and Technical Education Program aims to increase the number of Native individuals who obtain postsecondary degrees or credentials. They provide resources and guidance for individuals from 6th grade through working adults, covering costs for eligible individuals and offering career and academic guidance. VTEC also partners with CodeVA to offer coding activity camps for students",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Vocational training in Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
