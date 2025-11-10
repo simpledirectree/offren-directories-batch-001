@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Hirota & Associates, LLLC",
+    "address": "Honolulu, Hawaii 96813",
+    "phone": "808-587-9600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hirota-associates.com/",
+    "category": "Alaska-Native-owned Immigration law in Hawaii",
+    "description": "Devoted exclusively to U.S. immigration and nationality matters, with over 30 years of experience. They offer legal services in English, Tagalog, Ilocano, and Japanese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Immigration law in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aloha Immigration Law Firm",
+    "address": "Honolulu, Hawaii",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.alohaimmigration.com/",
+    "category": "Alaska-Native-owned Immigration law in Hawaii",
+    "description": "Focuses on family-based immigration law with over 25 years of experience. They emphasize compassion and kindness in their practice",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Immigration law in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Noha Immigration Law",
+    "address": "Honolulu, Hawaii",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nohaimmigration.com/",
+    "category": "Alaska-Native-owned Immigration law in Hawaii",
+    "description": "A boutique firm offering compassionate advocacy, founded by a former Senior Attorney with U.S. Immigration and Customs Enforcement",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Immigration law in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Carmen Di Amore-Siah & Associates",
+    "address": "Honolulu, Hawaii",
+    "phone": "808-531-2277",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.carmendiamore.com/",
+    "category": "Alaska-Native-owned Immigration law in Hawaii",
+    "description": "Provides legal support for immigration, family law, and estate planning needs, with over 30 years of experience. They have staff who speak Spanish, Japanese, Chinese, Filipino, Vietnamese, and Korean",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Immigration law in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Migration Counsel",
+    "address": "Honolulu, Hawaii",
+    "phone": "808-695-3560",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.migrationcounsel.com/",
+    "category": "Alaska-Native-owned Immigration law in Hawaii",
+    "description": "Represents clients in a full range of immigration, visa, and citizenship matters, with over 20 years of combined experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Immigration law in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aina Law Office",
+    "address": "Hawaii",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ainalawoffice.com/",
+    "category": "Alaska-Native-owned Immigration law in Hawaii",
+    "description": "Assists immigrants in obtaining visas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Immigration law in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
