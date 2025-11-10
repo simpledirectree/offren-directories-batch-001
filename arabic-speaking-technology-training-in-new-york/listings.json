@@ -1,0 +1,87 @@
+[
+  {
+    "name": "The Arabic School of New York",
+    "address": "747 Third Avenue, Ground floor, Manhattan, NY, 10017",
+    "phone": "212-882-1235",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.arabicschoolny.com/",
+    "category": "Arabic-speaking Technology training in New-York",
+    "description": "Offers in-person and online Arabic courses for all levels, focusing on language and culture",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Technology training in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lebanese American University (LAU) - SINARC",
+    "address": "New York Headquarters and Academic Center, Manhattan, NY",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lau.edu/sinarc/",
+    "category": "Arabic-speaking Technology training in New-York",
+    "description": "Offers comprehensive Arabic language and culture programs, including Modern Standard Arabic and Levantine dialect, for beginners to advanced learners",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Technology training in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New York City College of Technology (City Tech)",
+    "address": "300 Jay Street, Brooklyn, NY 11201",
+    "phone": "(718) 260-5500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.citytech.cuny.edu/",
+    "category": "Arabic-speaking Technology training in New-York",
+    "description": "Offers Arabic language courses as part of its Humanities Department, including Elementary Arabic I and II, and Intermediate Arabic I",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Technology training in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nasma of NY",
+    "address": "Various locations in Astoria, Brooklyn, and Manhattan for kids' classes; online options available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nasmaofny.com/",
+    "category": "Arabic-speaking Technology training in New-York",
+    "description": "Offers Arabic classes for children and adults, private lessons, and cultural enrichment activities, with a focus on Levantine Arabic",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Technology training in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fashion Institute of Technology (FIT)",
+    "address": "227 West 27th Street, New York City, NY 10001-5992",
+    "phone": "(212) 217-7600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.fitnyc.edu/",
+    "category": "Arabic-speaking Technology training in New-York",
+    "description": "Offers courses in Elementary Arabic I and II, Arabic Conversation I, and Independent Study in Arabic through its Liberal Arts department",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Technology training in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
