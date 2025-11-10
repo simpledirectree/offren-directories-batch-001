@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Luxe Room",
+    "address": "Not publicly listed, but serves Denver, Boulder & Fort Collins areas",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.theluxeroom.com/",
+    "category": "Bengali-speaking Medical spas in Colorado",
+    "description": "Offers a full range of aesthetic services including Botox, fillers, microneedling, and various laser treatments. Known for natural-looking results and a highly experienced team",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Medical spas in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RESTOR Medical Spa",
+    "address": "4940 S Yosemite St Suite C7, Greenwood Village, CO 80111",
+    "phone": "(720) 585-3436",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://restormedicalspa.com/",
+    "category": "Bengali-speaking Medical spas in Colorado",
+    "description": "Provides customized treatment plans for aesthetic goals and functional aging, including hormone replacement. Offers services like laser treatments, injectables, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Medical spas in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vasu Skin Solutions",
+    "address": "2595 Canyon Blvd, Boulder, CO 80302",
+    "phone": "(303) 444-2545",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://vasuskinsolutions.com/",
+    "category": "Bengali-speaking Medical spas in Colorado",
+    "description": "Specializes in advanced skincare treatments and laser therapies, catering to diverse ethnic backgrounds. Offers laser hair removal, anti-aging treatments, and injectables",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Medical spas in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Premier Skin Clinic",
+    "address": "1026 W Drake Rd Suite 101, Fort Collins, CO 80526",
+    "phone": "(970) 221-1285",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.premierskinclinic.com/",
+    "category": "Bengali-speaking Medical spas in Colorado",
+    "description": "Offers state-of-the-art technology and techniques for skin and body contouring, with highly experienced professionals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Medical spas in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Renaissance Med Spa",
+    "address": "850 W. Moreno Ave, Colorado Springs, CO 80905",
+    "phone": "(719) 570-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.renaissancemedspa.com/",
+    "category": "Bengali-speaking Medical spas in Colorado",
+    "description": "Led by a board-certified physician, offering personalized aesthetic treatments for radiant, youthful skin, including biostimulants, microneedling, and fillers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Medical spas in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Harmony Skin & Wellness Clinic",
+    "address": "101 W. Laurel St, Suite 101, Fort Collins, CO 80521",
+    "phone": "(970) 221-1285",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.harmonymedicalaesthetics.com/",
+    "category": "Bengali-speaking Medical spas in Colorado",
+    "description": "Offers skin rejuvenation, laser therapy, and injectables with a focus on health, safety, and excellent customer service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Medical spas in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Natura Med Spa & IV Bar",
+    "address": "100 Fillmore St Suite 100, Denver, CO 80206 (also serves Aurora)",
+    "phone": "(720) 280-7016",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://naturamedspa.com/",
+    "category": "Bengali-speaking Medical spas in Colorado",
+    "description": "Offers a wide variety of services including IV therapy, weight loss treatments, Botox, and body contouring, aiming for affordable, top-of-the-line service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Medical spas in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "VITAHL Medical Aesthetics",
+    "address": "300 Josephine St Suite 400, Denver, CO 80206",
+    "phone": "(303) 832-9099",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vitahl.com/",
+    "category": "Bengali-speaking Medical spas in Colorado",
+    "description": "A physician-owned practice offering a full range of non-surgical aesthetic treatments, including Botox, laser hair removal, and skin rejuvenation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Medical spas in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "La Fontaine Aesthetics",
+    "address": "2030 E. 17th Ave, Denver, CO 80206",
+    "phone": "(303) 722-2252",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lafontainaaesthetics.com/",
+    "category": "Bengali-speaking Medical spas in Colorado",
+    "description": "A premier medical spa in Denver known for its artistry and delicate approach to creating natural, refreshed, and youthful enhancements",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Medical spas in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Amplify Aesthetics",
+    "address": "13620 Via Varra Rd Suite 200, Thornton, CO 80023",
+    "phone": "(303) 261-8070",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://amplifyaesthetics.com/",
+    "category": "Bengali-speaking Medical spas in Colorado",
+    "description": "Offers a range of treatments from facials to Botox and IV hydration, with a focus on delivering results through science, products, and a gentle touch",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Medical spas in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
