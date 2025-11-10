@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Leslie's House Cleaning",
+    "address": "",
+    "phone": "(602) 710-8876",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Leslie's+House+Cleaning+in+Arizona",
+    "category": "Bengali-speaking Home cleaners in Arizona",
+    "description": "One reviewer mentioned that their cleaner spoke very little English but used a voice translation app, which resolved the language barrier. This might be an option if you are open to using translation technology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Home cleaners in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
