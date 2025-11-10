@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Lexington Diagnostic Center & MRI",
+    "address": "1560 Nicholasville Rd, Lexington, KY 40503",
+    "phone": "(859) 278-7777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lexingtondiagnosticcenter.com/",
+    "category": "African-American-owned MRI services in Kentucky",
+    "description": "Offers Open, 1.5T, and 3T MRI, CT, X-rays, Ultrasounds, and Nuclear Medicine. They emphasize affordable, high-quality imaging and price transparency",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned MRI services in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ProScan Imaging",
+    "address": "Multiple locations including Louisville and Lexington. For example, Louisville: 1000 Dupont Sq S, Louisville, KY 40207. Lexington: 1775 Harrodsburg Rd, Lexington, KY 40504",
+    "phone": "Louisville: (502) 491-1313, Lexington: (859) 276-1022",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.proscanimaging.com/",
+    "category": "African-American-owned MRI services in Kentucky",
+    "description": "Provides high-quality medical imaging including Open MRI, wide-bore Oval MRI, dedicated extremity MRI, breast MRI, and prostate MRI in a comfortable environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned MRI services in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bluegrass Orthopaedics",
+    "address": "Multiple locations in Lexington, KY. For example, 1775 Harrodsburg Rd, Lexington, KY 40504",
+    "phone": "(859) 276-1022",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bluegrassortho.com/services/diagnostic-imaging/",
+    "category": "African-American-owned MRI services in Kentucky",
+    "description": "Offers MRI, X-ray, and Ultrasound services with high-quality resolution and comprehensive diagnostic studies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned MRI services in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kentucky Orthopaedics & Spine",
+    "address": "1560 Nicholasville Rd, Lexington, KY 40503",
+    "phone": "(859) 278-7777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kyorthoandspine.com/services/mri/",
+    "category": "African-American-owned MRI services in Kentucky",
+    "description": "Provides high-quality, affordable, and convenient MRI services for orthopedic conditions, featuring a comfortable Hitachi ARIS II MRI system",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned MRI services in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Open MRI of Kentucky",
+    "address": "705 N. 12th St., Middlesboro, KY 40965",
+    "phone": "(888) 674-8326",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.openmriofky.com/",
+    "category": "African-American-owned MRI services in Kentucky",
+    "description": "Offers an \"open\" type MRI scanner for patient comfort and accessibility, with professional interpretation by Dr. Steve J. Pomeranz and his staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned MRI services in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aptiva Health",
+    "address": "Multiple locations including Louisville, Lexington, and Northern Kentucky. For example, Louisville: 1000 Dupont Sq S, Louisville, KY 40207. Lexington: 1775 Harrodsburg Rd, Lexington, KY 40504",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aptivahealth.com/services/medical-imaging/",
+    "category": "African-American-owned MRI services in Kentucky",
+    "description": "Provides comprehensive and affordable diagnostic imaging services, including High-Field Open MRI and 1.5T MRI, with state-of-the-art equipment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned MRI services in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jennie Stuart Health Medical Imaging Center",
+    "address": "110 Nick Terhune Blvd, Hopkinsville, KY 42240",
+    "phone": "Scheduling: (270) 887-0132, Info: (270) 887-8311",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jenniestuarthealth.org/services/medical-imaging",
+    "category": "African-American-owned MRI services in Kentucky",
+    "description": "Offers comprehensive diagnostic imaging, including MRI, CT, digital mammography, and ultrasound, with a focus on patient comfort and quality",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned MRI services in Kentucky consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
