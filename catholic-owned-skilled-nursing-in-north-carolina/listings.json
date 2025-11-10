@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Pennybyrn",
+    "address": "109 Penny Road, High Point, NC 27260",
+    "phone": "(336) 821-4000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pennybyrn.org/",
+    "category": "Catholic-owned Skilled nursing in North-Carolina",
+    "description": "Founded in 1947 by the Sisters of the Poor Servants of the Mother of God and sponsored by the Diocese of Charlotte, Pennybyrn offers independent living, assisted living, memory support, and skilled nursing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Skilled nursing in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Joseph of the Pines",
+    "address": "200 17th St, Southern Pines, NC 28387",
+    "phone": "(910) 692-2134",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.trinityhealthseniorliving.org/locations/st-joseph-of-the-pines/",
+    "category": "Catholic-owned Skilled nursing in North-Carolina",
+    "description": "A Life Plan Community offering independent living, assisted living, skilled nursing, and short-term rehabilitation, with services focused on mind, body, and spirit",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Skilled nursing in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Little Flower",
+    "address": "10830 Lawyers Glen Drive, Charlotte, NC 28227 (This address is for Mint Hill Senior Living, where The Little Flower is located. A more specific address for The Little Flower itself was not found.)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Little+Flower+North+Carolina",
+    "category": "Catholic-owned Skilled nursing in North-Carolina",
+    "description": "Originally Catholic-owned and named after St. Therese of Lisieux, this facility is now owned and run by Premier Senior Living and is open to all seniors needing assisted living. It is located in the Mint Hill neighborhood of Charlotte",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Skilled nursing in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
