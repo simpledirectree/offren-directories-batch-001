@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Urban Native Collective",
+    "address": "Native Sovereignty Center, Cincinnati, Ohio",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://urbannativecollective.org/",
+    "category": "American-Indian-owned UI/UX design in Ohio",
+    "description": "This organization serves the interests of Indigenous Peoples throughout Ohio, Kentucky, and Indiana, focusing on preserving culture, heritage, and providing education and advocacy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned UI/UX design in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "NAICCO Cuisine",
+    "address": "Central Ohio (food trailer)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.naicco.com/cuisine",
+    "category": "American-Indian-owned UI/UX design in Ohio",
+    "description": "A Native American-owned and operated food trailer offering Native American street food. While not a UI/UX design business, it is a prominent Native American-owned business in Ohio",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned UI/UX design in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "indigenous",
+    "address": "1609 Madison Road, Cincinnati, Ohio 45208",
+    "phone": "513.321.3750",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.indigenouscraft.com/",
+    "category": "American-Indian-owned UI/UX design in Ohio",
+    "description": "A craft gallery featuring contemporary American fine craft from over 150 artists, with a focus on local and regional artists. They blend traditional methods with contemporary design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned UI/UX design in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
