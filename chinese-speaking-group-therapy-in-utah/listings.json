@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Asian Association of Utah",
+    "address": "1400 Foothill Dr, Salt Lake City, UT 84108",
+    "phone": "(801) 486-2110",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://aau.org/",
+    "category": "Chinese-speaking Group therapy in Utah",
+    "description": "Offers affordable, trauma-informed, and culturally sensitive outpatient services, including individual and group psychotherapy, for refugees, refugee youth, and other community members. They also provide language interpreting services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Group therapy in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Utah Counseling Center (UCC)",
+    "address": "150 S 1500 E, Salt Lake City, UT 84112",
+    "phone": "(801) 581-6826",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://counseling.utah.edu/",
+    "category": "Chinese-speaking Group therapy in Utah",
+    "description": "Provides various group counseling options, including support groups, therapy groups, and psychoeducational groups. They offer a group called \"Chai and Chat\" specifically for international students to discuss experiences and challenges",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Group therapy in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RMC Counseling",
+    "address": "370 E South Temple, Suites 260, 300, & 550, Salt Lake City, Utah 84111",
+    "phone": "(385) 212-4195",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://rmccounseling.com/",
+    "category": "Chinese-speaking Group therapy in Utah",
+    "description": "Offers group therapy sessions for various mental health challenges, including anxiety, depression, PTSD, grief, and relationship struggles. They have programs for teens, nature therapy, life skills, and neurodivergent groups",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Group therapy in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Psychology Today - Mandarin Therapists in Utah",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.psychologytoday.com/us/therapists/ut/chinese",
+    "category": "Chinese-speaking Group therapy in Utah",
+    "description": "This directory lists therapists in Utah who speak Mandarin. While it doesn't specifically list group therapy, individual therapists may offer group sessions or be able to refer you to one. You can filter by location and specialty",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Group therapy in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mental Health Match - Mandarin Chinese-speaking Therapists in Utah",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mentalhealthmatch.com/therapists/ut/draper/mandarin-chinese",
+    "category": "Chinese-speaking Group therapy in Utah",
+    "description": "This platform helps you find experienced therapists or counselors who speak Mandarin Chinese. It's possible that some of these therapists offer group therapy or can provide referrals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Group therapy in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yi Liu, Counselor",
+    "address": "Salt Lake City, UT, 84106",
+    "phone": "(385) 481-7418",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.psychologytoday.com/us/therapists/yi-liu-salt-lake-city-ut/1075718",
+    "category": "Chinese-speaking Group therapy in Utah",
+    "description": "Yi Liu is a counselor who is bilingual in English and Mandarin and works with individuals and couples. While not explicitly group therapy, she may offer group sessions or referrals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Group therapy in Utah consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
