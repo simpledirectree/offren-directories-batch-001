@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Catholic Charities of Baltimore",
+    "address": "320 Cathedral Street, Baltimore, MD 21201",
+    "phone": "667-600-2000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cc-md.org/",
+    "category": "Catholic-owned Permanent staffing in Maryland",
+    "description": "Offers job training programs, placement assistance, and workshops to help individuals find and secure employment. They assist both job seekers and employers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Permanent staffing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities of Washington DC (Gaithersburg Location)",
+    "address": "201 E. Diamond Ave., Third Floor, Gaithersburg, MD 20877",
+    "phone": "202-772-4300 (General Inquiries)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.catholiccharitiesdc.org/",
+    "category": "Catholic-owned Permanent staffing in Maryland",
+    "description": "Provides employment services including job readiness programs, workshops on various career-related topics, and job matching assistance for residents of D.C., Maryland, and Virginia",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Permanent staffing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Archdiocese of Baltimore",
+    "address": "320 Cathedral Street, Baltimore, MD 21201",
+    "phone": "410-547-5370 (Central Services HR)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.archbalt.org/",
+    "category": "Catholic-owned Permanent staffing in Maryland",
+    "description": "Supports individuals seeking employment and lists various positions within its parishes, schools, and agencies. They offer a comprehensive benefits package for eligible employees",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Permanent staffing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jesuit Volunteer Corps (JVC)",
+    "address": "740 N Calvert St, 4th Floor, Baltimore, MD 21202",
+    "phone": "667-771-7684",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://jesuitvolunteers.org/",
+    "category": "Catholic-owned Permanent staffing in Maryland",
+    "description": "While primarily a volunteer organization, JVC engages individuals in service within marginalized communities and fosters leadership. They may have employment opportunities within their organization",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Permanent staffing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities of the Diocese of Arlington (Maryland Service Areas)",
+    "address": "While specific Maryland addresses for employment services are not detailed, they serve areas within Maryland. Their general contact is: 703-841-2553",
+    "phone": "703-841-2553",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ccda.net/",
+    "category": "Catholic-owned Permanent staffing in Maryland",
+    "description": "Offers employment services, including assistance for refugees and asylees, and case management for employment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Permanent staffing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Jobs Online",
+    "address": "Not a physical location for direct services, but lists jobs in Maryland",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.catholicjobsonline.org/",
+    "category": "Catholic-owned Permanent staffing in Maryland",
+    "description": "A platform providing job listings for Catholic organizations in Maryland, including churches, schools, and ministries",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Permanent staffing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Franciscan Mission Service (FMS)",
+    "address": "While their headquarters is in Washington D.C., they have programs that may involve Maryland residents or placements",
+    "phone": "202-832-1762 (General Inquiries)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.franciscanmissionservice.org/",
+    "category": "Catholic-owned Permanent staffing in Maryland",
+    "description": "Prepares and supports Catholic lay people for mission service. They offer programs like the DC Service Corps which may lead to employment or career development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Permanent staffing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities of Philadelphia (Employment Services)",
+    "address": "While primarily serving Philadelphia, their reach may extend to areas bordering Maryland. Their main office is: 222 North 17th Street, 3rd Floor, Philadelphia, PA 19103",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.catholiccharitiesphila.org/",
+    "category": "Catholic-owned Permanent staffing in Maryland",
+    "description": "Offers employment services as part of their comprehensive offerings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Permanent staffing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Medical Association (CMA)",
+    "address": "While not a staffing agency, they support Catholic healthcare professionals. Their website is cathmed.org",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cathmed.org/",
+    "category": "Catholic-owned Permanent staffing in Maryland",
+    "description": "Supports doctors and healthcare professionals in growing their faith and maintaining ethical integrity in accordance with Church teachings. They may have resources or connections within the Catholic healthcare employment sector",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Permanent staffing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Social Services of the Archdiocese of Philadelphia",
+    "address": "Headquarters in Philadelphia, PA, but serves the wider region",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://css.org/",
+    "category": "Catholic-owned Permanent staffing in Maryland",
+    "description": "Provides various community-based services, including family strengthening and support for individuals with special needs, which may involve employment-related assistance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Permanent staffing in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
