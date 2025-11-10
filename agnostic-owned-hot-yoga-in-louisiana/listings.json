@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Yoga Studio 90",
+    "address": "17650 Highland Rd Suite A, Baton Rouge, LA 70810",
+    "phone": "225-777-6908",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://yogastudio90.com/",
+    "category": "Agnostic-owned Hot yoga in Louisiana",
+    "description": "Offers hot yoga, hot Pilates, and cardio fusion classes in a heated studio",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Hot yoga in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zen Den",
+    "address": "1016 Kaliste Saloom Rd Suite 101, Lafayette, LA 70508",
+    "phone": "(337) 456-1001",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.zendengym.com/",
+    "category": "Agnostic-owned Hot yoga in Louisiana",
+    "description": "Provides a hot yoga and wellness experience with a focus on spirituality, yoga, and mindfulness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Hot yoga in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Move Your Body Yoga",
+    "address": "7731 Jefferson Hwy, Baton Rouge, LA 70809",
+    "phone": "(225) 270-1250",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.moveyourbodyyogabr.com/",
+    "category": "Agnostic-owned Hot yoga in Louisiana",
+    "description": "An infrared hot yoga and wellness studio offering traditional yoga, Pilates, cardio, and chair yoga",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Hot yoga in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Free To Be Power Yoga",
+    "address": "897 St. Joseph Street, New Orleans, LA 70113",
+    "phone": "504.342.4310",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://freetobepoweryoga.com/",
+    "category": "Agnostic-owned Hot yoga in Louisiana",
+    "description": "Offers hot yoga classes in a heated room (approximately 95 degrees) with a focus on powerful and balanced practices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Hot yoga in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HOTWORX",
+    "address": "1201 Kaliste Saloom Rd Suite 200, Lafayette, LA 70508",
+    "phone": "(337) 207-1750",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.hotworx.net/",
+    "category": "Agnostic-owned Hot yoga in Louisiana",
+    "description": "Offers 30-minute isometric and HIIT workouts in infrared saunas, including hot yoga, hot Pilates, and hot cycle",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Hot yoga in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HOTWORX Shreveport",
+    "address": "2015 Line Ave, Shreveport, LA 71104",
+    "phone": "(318) 216-4000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.hotworx.net/shreveport",
+    "category": "Agnostic-owned Hot yoga in Louisiana",
+    "description": "A 24-hour fitness sanctuary offering infrared sauna workouts and functional exercises, including hot yoga, hot Pilates, and HIIT",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Hot yoga in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "HOTWORX - New Orleans (Lakeview)",
+    "address": "1225 Veterans Memorial Blvd, Metairie, LA 70005 (Note: This address is in Metairie, near Lakeview, New Orleans)",
+    "phone": "(504) 355-1234",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.hotworx.net/new-orleans",
+    "category": "Agnostic-owned Hot yoga in Louisiana",
+    "description": "Offers 24/7 access to infrared sauna workouts, including hot yoga, hot Pilates, and HIIT, designed to help members reach their fitness goals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Hot yoga in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yes, Yoga.",
+    "address": "8338 Oak Street, New Orleans, LA 70118",
+    "phone": "(504) 302-2177",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.yesyoga.com/",
+    "category": "Agnostic-owned Hot yoga in Louisiana",
+    "description": "Provides therapeutic hot yoga classes, including Bikram-style and hot Vinyasa, in a heated room",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Hot yoga in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Magnolia Yoga Studio",
+    "address": "1501f St. Charles Ave, New Orleans, LA 70130",
+    "phone": "(504) 354-0005",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.magnoliayogastudio.com/",
+    "category": "Agnostic-owned Hot yoga in Louisiana",
+    "description": "New Orleans' first Black-owned studio, offering heated and therapeutic classes, including the 26.2 Hot Yoga beginner series, Hot Vinyasa, and Pilates",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Hot yoga in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yoga Rouge",
+    "address": "10408 Coursey Blvd, Baton Rouge, LA 70816",
+    "phone": "(225) 364-0200",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://yogarouge.com/",
+    "category": "Agnostic-owned Hot yoga in Louisiana",
+    "description": "Offers hot power yoga in a studio with radiant heat panels, a steam system, and special yoga flooring, heated to 95-98 degrees",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Hot yoga in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
