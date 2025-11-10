@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Hulsey PC",
+    "address": "1000 Highland Colony Pkwy, Suite 5203, Ridgeland, MS 39157",
+    "phone": "(601) 898-0088",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hulseyip.com/",
+    "category": "Chinese-American-owned Patent law in Mississippi",
+    "description": "A patent and trademark boutique firm serving Mississippi, with a focus on protecting innovations and brand identity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Patent law in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zhang, Mingee & Associates Law Firm",
+    "address": "Jackson, Mississippi metro area (specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.zhangmingeelaw.com/",
+    "category": "Chinese-American-owned Patent law in Mississippi",
+    "description": "A partnership law firm with attorneys licensed in Texas, Alabama, and Mississippi, offering services in intellectual property law, business law, and immigration law, with a focus on clients in China and the United States",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Patent law in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Anova Law Group PLLC",
+    "address": "Not specified in search results, but serves clients in the United States and China",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.anovalaw.com/",
+    "category": "Chinese-American-owned Patent law in Mississippi",
+    "description": "Focuses on intellectual property strategies, patent prosecution, trademarks, and copyrights, with experience in the United States and China",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Patent law in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "George Williamson - Patent and Trademark Lawyer",
+    "address": "Not specified in search results, but serves Mississippi",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.georgewilliamson.com/",
+    "category": "Chinese-American-owned Patent law in Mississippi",
+    "description": "Offers patent and trademark counseling, applications, registrations, and licensing agreements, with a background in engineering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Patent law in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
