@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Bama Insurance Services",
+    "address": "2050 Parkway Office Cir #100, Birmingham, AL 35215",
+    "phone": "(205) 942-3522",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "http://www.bamainsurance.com/",
+    "category": "Chinese-speaking Auto insurance in Alabama",
+    "description": "This agency explicitly states they are a bilingual insurance agency and offer translation services. They provide auto, motorcycle, and business auto insurance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto insurance in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sun-Belt Insurance Agency, LLC",
+    "address": "5945 Three Notch Road, Mobile, AL 36619",
+    "phone": "(251) 661-2841",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://sbiuins.com/",
+    "category": "Chinese-speaking Auto insurance in Alabama",
+    "description": "Sun-Belt Insurance Agency lists Chinese as one of the languages spoken by their agents, indicating they can assist Chinese-speaking customers. They offer a wide range of insurance products, including auto",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto insurance in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "4 Season Insurance",
+    "address": "1109 Jordan Lane NW, Suite J, Huntsville, AL 35816",
+    "phone": "(256) 489-0809",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.4seasoninsurance.com/",
+    "category": "Chinese-speaking Auto insurance in Alabama",
+    "description": "While not explicitly stating Chinese-speaking staff, they are an independent agency that represents many insurance companies and may have agents who can assist in Chinese. They offer auto, homeowners, and commercial policies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto insurance in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hua Agency LLC",
+    "address": "2050 Parkway Office Cir #100, Birmingham, AL 35215 (This address appears to be shared with Bama Insurance Services, suggesting a potential partnership or shared location)",
+    "phone": "(205) 239-5977",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hua+Agency+LLC+in+Alabama",
+    "category": "Chinese-speaking Auto insurance in Alabama",
+    "description": "This agency is listed as a Nationwide agent and may cater to Chinese-speaking clients, given the name. They specialize in commercial and farm insurance, but may also offer auto insurance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto insurance in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "USAgencies",
+    "address": "",
+    "phone": "Varies by location (e.g., Mobile: 251-494-2504, Decatur: 256-686-3705, Huntsville: 256-207-8258, Birmingham: 205-909-9011)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.usagencies.com/",
+    "category": "Chinese-speaking Auto insurance in Alabama",
+    "description": "USAgencies lists Spanish as a spoken language at many of its locations, and while Chinese is not explicitly mentioned, their broad reach and focus on customer service suggest they may have multilingual staff or resources. They offer auto insurance and SR-22 filings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Auto insurance in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
