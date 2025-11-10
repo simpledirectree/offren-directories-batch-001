@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Unprocessed Kitchen",
+    "address": "Jackson, WY",
+    "phone": "307-264-2888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.unprocesskitchen.com/",
+    "category": "Black-owned Meal planning in Wyoming",
+    "description": "A private chef and custom meal delivery service in Jackson Hole, WY, focused on providing delicious, fast, and easy healthy meals. They emphasize high-quality ingredients and cater to various needs, including private in-home services and custom meal delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Meal planning in Wyoming consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
