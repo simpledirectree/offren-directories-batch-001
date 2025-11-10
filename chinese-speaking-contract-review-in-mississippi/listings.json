@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Zhang, Mingee & Associates",
+    "address": "5355 Executive Place, Jackson, MS 39206",
+    "phone": "(601) 940-0577",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.zhangmingeelaw.com/",
+    "category": "Chinese-speaking Contract review in Mississippi",
+    "description": "This law firm specializes in contract law, corporate law, and international investment, with attorneys licensed in both China and the United States, offering services for Chinese enterprises in the US and US companies investing in China",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Contract review in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
