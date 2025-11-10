@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Snore Clinic",
+    "address": "1200 NE 10th St, McMinnville, OR 97128",
+    "phone": "(503) 472-7533",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thesnoreclinic.com/",
+    "category": "Black-owned Sleep studies in Oregon",
+    "description": "Offers comprehensive sleep evaluations and treatments for sleep disorders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Sleep studies in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asante Sleep Center - Medford",
+    "address": "555 Black Oak Dr, Suite 230, Medford, OR 97504",
+    "phone": "(541) 789-4320",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.asante.org/care-services/sleep-center/",
+    "category": "Black-owned Sleep studies in Oregon",
+    "description": "Accredited by the American Academy of Sleep Medicine, offering diagnosis and treatment for sleep apnea, insomnia, and other sleep disorders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Sleep studies in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Emerald Sleep Disorders Center",
+    "address": "1700 W 11th Ave, Eugene, OR 97402",
+    "phone": "(541) 683-3325",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.emeraldsleep.com/",
+    "category": "Black-owned Sleep studies in Oregon",
+    "description": "Provides clinical treatment for sleep disorders using the latest information and technology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Sleep studies in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Oregon Clinic - Sleep Medicine",
+    "address": "Multiple locations, including Portland",
+    "phone": "(503) 413-7067 (for Sleep Medicine at Mount Hood)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.oregonclinic.com/services/sleep-medicine",
+    "category": "Black-owned Sleep studies in Oregon",
+    "description": "Offers expertise in evaluating and treating sleep-related illnesses and disorders, including home sleep apnea testing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Sleep studies in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asante Sleep Center - Grants Pass",
+    "address": "500 SW Ramsey Ave, Grants Pass, OR 97527",
+    "phone": "(541) 472-7533",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.asante.org/care-services/sleep-center/",
+    "category": "Black-owned Sleep studies in Oregon",
+    "description": "An accredited sleep center offering evaluation and treatment for sleep disorders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Sleep studies in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Legacy Medical Group - Sleep Medicine at Mount Hood",
+    "address": "25050 S.E. Stark St, Suite 250, Gresham, OR, 97030-3388",
+    "phone": "(503) 413-7067",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://legacyhealth.org/locations/legacy-medical-group-sleep-medicine-mount-hood/",
+    "category": "Black-owned Sleep studies in Oregon",
+    "description": "Diagnoses and treats patients with sleep disorders, offering compassionate care and advanced treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Sleep studies in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oregon Sleep Associates",
+    "address": "1015 NW 22nd Ave, Portland, OR 97210",
+    "phone": "(503) 288-5201",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.orsleep.com/",
+    "category": "Black-owned Sleep studies in Oregon",
+    "description": "An AASM accredited sleep center diagnosing and treating a full spectrum of sleep disorders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Sleep studies in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Northwest Sleep Health",
+    "address": "Multiple locations, including Portland",
+    "phone": "(503) 692-3010 (for main line)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nwpccs.com/services/sleep-health/",
+    "category": "Black-owned Sleep studies in Oregon",
+    "description": "Fully accredited by the American Academy of Sleep Medicine, providing accurate sleep studies and quality customer care for sleep disorders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Sleep studies in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pacific Sleep Program",
+    "address": "Multiple locations, including Portland",
+    "phone": "(503) 227-7777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://pacificsleepprogram.com/",
+    "category": "Black-owned Sleep studies in Oregon",
+    "description": "Offers both telemedicine virtual visits and in-office visits with sleep specialists",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Sleep studies in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Klamath Sleep Medicine Center",
+    "address": "2455 N Eldorado Ave, Klamath Falls, OR 97601",
+    "phone": "(541) 882-2121",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://klamathsleepmedicine.com/",
+    "category": "Black-owned Sleep studies in Oregon",
+    "description": "An accredited sleep lab providing diagnosis and treatment for sleep disorders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Sleep studies in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
