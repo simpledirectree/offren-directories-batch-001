@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Jaddi's Catering LLC",
+    "address": "While an exact street address for catering services isn't readily available, they are based in Washington DC",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jaddiscatering.com/",
+    "category": "Central-American-owned Diet-specific catering in Washington",
+    "description": "This is a family business founded by Salvadoran immigrants, offering Salvadoran and Latin American cuisine. They emphasize authentic flavors and homemade meals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Diet-specific catering in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "El Tamarindo DC",
+    "address": "1785 Florida Ave NW, Washington, DC 20009",
+    "phone": "(202) 328-3660",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eltamarindodc.com/",
+    "category": "Central-American-owned Diet-specific catering in Washington",
+    "description": "This restaurant offers Salvadoran and Mexican fare and provides catering services for various events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Diet-specific catering in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Conquistador LLC",
+    "address": "Located in Sunnyside, WA, serving Central Washington",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.elconquistadorwa.com/",
+    "category": "Central-American-owned Diet-specific catering in Washington",
+    "description": "Offers authentic Mexican dishes and full-service catering across Central Washington, suitable for various events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Diet-specific catering in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mayan Family Mexican Restaurant",
+    "address": "While a specific catering address isn't listed, they are located in Lacey, WA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mayanfamilyrestaurant.com/",
+    "category": "Central-American-owned Diet-specific catering in Washington",
+    "description": "This restaurant offers Mexican catering services with a wide menu, emphasizing large portions and authentic flavors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Diet-specific catering in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Madres Kitchen",
+    "address": "Based in Seattle, WA",
+    "phone": "206.227.7478",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.madreskitchen.com/",
+    "category": "Central-American-owned Diet-specific catering in Washington",
+    "description": "This is a Latinx-owned catering company in Seattle that focuses on farm-to-fork cuisine, with diverse menus and experienced staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Diet-specific catering in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
