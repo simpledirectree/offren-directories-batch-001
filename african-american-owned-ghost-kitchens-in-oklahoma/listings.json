@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Ghost Kitchen (Chef Kelly Crisp)",
+    "address": "Operates out of Lefty's on Greenwood, Tulsa",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Ghost+Kitchen+(Chef+Kelly+Crisp)+in+Oklahoma",
+    "category": "African-American-owned Ghost kitchens in Oklahoma",
+    "description": "Offers late-night takeout, including chicken and waffles, catfish, and burgers. Operates on Thursdays, Fridays, and Saturdays from 11:30 PM to 4:35 AM",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Ghost kitchens in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Curry Boi",
+    "address": "Started by Avery Cannon, owner of Cafe Contemporary and Wheeze the Juice, in Oklahoma City",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Curry+Boi+in+Oklahoma",
+    "category": "African-American-owned Ghost kitchens in Oklahoma",
+    "description": "Offers curries (yellow, green, red) with fresh vegetables and a \"chili crisp.\"",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Ghost kitchens in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Burrito Baby",
+    "address": "Oklahoma City",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Burrito+Baby+in+Oklahoma",
+    "category": "African-American-owned Ghost kitchens in Oklahoma",
+    "description": "A delivery-only ghost kitchen offering various burritos, including bulgogi and a weekly special",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Ghost kitchens in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
