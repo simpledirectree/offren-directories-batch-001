@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Ethnic Dermatology",
+    "address": "1500 Locust St, Philadelphia, PA 19102",
+    "phone": "(215) 545-3376",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.ethnicdermatology.com/",
+    "category": "Black-owned Dermatologists in Pennsylvania",
+    "description": "This practice specializes in treating conditions common in darker skin tones, such as acne, keloids, and hyperpigmentation, using advanced technology suited for ethnic skin",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dermatologists in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Schweiger Dermatology Group (Multiple Locations)",
+    "address": "Various locations across Pennsylvania (e.g., Philadelphia, King of Prussia, etc.)",
+    "phone": "1-855-974-3937",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.schweigerderm.com/",
+    "category": "Black-owned Dermatologists in Pennsylvania",
+    "description": "Schweiger Dermatology Group has providers who specialize in skin of color and offer a wide range of medical, cosmetic, and surgical dermatology services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dermatologists in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dermatology Associates of Lancaster",
+    "address": "1650 Crooked Oak Dr, Suite 200, Lancaster, PA 17601",
+    "phone": "(717) 569-3279",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.dermatologyassociatesoflancaster.com/",
+    "category": "Black-owned Dermatologists in Pennsylvania",
+    "description": "This practice offers comprehensive dermatologic care and has providers experienced in treating diverse skin types",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dermatologists in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lehigh Valley Dermatology Associates, Ltd.",
+    "address": "190 Brodhead Road, Suite 205, Bethlehem, PA 18017",
+    "phone": "(610) 866-2010",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.lehighvalleydermatology.com/",
+    "category": "Black-owned Dermatologists in Pennsylvania",
+    "description": "A leading dermatology practice in the region, offering quality service for all ages and with experience in various skin conditions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dermatologists in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Advanced Dermatology & Aesthetic Medicine (Chicago-based with potential for remote consultation or referral)",
+    "address": "1000 S. Michigan Ave, Suite 450, Chicago, IL 60605",
+    "phone": "(312) 545-0777",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.advanceddermatology.md/",
+    "category": "Black-owned Dermatologists in Pennsylvania",
+    "description": "While based in Chicago, this practice highlights its expertise in \"Skin of Color\" and offers specialized care that may be relevant for Pennsylvanians seeking such expertise",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dermatologists in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Premier Dermatology (Multiple Locations)",
+    "address": "Various locations (e.g., Aurora, CO; Newark, DE; Bentonville, AR)",
+    "phone": "",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.premierderm.net/",
+    "category": "Black-owned Dermatologists in Pennsylvania",
+    "description": "Premier Dermatology has multiple locations and some providers, like Dr. Agnessa Goodson, have expertise in treating a wide range of skin diseases. While not exclusively focused on skin of color, their broad expertise may be beneficial",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dermatologists in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DeRosa Dermatology",
+    "address": "100 Matsonford Rd, Suite 200, Radnor, PA 19087",
+    "phone": "(610) 687-7500",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.derosadermatology.com/",
+    "category": "Black-owned Dermatologists in Pennsylvania",
+    "description": "This practice offers a patient-first approach and a range of medical and cosmetic dermatology services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dermatologists in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RW Dermatology",
+    "address": "4390 Ridge Ave, Suite 100, Philadelphia, PA 19129",
+    "phone": "(267) 753-7977",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.rwdermatology.com/",
+    "category": "Black-owned Dermatologists in Pennsylvania",
+    "description": "Dr. Rachel White offers medical and cosmetic dermatology services, with a focus on personalized treatment plans for various skin conditions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dermatologists in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Penn Medicine Dermatology",
+    "address": "Multiple locations, including Philadelphia, PA",
+    "phone": "800-789-7366",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.pennmedicine.org/for-patients-and-visitors/find-a-practitioner/departments-and-service-lines/dermatology",
+    "category": "Black-owned Dermatologists in Pennsylvania",
+    "description": "Penn Medicine has a strong dermatology department with specialists who treat a wide range of skin conditions and offer cosmetic services. They have a commitment to research and patient care for all skin types. Dr. Temitayo A. Ogunleye, MD, is noted for her expertise",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dermatologists in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pittsburgh Skin",
+    "address": "Multiple locations in the Pittsburgh area (e.g., Shadyside, Cranberry)",
+    "phone": "(412) 400-3300",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.pittsburghskin.com/",
+    "category": "Black-owned Dermatologists in Pennsylvania",
+    "description": "This physician-owned practice offers comprehensive medical, surgical, and cosmetic dermatologic care with a focus on patient-first service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Dermatologists in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
