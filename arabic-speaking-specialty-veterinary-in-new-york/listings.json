@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Animal Medical Center",
+    "address": "510 E 62nd St, New York, NY 10065",
+    "phone": "(212) 838-7053",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.amcny.org/",
+    "category": "Arabic-speaking Specialty veterinary in New-York",
+    "description": "A 24/7 emergency and specialty care hospital, offering a wide range of services including cardiology, internal medicine, and surgery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BluePearl Pet Hospital Midtown NYC",
+    "address": "524 W 55th St, New York, NY 10019",
+    "phone": "(212) 466-0100",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.bluepearlvet.com/hospital/midtown-nyc-ny/",
+    "category": "Arabic-speaking Specialty veterinary in New-York",
+    "description": "A 24-hour emergency and specialty animal hospital with a linear accelerator for radiation therapy and offering radioiodine I-131 treatment for cats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Animal Specialty Center",
+    "address": "170 Amsterdam Ave, Yonkers, NY 10701",
+    "phone": "(914) 476-2777",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.animalspecialtycenter.com/",
+    "category": "Arabic-speaking Specialty veterinary in New-York",
+    "description": "A full-service specialty and veterinary emergency animal hospital serving the tri-state area, with specialists in neurology, surgery, and emergency care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hospital for Veterinary Surgery (HVS)",
+    "address": "75 9th Ave, New York, NY 10011",
+    "phone": "(646) 545-1145",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.hvsny.com/",
+    "category": "Arabic-speaking Specialty veterinary in New-York",
+    "description": "Manhattan's first and only surgery-exclusive veterinary hospital, with board-certified specialists in various surgical procedures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Atlantic Coast New York Veterinary Specialists",
+    "address": "5280 Sunrise Hwy, Bohemia, NY 11716",
+    "phone": "(631) 285-7710",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.atlanticcoastvets.com/",
+    "category": "Arabic-speaking Specialty veterinary in New-York",
+    "description": "Offers specialty and 24/7 emergency care with board-certified veterinary specialists in fields like cardiology and internal medicine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Guardian Veterinary Specialists",
+    "address": "45 cross st, Brewster, NY 10509",
+    "phone": "(914) 704-3400",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.guardianvets.com/",
+    "category": "Arabic-speaking Specialty veterinary in New-York",
+    "description": "A full-service 24/7 emergency and specialty care veterinary hospital providing advanced medical and surgical services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Upstate Veterinary Specialties",
+    "address": "1500 Loudon Rd, Ste 1, Latham, NY 12110",
+    "phone": "(518) 785-3321",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.upstatevetspecialties.com/",
+    "category": "Arabic-speaking Specialty veterinary in New-York",
+    "description": "A multi-specialty veterinary referral practice offering expert medical care, including emergency services, for pets in Upstate New York and surrounding areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Westside Veterinary Center",
+    "address": "77 7th Ave, New York, NY 10011",
+    "phone": "(212) 539-0700",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.westsidevet.com/",
+    "category": "Arabic-speaking Specialty veterinary in New-York",
+    "description": "A full-service animal hospital providing comprehensive veterinary care, including emergency services and specialized treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "URvet Care",
+    "address": "105 E 15th St, New York, NY 10003",
+    "phone": "(646) 699-0710",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.urvet.com/",
+    "category": "Arabic-speaking Specialty veterinary in New-York",
+    "description": "Offers a blend of urgent, primary, dental, and specialty pet care services with a comprehensive, integrative approach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Harlem Animal Hospital",
+    "address": "193 Lenox Ave, New York, NY 10026",
+    "phone": "(212) 933-0955",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.harlemanimalhospital.com/",
+    "category": "Arabic-speaking Specialty veterinary in New-York",
+    "description": "A full-service animal hospital that handles emergency cases as well as less urgent medical, surgical, and dental issues, with a veterinarian proficient in Spanish",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
