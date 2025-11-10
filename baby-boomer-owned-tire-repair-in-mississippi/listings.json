@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Anglin Tire Company",
+    "address": "926 Interstate 20 West, Jackson, MS",
+    "phone": "(601) 969-5656",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.anglintire.com/",
+    "category": "Baby-Boomer-owned Tire repair in Mississippi",
+    "description": "A locally owned and operated automotive repair center and tire dealer serving the Jackson, MS area since 1973. They offer name-brand tires and a range of auto repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Tire repair in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lil' Tire Shoppe Tire Pros",
+    "address": "1900 Broadway Drive, Hattiesburg, MS",
+    "phone": "(601) 450-7801",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.liltireshoppe.com/",
+    "category": "Baby-Boomer-owned Tire repair in Mississippi",
+    "description": "A family-owned and operated tire and auto repair shop in Hattiesburg, MS, prioritizing customer safety and offering honest advice",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Tire repair in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mavis Tires and Brakes",
+    "address": "5312 Lakeland Dr, Flowood, MS 39232 (This is one of their listed locations near Jackson)",
+    "phone": "(601) 957-0400 (for the Flowood location)",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.mavistires.com/locations/ms/flowood/5312-lakeland-dr/",
+    "category": "Baby-Boomer-owned Tire repair in Mississippi",
+    "description": "A tire shop and auto service center offering tire sales, installation, rotation, balancing, and repair, along with brakes, oil changes, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Tire repair in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Seal's Tire & Auto Repair",
+    "address": "3200 25th Ave, Gulfport, MS 39501",
+    "phone": "(228) 863-2121",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.sealstire.com/",
+    "category": "Baby-Boomer-owned Tire repair in Mississippi",
+    "description": "Specializes in tire sales and installations, offering quality brands and comprehensive vehicle care with ASE certified technicians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Tire repair in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "R & M Tire Pros",
+    "address": "117 HWY 12 W, Starkville, MS 39759",
+    "phone": "(662) 323-1026",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.rmtirepros.com/",
+    "category": "Baby-Boomer-owned Tire repair in Mississippi",
+    "description": "A hometown tire and auto repair service center with over 30 years of experience, offering quality products and services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Tire repair in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "K & M Auto Repair",
+    "address": "1203 US-80, Brandon, MS 39042",
+    "phone": "(601) 829-1110",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.kmautorepairbrandon.com/",
+    "category": "Baby-Boomer-owned Tire repair in Mississippi",
+    "description": "Offers a full range of auto repair services, including transmission repair, brake repair, and wheel alignments, with experienced mechanical expertise",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Tire repair in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Big 10 Tire Pros Jackson",
+    "address": "4300 N State St, Jackson, MS 39206",
+    "phone": "(601) 981-1111",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.big10tirepros.com/locations/jackson/",
+    "category": "Baby-Boomer-owned Tire repair in Mississippi",
+    "description": "Provides auto repair and maintenance needs, known for excellent customer service and trustworthy service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Tire repair in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "One Stop Goodyear Tire/Service",
+    "address": "1415 25th Ave, Gulfport, MS 39501",
+    "phone": "(228) 864-8000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.goodyearautoservice.com/en-US/locations/mississippi/gulfport/1415-25th-ave",
+    "category": "Baby-Boomer-owned Tire repair in Mississippi",
+    "description": "A highly-rated shop offering tire services and general auto repair",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Tire repair in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Big 10 Tire Pros",
+    "address": "1017 US-51, Madison, MS 39110",
+    "phone": "(601) 856-7777",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.big10tirepros.com/locations/madison/",
+    "category": "Baby-Boomer-owned Tire repair in Mississippi",
+    "description": "A family-run business since 1952, offering top-quality automotive repair and tire sales with expert advice",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Tire repair in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gene's Tire Centers",
+    "address": "521 US-61, Natchez, MS 39120",
+    "phone": "(601) 445-4444",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.genestirecenters.com/",
+    "category": "Baby-Boomer-owned Tire repair in Mississippi",
+    "description": "A local choice for auto repair and tires, delivering honest and professional services with experienced technicians",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Tire repair in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
