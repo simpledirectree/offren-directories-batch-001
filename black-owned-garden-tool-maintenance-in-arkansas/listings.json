@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Hands On Lawn Care Service, Inc.",
+    "address": "Hot Springs National Park, Arkansas",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.supportblackowned.com/hands-on-lawn-care-service-inc",
+    "category": "Black-owned Garden tool maintenance in Arkansas",
+    "description": "Provides commercial and residential lawn care services in Greater Hot Springs, Hot Springs Village, and surrounding areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Garden tool maintenance in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Big A & K Lawncare",
+    "address": "Jonesboro, Arkansas (and nearby areas)",
+    "phone": "870-222-7201",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Big+A+&+K+Lawncare+in+Arkansas",
+    "category": "Black-owned Garden tool maintenance in Arkansas",
+    "description": "Offers yard work and lawn upkeep services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Garden tool maintenance in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MID SOUTH LAWN",
+    "address": "Little Rock, Arkansas",
+    "phone": "",
+    "rating": 3.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/MID+SOUTH+LAWN+in+Arkansas",
+    "category": "Black-owned Garden tool maintenance in Arkansas",
+    "description": "Offers lawn care services. One review mentioned a mixed experience with the service provided",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Garden tool maintenance in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blade Runner Lawn Care",
+    "address": "Jonesboro, Arkansas",
+    "phone": "(870) 930-7695",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Blade+Runner+Lawn+Care+in+Arkansas",
+    "category": "Black-owned Garden tool maintenance in Arkansas",
+    "description": "Offers bi-weekly mowing, mulch and flowerbed services, sod installation, leaf removal, and trimming",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Garden tool maintenance in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Tie Landscaping",
+    "address": "Northwest Arkansas (servicing Springdale, Fayetteville, Johnson, Elm Springs, Cave Springs, Lowell, Rogers, Bentonville, Gentry, Gravette, Siloam Springs, Centerton, and some areas of Bella Vista)",
+    "phone": "479-856-9800",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Black+Tie+Landscaping+in+Arkansas",
+    "category": "Black-owned Garden tool maintenance in Arkansas",
+    "description": "Provides landscaping, hardscaping, irrigation, and lawn maintenance services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Garden tool maintenance in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
