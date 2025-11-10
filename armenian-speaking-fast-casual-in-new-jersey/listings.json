@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Krichian's Grill & Bistro",
+    "address": "399 Crooks Avenue, Paterson, New Jersey 07503",
+    "phone": "(973) 569-1033",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://krichianfood.com/",
+    "category": "Armenian-speaking Fast casual in New-Jersey",
+    "description": "Offers Armenian and Middle Eastern food",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Fast casual in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nouri Cafe",
+    "address": "New York City",
+    "phone": "(973) 881-8819",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nouri.cafe/",
+    "category": "Armenian-speaking Fast casual in New-Jersey",
+    "description": "Specializes in Lebanese food with an Armenian twist",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Fast casual in New-Jersey consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
