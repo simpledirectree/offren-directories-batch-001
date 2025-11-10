@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Dealer Service Alternative",
+    "address": "600 W. Michigan St., Orlando, FL 32805",
+    "phone": "(407) 423-1111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://dealerservicealternative.com/",
+    "category": "Asian-owned State inspections in Florida",
+    "description": "Specializes in the repair and maintenance of Asian vehicles, offering comprehensive services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned State inspections in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ZTech Orlando",
+    "address": "529 N US Hwy 17-92, Longwood, FL 32750",
+    "phone": "(407) 695-6000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ztechorlando.com/",
+    "category": "Asian-owned State inspections in Florida",
+    "description": "A full-service auto repair facility specializing in Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned State inspections in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "D & R Automotive",
+    "address": "400 Central Ave, Sarasota, FL 34236",
+    "phone": "(941) 955-2581",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.drautomotive.com/",
+    "category": "Asian-owned State inspections in Florida",
+    "description": "Offers a full range of auto repair and preventative maintenance services, specializing in Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned State inspections in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Carage Auto",
+    "address": "1005 W Indiantown Rd, Jupiter, FL 33458",
+    "phone": "(561) 746-7222",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.carageauto.com/",
+    "category": "Asian-owned State inspections in Florida",
+    "description": "Specializes in the repair, servicing, and maintenance of Asian import vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned State inspections in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Elite Auto Repair",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Elite+Auto+Repair+in+Florida",
+    "category": "Asian-owned State inspections in Florida",
+    "description": "",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned State inspections in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Addresses:",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eliteautorepairfl.com/",
+    "category": "Asian-owned State inspections in Florida",
+    "description": "Offers Asian cars repair services at multiple locations across Florida",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned State inspections in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Auto Tech II",
+    "address": "1400 NW 27th Ave, Ocala, FL 34475",
+    "phone": "(352) 237-4441",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://autotechiiofocala.com/",
+    "category": "Asian-owned State inspections in Florida",
+    "description": "Provides a wide range of services including Asian vehicle repair and emissions testing. They are a FL State Certified Emissions Repair and Test Facility",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned State inspections in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Orlando Auto Doctor",
+    "address": "1115 E Michigan St, Orlando, FL 32806",
+    "phone": "(407) 894-8062",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.orlandoautodoctor.com/",
+    "category": "Asian-owned State inspections in Florida",
+    "description": "A full-service auto repair facility specializing in Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned State inspections in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Auto Medics",
+    "address": "1057 US-1 S, St. Johns, FL 32095",
+    "phone": "(904) 287-1222",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.automedicsfl.com/",
+    "category": "Asian-owned State inspections in Florida",
+    "description": "Offers dependable Asian auto repair services for various Asian makes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned State inspections in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian Auto",
+    "address": "6415 123rd Ave N, Clearwater, FL 33755",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sensibledriver.com/asian-auto/",
+    "category": "Asian-owned State inspections in Florida",
+    "description": "Offers a variety of auto services, including emission repair",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned State inspections in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
