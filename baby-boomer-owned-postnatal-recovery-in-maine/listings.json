@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Central Maine Healthcare",
+    "address": "Multiple locations, including Central Maine Medical Center in Lewiston",
+    "phone": "207-795-2528 (for birth center tours)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.centralmainehc.org/",
+    "category": "Baby-Boomer-owned Postnatal recovery in Maine",
+    "description": "Offers comprehensive maternity care, including prenatal care, childbirth services, and postpartum support to help new parents. They emphasize a comfortable and supportive environment for birth and recovery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Postnatal recovery in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Northern Light Health",
+    "address": "Multiple locations across Maine, including Northern Light Eastern Maine Medical Center in Bangor",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.northernlighthealth.org/",
+    "category": "Baby-Boomer-owned Postnatal recovery in Maine",
+    "description": "Provides a range of pregnancy and birthing services, including prenatal care, childbirth care, and postpartum care and encouragement. They focus on a family-centered approach and offer support for physical, emotional, and spiritual needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Postnatal recovery in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MaineHealth",
+    "address": "Multiple locations, including Maine Medical Center Portland",
+    "phone": "207-771-5549 (for Obstetrics and Gynecology at Maine Medical Center Portland)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mainehealth.org/",
+    "category": "Baby-Boomer-owned Postnatal recovery in Maine",
+    "description": "Offers a nurturing, family-centered environment for labor, delivery, and post-birth care. They provide advanced medical expertise and support services, including a Level IV Neonatal Intensive Care Unit (NICU)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Postnatal recovery in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Planned Parenthood Maine (Portland Health Center)",
+    "address": "443 Congress St, Portland, ME 04101",
+    "phone": "207-797-8881",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.plannedparenthood.org/health-center/maine/portland/04101/portland-health-center-2030-90100",
+    "category": "Baby-Boomer-owned Postnatal recovery in Maine",
+    "description": "Offers prenatal and postpartum services, including private appointments and telehealth options. They also provide a range of other reproductive health services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Postnatal recovery in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Crossroads (Scarborough and Windham)",
+    "address": "Multiple locations, including Scarborough, ME",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.crossroadsme.org/",
+    "category": "Baby-Boomer-owned Postnatal recovery in Maine",
+    "description": "Offers a residential treatment program for pregnant and postpartum women, which includes childcare and parenting education as part of addiction recovery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Postnatal recovery in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wellspring Infinity House (Bangor)",
+    "address": "Bangor, ME",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wellspring.org/",
+    "category": "Baby-Boomer-owned Postnatal recovery in Maine",
+    "description": "A long-term residential treatment program for pregnant and parenting women, addressing substance use and co-occurring mental health disorders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Postnatal recovery in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lincoln Medical Partners Women's Center",
+    "address": "Damariscotta, ME",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lincolnmedicalpartners.org/",
+    "category": "Baby-Boomer-owned Postnatal recovery in Maine",
+    "description": "Partners with MaineMOM to provide health and addiction services to pregnant and postpartum women, offering behavioral health and women's health services. They have a 5-star Google rating",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Postnatal recovery in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Casco Bay Recovery",
+    "address": "Portland, ME",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://cascobayrecovery.com/",
+    "category": "Baby-Boomer-owned Postnatal recovery in Maine",
+    "description": "Offers outpatient treatment, including a program for women with options for pregnant people. They have a 5-star Google rating and Joint Commission accreditation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Postnatal recovery in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Postpartum Support International (PSI) - Maine Chapter",
+    "address": "Serves the entire state of Maine",
+    "phone": "1-800-944-4773 (Helpline)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.postpartum.net/",
+    "category": "Baby-Boomer-owned Postnatal recovery in Maine",
+    "description": "A non-profit organization dedicated to helping those suffering from perinatal mood disorders. They offer a helpline, resources, and can connect individuals with trained providers in Maine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Postnatal recovery in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MaineGeneral Health",
+    "address": "Multiple locations, including Waterville",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mainegeneral.org/",
+    "category": "Baby-Boomer-owned Postnatal recovery in Maine",
+    "description": "Offers a Postpartum Support Group and various other family support programs, including home visiting services for parenting support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Postnatal recovery in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
