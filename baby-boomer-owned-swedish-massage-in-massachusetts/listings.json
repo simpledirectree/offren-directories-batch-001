@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Boston Massage and Bodywork",
+    "address": "697 Cambridge Street Suite 102, Brighton, MA 02135",
+    "phone": "773-398-0770",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bostonmassageandbodywork.com/",
+    "category": "Baby-Boomer-owned Swedish massage in Massachusetts",
+    "description": "Offers Swedish massage for relaxation and stress relief",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Swedish massage in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SPA180 Prestige",
+    "address": "Springfield, MA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.spa180prestige.com/",
+    "category": "Baby-Boomer-owned Swedish massage in Massachusetts",
+    "description": "Provides Swedish massage therapy for relaxation and stress reduction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Swedish massage in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Elevate Wellness Massage",
+    "address": "Quincy, MA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://elevatewellnessma.com/",
+    "category": "Baby-Boomer-owned Swedish massage in Massachusetts",
+    "description": "Offers Swedish massage along with other therapeutic massage services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Swedish massage in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Indulgence Aesthetics",
+    "address": "Lowell, MA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.indulgenceaesthetics.com/",
+    "category": "Baby-Boomer-owned Swedish massage in Massachusetts",
+    "description": "Provides Swedish massage, relaxation, and aromatherapy massage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Swedish massage in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sobella",
+    "address": "7 Kimball Lane, Lynnfield, MA 01940",
+    "phone": "(781) 587-1983",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sobella.com/",
+    "category": "Baby-Boomer-owned Swedish massage in Massachusetts",
+    "description": "Offers Swedish massage for relaxation and to ease muscle tension",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Swedish massage in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AKIRA Health Acupuncture & Massage",
+    "address": "Cambridge, MA 02140",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.akirahealth.com/",
+    "category": "Baby-Boomer-owned Swedish massage in Massachusetts",
+    "description": "Provides Swedish massage for relaxation and rejuvenation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Swedish massage in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lynnfield Healing Massage",
+    "address": "10 Post Office Square #7, Lynnfield, MA 01940",
+    "phone": "339-440-5135",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lynnfieldhealingmassage.com/",
+    "category": "Baby-Boomer-owned Swedish massage in Massachusetts",
+    "description": "Offers Swedish massage for toning, relaxation, and stress reduction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Swedish massage in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Revitalize Massage & Wellness",
+    "address": "641 West Boylston Street, Worcester, MA",
+    "phone": "774-364-3500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.revitalizemassageworcester.com/",
+    "category": "Baby-Boomer-owned Swedish massage in Massachusetts",
+    "description": "Offers Swedish massage as a base for many other massage techniques, promoting relaxation and well-being",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Swedish massage in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Heavenly Hands Massage Salon",
+    "address": "Fall River, MA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.heavenlyhandsmassagesalon.com/",
+    "category": "Baby-Boomer-owned Swedish massage in Massachusetts",
+    "description": "Provides Swedish massage, deep tissue, hot stone, and prenatal massage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Swedish massage in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nurture Massage & Wellness",
+    "address": "161 Eastern Ave Suite 2, Lynn, MA 01902",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nurturemassageandwellness.com/",
+    "category": "Baby-Boomer-owned Swedish massage in Massachusetts",
+    "description": "Offers a variety of services including Swedish massage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Swedish massage in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
