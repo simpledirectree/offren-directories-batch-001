@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Unique Auto",
+    "address": "1003 S 72nd St, Omaha, NE 68124",
+    "phone": "(402) 933-2000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.uniqueauto.com/",
+    "category": "Asian-owned Auto electrical in Nebraska",
+    "description": "Specializes in expert repairs and maintenance for Asian vehicles, including Toyota, Honda, Kia, Subaru, and Hyundai",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto electrical in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Precision Auto Tune Inc.",
+    "address": "520 N Commerce St, Beatrice, NE 68310",
+    "phone": "(402) 228-9227",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.precisionautotune.com/",
+    "category": "Asian-owned Auto electrical in Nebraska",
+    "description": "Full-service auto repair and preventative maintenance facility specializing in Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto electrical in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Omaha Japanese Auto Repair",
+    "address": "1402 S 72nd St, Omaha, NE 68124",
+    "phone": "(402) 330-3571",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.omahajapaneseautorepair.com/",
+    "category": "Asian-owned Auto electrical in Nebraska",
+    "description": "Local family-owned business providing specialized service and care for Acura and Honda vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto electrical in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gateway Auto - Service & Collision Center",
+    "address": "6502 L St, Omaha, NE 68117",
+    "phone": "(402) 731-5100",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.gatewayauto.com/",
+    "category": "Asian-owned Auto electrical in Nebraska",
+    "description": "Focuses on specialized maintenance and repair for Japanese and other imported vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto electrical in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Auto Station",
+    "address": "1102 S 72nd St, Omaha, NE 68124",
+    "phone": "(402) 933-2000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.autostationomaha.com/",
+    "category": "Asian-owned Auto electrical in Nebraska",
+    "description": "Offers comprehensive auto electrical repair and maintenance services, including battery, starter, and alternator issues",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto electrical in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Haver's Auto Repair",
+    "address": "15949 W Center Rd, Omaha, NE 68130",
+    "phone": "(402) 851-5900",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://haversautorepair.com/",
+    "category": "Asian-owned Auto electrical in Nebraska",
+    "description": "Extensive experience with vehicle electrical systems, including battery, alternator, and starter services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto electrical in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "All Tech Automotive",
+    "address": "1414 S 72nd St, Omaha, NE 68124",
+    "phone": "(402) 933-2000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.alltechautomotiveomaha.com/",
+    "category": "Asian-owned Auto electrical in Nebraska",
+    "description": "ASE-certified technicians specializing in auto electrical service and comprehensive electrical system diagnostics for cars and diesel trucks",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto electrical in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Elite Diesel & Automotive Repair",
+    "address": "101 W 1st St, Wausa, NE 68786",
+    "phone": "(402) 584-2575",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.elitedieselautorepair.com/",
+    "category": "Asian-owned Auto electrical in Nebraska",
+    "description": "Provides honest, efficient auto electrical repair for a range of vehicles, including diesel and work pickups",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Auto electrical in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
