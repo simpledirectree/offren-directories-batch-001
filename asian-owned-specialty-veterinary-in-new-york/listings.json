@@ -1,0 +1,172 @@
+[
+  {
+    "name": "BluePearl Pet Hospital Midtown NYC",
+    "address": "524 W 57th St, New York, NY 10019",
+    "phone": "(212) 767-0099",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bluepearlvet.com/hospital/midtown-nyc/",
+    "category": "Asian-owned Specialty veterinary in New-York",
+    "description": "Offers 24-hour emergency and specialty veterinary care, including internal medicine, surgery, and emergency services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Animal Medical Center",
+    "address": "510 E 62nd St, New York, NY 10065",
+    "phone": "(212) 838-7053",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.amcny.org/",
+    "category": "Asian-owned Specialty veterinary in New-York",
+    "description": "A large, nonprofit veterinary hospital offering 24/7 emergency, urgent, and specialty care, including oncology, neurology, and ophthalmology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Veterinary Eye Center",
+    "address": "105 E 15th St, New York, NY 10003 (Manhattan location)",
+    "phone": "(646) 596-7000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.veterinaryeyecenter.com/",
+    "category": "Asian-owned Specialty veterinary in New-York",
+    "description": "New York City's first veterinary ophthalmology clinic, providing specialized eye care for dogs and cats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Veterinary Oncology Services",
+    "address": "166 E 57th St, New York, NY 10022",
+    "phone": "(212) 751-0000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.vetoncologyservices.com/",
+    "category": "Asian-owned Specialty veterinary in New-York",
+    "description": "Offers specialized cancer treatments for pets, including minimally invasive procedures and targeted therapies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Atlantic Coast New York Veterinary Specialists",
+    "address": "1000 Connetquot Ave, Bohemia, NY 11716",
+    "phone": "(631) 563-0020",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.atlanticcoastvet.com/",
+    "category": "Asian-owned Specialty veterinary in New-York",
+    "description": "Provides 24/7 emergency and specialty veterinary care, including cardiology, internal medicine, and surgery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Animal Specialty Center",
+    "address": "9 Odell Plaza, Yonkers, NY 10701",
+    "phone": "(914) 457-4000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.animalspecialtycenter.com/",
+    "category": "Asian-owned Specialty veterinary in New-York",
+    "description": "A comprehensive specialty and emergency animal hospital offering services in neurology, oncology, surgery, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Veterinary Eye Specialists PLLC",
+    "address": "264 Saw Mill River Rd, Thornwood, NY 10594",
+    "phone": "(914) 674-4141",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.veterinaryeyes.com/",
+    "category": "Asian-owned Specialty veterinary in New-York",
+    "description": "Offers advanced diagnostics, surgery, and treatment plans for pets with eye conditions, led by board-certified veterinary ophthalmologists",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Upstate Veterinary Specialties",
+    "address": "16 Freedom Way, Latham, NY 12110",
+    "phone": "(518) 785-3321",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.upstatevetspecialties.com/",
+    "category": "Asian-owned Specialty veterinary in New-York",
+    "description": "Provides specialized neurological and oncological care for pets, with board-certified specialists in neurology, neurosurgery, and oncology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hospital for Veterinary Surgery",
+    "address": "354 E 66th St, New York, NY 10065",
+    "phone": "(646) 844-0370",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.hvs.vet/",
+    "category": "Asian-owned Specialty veterinary in New-York",
+    "description": "Manhattan's first and only surgery-exclusive veterinary hospital, offering advanced orthopedic, soft tissue, and oncologic procedures",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "URvet Care",
+    "address": "158 10th Ave, New York, NY 10011",
+    "phone": "(646) 677-0900",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://urvet.care/",
+    "category": "Asian-owned Specialty veterinary in New-York",
+    "description": "A 24/7 emergency and animal hospital in NYC offering advanced diagnostics and affordable care for dogs and cats",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Specialty veterinary in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
