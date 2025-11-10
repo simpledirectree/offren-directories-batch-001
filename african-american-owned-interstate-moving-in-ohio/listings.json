@@ -1,0 +1,36 @@
+[
+  {
+    "name": "E.E. Ward Moving & Storage",
+    "address": "1440 Dublin Rd, Columbus, OH 43215",
+    "phone": "(614) 221-7100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eeward.com/",
+    "category": "African-American-owned Interstate moving in Ohio",
+    "description": "Founded in 1881, E.E. Ward Moving & Storage is recognized as the oldest African-American owned business in the United States. They offer both local and long-distance moving services, emphasizing care, efficiency, and integrity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Interstate moving in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Precise Timing Transports",
+    "address": "3352 Amberway Court, Cincinnati, OH 45251",
+    "phone": "(513) 658-9166",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Precise+Timing+Transports+in+Ohio",
+    "category": "African-American-owned Interstate moving in Ohio",
+    "description": "This Cincinnati-based company offers labor assistance, junk removal, store pickups, and assembly/disassembly services. They emphasize respect and integrity in their operations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Interstate moving in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
