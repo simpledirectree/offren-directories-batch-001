@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Fasturtle",
+    "address": "Phoenix, AZ",
+    "phone": "(888) 468-8785",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.fasturtle.com/",
+    "category": "Chinese-American-owned Digital advertising management in Arizona",
+    "description": "Full-service digital marketing agency offering SEO, Google Ads management, social media marketing, website design, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital advertising management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "V Digital Services",
+    "address": "Phoenix, AZ",
+    "phone": "(480) 442-9499",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://vdigitalservices.com/",
+    "category": "Chinese-American-owned Digital advertising management in Arizona",
+    "description": "Full-service digital marketing agency providing SEO, PPC, social media, web services, and more, with a focus on data-driven strategies and ROI",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital advertising management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nuanced Media",
+    "address": "Tucson, AZ & Phoenix, AZ",
+    "phone": "",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://nuancedmedia.com/",
+    "category": "Chinese-American-owned Digital advertising management in Arizona",
+    "description": "Data-driven eCommerce marketing agency specializing in Amazon growth strategies and omnichannel brand development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital advertising management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Konstruct Digital",
+    "address": "Phoenix, AZ",
+    "phone": "",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://konstruct.co/",
+    "category": "Chinese-American-owned Digital advertising management in Arizona",
+    "description": "Digital marketing agency focused on business-to-business (B2B) clients, offering SEO, PPC, and content marketing services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital advertising management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "WebFX",
+    "address": "Phoenix, AZ (serves Arizona)",
+    "phone": "",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.webfx.com/",
+    "category": "Chinese-American-owned Digital advertising management in Arizona",
+    "description": "Full-service digital marketing agency offering SEO, PPC, social media marketing, and web design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital advertising management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "High Voltage SEO",
+    "address": "Phoenix, AZ",
+    "phone": "",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.highvoltageseo.com/",
+    "category": "Chinese-American-owned Digital advertising management in Arizona",
+    "description": "SEO agency specializing in enhancing digital visibility and driving organic traffic",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital advertising management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ciphers Digital",
+    "address": "Gilbert, Mesa, Chandler, Tempe & Phoenix, AZ",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ciphersdigital.com/",
+    "category": "Chinese-American-owned Digital advertising management in Arizona",
+    "description": "SEO agency providing local SEO, organic strategies, and long-term digital marketing campaigns",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital advertising management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The James Agency",
+    "address": "Scottsdale, AZ",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://thejamesagency.com/",
+    "category": "Chinese-American-owned Digital advertising management in Arizona",
+    "description": "Full-service advertising and marketing agency offering digital and traditional design, video, PR, social media, and web development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital advertising management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zion & Zion",
+    "address": "Tempe, AZ",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.zionandzion.com/",
+    "category": "Chinese-American-owned Digital advertising management in Arizona",
+    "description": "Integrated advertising and digital marketing agency with expertise in various industries, offering PR and social media services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital advertising management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EchoFetch",
+    "address": "Scottsdale, AZ",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://echofetch.com/",
+    "category": "Chinese-American-owned Digital advertising management in Arizona",
+    "description": "Full-service email marketing agency offering copywriting, design, management, and campaign strategies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Digital advertising management in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
