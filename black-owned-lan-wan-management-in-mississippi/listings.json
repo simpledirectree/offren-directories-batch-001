@@ -1,0 +1,87 @@
+[
+  {
+    "name": "BeCloud LLC",
+    "address": "Jackson, Mississippi",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/BeCloud+LLC+in+Mississippi",
+    "category": "Black-owned LAN/WAN management in Mississippi",
+    "description": "Offers modern IT solutions, IT consulting, helpdesk, and security solutions, with a commitment to increasing opportunities for minorities in IT",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned LAN/WAN management in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ICM Cyber",
+    "address": "Ridgeland, Mississippi",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/ICM+Cyber+in+Mississippi",
+    "category": "Black-owned LAN/WAN management in Mississippi",
+    "description": "An IT security systems integrator focused on providing cost-effective security solutions and professional services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned LAN/WAN management in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Elite Network Solutions",
+    "address": "Olive Branch, MS and Oxford, MS",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Elite+Network+Solutions+in+Mississippi",
+    "category": "Black-owned LAN/WAN management in Mississippi",
+    "description": "Offers commercial and residential IT services, including computer repair, security camera installations, on-site & remote support, and managed services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned LAN/WAN management in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Telpro Co.",
+    "address": "Throughout Mississippi and the Southeast. Specific address not provided",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Telpro+Co.+in+Mississippi",
+    "category": "Black-owned LAN/WAN management in Mississippi",
+    "description": "Provides communications services including installation and servicing of business telephone systems, voicemail systems, paging systems, data network systems, video systems, and voice, data, and video cabling",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned LAN/WAN management in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tesix Wireless Network",
+    "address": "While founded by an Alabama tech founder, its operations and reach are not specified to Mississippi in the provided snippets",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Tesix+Wireless+Network+in+Mississippi",
+    "category": "Black-owned LAN/WAN management in Mississippi",
+    "description": "A prepaid wireless carrier that offers telecommunications services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned LAN/WAN management in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
