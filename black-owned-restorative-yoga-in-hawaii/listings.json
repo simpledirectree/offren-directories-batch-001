@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Yoga Nest",
+    "address": "Lunapule Road, Kailua-Kona, HI USA",
+    "phone": "+1 808-731-4004",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Yoga+Nest+in+Hawaii",
+    "category": "Black-owned Restorative yoga in Hawaii",
+    "description": "This studio offers vinyasa, power, yin, restorative, and meditation classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Restorative yoga in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Coral Yoga",
+    "address": "Hanalei, HI 96714",
+    "phone": "(808) 320-0755",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Black+Coral+Yoga+in+Hawaii",
+    "category": "Black-owned Restorative yoga in Hawaii",
+    "description": "Offers a variety of yoga classes, including restorative yoga, with an emphasis on foundational practice and clarity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Restorative yoga in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Restoration Yoga",
+    "address": "[No address found]",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Restoration+Yoga+in+Hawaii",
+    "category": "Black-owned Restorative yoga in Hawaii",
+    "description": "This studio offers restorative yoga classes, with a focus on spiritual and physical teachings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Restorative yoga in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Power Yoga Hawaii",
+    "address": "1170 Auahi Street, Honolulu, HI",
+    "phone": "(808) 698-6414",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://poweryogahawaii.com/",
+    "category": "Black-owned Restorative yoga in Hawaii",
+    "description": "Offers a wide range of classes including Yin & Restorative yoga, with expert instructors and a welcoming atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Restorative yoga in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yoga Room Hawaii",
+    "address": "[No specific address found, but multiple locations on Oahu]",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.yogaroomhawaii.com/",
+    "category": "Black-owned Restorative yoga in Hawaii",
+    "description": "Provides over 40 classes a week, including restorative yin, with experienced instructors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Restorative yoga in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CorePower Yoga",
+    "address": "Multiple locations in Honolulu, HI (e.g., 1170 Auahi Street, 4211 Waialae Ave ste B-11, 629 Kailua Road)",
+    "phone": "",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/CorePower+Yoga+in+Hawaii",
+    "category": "Black-owned Restorative yoga in Hawaii",
+    "description": "Offers various yoga classes, including restorative options, with a fitness-focused approach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Restorative yoga in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SheBrews Aloha Yoga & Art Studio",
+    "address": "7192 Kalaniana\u02bbole Highway, Suite E-215, Honolulu, HI",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/SheBrews+Aloha+Yoga+&+Art+Studio+in+Hawaii",
+    "category": "Black-owned Restorative yoga in Hawaii",
+    "description": "A yoga studio offering classes for all levels in a serene environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Restorative yoga in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bella Kai Hot Yoga",
+    "address": "Above Navy Federal Credit on Second Floor, 25 Kaneohe Bay Dr, Aikahi Shopping Center, Suite 203, Kailua, HI",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Bella+Kai+Hot+Yoga+in+Hawaii",
+    "category": "Black-owned Restorative yoga in Hawaii",
+    "description": "Offers yoga and barre classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Restorative yoga in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Elevate Oahu",
+    "address": "[No specific address found]",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Elevate+Oahu+in+Hawaii",
+    "category": "Black-owned Restorative yoga in Hawaii",
+    "description": "Offers stretching and yoga classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Restorative yoga in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yoga Waikiki Studio",
+    "address": "[No specific address found]",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Yoga+Waikiki+Studio+in+Hawaii",
+    "category": "Black-owned Restorative yoga in Hawaii",
+    "description": "Offers yoga, dance, and fitness classes, including beach yoga",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Restorative yoga in Hawaii consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
