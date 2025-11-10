@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Lineate",
+    "address": "Tbilisi, Georgia",
+    "phone": "",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.lineate.com/",
+    "category": "Armenian-speaking Java development in Georgia",
+    "description": "A software development firm providing custom software development, BI & big data consulting & SI, cloud consulting & SI, and web development services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Java development in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "4TWIGGERS",
+    "address": "Tbilisi, Georgia",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/4TWIGGERS+in+Georgia",
+    "category": "Armenian-speaking Java development in Georgia",
+    "description": "A mobile application development company offering services in mobile app development, web development, and UX/UI design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Java development in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Edison Tech Solutions",
+    "address": "Tbilisi, Georgia",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Edison+Tech+Solutions+in+Georgia",
+    "category": "Armenian-speaking Java development in Georgia",
+    "description": "A product design company offering product design, custom software development, mobile app development, and IoT development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Java development in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Itera-research",
+    "address": "Tbilisi, Georgia (also has offices in other countries)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Itera-research+in+Georgia",
+    "category": "Armenian-speaking Java development in Georgia",
+    "description": "A web and mobile development company specializing in innovative development solutions for desktops, websites, and mobile apps",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Java development in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Intelexity",
+    "address": "Sarpi, Georgia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Intelexity+in+Georgia",
+    "category": "Armenian-speaking Java development in Georgia",
+    "description": "A custom software development firm offering custom software development, API development, microservices architecture services, and DevOps managed services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Java development in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Artspace",
+    "address": "Tbilisi, Georgia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Artspace+in+Georgia",
+    "category": "Armenian-speaking Java development in Georgia",
+    "description": "A custom software development company offering custom software development, web development, and IT staff augmentation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Java development in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Appelian Software",
+    "address": "Tbilisi, Georgia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Appelian+Software+in+Georgia",
+    "category": "Armenian-speaking Java development in Georgia",
+    "description": "An application development firm offering mobile app development, custom software development, web development, and IoT development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Java development in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MaxinAI",
+    "address": "Tbilisi, Georgia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/MaxinAI+in+Georgia",
+    "category": "Armenian-speaking Java development in Georgia",
+    "description": "An AI firm providing Artificial Intelligence, custom software development, BI & big data consulting & SI, and cloud consulting & SI",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Java development in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Emerline",
+    "address": "Tbilisi, Georgia (also has offices in other countries)",
+    "phone": "",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://emerline.com/",
+    "category": "Armenian-speaking Java development in Georgia",
+    "description": "A global software engineering company that delivers full-cycle development services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Java development in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Redberry",
+    "address": "Tbilisi, Georgia",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://redberry.io/",
+    "category": "Armenian-speaking Java development in Georgia",
+    "description": "An award-winning software design, development, and creative growth agency",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Java development in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
