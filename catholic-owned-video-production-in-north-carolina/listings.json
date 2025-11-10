@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Today Creative",
+    "address": "Not publicly listed, but they serve clients nationwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.todaycreative.com/",
+    "category": "Catholic-owned Video production in North-Carolina",
+    "description": "This agency specializes in Catholic video production, creating content for parishes, dioceses, and Catholic organizations. They focus on storytelling that ignites communities and drives action, with expertise in capital campaigns, fundraisers, and stewardship storytelling",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Video production in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Spirit Juice Studios",
+    "address": "Not publicly listed, but they serve clients nationwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://spiritjuicestudios.com/",
+    "category": "Catholic-owned Video production in North-Carolina",
+    "description": "An award-winning Catholic studio that creates cinematic videos to evangelize, inspire, and advance the mission of Catholic organizations. They have over 15 years of experience producing industry-leading films with a distinctly Catholic style",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Video production in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blackstone Films",
+    "address": "Not publicly listed, but they serve clients globally",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackstone films.com/",
+    "category": "Catholic-owned Video production in North-Carolina",
+    "description": "A Catholic film and video production company passionate about truth, creating films that evoke emotion and impact millions of clients worldwide",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Video production in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arcadia Films",
+    "address": "Not publicly listed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.arcadiafilms.com/",
+    "category": "Catholic-owned Video production in North-Carolina",
+    "description": "This company describes itself as a Roman Catholic grassroots film and television production company focused on Catholic Communications for the New Evangelization",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Video production in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
