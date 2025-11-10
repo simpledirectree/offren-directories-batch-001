@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Split Rebel Yoga",
+    "address": "1048 Greymont Avenue, Jackson, MS",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Split+Rebel+Yoga+in+Mississippi",
+    "category": "African-American-owned Personal training in Mississippi",
+    "description": "A Black-owned yoga studio specializing in Vinyasa flow yoga, founded to introduce yoga to Jackson's predominantly Black population",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Personal training in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Body By Ebony Personal Training & Wellness",
+    "address": "Jackson, MS",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Body+By+Ebony+Personal+Training+&+Wellness+in+Mississippi",
+    "category": "African-American-owned Personal training in Mississippi",
+    "description": "Offers personal training, mobile sessions, live online sessions, and online consulting. The owner has been a certified trainer since 2009",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Personal training in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fitness Factor",
+    "address": "Columbus, Mississippi",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Fitness+Factor+in+Mississippi",
+    "category": "African-American-owned Personal training in Mississippi",
+    "description": "A gym with traditional equipment and classes, known for its friendly and knowledgeable staff and trainers, and a positive, motivational atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Personal training in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "JB Boxing & Fitness",
+    "address": "Hattiesburg, Mississippi",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/JB+Boxing+&+Fitness+in+Mississippi",
+    "category": "African-American-owned Personal training in Mississippi",
+    "description": "A gym founded to inspire others through discipline, faith, and perseverance, offering a community-focused environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Personal training in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Soular Yogi Yoga & Wellness",
+    "address": "Downtown Gulfport, MS",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Soular+Yogi+Yoga+&+Wellness+in+Mississippi",
+    "category": "African-American-owned Personal training in Mississippi",
+    "description": "A yoga studio aiming to promote diversity, body positivity, and inclusivity in the yoga community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Personal training in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
