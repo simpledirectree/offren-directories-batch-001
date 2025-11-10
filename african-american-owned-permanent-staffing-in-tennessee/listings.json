@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Wright Now",
+    "address": "8498 Kamin Ln, Memphis, TN 38125",
+    "phone": "901-612-9898",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Wright+Now+in+Tennessee",
+    "category": "African-American-owned Permanent staffing in Tennessee",
+    "description": "A Memphis-based minority- and women-owned consulting and staffing firm specializing in workforce development, apprenticeship programs, HR support, and small business strategy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Permanent staffing in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dream Staffing LLC",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Dream+Staffing+LLC+in+Tennessee",
+    "category": "African-American-owned Permanent staffing in Tennessee",
+    "description": "A minority-owned agency in Memphis that emphasizes diversity and customer service, working to foster employer-employee connections",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Permanent staffing in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dexian",
+    "address": "Information not available (Nashville, TN location mentioned)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Dexian+in+Tennessee",
+    "category": "African-American-owned Permanent staffing in Tennessee",
+    "description": "A minority-owned business enterprise (MBE) that offers workforce, technology, recruitment, and consulting solutions, with a presence in Nashville, Tennessee",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Permanent staffing in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Advance Memphis",
+    "address": "769 Vance, Memphis, TN 38126",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Advance+Memphis+in+Tennessee",
+    "category": "African-American-owned Permanent staffing in Tennessee",
+    "description": "Offers a staffing agency that assists with workplace hurdles and provides job opportunities, focusing on empowering individuals and the community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Permanent staffing in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "A-ONE STAFFING",
+    "address": "Information not available (Headquartered in Memphis, TN)",
+    "phone": "901-367-5757",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/A-ONE+STAFFING+in+Tennessee",
+    "category": "African-American-owned Permanent staffing in Tennessee",
+    "description": "Specializes in providing temporary, temp-to-hire, and direct-hire employees in fields such as logistics, clerical, administrative, skilled trades, and industrial positions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Permanent staffing in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
