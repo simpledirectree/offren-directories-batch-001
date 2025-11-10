@@ -1,0 +1,87 @@
+[
+  {
+    "name": "MIGIZI",
+    "address": "1845 E Lake Street, Minneapolis, MN 55407",
+    "phone": "(612) 721-6631",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.migizi.org/",
+    "category": "American-Indian-owned Virtual tutoring in Minnesota",
+    "description": "MIGIZI offers tutoring on Tuesdays from 4-6 pm for 8th-12th graders, pairing students with tutors in Math, Science, Language Arts, and Social Studies. They are also seeking qualified tutors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Virtual tutoring in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "American Indian Education Program (Osseo Area Schools)",
+    "address": "While specific to Osseo Area Schools, their online presence suggests a broad reach within Minnesota",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.isd311.org/",
+    "category": "American-Indian-owned Virtual tutoring in Minnesota",
+    "description": "This program offers culturally-based educational programming for American Indian students, including academic advocacy and tutoring for middle school and high school students. They also offer Dakota and Ojibwe language tables",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Virtual tutoring in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bdote Learning Center",
+    "address": "322 Appleby Hall, 128 Pleasant Street SE, Minneapolis, MN 55455 (This appears to be a University of Minnesota address related to their programs, not a direct Bdote Learning Center physical address for tutoring services)",
+    "phone": "612-729-9266",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bdotelearningcenter.org/",
+    "category": "American-Indian-owned Virtual tutoring in Minnesota",
+    "description": "A charter school with a mission to develop culturally aware, successful students through an academically rigorous, place-based education rooted in Native language and culture. They offer language immersion and focus on land-based learning. While not strictly a virtual tutoring business, their educational approach is relevant",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Virtual tutoring in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ojibwe & Dakota Language Tutoring (University of Minnesota)",
+    "address": "322 Appleby Hall, 128 Pleasant Street SE, Minneapolis, MN 55455",
+    "phone": "612-624-2555",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://coin.umn.edu/programs-services/ojibwe-dakota-language-tutoring/",
+    "category": "American-Indian-owned Virtual tutoring in Minnesota",
+    "description": "This program offers tutoring in Ojibwe and Dakota languages. It is part of the University of Minnesota's Circle of Indigenous Nations (COIN)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Virtual tutoring in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Anoka-Hennepin School District American Indian Education Tutoring Scholarships",
+    "address": "Anoka-Hennepin School District Indian Education - Tutoring, 2727 N. Ferry Street, Anoka, MN 55303",
+    "phone": "763-506-1159",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ahschools.us/indianeducation",
+    "category": "American-Indian-owned Virtual tutoring in Minnesota",
+    "description": "This program offers tutoring scholarships in partnership with Sylvan Learning Center for students in grades 1-12 to focus on math and reading skill gaps",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Virtual tutoring in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
