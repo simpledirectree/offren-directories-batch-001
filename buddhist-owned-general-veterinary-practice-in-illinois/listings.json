@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Bortell Animal Hospital",
+    "address": "1003 N. Main Street, Bloomington, IL 61701",
+    "phone": "(309) 828-7290",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.bortellanimalhospital.com/",
+    "category": "Buddhist-owned General veterinary practice in Illinois",
+    "description": "Offers a range of veterinary services including preventative, wellness, medical, dental, and surgical care, with a focus on Traditional Chinese Veterinary Medicine, herbs, food therapy, and acupuncture",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned General veterinary practice in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gateway Veterinary Clinic",
+    "address": "1800 E. Main Street, St. Charles, IL 60174",
+    "phone": "(630) 584-7400",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.gatewayvet.com/",
+    "category": "Buddhist-owned General veterinary practice in Illinois",
+    "description": "Provides compassionate veterinary care, with some veterinarians having interests in holistic medicine and incorporating alternative medicine into general practice",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned General veterinary practice in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bhatt Integrative Veterinary Specialty",
+    "address": "1800 Glenview Rd, Glenview, IL 60025",
+    "phone": "(847) 724-0100",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.bhattivs.com/",
+    "category": "Buddhist-owned General veterinary practice in Illinois",
+    "description": "Blends holistic and Western medicine to treat complex medical conditions, including acupuncture, herbal medicine, and dietary support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned General veterinary practice in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Spring Hill Veterinary Clinic",
+    "address": "25 N. Western Ave, Carpentersville, IL 60110",
+    "phone": "(847) 426-0550",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.springhillvet.com/",
+    "category": "Buddhist-owned General veterinary practice in Illinois",
+    "description": "Offers a full range of services, including alternative and complementary therapies, for small animal companions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned General veterinary practice in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Red Bud Veterinary Service",
+    "address": "100 W. Main Street, Red Bud, IL 62278",
+    "phone": "(618) 282-6466",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.redbudvets.com/",
+    "category": "Buddhist-owned General veterinary practice in Illinois",
+    "description": "Provides compassionate, personalized care in a calm environment, with a team that supports pet wellness and happiness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned General veterinary practice in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Riverside Animal Clinic & Holistic Center",
+    "address": "3100 W. Elm Street, McHenry, IL 60050",
+    "phone": "(815) 344-1400",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.riversideanimalclinic.com/",
+    "category": "Buddhist-owned General veterinary practice in Illinois",
+    "description": "Offers a \"Healthy Pet Lifestyle Campus\" with veterinarian services, holistic pet medicine, and dog daycare, emphasizing a holistic approach to pet care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned General veterinary practice in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kohn Animal Hospital",
+    "address": "3113 Dundee Road, Northbrook, IL 60062",
+    "phone": "(224) 261-8470",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.kohnah.com/",
+    "category": "Buddhist-owned General veterinary practice in Illinois",
+    "description": "A full-service hospital treating various pets, with a focus on preventative care and wellness, and a revitalized practice following in the footsteps of its founder",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned General veterinary practice in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chenoa Veterinary Clinic",
+    "address": "400 Sunset Drive, Chenoa, IL 61726",
+    "phone": "(815) 945-7811",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.chenoavet.com/",
+    "category": "Buddhist-owned General veterinary practice in Illinois",
+    "description": "Offers a holistic approach to pet care, including routine exams, vaccinations, surgical procedures, and alternative therapies like chiropractic, acupuncture, and laser therapy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned General veterinary practice in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
