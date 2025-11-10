@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Dental Care Antioch",
+    "address": "8650 W 95th St #2, Overland Park, KS 66212",
+    "phone": "913.642.0031",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dentalcareantioch.com/",
+    "category": "Black-owned Cosmetic dentistry in Kansas",
+    "description": "This practice offers general, cosmetic, and emergency dentistry services and is described as a Black-owned business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Cosmetic dentistry in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
