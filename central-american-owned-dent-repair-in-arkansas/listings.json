@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Dent Technicians",
+    "address": "2001 S 52nd St, Springdale, AR 72762",
+    "phone": "(479) 462-1100",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.thedenttechnicians.com/",
+    "category": "Central-American-owned Dent repair in Arkansas",
+    "description": "Specializes in paintless dent repair (PDR) for hail damage and door dings, offering insurance claim assistance and free rental vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dent repair in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Encore Paintless Dent Repair",
+    "address": "1001 N Creek Dr, Conway, AR 72032",
+    "phone": "(501) 358-1110",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://encorepdr.com/",
+    "category": "Central-American-owned Dent repair in Arkansas",
+    "description": "Provides paintless dent repair (PDR) services, including mobile repairs within a 20-mile radius of Conway, and specializes in hail damage and minor collision repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dent repair in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arkansas Dent Repair",
+    "address": "1501 Albert Pike Rd, Hot Springs, AR 71901",
+    "phone": "(501) 520-1100",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://arkansasdentrepair.com/",
+    "category": "Central-American-owned Dent repair in Arkansas",
+    "description": "Offers paintless dent repair (PDR) services for dents, dings, and hail damage in various locations across Arkansas, emphasizing efficient and reliable dent removal",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dent repair in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Colors On Parade Central Arkansas",
+    "address": "1201 N Palm St, North Little Rock, AR 72114",
+    "phone": "(903) 277-7860",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.colorsonparade.com/central-arkansas",
+    "category": "Central-American-owned Dent repair in Arkansas",
+    "description": "Provides mobile paintless dent repair (PDR) services for minor dings, hail damage, and bumper dents throughout Central Arkansas, also offering scratch removal and headlight restoration",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dent repair in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Auto Plex Collision Repair",
+    "address": "1200 S 1st St, Rogers, AR 72756",
+    "phone": "(479) 636-1000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.autoplexcollision.com/",
+    "category": "Central-American-owned Dent repair in Arkansas",
+    "description": "An I-CAR Gold Certified auto body shop offering a range of services from paintless dent repair to full collision repairs, with free online estimates and insurance claim assistance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dent repair in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "McLarty Collision Centers",
+    "address": "4400 JFK Blvd, North Little Rock, AR 72116",
+    "phone": "(501) 758-1000",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.mclartycollision.com/",
+    "category": "Central-American-owned Dent repair in Arkansas",
+    "description": "Offers comprehensive auto body repair services, including collision repair and paint services, aiming to restore vehicles to factory specifications with a written limited lifetime warranty",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dent repair in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bob Maloney Collision Group",
+    "address": "1801 S Old Missouri Rd, Springdale, AR 72764",
+    "phone": "(479) 717-2244",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.bobmaloneycollision.com/",
+    "category": "Central-American-owned Dent repair in Arkansas",
+    "description": "Provides certified collision repair services across six locations in Northwest Arkansas, specializing in experienced collision repair and customer service, including paintless dent repair",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dent repair in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Collision Repair of Jonesboro",
+    "address": "2707 E Nettleton Ave, Jonesboro, AR 72401",
+    "phone": "(870) 932-7474",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://collisionrepairofjonesboro.com/",
+    "category": "Central-American-owned Dent repair in Arkansas",
+    "description": "An auto body repair authority with extensive experience and facilities to restore vehicles to showroom-new condition, working with all major insurance companies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dent repair in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dent Doctor",
+    "address": "1001 W Markham St, Little Rock, AR 72201",
+    "phone": "(501) 374-3368",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.dentdoctorusa.com/locations/little-rock-ar/",
+    "category": "Central-American-owned Dent repair in Arkansas",
+    "description": "Offers paint-free dent repairs (PDR) with a focus on same-day service, low costs, and a lifetime guarantee, specializing in dents, dings, and hail damage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dent repair in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sally's Body Shop",
+    "address": "10701 Maumelle Rd, North Little Rock, AR 72113",
+    "phone": "(501) 758-3100",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.sallysbody.com/",
+    "category": "Central-American-owned Dent repair in Arkansas",
+    "description": "Provides expert auto body repair, auto painting, and collision repair services, accepting all insurance, handling claims promptly, and offering car rental assistance with a guarantee on all repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dent repair in Arkansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
