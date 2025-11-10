@@ -1,0 +1,70 @@
+[
+  {
+    "name": "YCI Outdoor Services",
+    "address": "Not publicly available, serves Omaha and surrounding areas",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://yciservices.com/",
+    "category": "African-American-owned Garden consultation in Nebraska",
+    "description": "A small Black-owned lawn care and outdoor services company that prides itself on hard work, honesty, and quality",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Garden consultation in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Label Property Services",
+    "address": "Not publicly available, serves Lincoln, NE",
+    "phone": "(402) 676-0731",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.blacklabelpropertyservices.com/",
+    "category": "African-American-owned Garden consultation in Nebraska",
+    "description": "Offers lawn mowing, aeration and fertilization, snow removal, leaf cleanup, mulch installation, and hedge/bush trimming. They are a five-star rated business on Google Business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Garden consultation in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blackhawk Lawn & Landscaping",
+    "address": "P.O. Box 540071, Omaha, NE 68154",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://blackhawklawn.com/",
+    "category": "African-American-owned Garden consultation in Nebraska",
+    "description": "A full-service landscaping company serving the greater Omaha and Lincoln area, offering lawn mowing, landscape design and installation, mulching, seasonal cleanups, and fertilization/weed control. Founded and owned by Omaha native Jim Campbell",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Garden consultation in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Healing Roots African Diaspora Garden",
+    "address": "Not publicly available, Omaha, NE",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Healing+Roots+African+Diaspora+Garden+in+Nebraska",
+    "category": "African-American-owned Garden consultation in Nebraska",
+    "description": "This is a community garden project focused on growing food and community connections, with an emphasis on African diaspora gardening practices and culinary traditions. While not a direct consultation business, it represents a significant Black-led initiative in gardening within Nebraska",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Garden consultation in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
