@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Chameleon Salon",
+    "address": "3031 SE 12th Ave, Portland, OR 97202",
+    "phone": "503-286-3711",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://chameleonsalonpdx.com/",
+    "category": "American-Indian-owned Japanese straightening in Oregon",
+    "description": "Offers Japanese Hair Straightening and other hair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Japanese straightening in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Salon 554",
+    "address": "554 State St, Salem, OR 97301",
+    "phone": "503-540-0554",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.salon554.com/",
+    "category": "American-Indian-owned Japanese straightening in Oregon",
+    "description": "Offers Japanese Straightening (Milbon Straight Liscio) and other hair and head spa services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Japanese straightening in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kitsune Salon",
+    "address": "4111 SE 28th Place, Portland, OR 97202",
+    "phone": "503.477.4834",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kitsunesalon.com/",
+    "category": "American-Indian-owned Japanese straightening in Oregon",
+    "description": "Specializes in customer care and offers various hair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Japanese straightening in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native Roots",
+    "address": "61470 S Hwy 97 #2, Bend, OR 97702",
+    "phone": "(541) 317-0304",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nativerootssalon.com/",
+    "category": "American-Indian-owned Japanese straightening in Oregon",
+    "description": "Offers a range of beauty services, including hair treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Japanese straightening in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CHIKARA salon & spa",
+    "address": "1035 Oak St, Eugene, OR 97401",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://chikarasalon.com/",
+    "category": "American-Indian-owned Japanese straightening in Oregon",
+    "description": "Full-service salon and day spa offering various treatments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Japanese straightening in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "UnSprung Hair Straightening Salon",
+    "address": "1006 SE 12th Ave, Portland, OR 97214",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://unsprungsalon.com/",
+    "category": "American-Indian-owned Japanese straightening in Oregon",
+    "description": "Specializes in Keratin Hair Straightening",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Japanese straightening in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
