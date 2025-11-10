@@ -1,0 +1,87 @@
+[
+  {
+    "name": "The State of Black Arizona (SBAZ)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stateofblackarizona.org/",
+    "category": "Black-owned Management training in Arizona",
+    "description": "SBAZ offers programs like the African American Leadership Institute (AALI), which provides a transformative experience for Black leaders through masterclasses, retreats, and field experiences focused on leadership development and systemic change",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Management training in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Chamber of Arizona (BCAZ)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://blackchamberaz.org/",
+    "category": "Black-owned Management training in Arizona",
+    "description": "BCAZ is an organization dedicated to strengthening small businesses and driving economic growth for Black entrepreneurs in Arizona. They offer resources, training, and networking opportunities. They also run programs like the Impact AZ business accelerator",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Management training in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Local First Arizona - We Rise Business Accelerator Program",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://localfirstaz.com/we-rise/",
+    "category": "Black-owned Management training in Arizona",
+    "description": "This program is tailored to Arizona's Black-owned businesses at all stages of development, equipping them with entrepreneurial skills and resources to thrive",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Management training in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Millionaire Mastermind Academy",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://millionairemastermindacademy.org/",
+    "category": "Black-owned Management training in Arizona",
+    "description": "This nonprofit organization supports Black entrepreneurs and offers grants and mentorship through programs like Impact AZ, aiming to close the racial wealth gap",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Management training in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Community Foundation for Southern Arizona - African American Leadership Institute (AALI)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://cfsaz.org/aali/",
+    "category": "Black-owned Management training in Arizona",
+    "description": "This institute focuses on the individual development of African American leaders to increase their participation in civic, political, and workforce leadership roles, promoting inclusive economic growth",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Management training in Arizona consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
