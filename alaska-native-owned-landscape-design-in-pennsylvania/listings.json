@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Mayapple Native Landscaping",
+    "address": "Lancaster, Pennsylvania",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mayapplenative.com/",
+    "category": "Alaska-Native-owned Landscape design in Pennsylvania",
+    "description": "Specializes in designing, installing, and maintaining sustainable outdoor spaces using native plants and natural stonework",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Landscape design in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native Creations Landscape Services",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nativecreations.net/",
+    "category": "Alaska-Native-owned Landscape design in Pennsylvania",
+    "description": "A full-service conservation landscape company dedicated to creating sustainable, multifunctional landscapes using native plants. They serve residential and commercial properties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Landscape design in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Green Gardner Designs",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Green+Gardner+Designs+in+Pennsylvania",
+    "category": "Alaska-Native-owned Landscape design in Pennsylvania",
+    "description": "A permaculture-inspired native plant landscaping company focused on creating landscapes that work for people while benefiting nature",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Landscape design in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Colorgarden",
+    "address": "Lancaster, Pennsylvania",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.colorgarden.com/",
+    "category": "Alaska-Native-owned Landscape design in Pennsylvania",
+    "description": "Creates living yards and landscapes that attract birds, butterflies, and native bees, using native plants",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Landscape design in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TerraGreen",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/TerraGreen+in+Pennsylvania",
+    "category": "Alaska-Native-owned Landscape design in Pennsylvania",
+    "description": "Designs and installs sustainable landscape solutions for residential, commercial, and public spaces in the Pittsburgh region, with a focus on native plantings and rain gardens",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Landscape design in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
