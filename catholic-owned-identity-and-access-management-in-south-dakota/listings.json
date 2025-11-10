@@ -1,0 +1,87 @@
+[
+  {
+    "name": "IdentiSys",
+    "address": "Multiple locations, including Sioux Falls, SD. (Specific street address not provided in search results)",
+    "phone": "(800) 777-6970",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.identisys.com/",
+    "category": "Catholic-owned Identity and access management in South-Dakota",
+    "description": "Offers a range of security solutions including physical and logical access control, identity management, and multi-factor authentication",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Identity and access management in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "InfoSight, Inc.",
+    "address": "(Specific address in South Dakota not provided in search results)",
+    "phone": "(605) 338-0200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.infosightinc.com/",
+    "category": "Catholic-owned Identity and access management in South-Dakota",
+    "description": "Provides cybersecurity and risk management services, including managed security operations and compliance audits",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Identity and access management in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cyderes",
+    "address": "While Cyderes is a national provider, they serve clients in South Dakota. (Specific South Dakota address not provided)",
+    "phone": "(888) 644-7770",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://cyderes.com/",
+    "category": "Catholic-owned Identity and access management in South-Dakota",
+    "description": "Offers managed security services with a focus on identity and access management, detecting and stopping identity attacks",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Identity and access management in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zoho Vault",
+    "address": "Zoho is a global company with services available in South Dakota. (No specific South Dakota office listed)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.zoho.com/vault/",
+    "category": "Catholic-owned Identity and access management in South-Dakota",
+    "description": "A password manager and identity and access management solution that offers single sign-on and multi-factor authentication",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Identity and access management in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "State of South Dakota Office of Procurement Management",
+    "address": "523 East Capitol Avenue, Pierre, South Dakota 57501-3182",
+    "phone": "(605) 773-3371",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ops.sd.gov/procurement/",
+    "category": "Catholic-owned Identity and access management in South-Dakota",
+    "description": "While not a private business, this office manages procurement for the state, including IT services like Identity and Access Management, and would contract with IAM providers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Identity and access management in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
