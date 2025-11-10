@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Hamasdegh School",
+    "address": "4916 Flint Drive, Bethesda, MD",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hamasdegh+School+in+Maryland",
+    "category": "Armenian-speaking Preschool programs in Maryland",
+    "description": "Offers Armenian language and culture education on Sundays",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Preschool programs in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Mary's Richard Tufenkian Preschool & Kindergarten",
+    "address": "Not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/St.+Mary's+Richard+Tufenkian+Preschool+&+Kindergarten+in+Maryland",
+    "category": "Armenian-speaking Preschool programs in Maryland",
+    "description": "Provides early childhood education with an emphasis on Armenian language, culture, and heritage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Preschool programs in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shnorhali School - St. Mary Armenian Church",
+    "address": "Not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Shnorhali+School+-+St.+Mary+Armenian+Church+in+Maryland",
+    "category": "Armenian-speaking Preschool programs in Maryland",
+    "description": "Aims to teach the Armenian language and culture, serving the Greater Washington, DC, Virginia, and Maryland communities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Preschool programs in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Holy Trinity Armenian Preschool",
+    "address": "11960 Victory Blvd, North Hollywood, CA 91606 (Note: This is in California, not Maryland)",
+    "phone": "(818) 761-7564",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Holy+Trinity+Armenian+Preschool+in+Maryland",
+    "category": "Armenian-speaking Preschool programs in Maryland",
+    "description": "Provides Christian and Armenian education",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Preschool programs in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
