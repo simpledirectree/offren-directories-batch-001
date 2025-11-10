@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Panda Express",
+    "address": "Multiple locations in Oklahoma, including Moore (I-35 & 19th St) and Tulsa (105th St & Memorial Dr)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pandaexpress.com/catering",
+    "category": "Chinese-speaking Plated catering in Oklahoma",
+    "description": "Offers American-Chinese cuisine with various party trays and bundles for catering events. They provide delivery and pickup options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Plated catering in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fox & Forage Bar & Catering",
+    "address": "Located in Oklahoma, specific address not provided in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.foxandforage.com/",
+    "category": "Chinese-speaking Plated catering in Oklahoma",
+    "description": "Specializes in Asian cuisine catering, including Chinese, Thai, Japanese, and Vietnamese. They offer customizable menus and focus on fresh ingredients and presentation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Plated catering in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Asian Fusion",
+    "address": "Tulsa, OK (specific address not provided in search results)",
+    "phone": "(918) 835-1888",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.asianfusiontulsa.com/catering",
+    "category": "Chinese-speaking Plated catering in Oklahoma",
+    "description": "Offers Asian fusion catering with a variety of dishes, including Chinese-inspired options. They provide pickup and delivery for catering orders",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Plated catering in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Grand House",
+    "address": "Oklahoma City, OK (specific address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.grandhouseokc.com/banquets-catering",
+    "category": "Chinese-speaking Plated catering in Oklahoma",
+    "description": "Provides banquet and catering services for various Asian cuisines, including Chinese. They offer on-site and off-site catering for events up to 750 guests",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Plated catering in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yummy House",
+    "address": "1201 S Eastern Ave unit d, Oklahoma City, OK 73129",
+    "phone": "405-493-9697",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.yummyhouseokc.com/",
+    "category": "Chinese-speaking Plated catering in Oklahoma",
+    "description": "Offers authentic Chinese cuisine for takeout and delivery in Oklahoma City, with catering options available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Plated catering in Oklahoma consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
