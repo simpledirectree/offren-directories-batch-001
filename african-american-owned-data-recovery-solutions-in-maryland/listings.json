@@ -1,0 +1,19 @@
+[
+  {
+    "name": "iQ Computer Services",
+    "address": "Maryland Office: (Specific address not publicly listed, but serves Maryland)",
+    "phone": "(301) 678-9840",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/iQ+Computer+Services+in+Maryland",
+    "category": "African-American-owned Data recovery solutions in Maryland",
+    "description": "iQ Computer Services is a veteran-owned and Black-owned business providing IT solutions, including data recovery. They emphasize a \"people first approach\" and offer services for both individuals and small businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Data recovery solutions in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
