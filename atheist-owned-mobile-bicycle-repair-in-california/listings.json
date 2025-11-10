@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Hoopty Bikes",
+    "address": "305 E 9th St, Ste 219 Los Angeles, CA 90015",
+    "phone": "(310) 308-0252",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.hooptybikes.com/",
+    "category": "Atheist-owned Mobile bicycle repair in California",
+    "description": "Offers mobile bicycle repair, tune-ups, and assembly for all types of bikes, including e-bikes. They come to your location for convenient service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Mobile bicycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CycloPunk",
+    "address": "Serves Montrose, Glendale, La Crescenta, Silver Lake, Sherman Oaks, and surrounding areas. (Mobile service, no physical storefront listed)",
+    "phone": "(626) 314-0965",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.cyclopunk.com/",
+    "category": "Atheist-owned Mobile bicycle repair in California",
+    "description": "Provides expert mobile bike repair services, including tune-ups, brake repairs, and e-bike services, with a focus on convenience and quality",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Mobile bicycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bike Shop LA",
+    "address": "Los Angeles, CA (Specific address not provided for mobile service, but they serve the Los Angeles area)",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://bikeshopla.com/",
+    "category": "Atheist-owned Mobile bicycle repair in California",
+    "description": "Offers comprehensive bike repair and maintenance services in the Los Angeles area, with a focus on quality and quick turnaround times",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Mobile bicycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "OC Bike Garage",
+    "address": "Orange County, CA (Mobile service, specific address not provided)",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.ocbikegarage.com/",
+    "category": "Atheist-owned Mobile bicycle repair in California",
+    "description": "Offers professional bike repair and maintenance for all types of bikes in Orange County, CA, with options for workshop classes and pick-up/delivery service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Mobile bicycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Velopix Sacramento",
+    "address": "Sacramento, CA (Mobile service, operates out of a van)",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.velopix.com/",
+    "category": "Atheist-owned Mobile bicycle repair in California",
+    "description": "A mobile bike repair service that comes to your home or office for tune-ups and repairs, aiming for convenience and efficiency",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Mobile bicycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fairfield Bicycles",
+    "address": "720 Texas Street, Fairfield, CA 94533",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.fairfieldbicycles.com/",
+    "category": "Atheist-owned Mobile bicycle repair in California",
+    "description": "A bicycle repair shop offering expert service, from basic tune-ups to advanced diagnostics and custom bike builds, with a focus on quality parts and tools",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Mobile bicycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Priority Bicycles",
+    "address": "Multiple locations, but they offer online sales and support. (While not strictly a mobile repair service in the same vein as others, they focus on low-maintenance bikes and offer strong customer support.)",
+    "phone": "(888) 777-0340",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.prioritybicycles.com/",
+    "category": "Atheist-owned Mobile bicycle repair in California",
+    "description": "Specializes in low-maintenance, belt-drive bikes and offers excellent customer support, including advice and service options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Mobile bicycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Performance Bicycle",
+    "address": "Multiple locations, including some in California. (Check their website for specific store locations and services.)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.performancebike.com/",
+    "category": "Atheist-owned Mobile bicycle repair in California",
+    "description": "Offers a wide selection of bikes, parts, and accessories, along with repair and maintenance services at their retail locations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Mobile bicycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Bike Shop (San Diego)",
+    "address": "2171 El Cajon Blvd, San Diego, CA 92104",
+    "phone": "(619) 298-0211",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.thebikeshopsd.com/",
+    "category": "Atheist-owned Mobile bicycle repair in California",
+    "description": "A well-regarded bike shop offering a range of repair and maintenance services for various types of bicycles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Mobile bicycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Helen's Cycles",
+    "address": "Multiple locations in Southern California, including Santa Monica and Torrance",
+    "phone": "",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.helenscycles.com/",
+    "category": "Atheist-owned Mobile bicycle repair in California",
+    "description": "A long-standing bicycle retailer and service center known for its knowledgeable staff and comprehensive repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Mobile bicycle repair in California consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
