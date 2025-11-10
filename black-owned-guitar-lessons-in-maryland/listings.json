@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Columbia Guitar Studio",
+    "address": "10325 Westview Dr, Columbia, MD 21044",
+    "phone": "410-730-0092",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://columbiaguitarstudio.com/",
+    "category": "Black-owned Guitar lessons in Maryland",
+    "description": "Offers private guitar lessons for beginners through advanced students, with customized instruction in various genres",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Guitar lessons in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dan O Music Academy",
+    "address": "Laurel, MD (Online and in-person lessons available)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.danomusic.com/",
+    "category": "Black-owned Guitar lessons in Maryland",
+    "description": "Provides private and group music lessons in guitar, bass, piano, ukulele, and violin, tailored to individual pace, style, and goals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Guitar lessons in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tempee's Guitar Lessons",
+    "address": "Pasadena, MD (Online and in-person lessons available)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.tempeeguitarlessons.com/",
+    "category": "Black-owned Guitar lessons in Maryland",
+    "description": "Offers professional guitar lessons for all skill levels in a friendly environment, with options for online and in-person instruction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Guitar lessons in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Baltimore School of Music",
+    "address": "44 Village Square, Baltimore, MD 21210",
+    "phone": "443-687-7000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://baltimoreschoolofmusic.org/",
+    "category": "Black-owned Guitar lessons in Maryland",
+    "description": "Voted \"Best Music Lessons\" in Baltimore for multiple years, offering private, one-on-one lessons with experienced teachers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Guitar lessons in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Soundcheck Rock Academy",
+    "address": "9051 Red Branch Rd, Suite A, Columbia, MD 21045",
+    "phone": "",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.soundcheckrockacademy.com/",
+    "category": "Black-owned Guitar lessons in Maryland",
+    "description": "A music school for kids, teens, and adults offering guitar lessons, band programs, and summer music camps",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Guitar lessons in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "James Leitch - Guitarist and Instructor",
+    "address": "Baltimore, MD (Home studio, online, and school-based lessons available)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.jamesleitch.com/",
+    "category": "Black-owned Guitar lessons in Maryland",
+    "description": "Offers private guitar lessons for all ages and skill levels, with expertise in various guitar styles and a focus on self-expression",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Guitar lessons in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EW Guitar Lessons",
+    "address": "Anne Arundel County, MD (Serves surrounding communities, online lessons available)",
+    "phone": "443-742-1229",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.ewguitar.com/",
+    "category": "Black-owned Guitar lessons in Maryland",
+    "description": "Provides private guitar lessons with a student-centered approach, covering various techniques and styles, with options for in-home and online instruction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Guitar lessons in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jim Bowley",
+    "address": "Baltimore, MD (In-person and online lessons available)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.jimbowley.net/",
+    "category": "Black-owned Guitar lessons in Maryland",
+    "description": "Offers private guitar coaching with a focus on immediate feedback, covering various styles and skill levels, with a Bachelor's degree in Music Education",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Guitar lessons in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sloan School of Music",
+    "address": "Hagerstown & Urbana (Frederick), MD (Virtual lessons available)",
+    "phone": "",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.sloanschoolofmusic.com/",
+    "category": "Black-owned Guitar lessons in Maryland",
+    "description": "Offers guitar lessons and band programs with experienced instructors, focusing on both fundamentals and performance opportunities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Guitar lessons in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Music & Arts (Waldorf, MD)",
+    "address": "3035 Festival Way, Waldorf, MD 20601",
+    "phone": "301-396-9336",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.musicarts.com/locations/waldorf-md",
+    "category": "Black-owned Guitar lessons in Maryland",
+    "description": "A national chain offering guitar lessons with instructors like Lucas Smith, who specializes in Blues and Jazz. They also offer instrument sales, rentals, and repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Guitar lessons in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
