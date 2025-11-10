@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Hong Hong Hair Salon",
+    "address": "1400 N Germantown Pkwy, Suite 106, Cordova, TN 38016, United States",
+    "phone": "(901) 921-3421",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.hair-salon-cordova.com/",
+    "category": "Chinese-American-owned Hair styling in Tennessee",
+    "description": "Offers a wide variety of custom hair styling services at competitive prices, aiming to make clients feel special. They also plan to expand their services to include a head spa",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Hair styling in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
