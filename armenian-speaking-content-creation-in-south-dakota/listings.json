@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Interpreters Unlimited",
+    "address": "Multiple locations, including services offered in South Dakota. Their main office is in San Diego, CA",
+    "phone": "800-726-9891",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.interpreters.com/",
+    "category": "Armenian-speaking Content creation in South-Dakota",
+    "description": "Offers Armenian translation and interpretation services nationwide, including for legal, medical, and corporate sectors. They highlight cultural expertise and professional linguists",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Content creation in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "iTi (Interpreters & Translators, Inc.)",
+    "address": "Multiple locations, including services offered in South Dakota. Their main office is in New York, NY",
+    "phone": "(800) 722-7483",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.itiinc.com/",
+    "category": "Armenian-speaking Content creation in South-Dakota",
+    "description": "Provides Armenian interpreting and translation services for various events and documents, emphasizing accuracy and quick turnaround. They serve clients worldwide",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Content creation in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "South Dakota Translation Services (LinguaVox)",
+    "address": "While they offer services in South Dakota, their main offices are in the USA and Europe",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.linguavox.com/",
+    "category": "Armenian-speaking Content creation in South-Dakota",
+    "description": "Offers certified technical, medical, and legal translation services in over 100 languages, including Armenian, throughout South Dakota and other US states",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Content creation in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
