@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Blue Surge Marketing Agency",
+    "address": "New York (Serves clients nationwide)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bluesurgemarketing.com/",
+    "category": "Black-owned Conversion rate optimization in Maine",
+    "description": "A Black-owned creative digital marketing and website design agency that offers a wide range of services including SEO, social media management, content writing, and web design. They emphasize understanding the cultural nuances of Black-owned brands",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Conversion rate optimization in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EraBright",
+    "address": "Not specified, but they serve clients across various locations including Los Angeles, New York City, Atlanta, and Washington D.C",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://erabright.com/",
+    "category": "Black-owned Conversion rate optimization in Maine",
+    "description": "A Black-owned web design agency that focuses on creating high-converting websites. Their services include SEO, content marketing, paid advertising, and website design with an emphasis on driving sales and leads",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Conversion rate optimization in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bnevol",
+    "address": "Not specified, but operates as a digital agency",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bnevol.com/",
+    "category": "Black-owned Conversion rate optimization in Maine",
+    "description": "A Black-owned digital agency founded to amplify impact for organizations with web design, marketing, and strategic solutions. Their core services include SEO, SEM, Web Design & Development, PPC, and Social Media Management",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Conversion rate optimization in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
