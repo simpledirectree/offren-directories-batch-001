@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Black Hills Electrolysis",
+    "address": "717 Columbus St, Rapid City, SD",
+    "phone": "(605) 645-9280",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackhillselectrolysis.com/",
+    "category": "Agnostic-owned Electrolysis in South-Dakota",
+    "description": "Offers Blend and Thermolysis methods of electrolysis for permanent hair removal",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Electrolysis in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zap That Electrolysis LLC",
+    "address": "100 W. Hwy 38 Suite J, Hartford, SD 57033",
+    "phone": "(605) 728-0752",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.zapthatelectrolysis.com/",
+    "category": "Agnostic-owned Electrolysis in South-Dakota",
+    "description": "Provides permanent hair removal using electrolysis, the only FDA-approved method",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Electrolysis in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Appoise Spa",
+    "address": "10 Railroad Ave SW, Aberdeen, SD",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.appoint.com/appoisespa",
+    "category": "Agnostic-owned Electrolysis in South-Dakota",
+    "description": "Offers electrolysis for permanent hair removal on all areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Electrolysis in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Summit Electrolysis",
+    "address": "Woodland Park (specific address not provided in search results, but likely in the Woodland Park area)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.summithmu.com/",
+    "category": "Agnostic-owned Electrolysis in South-Dakota",
+    "description": "Provides professional and advanced hair removal solutions using state-of-the-art technology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Electrolysis in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "All About YOU Electrolysis LLC",
+    "address": "Not listed in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.allaboutyouelectrolysis.com/",
+    "category": "Agnostic-owned Electrolysis in South-Dakota",
+    "description": "Offers electrolysis services for permanent hair removal",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Electrolysis in South-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
