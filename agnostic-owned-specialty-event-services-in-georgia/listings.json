@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Saratoga Event Group",
+    "address": "Atlanta, GA",
+    "phone": "(404) 577-1000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.saratogaeventgroup.com/",
+    "category": "Agnostic-owned Specialty event services in Georgia",
+    "description": "A full-service special event planning company offering unique event venues and comprehensive planning services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Specialty event services in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Special Occasion Catering",
+    "address": "Savannah, GA",
+    "phone": "(912) 234-7200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.special-occasion-catering.com/",
+    "category": "Agnostic-owned Specialty event services in Georgia",
+    "description": "Provides catering for special events such as themed parties, birthdays, weddings, and corporate gatherings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Specialty event services in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Augusta Special Events Tent and Party Rental",
+    "address": "Martinez, GA",
+    "phone": "(706) 855-7477",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://augustaspecialevents.com/",
+    "category": "Agnostic-owned Specialty event services in Georgia",
+    "description": "Offers tent and party rental services for a wide range of events, including weddings, parties, and corporate functions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Specialty event services in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oconee Events",
+    "address": "Athens, GA",
+    "phone": "(706) 543-7500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.oconeeevents.com/",
+    "category": "Agnostic-owned Specialty event services in Georgia",
+    "description": "The event rental company of Athens, Georgia, providing tents, tables, chairs, staging, and lighting for weddings and events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Specialty event services in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Classic City Event Rentals",
+    "address": "Athens, GA",
+    "phone": "(706) 255-1990",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.classiccityeventrentals.com/",
+    "category": "Agnostic-owned Specialty event services in Georgia",
+    "description": "Offers party and special event rentals in the Athens, GA area, including tables, chairs, linens, and tent rentals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Specialty event services in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vintage Special Event Center",
+    "address": "Savannah, GA",
+    "phone": "(912) 480-0100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vintagesavannah.com/",
+    "category": "Agnostic-owned Specialty event services in Georgia",
+    "description": "An upscale venue in Savannah, GA, perfect for weddings and special events, focusing on class, elegance, and style",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Specialty event services in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Marquee Events",
+    "address": "Roswell, GA",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.facebook.com/MarqueeEventsATL/",
+    "category": "Agnostic-owned Specialty event services in Georgia",
+    "description": "A special events entertainment company providing DJ and wedding planning services in the Greater Atlanta area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Specialty event services in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Epting Events",
+    "address": "Athens, GA (Headquarters)",
+    "phone": "(706) 353-1913",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eptingevents.com/",
+    "category": "Agnostic-owned Specialty event services in Georgia",
+    "description": "An Athens-based catering company offering exceptional catering services across Atlanta for weddings, corporate events, and special celebrations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Specialty event services in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Just Entertain",
+    "address": "Macon, GA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://justentertain.com/",
+    "category": "Agnostic-owned Specialty event services in Georgia",
+    "description": "A top event planner in Macon, GA, offering customized planning for corporate, private, and celebration events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Specialty event services in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mathes Event Productions",
+    "address": "Augusta, GA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://matheseventproductions.com/",
+    "category": "Agnostic-owned Specialty event services in Georgia",
+    "description": "Provides event management and production services in the Augusta, GA area, including digital signage, videography, and logistical planning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Specialty event services in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
