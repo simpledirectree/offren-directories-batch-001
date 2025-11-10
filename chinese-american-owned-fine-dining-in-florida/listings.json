@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Tropical Chinese Restaurant",
+    "address": "7991 Bird Road, Miami, FL 33155",
+    "phone": "(305) 262-7576",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.tropicalchinese.com/",
+    "category": "Chinese-American-owned Fine dining in Florida",
+    "description": "A long-standing Miami institution known for its authentic Hong Kong-style dim sum and traditional Cantonese dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Fine dining in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hakkasan Miami",
+    "address": "4441 Collins Ave, Miami Beach, FL 33140 (Located in the Fontainebleau Miami Beach hotel)",
+    "phone": "(786) 276-1388",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hakkasan.com/miami/",
+    "category": "Chinese-American-owned Fine dining in Florida",
+    "description": "An upscale Chinese restaurant offering a modern take on Cantonese delicacies, known for its elegant ambiance and sophisticated dishes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Fine dining in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mr Chow",
+    "address": "2201 Collins Avenue, South Beach, Miami Beach, FL 33139",
+    "phone": "(305) 695-1695",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mrchow.com/miami/",
+    "category": "Chinese-American-owned Fine dining in Florida",
+    "description": "An internationally recognized restaurant offering Beijing cuisine in an upscale setting, known for its classic dishes and elegant dining room",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Fine dining in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yummy House China Bistro",
+    "address": "Multiple locations, including South Tampa and East Tampa. (Specific addresses vary by location)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.yummyhouse.com/",
+    "category": "Chinese-American-owned Fine dining in Florida",
+    "description": "Offers authentic Chinese and Cantonese food, including dim sum, with multiple locations across Florida",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Fine dining in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "A Gourmet Chinese Cuisine",
+    "address": "1101 E Colonial Dr, Orlando, FL 32803",
+    "phone": "(407) 897-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://agourmetchinesecuisine.com/",
+    "category": "Chinese-American-owned Fine dining in Florida",
+    "description": "Located in Orlando, this restaurant focuses on authentic Chinese flavors and gourmet cuisine, available for takeout and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Fine dining in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hong Kong City BBQ",
+    "address": "7470 N University Dr, Tamarac, FL 33321",
+    "phone": "(954) 726-1188",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hongkongcitybbq.com/",
+    "category": "Chinese-American-owned Fine dining in Florida",
+    "description": "Known for authentic Chinese cuisine, including Dim Sum and BBQ, aiming to introduce the \"Real Ideas of Chinese Food.\"",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Fine dining in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zom Hee",
+    "address": "9015 Park Blvd, Seminole, FL 33777",
+    "phone": "(727) 391-1112",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Zom+Hee+in+Florida",
+    "category": "Chinese-American-owned Fine dining in Florida",
+    "description": "A family-owned restaurant that has been a staple since 1985, known for delicious Chinese food and a beautiful dining space",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Fine dining in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kon Chau Chinese Restaurant",
+    "address": "8880 SW 56th St, Miami, FL 33165",
+    "phone": "(305) 223-2000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Kon+Chau+Chinese+Restaurant+in+Florida",
+    "category": "Chinese-American-owned Fine dining in Florida",
+    "description": "A highly-rated restaurant in Miami specializing in authentic Chinese dim sum, with a large dim sum menu",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Fine dining in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lotus Chinese Kitchen",
+    "address": "1027 N Federal Hwy, Fort Lauderdale, FL 33304 (New location)",
+    "phone": "(954) 566-5565",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lotus-chinese-kitchen.com/",
+    "category": "Chinese-American-owned Fine dining in Florida",
+    "description": "Serving the community since 1975, this family-run restaurant offers classic dishes and Mandarin specialties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Fine dining in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kung Fu Chef",
+    "address": "777 Wedgewood Ln, The Villages, FL 32162",
+    "phone": "(352) 750-3388",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://kungfuchefthevillages.com/",
+    "category": "Chinese-American-owned Fine dining in Florida",
+    "description": "A popular Chinese restaurant in The Villages, known for its flavorful dishes and friendly service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Fine dining in Florida consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
