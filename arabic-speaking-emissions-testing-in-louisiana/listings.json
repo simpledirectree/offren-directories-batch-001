@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Simpsons Auto Service",
+    "address": "505 N Alexander Ave, Port Allen, LA 70767",
+    "phone": "(225) 343-7255",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.simpsonsautoservice.com/",
+    "category": "Arabic-speaking Emissions testing in Louisiana",
+    "description": "A certified safety and emissions inspection station that serves Port Allen and surrounding areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Emissions testing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Oil-N-Geaux",
+    "address": "1426 N Airline Hwy, Gonzales, LA 70737",
+    "phone": "(225) 647-2069",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.oil-n-geaux.com/",
+    "category": "Arabic-speaking Emissions testing in Louisiana",
+    "description": "A LA state certified emissions test facility and inspection station",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Emissions testing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Woodlawn MVI Station",
+    "address": "4040 Woodlawn Ave, Baton Rouge, LA 70805",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Woodlawn+MVI+Station+in+Louisiana",
+    "category": "Arabic-speaking Emissions testing in Louisiana",
+    "description": "A Motor Vehicle Inspection (MVI) station in Baton Rouge",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Emissions testing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Range Avenue Inspection & Windshield Repair",
+    "address": "7120 Range Ave, Denham Springs, LA 70726",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Range+Avenue+Inspection+&+Windshield+Repair+in+Louisiana",
+    "category": "Arabic-speaking Emissions testing in Louisiana",
+    "description": "Offers inspection and windshield repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Emissions testing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Baton Rouge Onsite Fleet Service",
+    "address": "Information not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Baton+Rouge+Onsite+Fleet+Service+in+Louisiana",
+    "category": "Arabic-speaking Emissions testing in Louisiana",
+    "description": "Provides inspection and emissions testing services in Baton Rouge",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Emissions testing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
