@@ -1,0 +1,19 @@
+[
+  {
+    "name": "E.G. Bowman Co., Inc.",
+    "address": "5 Hanover Square, Manhattan, New York, 10004",
+    "phone": "917-803-7917",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/E.G.+Bowman+Co.,+Inc.+New+York",
+    "category": "Black-owned Umbrella insurance in New-York",
+    "description": "E.G. Bowman is an NYC-based, Black-owned insurance brokerage firm that has been serving clients for decades. They work with businesses and individuals to find the best insurance coverage at competitive prices. They are known for their commitment to client-driven service and have a long history of advocating for underserved communities in the insurance market",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Umbrella insurance in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
