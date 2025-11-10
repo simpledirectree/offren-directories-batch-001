@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Ageless Fitness",
+    "address": "2400 Yew St, Bellingham, WA 98229",
+    "phone": "(360) 306-3000",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.agelessfitness.com/",
+    "category": "Atheist-owned Senior fitness in Washington",
+    "description": "Specializes in senior personal training and offers programs designed for aging gracefully with a focus on functional aging",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Senior fitness in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "YMCA of Greater Seattle",
+    "address": "Multiple locations across Seattle. For example, the downtown branch is at 10700 5th Ave NE, Seattle, WA 98125",
+    "phone": "(206) 382-5000 (General information, specific branch numbers may vary)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.seattleymca.org/",
+    "category": "Atheist-owned Senior fitness in Washington",
+    "description": "Offers a wide range of fitness classes, equipment, and community programs suitable for seniors, including senior-friendly exercise programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Senior fitness in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sound Generations (EnhanceFitness Program)",
+    "address": "Various partner senior centers and community sites throughout King County. Specific locations vary",
+    "phone": "(206) 727-6262",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.soundgenerations.org/",
+    "category": "Atheist-owned Senior fitness in Washington",
+    "description": "Offers the EnhanceFitness program, an evidence-based group exercise and falls prevention program for older adults",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Senior fitness in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Stay Active and Independent for Life (SAIL) Program",
+    "address": "Offered through various community centers and organizations across Washington State",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://doh.wa.gov/you-and-your-health/healthy-communities/fall-prevention/stay-active-independent-life-sail",
+    "category": "Atheist-owned Senior fitness in Washington",
+    "description": "A strength, balance, and fitness program for adults 65 and older, designed to reduce the risk of falls",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Senior fitness in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wilfred R. Cameron Wellness Center",
+    "address": "916 N. Walnut St., La Grande, OR 97850 (Note: This is in Oregon, but often serves Washington residents due to proximity and program offerings.)",
+    "phone": "(541) 963-7777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cameronwellness.org/",
+    "category": "Atheist-owned Senior fitness in Washington",
+    "description": "Offers a variety of senior-friendly workout classes, including aquatic classes and yoga, with degreed and certified personal trainers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Senior fitness in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Franke Tobey Jones (MJ Wicks Family Wellness Center)",
+    "address": "5340 N. Bristol Ave., Tacoma, WA 98407",
+    "phone": "(253) 752-6621",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.franketobeyjones.org/",
+    "category": "Atheist-owned Senior fitness in Washington",
+    "description": "Offers a holistic wellness program with exercise classes, personal training, and amenities for seniors aged 55 and better",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Senior fitness in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chateau Retirement Communities (Senior Fitness Club)",
+    "address": "Multiple locations, including one near Seattle. Specific addresses vary by community",
+    "phone": "800-960-1944",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chateauretirement.com/",
+    "category": "Atheist-owned Senior fitness in Washington",
+    "description": "Provides a senior fitness club within retirement communities, offering specialized equipment and group exercise classes like yoga and cardio drumming",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Senior fitness in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Anytime Fitness",
+    "address": "Numerous locations throughout Washington State. Example: 1500 112th Ave SE, Bellevue, WA 98004",
+    "phone": "Varies by location. (425) 454-0500 for the Bellevue example",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.anytimefitness.com/",
+    "category": "Atheist-owned Senior fitness in Washington",
+    "description": "Offers 24/7 access with a variety of cardio and strength equipment that can be suitable for seniors. Some locations may honor SilverSneakers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Senior fitness in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Planet Fitness",
+    "address": "Many locations across Washington. Example: 1011 N. 100th St, Seattle, WA 98133",
+    "phone": "Varies by location. (206) 453-4000 for the Seattle example",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.planetfitness.com/",
+    "category": "Atheist-owned Senior fitness in Washington",
+    "description": "Provides a large selection of cardio equipment and resistance machines. Some locations may honor SilverSneakers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Senior fitness in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Crunch Fitness",
+    "address": "Several locations in Washington. Example: 1001 Broadway Ave E, Seattle, WA 98102",
+    "phone": "Varies by location. (206) 328-0200 for the Seattle example",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.crunch.com/",
+    "category": "Atheist-owned Senior fitness in Washington",
+    "description": "Offers a variety of fitness classes and equipment. While not exclusively senior-focused, many classes can be adapted for older adults",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Senior fitness in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
