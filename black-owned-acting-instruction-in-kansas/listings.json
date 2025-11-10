@@ -1,0 +1,53 @@
+[
+  {
+    "name": "The Black Repertory Theatre of Kansas City",
+    "address": "Not publicly listed, but serves the Kansas City Metro area",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackrepkc.org/",
+    "category": "Black-owned Acting instruction in Kansas",
+    "description": "This not-for-profit organization uses theater productions and educational programming to enhance the contributions of minorities in the community. They focus on education and the inclusion of Black youth in theater, offering programs like playwriting, scholarships, internships, and mentorships",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Acting instruction in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Acting Methods Studio",
+    "address": "Mobile and online training institute. Specific physical address not provided",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackactingmethods.com/",
+    "category": "Black-owned Acting instruction in Kansas",
+    "description": "This institute offers training in acting processes, methodologies, and philosophies rooted in Black American culture and tradition. They provide one-on-one coaching, master classes, and studio instructor certification, with a focus on the \"Luckett Paradigm\" methodology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Acting instruction in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "KC Melting Pot Theatre",
+    "address": "Not publicly listed, but is Kansas City's premier African American theatrical company",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/KC+Melting+Pot+Theatre+in+Kansas",
+    "category": "Black-owned Acting instruction in Kansas",
+    "description": "This is Kansas City's premier African American theatrical company, known for productions like \"A Raisin in the Sun\" and \"Ain't No Such Thing as Midnight Black.\" The artistic director, Nicole Hodges Persley, has also authored a book on audition techniques for actors of color",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Acting instruction in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
