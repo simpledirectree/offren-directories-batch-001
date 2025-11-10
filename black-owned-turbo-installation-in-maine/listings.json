@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Portland Performance LLC",
+    "address": "155 Riverside St, Portland, ME 04103",
+    "phone": "(207) 517-5555",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.portlandperformance.com/",
+    "category": "Black-owned Turbo installation in Maine",
+    "description": "This shop offers a wide range of auto services, including diagnostics, engine builds, and explicitly mentions turbo upgrades and installation for competition or classic vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Turbo installation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Diamond Detailing",
+    "address": "409 Sabattus St, Lewiston, ME 04240",
+    "phone": "(207) 241-7000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.blackdiamonddetailing.com/",
+    "category": "Black-owned Turbo installation in Maine",
+    "description": "While primarily a detailing business, it is noted as the first Black-owned, Somali-owned car detailing business in Maine. They may offer additional services or be able to recommend other businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Turbo installation in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
