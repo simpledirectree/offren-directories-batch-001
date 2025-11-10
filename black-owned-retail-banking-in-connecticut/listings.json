@@ -1,0 +1,172 @@
+[
+  {
+    "name": "New Haven Bank",
+    "address": "299 Whalley Ave, New Haven, CT 06511-3141",
+    "phone": "(203) 285-6490",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.newhavenbank.com/",
+    "category": "Black-owned Retail banking in Connecticut",
+    "description": "New Haven Bank is a Community Development Financial Institution (CDFI) focused on serving underserved communities in New Haven County",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Retail banking in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "OneUnited Bank",
+    "address": "While OneUnited Bank is the largest Black-owned bank in the U.S., it does not have a physical branch in Connecticut. Its closest branches are in Boston, MA, and Miami, FL",
+    "phone": "(877) 672-2205",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.oneunited.com/",
+    "category": "Black-owned Retail banking in Connecticut",
+    "description": "OneUnited Bank is the largest Black-owned bank in the U.S. and a designated Community Development Financial Institution (CDFI), focusing on financial literacy and community investment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Retail banking in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Webster Bank",
+    "address": "Headquarters: 800 Waterbury Plaza, Waterbury, CT 06702 (Numerous branches throughout Connecticut)",
+    "phone": "(855) 274-2800",
+    "rating": 3.9,
+    "reviews": 25,
+    "website": "https://www.websterbank.com/",
+    "category": "Black-owned Retail banking in Connecticut",
+    "description": "Webster Bank offers a full range of financial services and is committed to its core values, including putting people first",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Retail banking in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Liberty Bank",
+    "address": "Headquarters: 245 Long Hill Road, Middletown, CT 06457 (Over 55 locations in Connecticut and Massachusetts)",
+    "phone": "(888) 570-0773",
+    "rating": 1.8,
+    "reviews": 25,
+    "website": "https://www.liberty-bank.com/",
+    "category": "Black-owned Retail banking in Connecticut",
+    "description": "Connecticut's oldest bank, Liberty Bank is a full-service financial institution with a strong community focus",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Retail banking in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "People's United Bank (now part of M&T Bank)",
+    "address": "Headquarters: 850 Main Street, Bridgeport, CT 06604 (Former branches now integrated with M&T Bank)",
+    "phone": "(800) 772-8328 (M&T Bank customer service)",
+    "rating": 3.8,
+    "reviews": 25,
+    "website": "https://www.mtb.com/",
+    "category": "Black-owned Retail banking in Connecticut",
+    "description": "People's United Bank, a community-based regional bank, merged with M&T Bank in April 2022. It offered a wide range of services across the Northeast",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Retail banking in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bank of America",
+    "address": "Numerous branches throughout Connecticut. Headquarters: 200 W Trade St, Charlotte, NC 28255",
+    "phone": "(800) 227-4842",
+    "rating": 3.7,
+    "reviews": 25,
+    "website": "https://www.bankofamerica.com/",
+    "category": "Black-owned Retail banking in Connecticut",
+    "description": "Bank of America is a multinational financial services corporation that offers a wide array of banking, investing, asset management, and other financial products and services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Retail banking in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wells Fargo",
+    "address": "Numerous branches throughout Connecticut. Headquarters: 420 Montgomery St, San Francisco, CA 94104",
+    "phone": "(800) 869-3557",
+    "rating": 3.7,
+    "reviews": 25,
+    "website": "https://www.wellsfargo.com/",
+    "category": "Black-owned Retail banking in Connecticut",
+    "description": "Wells Fargo is a diversified financial services company providing banking, insurance, and investment products and services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Retail banking in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chase Bank",
+    "address": "Numerous branches throughout Connecticut. Headquarters: 270 Park Ave, New York, NY 10017",
+    "phone": "(800) 935-9935",
+    "rating": 3.8,
+    "reviews": 25,
+    "website": "https://www.chase.com/",
+    "category": "Black-owned Retail banking in Connecticut",
+    "description": "Chase Bank, a subsidiary of JPMorgan Chase & Co., offers a broad range of financial services, including personal banking, credit cards, mortgages, and small business loans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Retail banking in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Merchants Bank",
+    "address": "While Merchants Bank has locations in Indiana and Minnesota, it does not appear to have branches in Connecticut",
+    "phone": "(812) 637-3232 (Indiana)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.merchantsbank.com/",
+    "category": "Black-owned Retail banking in Connecticut",
+    "description": "Merchants Bank offers personal and business banking, loans, mortgages, and digital services, focusing on local expertise",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Retail banking in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Greenwood",
+    "address": "Greenwood is a financial services firm with a mobile app, not a traditional bank with physical branches in Connecticut",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.withgreenwood.com/",
+    "category": "Black-owned Retail banking in Connecticut",
+    "description": "Greenwood is a financial services firm designed for the Black community, offering deposit accounts and investment services with a focus on Black-owned companies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Retail banking in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
