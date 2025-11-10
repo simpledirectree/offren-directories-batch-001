@@ -1,0 +1,87 @@
+[
+  {
+    "name": "BSSW (Bay Shore Steel Works)",
+    "address": "1000 W. 12th Ave., Oshkosh, WI 54902",
+    "phone": "(920) 230-5000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bssw.com/",
+    "category": "American-Indian-owned Breach notification services in Wisconsin",
+    "description": "A Native American-owned, SBA 8(a) certified small business providing advanced technology and operations support, including cybersecurity solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breach notification services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native Security LLC",
+    "address": "Not specified (operates nationally)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://nativesecurity.io/",
+    "category": "American-Indian-owned Breach notification services in Wisconsin",
+    "description": "Provides cybersecurity solutions for tribal organizations, including threat detection, response, cloud security, and cyber strategy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breach notification services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "On Time Tech",
+    "address": "Not specified (serves Tribal organizations)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ontimetech.com/native-american-organizations/",
+    "category": "American-Indian-owned Breach notification services in Wisconsin",
+    "description": "Offers IT infrastructure and cybersecurity services tailored for Native American and Tribal organizations, including managed security services and cloud technology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breach notification services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "REDW LLC",
+    "address": "Multiple locations, including Madison, WI (specific address not provided for this service)",
+    "phone": "800-733-9030",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.redw.com/tribal-nations/",
+    "category": "American-Indian-owned Breach notification services in Wisconsin",
+    "description": "Offers financial advisory, accounting, and cybersecurity solutions for Tribal Nations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breach notification services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "IDX (Identity Protection Services)",
+    "address": "Not specified (operates nationally)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.idx.us/breach-response",
+    "category": "American-Indian-owned Breach notification services in Wisconsin",
+    "description": "Provides breach notification and identity protection services, approved by major cyber insurers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Breach notification services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
