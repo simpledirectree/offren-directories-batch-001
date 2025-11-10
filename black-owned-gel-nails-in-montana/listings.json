@@ -1,0 +1,36 @@
+[
+  {
+    "name": "B&B Nail Bar",
+    "address": "1531 W Main St Unit 104, Bozeman, MT 59715",
+    "phone": "+1 406-219-3663",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bbnailbarbozeman.com/",
+    "category": "Black-owned Gel nails in Montana",
+    "description": "B&B Nail Bar offers a variety of nail care services, including gel manicures, pedicures, acrylics, and nail art, prioritizing hygiene and customer satisfaction",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Gel nails in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Envy Nails & Bar",
+    "address": "110 N 19th Ave, Bozeman, MT 59718",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://envynailsbar.com/",
+    "category": "Black-owned Gel nails in Montana",
+    "description": "Envy Nails & Bar offers a wide range of services including manicures, pedicures, acrylics, dip nails, and nail art in a cozy and relaxing atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Gel nails in Montana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
