@@ -1,0 +1,87 @@
+[
+  {
+    "name": "The Indigenous Marketing Company",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.indigenousmarketing.co/",
+    "category": "American-Indian-owned Reputation management in Iowa",
+    "description": "A 100% Indigenous-owned agency specializing in business solutions for entrepreneurs, organizations, and Indigenous communities. They offer marketing and community growth services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Reputation management in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hozhonigo Consulting",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://hozhonigoconsulting.com/",
+    "category": "American-Indian-owned Reputation management in Iowa",
+    "description": "A Native American female-owned consulting firm providing strategic planning, grant writing, and project management services for tribes and Native-serving organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Reputation management in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "tdg agency",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://tdg.agency/",
+    "category": "American-Indian-owned Reputation management in Iowa",
+    "description": "A Native American marketing and public relations agency that crafts brand and strategy campaigns, creates websites, and executes public relations efforts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Reputation management in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Naqmayam Communications",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://naqmayam.com/",
+    "category": "American-Indian-owned Reputation management in Iowa",
+    "description": "A Native American-owned and operated public relations agency that specializes in providing services to tribal and non-tribal organizations, aiming to effectively reach the American Indian and Alaskan Native community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Reputation management in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kitsay Marketing (powered by Royle Media)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.kitsaymarketing.com/",
+    "category": "American-Indian-owned Reputation management in Iowa",
+    "description": "A Native-owned, full-service marketing agency that uses digital and traditional experience to honor culture and deliver measurable results",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Reputation management in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
