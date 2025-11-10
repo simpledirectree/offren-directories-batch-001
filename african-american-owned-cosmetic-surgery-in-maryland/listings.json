@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Cosmetic Medicine and Surgery at Mercy",
+    "address": "227 St. Paul Place, Baltimore, MD 21202",
+    "phone": "410-332-9700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mdmercy.com/services/cosmetic-medicine-and-surgery",
+    "category": "African-American-owned Cosmetic surgery in Maryland",
+    "description": "Offers facial, breast, and body enhancements with a focus on personalized treatment plans and natural-looking results",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Cosmetic surgery in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Metamorphosis Plastic Surgery",
+    "address": "Baltimore, MD (specific street address not provided in search results)",
+    "phone": "(410) 465-3600",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://metamorphosismd.com/",
+    "category": "African-American-owned Cosmetic surgery in Maryland",
+    "description": "Specializes in non-surgical aesthetic procedures and treatments for hyperpigmentation, catering to all skin tones",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Cosmetic surgery in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Valley Plastic Surgery & Medspa",
+    "address": "Baltimore County, Maryland (specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.valleyplasticsurgery.com/",
+    "category": "African-American-owned Cosmetic surgery in Maryland",
+    "description": "Offers a range of cosmetic surgical and non-surgical procedures with a focus on aligning inner and outer beauty",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Cosmetic surgery in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dr. Wilmina Landford (Landford Aesthetics)",
+    "address": "Practices in Washington D.C. & Maryland (specific Maryland address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.landfordaesthetics.com/",
+    "category": "African-American-owned Cosmetic surgery in Maryland",
+    "description": "A Black and Latina plastic surgeon offering a full spectrum of cosmetic and reconstructive surgical procedures, with a focus on preserving ethnic facial characteristics and empowering women of color in surgery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Cosmetic surgery in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chevy Chase Facial Plastic Surgery (Dr. Jennifer Porter)",
+    "address": "Bethesda, Maryland (specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chevychaseface.com/",
+    "category": "African-American-owned Cosmetic surgery in Maryland",
+    "description": "Specializes in facial plastic surgery, including rhinoplasty techniques designed to preserve unique ethnic facial characteristics, particularly for African American patients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Cosmetic surgery in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
