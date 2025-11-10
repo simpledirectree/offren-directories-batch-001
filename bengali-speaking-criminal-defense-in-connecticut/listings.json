@@ -1,0 +1,19 @@
+[
+  {
+    "name": "M.C. Law Group",
+    "address": "2 Post Rd, Fairfield, CT 06824",
+    "phone": "(203) 680-3082",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.mc.law/",
+    "category": "Bengali-speaking Criminal defense in Connecticut",
+    "description": "This firm offers legal services in various areas, including immigration law. They explicitly state that their attorneys speak Spanish, Russian, French, Polish, Ukrainian, and Bengali, in addition to English. While their primary focus highlighted is immigration, they may offer or be able to refer for criminal defense services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Criminal defense in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
