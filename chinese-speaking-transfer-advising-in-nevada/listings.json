@@ -1,0 +1,172 @@
+[
+  {
+    "name": "University of Nevada, Reno (UNR)",
+    "address": "1664 N Virginia St, Reno, NV 89557",
+    "phone": "(775) 784-4646",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.unr.edu/",
+    "category": "Chinese-speaking Transfer advising in Nevada",
+    "description": "UNR has an Office of International Students and Scholars (OISS) that provides advising on visa categories, admissions, employment options, and cultural adjustment. They also have a Chinese Studies Program",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Transfer advising in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Nevada, Las Vegas (UNLV)",
+    "address": "4505 S Maryland Pkwy, Las Vegas, NV 89154",
+    "phone": "(702) 895-3011",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.unlv.edu/",
+    "category": "Chinese-speaking Transfer advising in Nevada",
+    "description": "UNLV offers services through its Office of International Student and Scholar Compliance (ISSC) for immigration support and advising. They also have a Chinese Studies Program and a Sands Institute for Chinese Language and Culture. The Chinese Students and Scholars Association (CSSA) may also offer peer support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Transfer advising in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "College of Southern Nevada (CSN)",
+    "address": "6375 W Charleston Blvd, Las Vegas, NV 89146",
+    "phone": "(702) 651-5820",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.csn.edu/",
+    "category": "Chinese-speaking Transfer advising in Nevada",
+    "description": "CSN's International Center provides services to international students, including admissions, immigration advising, and cultural adjustment support. They also offer a World Languages Associate of Arts degree with an emphasis in Chinese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Transfer advising in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Truckee Meadows Community College (TMCC)",
+    "address": "7000 Dandini Blvd, Reno, NV 89512",
+    "phone": "(775) 673-7000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tmcc.edu/",
+    "category": "Chinese-speaking Transfer advising in Nevada",
+    "description": "TMCC offers International Student Services that include academic, immigration, and transfer advising, as well as cultural adjustment support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Transfer advising in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AmazingTalker",
+    "address": "Online platform, no physical address in Nevada",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://amazingtalker.com/",
+    "category": "Chinese-speaking Transfer advising in Nevada",
+    "description": "This is an online platform that connects students with Chinese language tutors. While not a direct transfer advising service, some tutors may offer guidance related to studying in China or academic pathways",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Transfer advising in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Varsity Tutors",
+    "address": "Online platform, no physical address in Nevada",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.varsitytutors.com/",
+    "category": "Chinese-speaking Transfer advising in Nevada",
+    "description": "Offers online tutoring for Mandarin Chinese. Similar to AmazingTalker, tutors might provide some level of academic guidance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Transfer advising in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Nevada, Reno - Department of World Languages and Literatures",
+    "address": "1664 N Virginia St, Reno, NV 89557",
+    "phone": "(775) 784-6010",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.unr.edu/wll",
+    "category": "Chinese-speaking Transfer advising in Nevada",
+    "description": "This department offers Chinese language courses and may have advisors for students pursuing a Chinese minor or related studies",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Transfer advising in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "University of Nevada, Las Vegas - Department of World Languages and Cultures",
+    "address": "4505 S Maryland Pkwy, Las Vegas, NV 89154",
+    "phone": "(702) 895-3011",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.unlv.edu/wlc",
+    "category": "Chinese-speaking Transfer advising in Nevada",
+    "description": "Offers Chinese language and culture programs and has departmental advisors for students in their programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Transfer advising in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mohave Community College",
+    "address": "Multiple campuses, including one in Bullhead City, AZ, near the Nevada border. The closest Nevada location would be in Mesquite",
+    "phone": "(866) 664-2832",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mohave.edu/",
+    "category": "Chinese-speaking Transfer advising in Nevada",
+    "description": "While primarily in Arizona, MCC serves students from the surrounding tri-state area. They offer advising services and have a World Languages program that includes Chinese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Transfer advising in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ZipRecruiter / Indeed / Other Job Boards",
+    "address": "N/A (Online job search platforms)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ziprecruiter.com/",
+    "category": "Chinese-speaking Transfer advising in Nevada",
+    "description": "These platforms list job openings that require Chinese language proficiency, some of which might involve advising or support roles for Chinese speakers. However, they are not direct advising businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Transfer advising in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
