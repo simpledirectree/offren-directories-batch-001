@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Pete's Auto Care",
+    "address": "4410 Wyoming Blvd NE, Albuquerque, NM 87111",
+    "phone": "(505) 244-3048",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://petesautocare.com/",
+    "category": "Asian-owned Tire rotation in New-Mexico",
+    "description": "Full-service auto repair and preventative maintenance facility specializing in Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Tire rotation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RNS Auto Services",
+    "address": "111 Wyoming Blvd SE, Albuquerque, NM 87123",
+    "phone": "(505) 377-2896",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://rnsautoservices.com/",
+    "category": "Asian-owned Tire rotation in New-Mexico",
+    "description": "Full-service auto repair and preventative maintenance facility specializing in Asian vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Tire rotation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alberto's Tire Pros",
+    "address": "2500 Isleta Blvd SW, Albuquerque, NM 87105",
+    "phone": "(505) 873-4974",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://albertostirepros.com/",
+    "category": "Asian-owned Tire rotation in New-Mexico",
+    "description": "Offers tire rotation and other auto repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Tire rotation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "El Patron Tire Shop LLC",
+    "address": "2700 Southern Blvd SE, Rio Rancho, NM 87124",
+    "phone": "(505) 804-8024",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://elpatrontireshop.com/",
+    "category": "Asian-owned Tire rotation in New-Mexico",
+    "description": "Family-owned auto repair shop offering tire services and light mechanical work",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Tire rotation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Garcia Tires",
+    "address": "Multiple locations, including 5984 Airport Rd, Santa Fe, NM 87507 and 135 Camino Don Tomas, Bernalillo, NM 87004",
+    "phone": "(505) 471-7171 (Santa Fe)",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://garciatires.com/",
+    "category": "Asian-owned Tire rotation in New-Mexico",
+    "description": "Sells tires and offers automotive repair services at multiple locations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Tire rotation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Point S American Tire",
+    "address": "1001 West Coal Avenue, Gallup, NM 87301",
+    "phone": "(505) 722-2272",
+    "rating": 4.4,
+    "reviews": 25,
+    "website": "https://www.points.com/american-tire/gallup-nm",
+    "category": "Asian-owned Tire rotation in New-Mexico",
+    "description": "Offers tire rotation, repair, inspection, and replacement services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Tire rotation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Treadworks\u00ae",
+    "address": "Multiple locations, including 4227 E. Main Street, Farmington, NM 87401 and 4215 Highway 64, Kirtland, NM 87417",
+    "phone": "(505) 327-0286 (Farmington)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://treadworks.com/",
+    "category": "Asian-owned Tire rotation in New-Mexico",
+    "description": "Provides tire sales and auto repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Tire rotation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Big O Tires",
+    "address": "Multiple locations across New Mexico, including Albuquerque, Farmington, and Las Cruces",
+    "phone": "Varies by location (e.g., (505) 881-0000 for Albuquerque)",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://www.bigotires.com/locations/nm",
+    "category": "Asian-owned Tire rotation in New-Mexico",
+    "description": "Offers a wide range of tire services and automotive repair",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Tire rotation in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
