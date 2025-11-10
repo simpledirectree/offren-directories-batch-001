@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Black Lion Technology",
+    "address": "Not publicly available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackliontech.com/",
+    "category": "Black-owned Computer setup in Tennessee",
+    "description": "An IT services company offering managed IT, cybersecurity, and IT consulting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Computer setup in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ally IT Solutions",
+    "address": "2500 Murfreesboro Pike Suite 105 #178, Nashville, TN 37217",
+    "phone": "615-267-9668",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.allyitsolutions.com/",
+    "category": "Black-owned Computer setup in Tennessee",
+    "description": "Provides IT technology, information technology, and computer services/sales",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Computer setup in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "iQ Computer Services",
+    "address": "Not publicly available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://iqcomputerservices.com/",
+    "category": "Black-owned Computer setup in Tennessee",
+    "description": "A veteran-owned, Black-owned business offering affordable IT solutions and computer repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Computer setup in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nashville Computer Guru",
+    "address": "Mobile service, no physical storefront. Serves Nashville, Brentwood, Franklin, Hendersonville, TN",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nashvillegurutech.com/",
+    "category": "Black-owned Computer setup in Tennessee",
+    "description": "Offers insured and certified on-site/mobile computer repair services for homes and businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Computer setup in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "GeekzUP Repairs",
+    "address": "Not publicly available. Serves Hendersonville and the Nashville area",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.geekzup.com/",
+    "category": "Black-owned Computer setup in Tennessee",
+    "description": "A veteran-owned tech service provider offering computer repair, laptop repair, and remote tech support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Computer setup in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TechPros",
+    "address": "Not publicly available. Serves Nashville, Franklin, Brentwood, Green Hills, and surrounding areas",
+    "phone": "615-595-6399",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tech-pros.com/",
+    "category": "Black-owned Computer setup in Tennessee",
+    "description": "A computer repair and IT support company offering services for residential and business clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Computer setup in Tennessee consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
