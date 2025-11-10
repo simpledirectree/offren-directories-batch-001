@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Angela Todd Studios",
+    "address": "Portland, Oregon",
+    "phone": "503.208.2997",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://angelatoddstudios.com/",
+    "category": "Alaska-Native-owned Interior design in Oregon",
+    "description": "A boutique design firm creating exceptional interior and garden design for residences, hospitality spaces, and commercial properties",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Interior design in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Laurel Design Collective",
+    "address": "Portland, Oregon",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://laureldesigncollective.com/",
+    "category": "Alaska-Native-owned Interior design in Oregon",
+    "description": "A luxury interior design studio creating beautiful, sophisticated, lasting, and livable spaces for residential, commercial, and hospitality clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Interior design in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MAISON, INC.",
+    "address": "3032 NW Roosevelt, Portland, OR 97210",
+    "phone": "503-295-0151",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.maisoninc.com/",
+    "category": "Alaska-Native-owned Interior design in Oregon",
+    "description": "A full-service, luxury design studio known for its sophisticated, intuitive approach and technical expertise in creating beautifully classic and livable spaces",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Interior design in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Casework Interior Design",
+    "address": "Portland, OR",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://casework.design/",
+    "category": "Alaska-Native-owned Interior design in Oregon",
+    "description": "A firm focusing on modern residential and commercial interiors, including primary residences, second homes, condos, and commercial spaces",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Interior design in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jessica Helgerson Interior Design",
+    "address": "Portland, Oregon and Paris, France",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jessicahelgerson.com/",
+    "category": "Alaska-Native-owned Interior design in Oregon",
+    "description": "Creates beautiful and thoughtful place-based residential and hospitality interiors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Interior design in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Vanillawood Design Build",
+    "address": "Lake Oswego, Oregon",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://vanillawood.com/",
+    "category": "Alaska-Native-owned Interior design in Oregon",
+    "description": "Offers full-service design, build, and interior design, acting as licensed general contractors for remodels or custom homes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Interior design in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Design Bar Bend",
+    "address": "Bend, Oregon",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.designbarbend.com/",
+    "category": "Alaska-Native-owned Interior design in Oregon",
+    "description": "A luxury interior design firm known for its innovative approach to crafting personal and soulful spaces, specializing in residential and hospitality projects",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Interior design in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
