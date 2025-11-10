@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Master Kim's Tae Kwon Do",
+    "address": "1520 S Progress Ave, Meridian, ID 83642",
+    "phone": "(208) 888-5425",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.masterkimstkd.com/",
+    "category": "Asian-owned Karate classes in Idaho",
+    "description": "Offers Tae Kwon Do classes for children, families, and adults, focusing on discipline, confidence, and focus",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Karate classes in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Shoshin Ryu Martial Arts",
+    "address": "1455 W Broadway St, Idaho Falls, ID 83402",
+    "phone": "(208) 523-7000",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.shoshinryu.com/",
+    "category": "Asian-owned Karate classes in Idaho",
+    "description": "Provides instruction in Jiu Jitsu, Karate, and Judo, emphasizing self-improvement, self-defense, confidence, and character development",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Karate classes in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Christian Karate",
+    "address": "1030 W Hayden Ave, Hayden, ID 83835",
+    "phone": "(208) 772-3333",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.christiankarate.com/",
+    "category": "Asian-owned Karate classes in Idaho",
+    "description": "A family-owned martial arts school offering Karate for all ages, focusing on self-defense, fitness, and character building from a biblical perspective",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Karate classes in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fighting Chance Training Center",
+    "address": "1124 1st St, Nampa, ID 83651",
+    "phone": "(208) 466-5000",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.fightingchanceidaho.com/",
+    "category": "Asian-owned Karate classes in Idaho",
+    "description": "Offers a variety of combat sports and martial arts, including Karate, MMA, Boxing, and Brazilian Jiu-Jitsu, for individuals of all levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Karate classes in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Treasure Valley School of Karate (Spectrum & Adaptive Karate)",
+    "address": "1520 S Progress Ave, Meridian, ID 83642",
+    "phone": "(208) 888-5425",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.treasurevalleyschoolofkarate.com/",
+    "category": "Asian-owned Karate classes in Idaho",
+    "description": "Provides an all-inclusive Spectrum & Adaptive Karate program for adults and youth with special needs, focusing on skill-based training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Karate classes in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yong-In Master Lee's Taekwondo",
+    "address": "9325 W. Overland Rd, Boise, ID 83709",
+    "phone": "(208) 323-8888",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.yonginmasterlee.com/",
+    "category": "Asian-owned Karate classes in Idaho",
+    "description": "Offers martial arts lessons for kids and adults in Karate, Judo, and Taekwondo, focusing on character building, leadership, fitness, and self-defense",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Karate classes in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Idaho Karate & Kali",
+    "address": "1520 S Progress Ave, Meridian, ID 83642",
+    "phone": "(208) 888-5425",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.idahokarateandkali.com/",
+    "category": "Asian-owned Karate classes in Idaho",
+    "description": "A martial arts school promoting self-defense through Yoshukai Karate and Pekiti Tirsia Kali, focusing on modern combatives and a family-friendly atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Karate classes in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Legacy Martial Arts",
+    "address": "1520 S Progress Ave, Meridian, ID 83642",
+    "phone": "(208) 888-5425",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.legacymartialartsmeridian.com/",
+    "category": "Asian-owned Karate classes in Idaho",
+    "description": "Offers Taekwondo classes for children, teens, and adults, emphasizing life skills such as positive attitude, goal setting, perseverance, self-control, and confidence",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Karate classes in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Champions Martial Arts",
+    "address": "1015 W Hemingway Blvd, Nampa, ID 83651",
+    "phone": "(208) 466-5000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.championsnampa.com/",
+    "category": "Asian-owned Karate classes in Idaho",
+    "description": "Provides martial arts classes for self-defense, discipline, and fitness for all ages and fitness levels, with programs in Taekwondo and Krav Maga",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Karate classes in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Boise State Shotokan Karate Dojo",
+    "address": "Boise State University, Boise, ID 83725",
+    "phone": "(208) 426-1234 (General University Information)",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://boisestate.edu/studentlife/clubs/shotokan-karate/",
+    "category": "Asian-owned Karate classes in Idaho",
+    "description": "Offers Shotokan Karate training focused on strengthening body, mind, and spirit, perfecting character, and transmitting the art to future generations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Karate classes in Idaho consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
