@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Catholic Charities of Oregon",
+    "address": "2740 SE Powell Blvd, Portland, OR 97202",
+    "phone": "503-231-4866",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Charities+of+Oregon+in+Oregon",
+    "category": "Catholic-owned In-home personal care in Oregon",
+    "description": "Catholic Charities of Oregon offers a wide range of services, including Senior Services, which may encompass in-home support. They also provide case management, health-related services, and information/referrals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned In-home personal care in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
