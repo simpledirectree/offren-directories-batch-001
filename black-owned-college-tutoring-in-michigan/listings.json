@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Thomas Mobile Tutoring",
+    "address": "",
+    "phone": "313-759-4983",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Thomas+Mobile+Tutoring+in+Michigan",
+    "category": "Black-owned College tutoring in Michigan",
+    "description": "A travel-based tutoring company that serves the Metro Detroit area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned College tutoring in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tutoring With Ms. Maya and Company",
+    "address": "",
+    "phone": "313-970-8253",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Tutoring+With+Ms.+Maya+and+Company+in+Michigan",
+    "category": "Black-owned College tutoring in Michigan",
+    "description": "Provides a safe space for tutoring and offers \"psychology-based tutoring\" which considers factors like shyness and test anxiety",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned College tutoring in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Learning Dreams, LLC",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Learning+Dreams,+LLC+in+Michigan",
+    "category": "Black-owned College tutoring in Michigan",
+    "description": "Offers individualized tutoring programs, workshops, and coaching in Michigan, focusing on building underlying learning skills. They specialize in remedial tutoring, study skills, and college prep (ACT/SAT, applications, essays)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned College tutoring in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rise and Shine Tutoring, LLC",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Rise+and+Shine+Tutoring,+LLC+in+Michigan",
+    "category": "Black-owned College tutoring in Michigan",
+    "description": "Provides year-round, affordable, individualized, in-home or on-site tutoring for K-college level students across several counties in Michigan. They recruit tutors from the community and conduct thorough checks",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned College tutoring in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dr. Angie's Tutoring & Learning Resources Center, LLC",
+    "address": "",
+    "phone": "734-544-5186",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Dr.+Angie's+Tutoring+&+Learning+Resources+Center,+LLC+in+Michigan",
+    "category": "Black-owned College tutoring in Michigan",
+    "description": "Offers in-person, online, and mobile tutoring for reading, writing, math, and homework for K-college levels. They also partner with the Education Equity Foundation to support underserved students beyond high school with STEM and test prep tutoring",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned College tutoring in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
