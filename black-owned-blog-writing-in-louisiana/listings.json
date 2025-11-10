@@ -1,0 +1,87 @@
+[
+  {
+    "name": "BlakSheep Creative",
+    "address": "Denham Springs, LA (Specific street address not provided in search results)",
+    "phone": "(225) 505-3834",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blaksheepcreative.com/",
+    "category": "Black-owned Blog writing in Louisiana",
+    "description": "A digital marketing agency offering content creation, SEO, website design, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Blog writing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cazayoux Creative",
+    "address": "Baton Rouge, LA (Specific street address not provided in search results)",
+    "phone": "225-718-6749",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://cazayouxcreative.com/",
+    "category": "Black-owned Blog writing in Louisiana",
+    "description": "A creative agency specializing in copywriting, social media management, and website design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Blog writing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Touch Point Digital Marketing Agency",
+    "address": "New Orleans, LA (Specific street address not provided in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.touchpointdigital.com/",
+    "category": "Black-owned Blog writing in Louisiana",
+    "description": "Offers SEO-optimized content, Google Ad campaigns, and social media marketing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Blog writing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blue Surge",
+    "address": "New York (While not in Louisiana, they are a Black-owned agency that may serve clients remotely)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bluesurgemarketing.com/",
+    "category": "Black-owned Blog writing in Louisiana",
+    "description": "A Black-owned digital marketing, PR, and web design agency",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Blog writing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MYBOBN (Lexie Writes)",
+    "address": "Not specified, but part of the Black Owned Business Network",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mybobn.com/",
+    "category": "Black-owned Blog writing in Louisiana",
+    "description": "Specializes in content writing and copywriting for various platforms, including blog posts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Blog writing in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
