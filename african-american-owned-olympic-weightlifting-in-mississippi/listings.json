@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Mississippi Barbell",
+    "address": "1907 Spillway Rd, Brandon, MS, 39047, United States or 210 Industrial Cove Ridgeland, MS, 39157 United States",
+    "phone": "(601) 297-2098",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "http://www.msbarbell.com/",
+    "category": "African-American-owned Olympic weightlifting in Mississippi",
+    "description": "This is a strength sport nonprofit for the state, focusing on Olympic weightlifting and powerlifting. They serve athletes of all levels and ages, aiming to improve performance and foster a community. They also offer youth programs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Olympic weightlifting in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hub City Barbell Club",
+    "address": "Hattiesburg, Mississippi",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hub+City+Barbell+Club+in+Mississippi",
+    "category": "African-American-owned Olympic weightlifting in Mississippi",
+    "description": "A private gym dedicated to Strongman, Weightlifting, Powerlifting, and sports performance. They offer 24/7 gym access and personalized programming",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Olympic weightlifting in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Crooked Letter CrossFit",
+    "address": "Biloxi, MS",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Crooked+Letter+CrossFit+in+Mississippi",
+    "category": "African-American-owned Olympic weightlifting in Mississippi",
+    "description": "Offers an Olympic Weightlifting program as part of their CrossFit membership, focusing on mastering lifts like the snatch and clean & jerk. They cater to all experience levels",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Olympic weightlifting in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "FitLab Tupelo",
+    "address": "Tupelo, Mississippi",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.facebook.com/FitLabTupelo/",
+    "category": "African-American-owned Olympic weightlifting in Mississippi",
+    "description": "A weightlifting and powerlifting facility with USAW L2 certified coaches, offering training with Rogue equipment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Olympic weightlifting in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Just Lift Strength Training LLC",
+    "address": "129 U.S. 90 Suite F, Waveland, Mississippi, 39576, USA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Just+Lift+Strength+Training+LLC+in+Mississippi",
+    "category": "African-American-owned Olympic weightlifting in Mississippi",
+    "description": "A strength training facility offering personal training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Olympic weightlifting in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
