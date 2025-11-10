@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Frybread Mama's",
+    "address": "2700 State Street, Bismarck, North Dakota 58501",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.facebook.com/garrison.dairy.queen/",
+    "category": "Alaska-Native-owned Quick service in North-Dakota",
+    "description": "This establishment is known for its mouthwatering frybread, a Native American comfort food. They offer a range of toppings from savory to sweet, and the atmosphere is described as welcoming",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Quick service in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
