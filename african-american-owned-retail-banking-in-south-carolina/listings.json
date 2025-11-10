@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Optus Bank",
+    "address": "1107 Washington St, Columbia, SC 29201 (historical location, current main branch address is 1420 Main St, Columbia, SC 29201)",
+    "phone": "(803) 799-8916",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.optus.bank/",
+    "category": "African-American-owned Retail banking in South-Carolina",
+    "description": "Optus Bank, formerly Victory Savings Bank, was established in 1921 and is South Carolina's first and only Black-owned bank. It focuses on providing capital loans and financial services to marginalized communities and has received significant investment from larger banks to expand its lending capacity",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Retail banking in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
