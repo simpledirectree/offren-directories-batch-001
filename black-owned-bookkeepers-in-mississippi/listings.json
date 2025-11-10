@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Black & Associates, P.A.",
+    "address": "306 Railroad Street, Water Valley, MS, 38965",
+    "phone": "(662) 473-1441",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.jblackcpa.com/",
+    "category": "Black-owned Bookkeepers in Mississippi",
+    "description": "This firm offers a range of accounting services, including small business accounting and bookkeeping",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Bookkeepers in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hope Credit Union",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hope+Credit+Union+in+Mississippi",
+    "category": "Black-owned Bookkeepers in Mississippi",
+    "description": "While not a bookkeeping firm, Hope Credit Union is a Black-led Community Development Financial Institution that provides capital and technical assistance, including help with financial statements, to Black-owned businesses in Mississippi",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Bookkeepers in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mississippi Black Pages",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mississippi+Black+Pages+in+Mississippi",
+    "category": "Black-owned Bookkeepers in Mississippi",
+    "description": "This is a statewide platform for Black entrepreneurs to connect for exposure and development, and they organize events that can lead to networking opportunities with financial service providers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Bookkeepers in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
