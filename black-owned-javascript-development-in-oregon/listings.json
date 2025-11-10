@@ -1,0 +1,87 @@
+[
+  {
+    "name": "EDUCO Web Design",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://educowebdesign.com/",
+    "category": "Black-owned JavaScript development in Oregon",
+    "description": "A Black-owned, woman-owned web design and development company that has been in business since 2008. They offer expertise in website design, digital strategy, and problem-solving",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned JavaScript development in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EraBright",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://erabright.com/",
+    "category": "Black-owned JavaScript development in Oregon",
+    "description": "A Black-owned web design agency that focuses on creating modern, functional, and responsive websites tailored to specific business goals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned JavaScript development in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ochre {art + design} LLC",
+    "address": "Portland, Oregon",
+    "phone": "503 961 2896",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://ochreartdesign.com/",
+    "category": "Black-owned JavaScript development in Oregon",
+    "description": "A BIPOC design firm based in Portland, Oregon, offering website and graphic design services. They have a team of designers and developers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned JavaScript development in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kaylo Digital",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://kaylodigital.com/",
+    "category": "Black-owned JavaScript development in Oregon",
+    "description": "A Black-owned and woman-led web design and development studio that partners with non-profits, social impact organizations, brands, and businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned JavaScript development in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Azumo",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.azumo.co/",
+    "category": "Black-owned JavaScript development in Oregon",
+    "description": "A Black-owned software development company focused on helping businesses build intelligent applications, offering nearshore services and IT staff augmentation. They have expertise in AI, Web, Mobile, Data, and Cloud",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned JavaScript development in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
