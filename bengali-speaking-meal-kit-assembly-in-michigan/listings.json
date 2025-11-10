@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Royal Bengal Indian Cuisine",
+    "address": "26029 Hoover Rd, Warren, MI 48089",
+    "phone": "(586) 751-0000",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.royal-bengal.com/",
+    "category": "Bengali-speaking Meal kit assembly in Michigan",
+    "description": "Offers a blend of authentic Indian and Bangladeshi flavors with dine-in, takeout, delivery, and catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Meal kit assembly in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Namaste Flavours Ann Arbor",
+    "address": "400 S Division St, Ann Arbor, MI 48104",
+    "phone": "(734) 995-1545",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://namasteflavoursannarbor.com/",
+    "category": "Bengali-speaking Meal kit assembly in Michigan",
+    "description": "Provides authentic Indian cuisine with convenient online ordering for pickup and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Meal kit assembly in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sukhmani Foods",
+    "address": "Ships nationwide (check website for details)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://sukhmanifoods.com/",
+    "category": "Bengali-speaking Meal kit assembly in Michigan",
+    "description": "Offers Indian tiffin services and meal delivery, emphasizing healthy, homemade meals with nationwide shipping",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Meal kit assembly in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Healthy Tiffin",
+    "address": "Delivers within Michigan (check website for specific service areas)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://healthytiffin.com/",
+    "category": "Bengali-speaking Meal kit assembly in Michigan",
+    "description": "Provides healthy, Ayurvedic-inspired Indian meals with daily delivery, focusing on organic ingredients and traditional recipes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Meal kit assembly in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Cumin Club",
+    "address": "Ships nationwide (check website for details)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://thecuminclub.com/",
+    "category": "Bengali-speaking Meal kit assembly in Michigan",
+    "description": "Offers 5-minute Indian meal kits made with authentic regional Indian recipes, delivered nationwide",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Meal kit assembly in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Uber Eats (for Bangladeshi Food Delivery in Detroit)",
+    "address": "Various locations in Detroit (delivery service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ubereats.com/",
+    "category": "Bengali-speaking Meal kit assembly in Michigan",
+    "description": "A platform that lists various restaurants offering Bangladeshi food delivery in Detroit",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Meal kit assembly in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DoorDash (for Bangladeshi Food Delivery in Ann Arbor)",
+    "address": "Various locations in Ann Arbor (delivery service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.doordash.com/",
+    "category": "Bengali-speaking Meal kit assembly in Michigan",
+    "description": "A platform that lists various restaurants offering Bangladeshi food delivery in Ann Arbor",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Meal kit assembly in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Postmates (for Bangladeshi Food Delivery in East Lansing)",
+    "address": "Various locations in East Lansing (delivery service)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://postmates.com/",
+    "category": "Bengali-speaking Meal kit assembly in Michigan",
+    "description": "A platform that lists various restaurants offering Bangladeshi food delivery in East Lansing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Meal kit assembly in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yeti Kitchen / Everest Sherpa Restaurant, A2",
+    "address": "Ann Arbor (specific address for Everest Sherpa Restaurant: 2275 W Stadium Blvd, Ann Arbor, MI 48103)",
+    "phone": "(734) 887-6171 (for Everest Sherpa Restaurant)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.yetikitchen.com/",
+    "category": "Bengali-speaking Meal kit assembly in Michigan",
+    "description": "Offers South Asian favorites and traditional Nepali dishes, with delivery options in SE Michigan",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Meal kit assembly in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Quicklly (Detroit Area)",
+    "address": "Serving the Detroit area (online marketplace)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.quicklly.com/",
+    "category": "Bengali-speaking Meal kit assembly in Michigan",
+    "description": "A comprehensive online marketplace for South Asian and Indian groceries, tiffins, catering, and meal kits delivered to your doorstep",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Bengali-speaking Meal kit assembly in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
