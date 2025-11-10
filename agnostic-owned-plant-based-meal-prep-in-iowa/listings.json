@@ -1,0 +1,172 @@
+[
+  {
+    "name": "New World Kitchen",
+    "address": "The Back Lot of the Mickle Center, Des Moines, IA",
+    "phone": "(515) 257-6789",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.newworldkitchendm.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Iowa",
+    "description": "Offers small-batch vegan meal prep and products, focusing on whole food ingredients. They provide pick-up and delivery options in the Des Moines metro area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Nourished DSM",
+    "address": "4119 University Avenue, Des Moines, IA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nourisheddsm.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Iowa",
+    "description": "Provides fresh, healthy, ready-made vegan and vegetarian dishes, including soups, salads, and more. They emphasize convenience and healthy, high-protein options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Fire Dept. Meals",
+    "address": "Serves Ames, IA and Iowa City, IA with delivery. Specific physical address for operations not provided",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.firedeptmeals.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Iowa",
+    "description": "Offers plant-based meal delivery with a new menu each week, catering to various dietary needs including vegan, keto, and low-sodium. They handle planning, prepping, and cooking",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Conscious Farm Kitchen",
+    "address": "Not specified, but offers delivery",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theconsciousfarmkitchen.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Iowa",
+    "description": "A sustainable prepared meal delivery service using 100% organic, plant-based, and locally sourced ingredients. Their menu changes seasonally and weekly",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Prep to Table",
+    "address": "Multiple pick-up locations in the Quad Cities area (Bettendorf, Geneseo, Rock Island, Moline), and delivery",
+    "phone": "(563) 223-8487",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://preptotable.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Iowa",
+    "description": "An organic, gluten-free meal prep service with plant-based options. They offer delivery and pick-up at various locations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "City Girl Farming",
+    "address": "Dubuque, IA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.citygirlfarming.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Iowa",
+    "description": "An organic farm offering prepared meal delivery, with vegan and gluten-free options. They emphasize sustainability and local sourcing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Full Bowl",
+    "address": "120 10th Ave SE, Cedar Rapids, IA 52401",
+    "phone": "(319) 320-8243",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://thefullbowl.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Iowa",
+    "description": "Offers vegetarian and vegan dishes, with most of their menu being vegan and gluten-free. They have a new location in Cedar Rapids",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Viva Fit Kitchen",
+    "address": "1001 South 6th Street, Council Bluffs, IA 51501",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://vivafitkitchen.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Iowa",
+    "description": "Provides meal prep with vegan and vegetarian options available, offering pick-up or delivery in the Omaha and Council Bluffs area",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Clean Slate Food Co.",
+    "address": "Serves Nebraska (Omaha, Lincoln, Columbus, Beatrice) with delivery. Specific Iowa locations not listed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cleanslatefood.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Iowa",
+    "description": "Offers plant-based and omnivorous meal delivery, with a focus on cuisine-driven, minimally processed, and sustainable meals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sprinly",
+    "address": "Delivers nationwide, including Iowa. No specific Iowa physical location listed",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sprinly.com/",
+    "category": "Agnostic-owned Plant-based meal prep in Iowa",
+    "description": "Offers chef-inspired, nutritionist-approved organic meals that are 100% plant-based and delivered fresh weekly. They are ready to eat in 3 minutes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Plant-based meal prep in Iowa consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
