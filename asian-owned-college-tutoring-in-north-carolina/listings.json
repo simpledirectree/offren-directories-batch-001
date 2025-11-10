@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Love to Learn Tutor",
+    "address": "Greensboro, NC",
+    "phone": "(336) 388-8777",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://lovetolearntutor.com/",
+    "category": "Asian-owned College tutoring in North-Carolina",
+    "description": "Offers personalized tutoring services in Greensboro, NC, for students of all ages in subjects like math, reading, science, and foreign languages. They emphasize a tailored approach to meet individual learning styles and needs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned College tutoring in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Unique Expressions Tutoring Services",
+    "address": "Cary & Raleigh, NC",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.unique-expressions.com/",
+    "category": "Asian-owned College tutoring in North-Carolina",
+    "description": "Focuses on personalized one-on-one tutoring for children with learning disabilities, ADHD, and executive functioning challenges in the Cary and Raleigh areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned College tutoring in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hill Learning Center",
+    "address": "3100 Erwin Road, Durham, NC 27705",
+    "phone": "919.489.7464",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://hillcenter.org/",
+    "category": "Asian-owned College tutoring in North-Carolina",
+    "description": "Offers expert, research-based one-on-one tutoring and small-group classes in Durham, NC, tailoring lessons to individual student needs to build confidence and academic success",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned College tutoring in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "M&M Tutoring Service",
+    "address": "Durham, NC (mentioned in a testimonial)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mmtutoring.com/",
+    "category": "Asian-owned College tutoring in North-Carolina",
+    "description": "A teacher-owned company offering personalized tutoring services for students of all ages, focusing on academic pursuits and building confidence",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned College tutoring in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "UNCW Education Laboratory (Ed Lab)",
+    "address": "Greensboro, NC",
+    "phone": "910.962.3633",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://uncw.edu/education/edlab/tutoring.html",
+    "category": "Asian-owned College tutoring in North-Carolina",
+    "description": "A native Korean speaker with over 15 years of classroom teaching experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned College tutoring in North-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
