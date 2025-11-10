@@ -1,0 +1,172 @@
+[
+  {
+    "name": "ComfortCare Homes - Wichita",
+    "address": "245 N. Waco, Suite 220, Wichita, Kansas 67203",
+    "phone": "(316) 685-3322",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://comfortcarehomes.com/",
+    "category": "Baby-Boomer-owned Dementia care in Kansas",
+    "description": "Provides residential dementia care in a home-like setting, focusing on quality care, individual engagement, safety, and security",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Dementia care in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ComfortCare Homes - Newton",
+    "address": "1504 Terrace Drive, Newton, Kansas 67114",
+    "phone": "(316) 804-7220",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://comfortcarehomes.com/",
+    "category": "Baby-Boomer-owned Dementia care in Kansas",
+    "description": "Offers innovative memory care and Alzheimer's care in a residential setting, aiming to raise the standard for dementia care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Dementia care in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SeniorCare Homes - Overland Park",
+    "address": "Multiple locations in Overland Park, KS (specific addresses vary by house, e.g., Nantucket House, Waveny House)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.seniorcarehomes.com/",
+    "category": "Baby-Boomer-owned Dementia care in Kansas",
+    "description": "Provides a comfortable and stable assisted living environment for seniors with dementia, memory loss, Alzheimer's, and Parkinson's diseases in small residential homes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Dementia care in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Benton House of Lenexa",
+    "address": "9400 Quivira Rd, Lenexa, KS 66215",
+    "phone": "(913) 890-3500",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.bentonhouse.com/locations/lenexa/",
+    "category": "Baby-Boomer-owned Dementia care in Kansas",
+    "description": "Highly regarded for its compassionate staff, intimate and clean environment, personalized care plans, and engaging activities for memory care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Dementia care in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Brookdale Shawnee",
+    "address": "11400 West 65th Street, Shawnee, KS 66203",
+    "phone": "(913) 270-7410",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.brookdale.com/en/communities/brookdale-shawnee.html",
+    "category": "Baby-Boomer-owned Dementia care in Kansas",
+    "description": "A well-regarded memory care facility known for its compassionate staff, strong sense of community, and engaging activities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Dementia care in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chisholm Place",
+    "address": "1859 N. Webb Road, Wichita, KS 67206",
+    "phone": "(316) 685-1111",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.chisholmplace.com/",
+    "category": "Baby-Boomer-owned Dementia care in Kansas",
+    "description": "A compassionate memory care facility known for attentive staff, engaging activities, and a supportive community atmosphere",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Dementia care in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Avita Senior Living",
+    "address": "1500 N Rock Road, Wichita, KS 67206",
+    "phone": "(316) 685-0241",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://avita-seniorliving.com/",
+    "category": "Baby-Boomer-owned Dementia care in Kansas",
+    "description": "Praised for its compassionate staff, engaging activities, and clean, well-maintained environment for memory care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Dementia care in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Parkwest",
+    "address": "505 North Maize Road, Wichita, KS 67212",
+    "phone": "(316) 721-1100",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.parkwestwichita.com/",
+    "category": "Baby-Boomer-owned Dementia care in Kansas",
+    "description": "Offers a welcoming, home-like atmosphere with compassionate staff and engaging activities, though some improvements in weekend staffing have been noted",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Dementia care in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Golden Boomers Home Plus",
+    "address": "6953 E Kentford Circle, Wichita, KS 67207",
+    "phone": "(888) 319-7682",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.goldenboomershomeplus.com/",
+    "category": "Baby-Boomer-owned Dementia care in Kansas",
+    "description": "A privately operated senior living community offering personalized care and comfort in a safe, secure home setting for up to eight residents",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Dementia care in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Touching Hearts at Home - Central Kansas",
+    "address": "Serving Central Kansas and surrounding areas. Specific office address not readily available, but services are provided in-home",
+    "phone": "(316) 202-3400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.touchinghearts.com/centralkansas/",
+    "category": "Baby-Boomer-owned Dementia care in Kansas",
+    "description": "Provides compassionate in-home dementia care for individuals with Alzheimer's and dementia, focusing on personalized care and support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Dementia care in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
