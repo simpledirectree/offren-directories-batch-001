@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Studio of the Americas",
+    "address": "Tyler Perry Studios, 7100 Southlake Parkway, Atlanta, GA 30349",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Studio+of+the+Americas+in+Georgia",
+    "category": "American-Indian-owned 2D animation in Georgia",
+    "description": "Studio of the Americas is the first full-service Native American-owned film and television studio. It focuses on producing films and TV shows that tell Native American stories and aims to increase Native American representation in the media. The studio also partners with the Georgia Film Academy to train Native American talent for the film industry",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned 2D animation in Georgia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
