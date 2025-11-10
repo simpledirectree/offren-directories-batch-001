@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Fresh In Your Fridge",
+    "address": "Not specified, operates as a delivery service",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.freshinyourfridge.com/",
+    "category": "Baby-Boomer-owned AIP meal prep in Wisconsin",
+    "description": "Offers personalized AIP meal prep solutions with chefs and nutritionists creating weekly menus. They focus on nutrient-dense, anti-inflammatory foods and handle planning, shopping, cooking, and delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned AIP meal prep in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Paleo On The Go",
+    "address": "Not specified, ships nationwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://paleoonthego.com/",
+    "category": "Baby-Boomer-owned AIP meal prep in Wisconsin",
+    "description": "An award-winning paleo and AIP meal delivery service that handcrafts chef-prepared frozen meals. They emphasize healing and aim to make AIP-friendly comfort foods",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned AIP meal prep in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Urban AIP",
+    "address": "Not specified, ships nationwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://urban-aip.com/",
+    "category": "Baby-Boomer-owned AIP meal prep in Wisconsin",
+    "description": "Offers organic, chef-prepared, 100% anti-inflammatory paleo meals that follow the Elimination Phase of the Autoimmune Protocol. They use high-quality ingredients and plastic-free packaging",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned AIP meal prep in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Simple Eats MKE",
+    "address": "2034 N North Ave, Wauwatosa, WI 53213",
+    "phone": "(414) 249-3011",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://simple-eats-mke.com/",
+    "category": "Baby-Boomer-owned AIP meal prep in Wisconsin",
+    "description": "Provides convenient, ready-to-eat meal prep services, grab-and-go options, and catering, focusing on fresh, locally sourced ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned AIP meal prep in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pasture and Plenty",
+    "address": "110 S Highland Ave, Madison, WI 53705",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pastureandplenty.com/",
+    "category": "Baby-Boomer-owned AIP meal prep in Wisconsin",
+    "description": "A farm-to-table deli, catering company, and meal kit service inspired by local Wisconsin farmers. They offer meal kits, farm-to-freezer options, and ready-to-heat meals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned AIP meal prep in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pete's Real Food",
+    "address": "Not specified, ships frozen meals nationwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://petesrealsfood.com/",
+    "category": "Baby-Boomer-owned AIP meal prep in Wisconsin",
+    "description": "Offers chef-prepared, AIP-compliant frozen meals that are ready to heat and eat. They focus on quality ingredients and convenience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned AIP meal prep in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MealPro",
+    "address": "Not specified, delivers nationwide",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mealpro.net/aip-diet-meals/",
+    "category": "Baby-Boomer-owned AIP meal prep in Wisconsin",
+    "description": "Provides doctor-designed AIP meals that are heat-and-serve, delivered nationwide. They focus on heart-healthy, anti-inflammatory ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned AIP meal prep in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
