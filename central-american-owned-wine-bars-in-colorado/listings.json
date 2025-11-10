@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Vin Rouge Wine Bar and Tasting Room",
+    "address": "216 E 13th Ave, Denver, CO 80203",
+    "phone": "(303) 534-1970",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.vinrouge.wine/",
+    "category": "Central-American-owned Wine bars in Colorado",
+    "description": "An intimate venue with boutique, organic wines, craft beers, and delicious nibbles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Wine bars in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "My Cellar Wine Bar",
+    "address": "321 E Costilla St, Colorado Springs, CO 80903",
+    "phone": "(719) 424-7207",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.mycellarwinebar.com/",
+    "category": "Central-American-owned Wine bars in Colorado",
+    "description": "An upscale wine bar with live music, local art displays, and a patio with mountain views",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Wine bars in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Taste and Savor",
+    "address": "3581 E Harmony Rd Suite 130, Fort Collins, CO 80528",
+    "phone": "(970) 698-6639",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.tasteandsavor.com/",
+    "category": "Central-American-owned Wine bars in Colorado",
+    "description": "A boutique wine bar offering sommelier-led tastings, seasonal cocktails, and curated flights",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Wine bars in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Trellis Wine Bar",
+    "address": "4615 E 23rd Ave, Denver, CO 80220",
+    "phone": "(303) 355-8466",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.trelliswine.com/",
+    "category": "Central-American-owned Wine bars in Colorado",
+    "description": "A locally-owned wine bar passionate about wines from small, sustainable producers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Wine bars in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cork & Cask",
+    "address": "60 E Moreno Ave, Colorado Springs, CO 80903",
+    "phone": "(719) 247-1457",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.corkandcask.com/",
+    "category": "Central-American-owned Wine bars in Colorado",
+    "description": "An upscale whiskey and wine bar in an antique trolley warehouse with plush velvet seating and gothic-inspired decor",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Wine bars in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Uva Wine Bar",
+    "address": "102 N Tejon St, Colorado Springs, CO 80903",
+    "phone": "(719) 634-8282",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://uvawinebar.com/",
+    "category": "Central-American-owned Wine bars in Colorado",
+    "description": "A wine bar offering stunning views, a romantic atmosphere, and knowledgeable staff",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Wine bars in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wines of Colorado",
+    "address": "8030 W US-24, Cascade, CO 80809",
+    "phone": "(719) 685-7428",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://winesofcolorado.com/",
+    "category": "Central-American-owned Wine bars in Colorado",
+    "description": "Located at the base of Pikes Peak, offering creekside dining and a passion for Colorado wines, beers, and spirits",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Wine bars in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Barcelona Wine Bar",
+    "address": "2900 Larimer St, Denver, CO 80205",
+    "phone": "(303) 816-3300",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://barcelonawinebar.com/location/denver/",
+    "category": "Central-American-owned Wine bars in Colorado",
+    "description": "A warm and welcoming tapas bar inspired by the culture of Spain, with an award-winning selection of wines from Spain and South America",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Wine bars in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cafe Vino",
+    "address": "1200 S College Ave, Fort Collins, CO 80524",
+    "phone": "(970) 472-5454",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.cafevino.com/",
+    "category": "Central-American-owned Wine bars in Colorado",
+    "description": "Offers over 200 wines in a casual yet classy atmosphere, with decadent desserts and local craft brews",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Wine bars in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "El Tamarindo",
+    "address": "7700 E Colfax Ave, Denver, CO 80220",
+    "phone": "(303) 320-5490",
+    "rating": 4.3,
+    "reviews": 25,
+    "website": "https://eltamarindorestaurant.com/",
+    "category": "Central-American-owned Wine bars in Colorado",
+    "description": "A cozy restaurant serving a mix of Central American food, including pupusas and garnachas, perfect to pair with beers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Wine bars in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
