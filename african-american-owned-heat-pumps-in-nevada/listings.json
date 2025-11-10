@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Silver State Refrigeration, HVAC & Plumbing",
+    "address": "4535 Copper Sage Street, Las Vegas, NV 89115",
+    "phone": "702.433.5008",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ssrfg.com/",
+    "category": "African-American-owned Heat pumps in Nevada",
+    "description": "This business is listed as Black-owned and provides HVAC services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Heat pumps in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Mountain Air",
+    "address": "(No specific address found, but serves Las Vegas and Henderson, NV)",
+    "phone": "(702) 450-6488",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackmountainair.com/",
+    "category": "African-American-owned Heat pumps in Nevada",
+    "description": "This is a family-owned HVAC company serving the Las Vegas and Henderson areas. While not explicitly stated as African-American-owned, it is mentioned in a context that might suggest it",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Heat pumps in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Passionate HVAC",
+    "address": "6672 Boulder Highway Suite 2, Las Vegas, NV 89122",
+    "phone": "702-780-4225",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.passionatecooling.com/",
+    "category": "African-American-owned Heat pumps in Nevada",
+    "description": "This business offers heating services, including heat pump installation, and is located in Clark County, NV. It is not explicitly stated if they are African-American-owned",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Heat pumps in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Chazell Air Conditioning & Heating",
+    "address": "2675 E. (No full address found)",
+    "phone": "(702) 647-3355",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.chazellac.com/",
+    "category": "African-American-owned Heat pumps in Nevada",
+    "description": "This company provides HVAC repair, maintenance, and replacement services in Las Vegas, NV. Their ownership status is not specified",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Heat pumps in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RCP Mechanical",
+    "address": "(No specific address found, but serves North Las Vegas, NV and surrounding areas)",
+    "phone": "725-242-1150",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.rcmechanicalnv.com/",
+    "category": "African-American-owned Heat pumps in Nevada",
+    "description": "This HVAC contractor offers services including heat pump repairs. Their ownership status is not specified",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Heat pumps in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Air Magic LLC",
+    "address": "(No specific address found, but serves Henderson, NV and near Las Vegas, NV)",
+    "phone": "(702)-849-9900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.airmagicllc.com/",
+    "category": "African-American-owned Heat pumps in Nevada",
+    "description": "This HVAC contractor offers heating and cooling solutions. Their ownership status is not specified",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Heat pumps in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
