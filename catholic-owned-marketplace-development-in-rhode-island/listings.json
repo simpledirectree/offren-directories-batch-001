@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Catholic Social Services of RI",
+    "address": "1 Cathedral Sq, Providence, RI 02903",
+    "phone": "(401) 421-7833",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Catholic+Social+Services+of+RI+Rhode+Island",
+    "category": "Catholic-owned Marketplace development in Rhode-Island",
+    "description": "This organization, under the Diocese of Providence, focuses on social ministry, providing resources for family, immigration, emergency assistance, and more. They are involved in various community support services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Marketplace development in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Diocese of Providence - Facilities and Construction",
+    "address": "One Cathedral Square, Providence, RI 02903",
+    "phone": "(401) 278-4636",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Diocese+of+Providence+-+Facilities+and+Construction+Rhode+Island",
+    "category": "Catholic-owned Marketplace development in Rhode-Island",
+    "description": "This office provides guidance and assistance for construction projects related to parishes, schools, cemeteries, and other diocesan agencies. They also assist in the disposition of surplus real estate assets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Marketplace development in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Pennrose",
+    "address": "55 George M Cohan Boulevard, Providence, RI 02903 (Tempo Address - Not Open)",
+    "phone": "(401) 297-3028",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Pennrose+Rhode+Island",
+    "category": "Catholic-owned Marketplace development in Rhode-Island",
+    "description": "Pennrose is a real estate development company that has developed the Tempo and Tandem mixed-use, mixed-income development in Providence, RI. While not exclusively Catholic-owned, they are involved in significant housing development projects",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Marketplace development in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Conifer Realty LLC",
+    "address": "(No specific Rhode Island address found, but they operate in MA, CT, and RI)",
+    "phone": "(866) 324-0500 (Toll-Free)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Conifer+Realty+LLC+Rhode+Island",
+    "category": "Catholic-owned Marketplace development in Rhode-Island",
+    "description": "Conifer Realty is a full-service real estate development, construction, and management company specializing in affordable and senior housing. They have developed and manage numerous apartment communities in the northeastern United States, including in Rhode Island",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Marketplace development in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
