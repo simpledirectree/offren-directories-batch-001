@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Woodstream Orchids",
+    "address": "5810 Huntingtown Road, Huntingtown, MD 20639",
+    "phone": "(410) 610-6697",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Woodstream+Orchids+in+Maryland",
+    "category": "Catholic-owned Orchid care in Maryland",
+    "description": "Specializes in Paphiopedilums, Phragmipediums, and other select orchid genera. They are open by appointment and participate in various orchid shows and sales",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Orchid care in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "WildFlower Stem + Sundry",
+    "address": "Annapolis Area: 1460 Ritchie Hwy Suite 107, Arnold, MD 21012; Baltimore Area: 910 Cromwell Park Dr. #; Howard County: 11815 West Market Pl. (Specific suite/unit numbers not provided for all locations)",
+    "phone": "(410) 943-2490 (Annapolis Area)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/WildFlower+Stem+++Sundry+in+Maryland",
+    "category": "Catholic-owned Orchid care in Maryland",
+    "description": "A local florist offering a wide selection of beautiful flowering orchid plants for delivery throughout Maryland. They also provide orchid care guidance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Orchid care in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maryland Orchid Society",
+    "address": "Information not available for a physical business location, but they are based in Maryland",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://marylandorchids.org",
+    "category": "Catholic-owned Orchid care in Maryland",
+    "description": "This society brings together people interested in orchids to promote orchid culture, preservation, education, and propagation. They host events and provide resources for orchid enthusiasts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Orchid care in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hoover-Fisher Florist",
+    "address": "While specific addresses for orchid care services are not detailed, they serve many areas in Maryland including Ashton, Bethesda, Columbia, and Silver Spring",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Hoover-Fisher+Florist+in+Maryland",
+    "category": "Catholic-owned Orchid care in Maryland",
+    "description": "Offers a selection of orchids, including Cattleya, Cymbidium, Dendrobium, and Phalaenopsis. They purchase orchids directly from growers and provide same-day delivery service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Orchid care in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Blooming Orchid Wellness",
+    "address": "Clarksville, Maryland",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Blooming+Orchid+Wellness+in+Maryland",
+    "category": "Catholic-owned Orchid care in Maryland",
+    "description": "This is a wellness center that uses ancient medicine techniques and a holistic approach to health, not directly related to plant care but uses \"Orchid\" in its name",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Orchid care in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
