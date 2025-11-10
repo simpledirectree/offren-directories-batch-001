@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Century Business Technologies",
+    "address": "401 S.W. 30th St., Topeka, KS 66611",
+    "phone": "785-267-4555",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.centurybiztech.com/",
+    "category": "Armenian-speaking Database management in Kansas",
+    "description": "Offers data management services, including analysis, design, and reporting, to help organizations maintain critical information for operations and reporting requirements",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Database management in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Keene Systems",
+    "address": "(Serves Kansas City, MO and surrounding areas)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.keenesystems.com/",
+    "category": "Armenian-speaking Database management in Kansas",
+    "description": "Provides database developer services, custom web application development, and IT support, focusing on streamlining operations and automating processes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Database management in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Prodjex",
+    "address": "(Serves Kansas City, MO and surrounding areas)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://prodjex.com/",
+    "category": "Armenian-speaking Database management in Kansas",
+    "description": "Specializes in structured database design, SQL expertise, and database management tools to create secure and reliable systems for businesses",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Database management in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Red9",
+    "address": "(Serves Kansas City, MO)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.red9.com/",
+    "category": "Armenian-speaking Database management in Kansas",
+    "description": "Offers expert SQL Server consulting services, including performance tuning, database management, and 24/7 support, with senior-level DBAs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Database management in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ScaleSQL Consulting",
+    "address": "(Serves Kansas City, Wichita, Topeka, and surrounding areas)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.scalesql.com/",
+    "category": "Armenian-speaking Database management in Kansas",
+    "description": "Focuses on SQL Server consulting, performance tuning, database monitoring, maintenance, and scalability issues, with a goal to make data usable as it grows",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Database management in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Support Kansas City",
+    "address": "(Serves Kansas City)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.supportkc.org/",
+    "category": "Armenian-speaking Database management in Kansas",
+    "description": "Provides database management services tailored for nonprofits, focusing on organizing, maintaining, and analyzing data for better decision-making",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Database management in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Corporate Technologies",
+    "address": "(Serves various locations in Kansas, including Wichita, Lawrence, Kansas City, Olathe)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.corptel.com/",
+    "category": "Armenian-speaking Database management in Kansas",
+    "description": "Offers managed IT services, cybersecurity, cloud services, and IT consulting to businesses across Kansas, ensuring technology runs securely and efficiently",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Database management in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Progent",
+    "address": "(Serves Kansas City, MO)",
+    "phone": "1-800-993-9400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.progent.com/",
+    "category": "Armenian-speaking Database management in Kansas",
+    "description": "Provides Microsoft-authorized SQL Server consulting services for system architecture, DBA services, integration, security, and migration",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Database management in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hitachi Vantara",
+    "address": "(Serves Kansas)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hitachivantara.com/",
+    "category": "Armenian-speaking Database management in Kansas",
+    "description": "Offers data management solutions, IT infrastructure, and hybrid cloud services, focusing on data resilience and optimizing data throughout its lifecycle",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Database management in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gach Consulting Services",
+    "address": "(Serves Kansas City, MO)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.gachconsulting.com/",
+    "category": "Armenian-speaking Database management in Kansas",
+    "description": "An IT service company providing network server support, PC support, data protection, and troubleshooting services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Database management in Kansas consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
