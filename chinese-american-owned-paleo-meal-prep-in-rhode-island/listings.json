@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Naked Foods RI",
+    "address": "611 Waterman Avenue, East Providence, RI, USA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.nakedfoodsri.com/",
+    "category": "Chinese-American-owned Paleo meal prep in Rhode-Island",
+    "description": "Offers meal prep, grab-and-go meals, and a fitness meal program. They emphasize healthy, fresh food",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Paleo meal prep in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Feast & Fettle",
+    "address": "Serving Rhode Island, Massachusetts, Connecticut, Maine, New Hampshire, New York, and New Jersey. Specific Rhode Island address not provided in search",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.feastandfettle.com/",
+    "category": "Chinese-American-owned Paleo meal prep in Rhode-Island",
+    "description": "A local meal delivery service with prepared meals made by professional chefs, using fresh, seasonal produce and sustainable proteins. They offer options for various household sizes and no commitments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Paleo meal prep in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MightyMeals",
+    "address": "Delivers to Providence, RI, including Federal Hill, College Hill, and Fox Point. Specific physical location in RI not provided",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mightymeals.com/",
+    "category": "Chinese-American-owned Paleo meal prep in Rhode-Island",
+    "description": "Offers ready-to-eat meals delivered to your doorstep in Providence, RI. They provide dietary plans including gluten-free, low carb, and vegan/vegetarian options, and emphasize chef-prepared meals from high-quality, fresh ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Paleo meal prep in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "VP Meal",
+    "address": "Made local in Rhode Island. Specific address not provided",
+    "phone": "(401) 854-5980",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vpmatrix.com/",
+    "category": "Chinese-American-owned Paleo meal prep in Rhode-Island",
+    "description": "Offers customizable meal preps with a focus on fresh, non-processed, and portion-controlled meals. The chef, Vicki Phann, prepares meals personally",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Paleo meal prep in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Savory Fare",
+    "address": "Main Location in Warren, Rhode Island",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.savoryfareinc.com/",
+    "category": "Chinese-American-owned Paleo meal prep in Rhode-Island",
+    "description": "A local meal prep service offering custom-prep, gluten-free, Paleo, and plant-based options with local delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Paleo meal prep in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
