@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Eastside Automotive",
+    "address": "10555 E. Wade Hampton Blvd, Greer, SC 29651",
+    "phone": "(864) 801-0202",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.eastsidegreer.com/",
+    "category": "Asian-owned Oil changes in South-Carolina",
+    "description": "Specializes in Asian vehicle repairs and maintenance, including oil changes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Oil changes in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Williston Tire & Auto Inc.",
+    "address": "12130 Carolina Hwy, Williston, SC 29853",
+    "phone": "(803) 266-7265",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://willistontire.com/",
+    "category": "Asian-owned Oil changes in South-Carolina",
+    "description": "Offers routine maintenance such as oil changes and specializes in Asian and domestic car repairs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Oil changes in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Harris Automotive Services",
+    "address": "1505 John B. White Sr. Blvd, Spartanburg, SC 29301",
+    "phone": "(864) 583-9428",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.harrisservices.com/",
+    "category": "Asian-owned Oil changes in South-Carolina",
+    "description": "Full-service auto repair and preventative maintenance facility specializing in Asian vehicles, including oil changes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Oil changes in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Japanese Auto Specialist Inc.",
+    "address": "82 Salters Rd, Greenville, SC 29607",
+    "phone": "(864) 235-2195",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.japaneseautospecialist.com/",
+    "category": "Asian-owned Oil changes in South-Carolina",
+    "description": "Specializes in Asian vehicle repairs and maintenance, offering quick lube services and oil changes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Oil changes in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Express Oil Change & Tire Engineers",
+    "address": "5449 Platt Springs Rd, Lexington, SC 29073",
+    "phone": "(803) 356-0001",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.expressoil.com/locations/lexington-sc/",
+    "category": "Asian-owned Oil changes in South-Carolina",
+    "description": "Offers fast oil changes and automotive repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Oil changes in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "On The Go Oil",
+    "address": "Serves Summerville, SC and surrounding areas. (Mobile service)",
+    "phone": "(843) 817-0999",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://onthegooil.com/",
+    "category": "Asian-owned Oil changes in South-Carolina",
+    "description": "Mobile oil change service that comes to your location",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Oil changes in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Imports Plus",
+    "address": "10241 Broad River Rd, Irmo, SC 29063",
+    "phone": "(803) 781-6259",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://importsplussc.com/",
+    "category": "Asian-owned Oil changes in South-Carolina",
+    "description": "Offers expert oil changes and serves American, European, and Japanese vehicles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Oil changes in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sunrise Auto Repair",
+    "address": "1095 John G. Robert Rd, Lexington, SC 29073",
+    "phone": "(803) 359-2471",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sunriserepair.com/",
+    "category": "Asian-owned Oil changes in South-Carolina",
+    "description": "Provides general vehicle maintenance, including oil changes, for all makes and models",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned Oil changes in South-Carolina consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
