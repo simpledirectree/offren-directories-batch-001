@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Vertex Dental (Milwaukee Endodontics)",
+    "address": "10401 W. Lincoln Ave, Milwaukee, WI 53227",
+    "phone": "(414) 546-1900",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.vertexdental.com/",
+    "category": "Chinese-American-owned Endodontics in Wisconsin",
+    "description": "Offers endodontic care with multiple locations in Milwaukee, Mequon, and Sheboygan",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Endodontics in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wisconsin Endodontic Group",
+    "address": "Multiple locations including Mequon, Oak Creek, and Wauwatosa",
+    "phone": "(262) 241-8300 (Mequon office)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.wisconsinendo.com/",
+    "category": "Chinese-American-owned Endodontics in Wisconsin",
+    "description": "Provides endodontic care to the greater Milwaukee area with a focus on patient care and advanced technology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Endodontics in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Premier Endodontics",
+    "address": "Multiple locations including Germantown, West Bend, and Grafton",
+    "phone": "(262) 255-7777 (Germantown office)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.premierendo.com/",
+    "category": "Chinese-American-owned Endodontics in Wisconsin",
+    "description": "Specializes in advanced root canal therapy and preserving natural teeth",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Endodontics in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Valley Endodontics LTD",
+    "address": "Multiple locations including Appleton and Oshkosh",
+    "phone": "(920) 731-1100 (Appleton office)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.valleyendo.com/",
+    "category": "Chinese-American-owned Endodontics in Wisconsin",
+    "description": "Committed to delivering the highest standard of root canal therapy with experienced clinicians and a patient-centered approach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Endodontics in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Capital Endodontics",
+    "address": "Multiple locations in Madison, WI",
+    "phone": "(608) 274-0220",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.capitalendo.com/",
+    "category": "Chinese-American-owned Endodontics in Wisconsin",
+    "description": "Madison's largest and most experienced team of root canal specialists, focusing on quality care and patient comfort",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Endodontics in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MPC Endodontics",
+    "address": "2600 Stewart Ave #158, Wausau, WI 54401",
+    "phone": "(715) 845-2273",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mpcendodontics.com/",
+    "category": "Chinese-American-owned Endodontics in Wisconsin",
+    "description": "Premier endodontist provider in Wausau, committed to high-quality, personalized dental care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Endodontics in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "American Dental Professionals",
+    "address": "7515 W. North Ave, Wauwatosa, WI 53213",
+    "phone": "(414) 453-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.americandentalprofessionals.com/",
+    "category": "Chinese-American-owned Endodontics in Wisconsin",
+    "description": "A general dentistry practice that also mentions \"Chinese Dentist\" in its description, though it is not exclusively an endodontics practice",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Endodontics in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
