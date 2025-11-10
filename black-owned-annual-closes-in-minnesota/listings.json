@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Afro Deli & Grill",
+    "address": "5 W 7th Place, St. Paul, MN 55102",
+    "phone": "(651) 222-0304",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.afrodeli.com/",
+    "category": "Black-owned Annual closes in Minnesota",
+    "description": "Offers a variety of African and American cuisine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Annual closes in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Black Garnet Books",
+    "address": "1319 University Ave W, St Paul, MN 55104",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.blackgarnetbooks.com/",
+    "category": "Black-owned Annual closes in Minnesota",
+    "description": "A bookstore specializing in contemporary literature and non-fiction by BIPOC authors",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Annual closes in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mama Sheila's House of Soul",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mama+Sheila's+House+of+Soul+in+Minnesota",
+    "category": "Black-owned Annual closes in Minnesota",
+    "description": "A soul food eatery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Annual closes in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Angelea's Soul Food Kitchen",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Angelea's+Soul+Food+Kitchen+in+Minnesota",
+    "category": "Black-owned Annual closes in Minnesota",
+    "description": "A family-run soul food restaurant",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Annual closes in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Soul Bowl",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Soul+Bowl+in+Minnesota",
+    "category": "Black-owned Annual closes in Minnesota",
+    "description": "Offers customizable soul food bowls",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Annual closes in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gear Bags Plus",
+    "address": "Roseville, MN (Online shop)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://gearbagsplus.com/",
+    "category": "Black-owned Annual closes in Minnesota",
+    "description": "Specializes in high-quality sports bags for outdoor activities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Annual closes in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Penumbra Theatre",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Penumbra+Theatre+in+Minnesota",
+    "category": "Black-owned Annual closes in Minnesota",
+    "description": "A theater company that creates space for African American voices on stage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Annual closes in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New Dawn Theatre",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/New+Dawn+Theatre+in+Minnesota",
+    "category": "Black-owned Annual closes in Minnesota",
+    "description": "A theater that spotlights voices from minority, women, and LGBTQ+ playwrights",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Annual closes in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New Rules",
+    "address": "North Minneapolis, MN",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/New+Rules+in+Minnesota",
+    "category": "Black-owned Annual closes in Minnesota",
+    "description": "A community workspace with an event space and marketplace",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Annual closes in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Get Down Coffee Co.",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Get+Down+Coffee+Co.+in+Minnesota",
+    "category": "Black-owned Annual closes in Minnesota",
+    "description": "A coffee company that roasts and sells its own coffee",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Annual closes in Minnesota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
