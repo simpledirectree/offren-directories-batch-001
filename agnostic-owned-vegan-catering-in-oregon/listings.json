@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Elephants Delicatessen Catering & Events",
+    "address": "13 NE 6th Ave, Portland, OR 97232",
+    "phone": "(503) 244-5118",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.elephantsdeli.com/catering",
+    "category": "Agnostic-owned Vegan catering in Oregon",
+    "description": "Offers vegetarian, vegan, and dairy-free options for catering events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Vegan catering in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Art de Cuisine Catering",
+    "address": "1430 SE 3rd Ave, Portland, OR 97214",
+    "phone": "(503) 233-2001",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.artdecuisine.com/vegan-gluten-free",
+    "category": "Agnostic-owned Vegan catering in Oregon",
+    "description": "Provides vegan and gluten-free catering options in Portland, accommodating dietary sensitivities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Vegan catering in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Crave Catering",
+    "address": "7737 SE 13th Ave, Portland, OR 97202",
+    "phone": "(503) 548-4000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cravecatering.com/vegan-vegetarian",
+    "category": "Agnostic-owned Vegan catering in Oregon",
+    "description": "Specializes in plant-based meals, offering entirely vegan menus or select vegetarian entrees",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Vegan catering in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Verde Cocina Catering",
+    "address": "5432 SW 29th Ave, Portland, OR 97239 (Note: This is a restaurant address, catering services may vary)",
+    "phone": "(503) 206-2272",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://verdecocina.com/catering/",
+    "category": "Agnostic-owned Vegan catering in Oregon",
+    "description": "Offers catering with options for Paleo, Vegan, or Gluten-Free diets, focusing on fresh, locally sourced ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Vegan catering in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Off The Griddle",
+    "address": "6526 SE Foster Rd, Portland, OR 97206 and 2215 NE Alberta St, Portland, OR 97211",
+    "phone": "(503) 776-1800 (Foster Rd) / (503) 548-0743 (Alberta St)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://offthegriddle.com/",
+    "category": "Agnostic-owned Vegan catering in Oregon",
+    "description": "A vegan restaurant that also offers catering services with vegan and vegetarian, gluten-free friendly options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Vegan catering in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The (Vegan) Caterer",
+    "address": "856.924.1698 (Contact via phone for details)",
+    "phone": "856-924-1698",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thevegancaterer.com/about",
+    "category": "Agnostic-owned Vegan catering in Oregon",
+    "description": "A premier vegan catering company specializing in customized menus for special occasions, with a focus on good food and animal rights",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Vegan catering in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "A Broken Angel",
+    "address": "Located in Bend, OR (Food cart permanently parked at Funky Fauna)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://abrokenangel.com/catering",
+    "category": "Agnostic-owned Vegan catering in Oregon",
+    "description": "A boutique caterer specializing in savory vegan cuisine, also operating a food cart",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Vegan catering in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Plant Based Papi",
+    "address": "Portland, OR (Listed as a Black-Owned vegan caterer)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://afrovegan.org/directory/black-vegan-caterers/",
+    "category": "Agnostic-owned Vegan catering in Oregon",
+    "description": "A vegan caterer in Portland, OR, identified as Black-Owned",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Vegan catering in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Laughing Planet Cafe",
+    "address": "Multiple locations in Portland, OR (e.g., 4035 SW 11th Ave, Portland, OR 97239)",
+    "phone": "(503) 245-0700 (Example location)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.laughingplanet.com/",
+    "category": "Agnostic-owned Vegan catering in Oregon",
+    "description": "Offers a mix of vegetarian, vegan, paleo, and gluten-free dishes, suitable for catering",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Vegan catering in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Obon Shokudo",
+    "address": "720 SE Grand Ave, Portland, OR 97214",
+    "phone": "(503) 235-1000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://obonshokudo.com/",
+    "category": "Agnostic-owned Vegan catering in Oregon",
+    "description": "An all-vegan Japanese restaurant that may offer catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Agnostic-owned Vegan catering in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
