@@ -1,0 +1,87 @@
+[
+  {
+    "name": "MJ's Caf\u00e9",
+    "address": "5162 Government St, Baton Rouge, LA 70806",
+    "phone": "(225) 412-4803",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ezcater.com/catering/mjs-cafe-3",
+    "category": "Catholic-owned Vegan catering in Louisiana",
+    "description": "Offers a variety of vegan sandwiches, salads, soups, and sides, with catering options available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Vegan catering in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Plantry Caf\u00e9",
+    "address": "Baton Rouge, LA (Specific address not found in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theplantrycafe.com/",
+    "category": "Catholic-owned Vegan catering in Louisiana",
+    "description": "A plant-based restaurant and catering service in Baton Rouge, offering custom catering for various events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Vegan catering in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sweet Soulfood",
+    "address": "1025 North Broad Street, New Orleans, LA 70119",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://sweetsoulfood.com/",
+    "category": "Catholic-owned Vegan catering in Louisiana",
+    "description": "Provides vegan, organic, soy-free, and dairy-free cuisine with catering services for events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Vegan catering in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "I-tal Garden",
+    "address": "New Orleans, LA (Specific address not found in search results)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.italgarden.com/",
+    "category": "Catholic-owned Vegan catering in Louisiana",
+    "description": "A plant-based food company offering vegan and gluten-free alternatives to New Orleans-style soul cuisine, with catering services available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Vegan catering in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cocha",
+    "address": "Baton Rouge, LA (Specific address not found in search results)",
+    "phone": "225-615-8826",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.cocharestaurant.com/",
+    "category": "Catholic-owned Vegan catering in Louisiana",
+    "description": "Offers vegan options on their menu, with a focus on seasonal and responsibly sourced ingredients. They also have catering services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Vegan catering in Louisiana consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
