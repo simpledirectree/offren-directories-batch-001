@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Columbia Savings & Loan Association",
+    "address": "2020 W. Fond du Lac Ave, Milwaukee, WI",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Columbia+Savings+&+Loan+Association+in+Wisconsin",
+    "category": "African-American-owned Treasury services in Wisconsin",
+    "description": "Founded in 1924, Columbia Savings & Loan Association is Wisconsin's only Black-owned bank, focused on serving Milwaukee's Black and underserved communities by providing financial services such as savings accounts, loans, and mortgages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Treasury services in Wisconsin consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
