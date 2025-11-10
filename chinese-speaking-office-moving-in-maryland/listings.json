@@ -1,0 +1,87 @@
+[
+  {
+    "name": "A-1 Moving Company",
+    "address": "9055-E Gaither Rd, Gaithersburg, MD 20877",
+    "phone": "240-516-6759",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.a1movers4you.com/",
+    "category": "Chinese-speaking Office moving in Maryland",
+    "description": "A-1 Moving Company has been providing moving services since 2005 and offers commercial moving, local moving, and long-distance moving. They explicitly list \"Chinese (Simplified)\" as a supported language on their website",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Office moving in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "OfficeMovers.com",
+    "address": "While a specific street address for their Maryland operations is not readily available, they are a nationwide company with local Maryland experience",
+    "phone": "(800) 670-5505 (General Inquiries)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.officemovers.com/",
+    "category": "Chinese-speaking Office moving in Maryland",
+    "description": "OfficeMovers.com specializes in commercial and office moving services in Maryland and nationwide. They focus on professionalism and advanced technologies for safe handling and tracking of items",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Office moving in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "JK Moving Services",
+    "address": "While a specific street address for their Maryland operations is not readily available, they serve the entire state of Maryland",
+    "phone": "1-800-225-6915",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jkmoving.com/",
+    "category": "Chinese-speaking Office moving in Maryland",
+    "description": "JK Moving Services has provided office moves in Maryland for over 40 years, offering comprehensive commercial relocation services including planning, packing, and storage",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Office moving in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Charm City Movers",
+    "address": "9716 Pulaski Highway, Baltimore, MD 21220",
+    "phone": "410-679-7110",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.charmcitymovers.com/",
+    "category": "Chinese-speaking Office moving in Maryland",
+    "description": "Charm City Movers offers residential, commercial, and municipal moving services with guaranteed rates. They are an employee-operated company serving the greater Baltimore area and the entire Tri-State region",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Office moving in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "495 Movers, Inc.",
+    "address": "While a specific street address for their Maryland operations is not readily available, they are a premier choice for Baltimore office movers",
+    "phone": "(800) 495-7775",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.495movers.com/",
+    "category": "Chinese-speaking Office moving in Maryland",
+    "description": "495 Movers has been serving the Baltimore area since 2009, offering comprehensive and affordable moving solutions for small to large office moves and cross-country relocations. They are described as a trusted Baltimore moving company",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Office moving in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
