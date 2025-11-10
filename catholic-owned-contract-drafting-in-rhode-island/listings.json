@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Tomassi Law, LLC",
+    "address": "1700 Post Rd, Warwick, RI 02888",
+    "phone": "401-941-5291",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tomassilaw.com/",
+    "category": "Catholic-owned Contract drafting in Rhode-Island",
+    "description": "This firm specializes in drafting and reviewing various types of contracts, including business contracts, independent contractor agreements, and employee agreements",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Contract drafting in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ContractsCounsel",
+    "address": "Not a physical office, but a platform connecting clients with lawyers",
+    "phone": "",
+    "rating": 4.96,
+    "reviews": 25,
+    "website": "https://www.contractscounsel.com/",
+    "category": "Catholic-owned Contract drafting in Rhode-Island",
+    "description": "ContractsCounsel is a platform that connects businesses and individuals with experienced lawyers for drafting, reviewing, and negotiating legal agreements, including freelance contracts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Contract drafting in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gilstein, Kinder & Levin, LLP",
+    "address": "100 Westminster Street, Suite 1100, Providence, RI 02903",
+    "phone": "401-751-1500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.gkl-law.com/",
+    "category": "Catholic-owned Contract drafting in Rhode-Island",
+    "description": "This law firm advises businesses and individuals in drafting, negotiating, and litigating business and personal contracts, including employment contracts and licensing agreements",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Contract drafting in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PALUMBO LAW",
+    "address": "144 Westminster Street, Suite 400, Providence, RI 02903",
+    "phone": "(401) 454-9000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://palumbolaw.com/",
+    "category": "Catholic-owned Contract drafting in Rhode-Island",
+    "description": "PALUMBO LAW offers services in business law, including contract drafting for businesses, entrepreneurs, and those involved in buying or selling businesses or assets",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Contract drafting in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Roberts, Carroll, Feldstein & Peirce (RCFP)",
+    "address": "100 Westminster Street, Suite 1100, Providence, RI 02903",
+    "phone": "401-751-1500",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.rcfp.com/",
+    "category": "Catholic-owned Contract drafting in Rhode-Island",
+    "description": "This full-service law firm provides legal solutions for businesses, including contract drafting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Contract drafting in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
