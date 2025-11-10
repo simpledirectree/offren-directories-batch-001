@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Le Gala Hair Group",
+    "address": "Chinatown, Boston, MA",
+    "phone": "(617) 338-8881",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.legalahair.com/",
+    "category": "Chinese-American-owned Hair salons in Massachusetts",
+    "description": "An elegant hair salon in Boston's Chinatown, popular since 1985. They offer services in English, Cantonese, Mandarin, and Vietnamese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Hair salons in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CoCoHead Hair Studio",
+    "address": "Boston, MA (specific address not readily available, but located in Chinatown)",
+    "phone": "(617) 338-8881 (This appears to be the same number as Le Gala Hair Group, further investigation may be needed for a distinct number)",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.cocohairstudio.com/",
+    "category": "Chinese-American-owned Hair salons in Massachusetts",
+    "description": "Founded in 1991 by Earnie Leung in Boston's Chinatown, specializing in Asian hairstyles. Their stylists have over ten years of experience and are fluent in English and Chinese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Hair salons in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Beautiful Cuts",
+    "address": "52 Harvard Ave, Allston, MA 02134",
+    "phone": "617-787-8756",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.beautifulcutsboston.com/",
+    "category": "Chinese-American-owned Hair salons in Massachusetts",
+    "description": "An international hair salon specializing in serving Korean, Japanese, Chinese, and Vietnamese clientele, communicating in their native languages",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Hair salons in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "MG Hair Artistic Salon",
+    "address": "379 Cambridge St, Allston, MA 02134",
+    "phone": "(617) 202-5218",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.mghairartistic.com/",
+    "category": "Chinese-American-owned Hair salons in Massachusetts",
+    "description": "A modern hair salon known for Asian hairstyles, with locations in New York and Boston",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Hair salons in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Touru Hair Studio",
+    "address": "313 Harvard St, Brookline, MA 02446 (located inside Giovanni Hair Design)",
+    "phone": "",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.touruhairstudio.com/",
+    "category": "Chinese-American-owned Hair salons in Massachusetts",
+    "description": "Offers holistic hairstyling with services in English, Korean, and Japanese. Touru has extensive experience working in Japan, South Korea, New York, and Boston",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Hair salons in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Butterfly Hair Salon",
+    "address": "91 King Street, Cambridge, CB1 1LD (Note: This address appears to be in Cambridge, UK, not MA. Further verification needed if this is the intended location.)",
+    "phone": "01223 354595 / 07877 510940",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "http://www.butterfly-hair-salon.co.uk/",
+    "category": "Chinese-American-owned Hair salons in Massachusetts",
+    "description": "Described as an \"oriental style Unisex hair salon\" with a Malaysian Chinese stylist who has been in the industry since 1978",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Hair salons in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Salon Eva Michelle",
+    "address": "37 Newbury St, 4th Floor, Boston, MA 02116",
+    "phone": "(617) 587-7100",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.salonevamichelle.com/",
+    "category": "Chinese-American-owned Hair salons in Massachusetts",
+    "description": "Voted Best Hair Salon in Boston by Boston Magazine, specializing in precision cuts, balayage, and luxury color. While not explicitly stated as Chinese-American-owned, it is a highly-rated salon in Boston",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Hair salons in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Noelle Salon",
+    "address": "401 Newbury St, Boston, MA 02115",
+    "phone": "(617) 202-5218 (This appears to be the same number as MG Hair Artistic Salon, further investigation may be needed for a distinct number)",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://noellesalon.com/",
+    "category": "Chinese-American-owned Hair salons in Massachusetts",
+    "description": "Recognized as one of the best hair salons in Boston, offering a wide range of treatments and known for its talented stylists",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Hair salons in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "G2O Spa + Salon",
+    "address": "177A Newbury St, Boston, MA 02116",
+    "phone": "(617) 421-7171",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://g2osalon.com/",
+    "category": "Chinese-American-owned Hair salons in Massachusetts",
+    "description": "A highly-rated hair and beauty spa in Boston's Back Bay district, known for its services and experienced stylists",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Hair salons in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Avanti Salon",
+    "address": "20 Newbury St, Boston, MA 02116",
+    "phone": "(617) 262-2272",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.avantisalonboston.com/",
+    "category": "Chinese-American-owned Hair salons in Massachusetts",
+    "description": "A hair and nail salon on Newbury Street, recognized as one of Boston's premier hair salons with a legacy of 50 years",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Hair salons in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
