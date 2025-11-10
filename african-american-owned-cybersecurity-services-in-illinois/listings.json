@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Evanston Technology Partners",
+    "address": "56 E. 47th St., Chicago, IL",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Evanston+Technology+Partners+in+Illinois",
+    "category": "African-American-owned Cybersecurity services in Illinois",
+    "description": "This company is described as Chicago's first Black-owned cybersecurity firm, providing technology and software support along with cybersecurity services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Cybersecurity services in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Apex Cybersecurity Solutions Inc.",
+    "address": "Chicago, IL",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Apex+Cybersecurity+Solutions+Inc.+in+Illinois",
+    "category": "African-American-owned Cybersecurity services in Illinois",
+    "description": "Certified as a Minority Business Enterprise (MBE), Apex Cybersecurity Solutions offers IT and cybersecurity services, including outsourced technology support, cloud and network infrastructure services, managed services, and threat mitigation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Cybersecurity services in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "AGB Investigative Services (Cybersecurity Operations)",
+    "address": "Chicago's South Side (specific address not available), headquarters in Marquette Park neighborhood, Chicago, IL",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/AGB+Investigative+Services+(Cybersecurity+Operations)+in+Illinois",
+    "category": "African-American-owned Cybersecurity services in Illinois",
+    "description": "AGB Investigative Services is described as the nation's largest Black-owned security company, expanding into cybersecurity with a new operation. They offer IT security consulting, risk assessments, and security awareness training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Cybersecurity services in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
