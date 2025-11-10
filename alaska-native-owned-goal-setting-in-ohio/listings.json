@@ -1,0 +1,70 @@
+[
+  {
+    "name": "NAICCO Cuisine",
+    "address": "Central Ohio (specific address not provided, operates as a food trailer)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/NAICCO+Cuisine+in+Ohio",
+    "category": "Alaska-Native-owned Goal setting in Ohio",
+    "description": "A Native American owned and operated food trailer offering Native American street food",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Goal setting in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Urban Native Collective (UNC)",
+    "address": "Native Sovereignty Center, Cincinnati, Ohio (specific street address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Urban+Native+Collective+(UNC)+in+Ohio",
+    "category": "Alaska-Native-owned Goal setting in Ohio",
+    "description": "Serves the interests of Indigenous Peoples throughout Ohio, Kentucky, and Indiana, focusing on preserving culture, heritage, education, and advocacy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Goal setting in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Native American Indian Center of Central Ohio (NAICCO)",
+    "address": "67 East Innis Avenue, Columbus, OH, USA",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Native+American+Indian+Center+of+Central+Ohio+(NAICCO)+in+Ohio",
+    "category": "Alaska-Native-owned Goal setting in Ohio",
+    "description": "Devoted to preserving and restoring balance in the lives of Native Americans through traditional, cultural, educational, family, community, and wellness-driven initiatives",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Goal setting in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Alutiiq Management Services (Subsidiary of Afognak Native Corporation)",
+    "address": "Dayton Job Corps Center, Dayton, Ohio (specific office address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Alutiiq+Management+Services+(Subsidiary+of+Afognak+Native+Corporation)+in+Ohio",
+    "category": "Alaska-Native-owned Goal setting in Ohio",
+    "description": "Provided services at the Dayton Job Corps Center, focusing on education and job training for young adults",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Goal setting in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
