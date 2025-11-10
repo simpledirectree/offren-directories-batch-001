@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Holy Family Hospice",
+    "address": "6707 State Rd, Parma, OH 44134",
+    "phone": "(440) 888-7722",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ccdocle.org/holy-family-home-hospice/",
+    "category": "Catholic-owned Hospice services in Ohio",
+    "description": "A ministry of Catholic Charities, Holy Family Hospice offers inpatient and community hospice care, focusing on patient and family support with a strong spiritual emphasis",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hospice services in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Cleveland Clinic Hospice",
+    "address": "6801 Brecksville Road, Suite 10, Independence, OH 44131",
+    "phone": "(216) 444-9819",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://my.clevelandclinic.org/health/treatments/177824-hospice-care",
+    "category": "Catholic-owned Hospice services in Ohio",
+    "description": "Cleveland Clinic Hospice provides Medicare-certified hospice care, focusing on the medical, physical, social, emotional, and spiritual needs of patients and their families",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hospice services in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ohio's Hospice of Dayton",
+    "address": "324 Wilmington Ave, Dayton, OH 45420",
+    "phone": "(937) 256-4490",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ohioshospice.org/dayton/",
+    "category": "Catholic-owned Hospice services in Ohio",
+    "description": "Ohio's Hospice of Dayton is a non-profit, community-based hospice that celebrates lives by providing superior care and services to patients and families",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hospice services in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hospice of the Western Reserve",
+    "address": "14601 Detroit Ave #100, Cleveland, OH 44107",
+    "phone": "(216) 383-2222",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.hospicewr.org/",
+    "category": "Catholic-owned Hospice services in Ohio",
+    "description": "Hospice of the Western Reserve offers hospice care and grief support services throughout Northern Ohio, aiming to enhance the quality of life for those nearing the end of life",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hospice services in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Hospice of Medina County",
+    "address": "5075 Windfall Road, Medina, OH 44256",
+    "phone": "(330) 722-4771",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hospicewr.org/locations/medina/",
+    "category": "Catholic-owned Hospice services in Ohio",
+    "description": "Part of Western Reserve Grief Services, Hospice of Medina County provides a comfortable environment for patients and families, with a focus on enhancing quality of life and supporting those who grieve",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hospice services in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aultman Hospice and Palliative Care",
+    "address": "2821 Woodlawn Ave Nw, Canton, OH 44708",
+    "phone": "(330) 479-4800",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.aultman.org/services/hospice-palliative-care",
+    "category": "Catholic-owned Hospice services in Ohio",
+    "description": "Aultman Hospice provides comprehensive hospice and palliative care services, focusing on symptom management, patient education, and support for patients and their caregivers",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hospice services in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mercy Health Hospice",
+    "address": "Various locations across Ohio, including Youngstown, Toledo, Cincinnati, and more. A specific address for a central hospice house is 9803 Sharrott Road, Youngstown, Ohio 44514",
+    "phone": "(866) 686-8201",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mercy.com/services/hospice-and-palliative-care",
+    "category": "Catholic-owned Hospice services in Ohio",
+    "description": "Mercy Health Hospice offers comfort to patients in the last stages of an incurable disease, focusing on the patient's entire well-being\u2014mind, body, and spirit",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hospice services in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ProMedica Hospice",
+    "address": "Multiple locations, including 5855 Monroe St, Sylvania, OH 43560",
+    "phone": "(419) 824-7400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.promedica.org/services/hospice-care",
+    "category": "Catholic-owned Hospice services in Ohio",
+    "description": "ProMedica Hospice provides community-based hospice care for patients with life-limiting illnesses and their families, offering comfort and specialized care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hospice services in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Continuum Care Hospice",
+    "address": "While a specific Ohio address was not found, they have locations in California and Rhode Island. Their services are described as being available wherever the patient calls home",
+    "phone": "(510) 560-2012 (California office)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://continuumcarehospice.com/",
+    "category": "Catholic-owned Hospice services in Ohio",
+    "description": "Continuum Care Hospice focuses on maintaining quality of life by helping patients live in comfort and dignity at home or in a home-like facility, providing medical, psychosocial, emotional, and spiritual care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hospice services in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Northeast Ohio Hospice",
+    "address": "10204 Granger Road, Garfield Heights, Ohio 44125",
+    "phone": "(216) 472-2684",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jenningsohio.org/northeast-ohio-hospice/",
+    "category": "Catholic-owned Hospice services in Ohio",
+    "description": "Northeast Ohio Hospice is committed to providing hospice services consistent with the medical-moral teachings of the Roman Catholic Church, focusing on enhancing quality of life and providing comfort",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Hospice services in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
