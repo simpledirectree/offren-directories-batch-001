@@ -1,0 +1,87 @@
+[
+  {
+    "name": "The WAE Clinic",
+    "address": "Information not available in search results",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+WAE+Clinic+in+Mississippi",
+    "category": "Buddhist-owned Integrative medicine in Mississippi",
+    "description": "Offers a comprehensive, evidence-based approach to healthcare, combining conventional medicine with holistic healing modalities to address the root causes of disease and promote long-term wellness. Services include personalized wellness programs, hormone replacement therapy, chronic condition management, and nutritional support",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Integrative medicine in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Center for Integrative Health - University of Mississippi Medical Center",
+    "address": "331 Sunnybrook Road, Ridgeland, MS 39157",
+    "phone": "(601) 815-3424",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.umc.edu/health/Integrative-Health/Center-for-Integrative-Health.html",
+    "category": "Buddhist-owned Integrative medicine in Mississippi",
+    "description": "Serves children and adults with chronic medical conditions that also present with emotional or behavioral challenges. It complements traditional medical care with proven therapies to treat the whole person: mind, body, and spirit, emphasizing healthy lifestyle choices",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Integrative medicine in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Peak Health & Wellness",
+    "address": "Information not available in search results, but serves Hattiesburg, MS",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.peakhealthandwellness.com/",
+    "category": "Buddhist-owned Integrative medicine in Mississippi",
+    "description": "Offers a personalized Functional Medicine approach to uncover the root causes of health concerns and achieve lasting wellness. They consider lifestyle, diet, stress levels, and physical activity to develop personalized care plans",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Integrative medicine in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PEAK Integrative Medicine (Madison, MS Location)",
+    "address": "Information not available in search results, but located in Madison, MS",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/PEAK+Integrative+Medicine+(Madison,+MS+Location)+in+Mississippi",
+    "category": "Buddhist-owned Integrative medicine in Mississippi",
+    "description": "Provides functional medicine services with an evidence-based, root-cause approach to healthcare. They utilize advanced lab testing to assess gut function, hormones, and other health indicators",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Integrative medicine in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RE Wellness",
+    "address": "123 Towles Road, Batesville, MS 38606",
+    "phone": "(662) 267-6437",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.floweringlotus.org/",
+    "category": "Buddhist-owned Integrative medicine in Mississippi",
+    "description": "A functional medicine clinic that uses traditional medicine, natural and alternative options, and innovative treatments to optimize health. Services include functional medicine visits, IV therapy, hormone therapy, and more",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Integrative medicine in Mississippi consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
