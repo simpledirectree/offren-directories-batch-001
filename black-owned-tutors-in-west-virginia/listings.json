@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Jamie Dickenson Tutoring Services",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jamiedickenson.com/",
+    "category": "Black-owned Tutors in West-Virginia",
+    "description": "Offers tutoring for students in grades K-12 in all subjects, with virtual and in-person options. They also provide academic evaluations, study skills, and life coaching",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Tutors in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "BLACK and Education",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/BLACK+and+Education+West+Virginia",
+    "category": "Black-owned Tutors in West-Virginia",
+    "description": "Offers tutoring for students in grades 3-12 in subjects like math, science, social studies, language arts, and reading",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Tutors in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "TutorWV (powered by Tutor.com)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tutor.com/wv",
+    "category": "Black-owned Tutors in West-Virginia",
+    "description": "Provides free, personalized tutoring, test prep, and job search assistance to all West Virginians. Available daily from 10 a.m. to 10 p.m",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Tutors in West-Virginia consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
