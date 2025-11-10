@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Jau-Shin Lou, MD",
+    "address": "2301 25th St. S. Fargo, North Dakota 58103",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sanfordhealth.org/doctors/jau-shin-lou-md",
+    "category": "Chinese-speaking Neurologists in North-Dakota",
+    "description": "Dr. Jau-Shin Lou practices neurology and treats conditions such as neuromuscular diseases, neuropathy, and myopathy. He is the Roger Gilbertson Endowed Chair in Neurology at UND School of Medicine and Health Sciences and Sanford Health. He speaks English and Chinese (Taiwanese)",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Neurologists in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jade Screen Clinic",
+    "address": "Bismarck, North Dakota",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Jade+Screen+Clinic+North+Dakota",
+    "category": "Chinese-speaking Neurologists in North-Dakota",
+    "description": "This clinic offers Traditional Chinese Medicine modalities including Acupuncture, Moxibustion, Cupping, Guasha, Electro-acupuncture, and Chinese Herbs",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Neurologists in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
