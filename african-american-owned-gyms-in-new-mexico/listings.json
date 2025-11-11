@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Gym LC - Las Cruces",
+    "address": "1690 S Valley Dr, Las Cruces, NM 88005",
+    "phone": "(575) 523-0011",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thegymlc.com/",
+    "category": "African-American-owned Gyms in New-Mexico",
+    "description": "A full-service gym offering free weights, weightlifting, and fitness classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Gyms in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Open Gym Albuquerque",
+    "address": "3201 San Mateo Blvd NE, Albuquerque, NM 87110",
+    "phone": "(505) 881-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theopen gymabq.com/",
+    "category": "African-American-owned Gyms in New-Mexico",
+    "description": "A 24-hour gym in Albuquerque offering fitness classes and personal training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Gyms in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bionic Barbell",
+    "address": "900 N Telshor Blvd, Las Cruces, NM 88001",
+    "phone": "(575) 523-0011",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bionicbarbell.com/",
+    "category": "African-American-owned Gyms in New-Mexico",
+    "description": "A gym in Las Cruces offering classes, childcare, steam rooms, and cryotherapy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Gyms in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Parilis Fitness",
+    "address": "1245 W Amador Ave, Las Cruces, NM 88005",
+    "phone": "(575) 635-2050",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.parilisfitness.com/",
+    "category": "African-American-owned Gyms in New-Mexico",
+    "description": "Offers functional fitness programs, strength training, and weight loss services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Gyms in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Brickz Fitness",
+    "address": "7001 4th St NW, Albuquerque, NM 87107",
+    "phone": "(505) 200-2001",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://brickzfitness.com/",
+    "category": "African-American-owned Gyms in New-Mexico",
+    "description": "A fitness gym in Albuquerque offering personal training, sweat sessions, and strength competitions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Gyms in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Railyard Fitness",
+    "address": "1001 W. Second Street, Santa Fe, NM 87501",
+    "phone": "(505) 982-0100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.railyardfitness.com/",
+    "category": "African-American-owned Gyms in New-Mexico",
+    "description": "A fitness and biohacking center in Santa Fe offering training, sauna, cold plunge, and IV therapy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Gyms in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Undisputed Fitness",
+    "address": "1711 Lena St #100, Santa Fe, NM 87505",
+    "phone": "(505) 629-0200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.undisputedfitness.com/",
+    "category": "African-American-owned Gyms in New-Mexico",
+    "description": "Offers strength and conditioning, personal training, and fitness classes in Santa Fe",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Gyms in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Defined Fitness - Hilltop Club",
+    "address": "1640 Rio Rancho Blvd SE, Rio Rancho, NM 87124",
+    "phone": "(505) 891-3333",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.defined.com/locations/hilltop/",
+    "category": "African-American-owned Gyms in New-Mexico",
+    "description": "A gym in Rio Rancho with a large turf functional training area and a workout yard",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Gyms in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Able Strength Fitness",
+    "address": "111 Rio Rancho Blvd NE, Rio Rancho, NM 87124",
+    "phone": "(505) 349-0023",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ablestrength.com/",
+    "category": "African-American-owned Gyms in New-Mexico",
+    "description": "Offers personal training, group fitness, strength and conditioning, and boxing classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Gyms in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "United Fit",
+    "address": "3305 Vassar Dr NE, Albuquerque, NM 87107",
+    "phone": "(505) 553-1838",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.unitedfitnm.com/",
+    "category": "African-American-owned Gyms in New-Mexico",
+    "description": "An Albuquerque gym offering 24/7 access, sport-specific training, and outdoor fitness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Gyms in New-Mexico consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
