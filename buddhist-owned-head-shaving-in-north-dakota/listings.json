@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Broadway Centre Spa & Salon",
+    "address": "2200 E Bismarck Expy Ste 101, Bismarck, ND 58503",
+    "phone": "(701) 223-4111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "http://www.broadwaycentrespa.com/",
+    "category": "Buddhist-owned Head shaving in North-Dakota",
+    "description": "Offers a variety of men's grooming services, including head shaves",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Head shaving in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Men's Hair Co.",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://menshairco.com/",
+    "category": "Buddhist-owned Head shaving in North-Dakota",
+    "description": "Provides haircuts, shaves, and other grooming services for men",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Head shaving in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lax Haircare",
+    "address": "2551 45th St S, #129, Fargo, ND 58104",
+    "phone": "(701) 532-1746",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://laxhair.com/",
+    "category": "Buddhist-owned Head shaving in North-Dakota",
+    "description": "A luxury barbershop offering haircuts, beard grooming, and straight razor shaves",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Head shaving in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "ManCave For Men",
+    "address": "Williston, North Dakota (and other states)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mancaveformen.com/",
+    "category": "Buddhist-owned Head shaving in North-Dakota",
+    "description": "Offers a range of men's grooming services, including head shaves",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Head shaving in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Kut-N-Shave Barbershop",
+    "address": "2311 Elk Drive, Minot, ND 58701",
+    "phone": "(480) 969-7852",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://kut-n-shave-barbershop.square.site/",
+    "category": "Buddhist-owned Head shaving in North-Dakota",
+    "description": "A full-service barbershop offering services like hot towel shaves and haircuts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Buddhist-owned Head shaving in North-Dakota consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
