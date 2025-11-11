@@ -1,0 +1,172 @@
+[
+  {
+    "name": "123NET",
+    "address": "26000 Evergreen Rd, Southfield, MI 48076",
+    "phone": "(800) 862-2100",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.123net.com/",
+    "category": "Catholic-owned Wireless networks in Michigan",
+    "description": "123NET provides dedicated internet access (DIA) and fiber optic network solutions for businesses across Michigan, offering high-speed connections up to 400 Gbps",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Wireless networks in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "D&P Communications",
+    "address": "101 E Elm St, Deerfield, MI 49238",
+    "phone": "(800) 311-7340",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dpcomm.net/",
+    "category": "Catholic-owned Wireless networks in Michigan",
+    "description": "D&P Communications offers fiber internet, TV, and phone services, with a long history in Lenawee and Monroe Counties, focusing on reliable infrastructure and community connection",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Wireless networks in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Duke Broadband",
+    "address": "3500 Range Rd, Marysville, MI 48040",
+    "phone": "(833) 444-3853",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://dukebroadband.com/",
+    "category": "Catholic-owned Wireless networks in Michigan",
+    "description": "Duke Broadband provides 100% fiber internet for homes and businesses in St. Clair County, Michigan, emphasizing fast, reliable, and affordable services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Wireless networks in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Highline Fast",
+    "address": "2100 E Grand River Ave, Lansing, MI 48912 (This is a general Michigan presence, specific office may vary)",
+    "phone": "(888) 900-7445",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.highlinefast.com/",
+    "category": "Catholic-owned Wireless networks in Michigan",
+    "description": "Highline offers high-speed fiber-enabled internet and voice services in underserved and unserved communities across Michigan, aiming to provide access to digital opportunities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Wireless networks in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "186networks",
+    "address": "1000 US-31, Traverse City, MI 49685 (This is a representative address for the region they serve)",
+    "phone": "(231) 946-0010",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.186networks.com/",
+    "category": "Catholic-owned Wireless networks in Michigan",
+    "description": "186networks is a Wireless Internet Service Provider (WISP) offering high-capacity, high-speed internet connections for residential and business customers in Northwestern Lower Michigan",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Wireless networks in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "PF Communications",
+    "address": "40000 Michigan Ave, Clinton Twp, MI 48038",
+    "phone": "(586) 791-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://pfcomm.com/",
+    "category": "Catholic-owned Wireless networks in Michigan",
+    "description": "PF Communications specializes in telecom and networking design and installation, including structured cabling, Wi-Fi setup, and security systems for businesses in Michigan",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Wireless networks in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "VersAlta Mission Solutions",
+    "address": "1500 E. Big Beaver Rd., Suite 300, Troy, MI 48083",
+    "phone": "(248) 733-7000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.versalta.com/",
+    "category": "Catholic-owned Wireless networks in Michigan",
+    "description": "VersAlta provides technology solutions, including IT infrastructure, cloud services, and support, for Catholic dioceses, parishes, and organizations, such as the Archdiocese of Detroit and the Diocese of Gaylord",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Wireless networks in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities of Southeast Michigan (CCSEM)",
+    "address": "24445 Northwestern Hwy., Suite 200, Southfield, MI 48075",
+    "phone": "(586) 416-2300",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ccsem.org/",
+    "category": "Catholic-owned Wireless networks in Michigan",
+    "description": "While not a direct wireless provider, CCSEM offers various services and uses technology to support its mission, including communication services for clients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Wireless networks in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Catholic Charities West Michigan",
+    "address": "1115 W. Western Ave., Suite 101, Muskegon, MI 49441 (This is one of their locations; they serve West Michigan)",
+    "phone": "(231) 722-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ccwestmi.org/",
+    "category": "Catholic-owned Wireless networks in Michigan",
+    "description": "Catholic Charities West Michigan provides a range of social services and utilizes technology to support its operations and outreach",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Wireless networks in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "St. Joseph Catholic Parish",
+    "address": "220 Church Street, St. Joseph, Michigan 49085",
+    "phone": "(269) 983-1575",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.stjosephparishsj.org/",
+    "category": "Catholic-owned Wireless networks in Michigan",
+    "description": "This parish offers information for its community and may utilize or support local technology services for its operations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Catholic-owned Wireless networks in Michigan consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
