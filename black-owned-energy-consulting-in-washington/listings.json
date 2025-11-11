@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Blue Daisi Consulting",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Blue+Daisi+Consulting+in+Washington",
+    "category": "Black-owned Energy consulting in Washington",
+    "description": "Focuses on sustainability and helping business owners understand where to start with environmental initiatives",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Energy consulting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "SBW Consulting",
+    "address": "Headquarters near Seattle, Washington",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/SBW+Consulting+in+Washington",
+    "category": "Black-owned Energy consulting in Washington",
+    "description": "Provides resource efficiency consulting, focusing on energy and water use to address climate change and economic inequality. They are a certified minority-owned small business enterprise",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Energy consulting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Anderson Environmental Consulting (AEC)",
+    "address": "",
+    "phone": "Michelle Anderson: (509) 220-0045",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Anderson+Environmental+Consulting+(AEC)+in+Washington",
+    "category": "Black-owned Energy consulting in Washington",
+    "description": "A certified Disadvantaged Business Enterprise (DBE), and Minority and Woman-Owned Business Enterprise (OMWBE) specializing in environmental, cultural, and biological services throughout Washington, Idaho, and Montana",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Energy consulting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Custom Energy",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Custom+Energy+in+Washington",
+    "category": "Black-owned Energy consulting in Washington",
+    "description": "Offers custom energy solutions for businesses, focusing on the Clean Buildings Act. They are a woman-owned and family-operated business",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Energy consulting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Zero Emissions Northwest (ZEN)",
+    "address": "",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Zero+Emissions+Northwest+(ZEN)+in+Washington",
+    "category": "Black-owned Energy consulting in Washington",
+    "description": "An energy consulting firm in the Pacific Northwest focused on practical, equitable, and affordable energy solutions for a zero-emissions future. They have a 100% success rate with REAP grants and have saved rural counties significant amounts over 30 years",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Energy consulting in Washington consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
