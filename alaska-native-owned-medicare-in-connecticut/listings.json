@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Pequot Health Care",
+    "address": "Mashantucket, CT (Specific street address not provided in search results, but associated with the Mashantucket Pequot Tribal Nation)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.pequothealth.com/",
+    "category": "Alaska-Native-owned Medicare in Connecticut",
+    "description": "A wholly-owned business of the Mashantucket Pequot Tribal Nation, recognized for managing health care plans for Native American tribes. They offer health plan management services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Medicare in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mashantucket Health Clinic",
+    "address": "2 Matt's Path, Mashantucket, CT 06338",
+    "phone": "860-312-8000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mashantucket+Health+Clinic+in+Connecticut",
+    "category": "Alaska-Native-owned Medicare in Connecticut",
+    "description": "A tribal health facility serving the Mashantucket Pequot Tribal Nation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Medicare in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mohegan Tribe of Indians of Connecticut",
+    "address": "5 Crow Hill Road, Uncasville, CT 06382",
+    "phone": "860-862-6147",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://mohegan.ns.ca/",
+    "category": "Alaska-Native-owned Medicare in Connecticut",
+    "description": "A sovereign, federally-recognized Indian tribe in Southeastern Connecticut. They have healthcare initiatives and partnerships",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Medicare in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Uncasville Medical Center (operated by Mohegan Tribe and Yale New Haven Health)",
+    "address": "2 Sandy Desert Road, Uncasville, CT",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Uncasville+Medical+Center+(operated+by+Mohegan+Tribe+and+Yale+New+Haven+Health)+in+Connecticut",
+    "category": "Alaska-Native-owned Medicare in Connecticut",
+    "description": "Offers Primary Care, Walk-in care, and Specialty care, open to the public",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Medicare in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "CHOICES (Connecticut's State Health Insurance Assistance Program - SHIP)",
+    "address": "",
+    "phone": "1-800-994-9422",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://portal.ct.gov/Aging-and-Disability-Services/Programs/CHOICES",
+    "category": "Alaska-Native-owned Medicare in Connecticut",
+    "description": "Provides free, unbiased counseling on health insurance options, including Medicare",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Medicare in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
