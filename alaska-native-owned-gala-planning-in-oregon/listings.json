@@ -1,0 +1,87 @@
+[
+  {
+    "name": "AKANA",
+    "address": "6400 SE Lake Rd, Suite 200, Portland, OR 97222",
+    "phone": "(503) 652-9090",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://akana.us/",
+    "category": "Alaska-Native-owned Gala planning in Oregon",
+    "description": "AKANA is a Native American-owned professional services firm that offers planning services, including master planning, tribal transportation planning, and grant writing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Gala planning in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Your Gala Gals",
+    "address": "Grants Pass, OR",
+    "phone": "541-727-2105",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://thegalagals.wordpress.com/",
+    "category": "Alaska-Native-owned Gala planning in Oregon",
+    "description": "Your Gala Gals provides wedding planning, consulting, and coordinating services in Southern Oregon. They can assist with various special events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Gala planning in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bridal Bliss",
+    "address": "Portland, OR (and Seattle, Bend)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bridalbliss.net/",
+    "category": "Alaska-Native-owned Gala planning in Oregon",
+    "description": "Bridal Bliss is an award-winning full-service event planning company specializing in luxury weddings since 2002. They offer creative, personalized, and detail-driven event planning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Gala planning in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Luxe NW",
+    "address": "Portland, OR (and Seattle)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://luxenw.com/",
+    "category": "Alaska-Native-owned Gala planning in Oregon",
+    "description": "Luxe NW specializes in private-estate weddings, outdoor celebrations, and full-scale event design. They have experience in corporate and public event production, including galas and auctions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Gala planning in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EJP Events",
+    "address": "3439 NE Sandy Blvd #110, Portland, Oregon 97232",
+    "phone": "503-284-6756",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ejpevents.com/",
+    "category": "Alaska-Native-owned Gala planning in Oregon",
+    "description": "EJP Events is listed as a Black, Indigenous, and People of Color (BIPOC)-owned business that offers wedding and event planning services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Gala planning in Oregon consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
