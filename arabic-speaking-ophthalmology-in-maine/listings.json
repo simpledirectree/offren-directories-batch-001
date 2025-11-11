@@ -1,0 +1,19 @@
+[
+  {
+    "name": "MaineHealth Ophthalmology - Brunswick",
+    "address": "22 Station Ave, Suite 2A, Brunswick, ME 04011",
+    "phone": "207-729-7971",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mainehealth.org/provider/nour-maya-haddad-md",
+    "category": "Arabic-speaking Ophthalmology in Maine",
+    "description": "Dr. Nour Maya Haddad is an ophthalmologist who speaks Arabic, English, and French. She provides cataract surgery and has medical retina training",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Ophthalmology in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
