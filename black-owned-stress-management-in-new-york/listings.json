@@ -1,0 +1,172 @@
+[
+  {
+    "name": "HealHaus",
+    "address": "1082 Fulton Street, Brooklyn, NY 11238",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/HealHaus+New+York",
+    "category": "Black-owned Stress management in New-York",
+    "description": "A holistic health and healing space offering yoga, meditation, therapy, and workshops. They emphasize accessibility through donation-based events and a welcoming environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Stress management in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Harlem Wellness Center",
+    "address": "St. Mary's Episcopal Church, 521 W 126th St, New York, NY",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Harlem+Wellness+Center+New+York",
+    "category": "Black-owned Stress management in New-York",
+    "description": "A nonprofit offering free and low-cost wellness services, including movement, nutrition, and mindfulness classes",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Stress management in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Salt Suite Harlem",
+    "address": "181 Lenox Ave, New York, NY",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/The+Salt+Suite+Harlem+New+York",
+    "category": "Black-owned Stress management in New-York",
+    "description": "Harlem's first salt therapy (halotherapy) space, offering a natural way to clear lungs, skin, and mind",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Stress management in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Sacred Yoga NYC",
+    "address": "Pop-ups throughout Harlem",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Sacred+Yoga+NYC+New+York",
+    "category": "Black-owned Stress management in New-York",
+    "description": "A yoga practice run by Black women, focusing on gentle movement, affirmations, and ancestral energy work, with outdoor sessions in Marcus Garvey Park",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Stress management in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Harlem Chi Community Acupuncture",
+    "address": "360 W 125th St, 2nd Floor, New York, NY",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Harlem+Chi+Community+Acupuncture+New+York",
+    "category": "Black-owned Stress management in New-York",
+    "description": "Offers affordable, trauma-informed acupuncture for stress relief and balance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Stress management in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Life Wellness Center",
+    "address": "Bed-Stuy, Brooklyn",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Life+Wellness+Center+New+York",
+    "category": "Black-owned Stress management in New-York",
+    "description": "A massage and acupuncture studio/apothecary/plant shop focused on intentional self-care and community wellness",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Stress management in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wellness Tree Counseling LCSW, PLLC",
+    "address": "63-48 Alderton Street, Rego Park, New York, 11374",
+    "phone": "347-761-7325",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Wellness+Tree+Counseling+LCSW,+PLLC+New+York",
+    "category": "Black-owned Stress management in New-York",
+    "description": "A Black-owned and woman-led mental health and wellness practice offering therapy and holistic life coaching",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Stress management in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Therapy Brooklyn",
+    "address": "252 Java Street, Brooklyn, NY 11222",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Therapy+Brooklyn+New+York",
+    "category": "Black-owned Stress management in New-York",
+    "description": "A group practice with BIPOC clinicians offering individual, family, and couples therapy, with a sliding scale option",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Stress management in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Madison Park Psychological Services",
+    "address": "303 5th Avenue, Floor 20, Suite 2007, New York, NY 10016",
+    "phone": "212-506-5935",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Madison+Park+Psychological+Services+New+York",
+    "category": "Black-owned Stress management in New-York",
+    "description": "Offers counseling services with a multicultural team including Black therapists who provide culturally competent and compassionate care for various mental health concerns",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Stress management in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "KQH Mental Health Counseling, P.L.L.C.",
+    "address": "Not available",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/KQH+Mental+Health+Counseling,+P.L.L.C.+New+York",
+    "category": "Black-owned Stress management in New-York",
+    "description": "Provides therapy for women of color, focusing on self-love, self-care, and mental well-being",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Black-owned Stress management in New-York consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
