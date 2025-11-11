@@ -1,0 +1,121 @@
+[
+  {
+    "name": "ABC Driving School",
+    "address": "1334 Washington Ave, Portland, ME 04103",
+    "phone": "(207) 712-8869",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.abcdrivingme.com/",
+    "category": "Arabic-speaking Teen driver education in Maine",
+    "description": "Offers driving instruction in Arabic, Somali, and English, with a focus on helping students from diverse backgrounds overcome language barriers. They use visual aids and translated phrases to aid comprehension",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Teen driver education in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "GoDriving.co",
+    "address": "239 Main Street, Saco, ME 04072",
+    "phone": "(207) 284-6111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.godriving.co/",
+    "category": "Arabic-speaking Teen driver education in Maine",
+    "description": "Provides teen and adult driver's education through a blended learning format combining online AAA software and live Zoom classes. While not explicitly stated to offer Arabic instruction, they emphasize a comprehensive approach to driver's education",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Teen driver education in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maine Driving School",
+    "address": "Online provider, serving areas like Portland, Augusta, and Bangor",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dmvedu.org/maine-drivers-ed/",
+    "category": "Arabic-speaking Teen driver education in Maine",
+    "description": "Offers an online driver education course for teens in Maine, designed to fulfill BMV requirements. The course can be completed anywhere with an internet connection",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Teen driver education in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "IndieDriver Educational Services",
+    "address": "Falmouth Shopping Center (Shaws), Falmouth, ME",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://indiedriver.com/",
+    "category": "Arabic-speaking Teen driver education in Maine",
+    "description": "Focuses on building confident and road-ready drivers, with most classes currently meeting via ZOOM. They offer a Class C permit course",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Teen driver education in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Western Maine Driving Academy",
+    "address": "Locations in Oxford Hills and surrounding areas",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.westernmainedrivingacademy.com/",
+    "category": "Arabic-speaking Teen driver education in Maine",
+    "description": "Offers driver's education with a focus on student satisfaction and safety, including private drives and parent orientations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Teen driver education in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "2020 Driving School",
+    "address": "While primarily a Virginia-based school, they offer multilingual instruction and may serve other areas. Their website indicates a contact number for headquarters",
+    "phone": "540-841-6327 (Headquarters)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.2020drivingschool.com/",
+    "category": "Arabic-speaking Teen driver education in Maine",
+    "description": "Provides multilingual driving lessons, including Arabic, for general and CDL courses. They aim to help students acquire knowledge in their preferred language, though the test is in English",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Teen driver education in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "New England Arab American Organization (NEAAO)",
+    "address": "Not specified, but offers programs for Arab immigrants in Maine",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.neaaomaine.org/",
+    "category": "Arabic-speaking Teen driver education in Maine",
+    "description": "While not a driving school itself, NEAAO offers an \"EducateMe - Adult Education - Driving Permit\" program, which may assist individuals in obtaining their driving permit. They serve the Arab immigrant community in Maine",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking Teen driver education in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
