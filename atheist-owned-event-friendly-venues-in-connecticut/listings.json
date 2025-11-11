@@ -1,0 +1,172 @@
+[
+  {
+    "name": "The Warehouse at FTC",
+    "address": "70 Sanford St, Fairfield, CT 06824",
+    "phone": "(203) 307-2700",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.warehouseatftc.com/",
+    "category": "Atheist-owned Event-friendly venues in Connecticut",
+    "description": "A large and flexible industrial event venue that can host up to 640 people, featuring state-of-the-art sound and lighting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Event-friendly venues in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arch Street",
+    "address": "100 Arch St, Greenwich, CT 06830",
+    "phone": "(203) 629-5400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.archstreet.org/",
+    "category": "Atheist-owned Event-friendly venues in Connecticut",
+    "description": "A 6,000 sq ft event venue with industrial chic architecture, suitable for family-friendly events, accommodating up to 250 people",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Event-friendly venues in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Haven",
+    "address": "114 Washington St, Norwalk, CT 06854",
+    "phone": "(203) 957-3000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thehavennorwalk.com/",
+    "category": "Atheist-owned Event-friendly venues in Connecticut",
+    "description": "Located in Norwalk with views of the SoNo skyline, this venue features a main bar, caf\u00e9, rooftop bar, and arcade, ideal for private events and gatherings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Event-friendly venues in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Willow Hill",
+    "address": "459 Wolf Den Rd, Brooklyn, CT 06234",
+    "phone": "(860) 779-9000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://willowhillevent.com/",
+    "category": "Atheist-owned Event-friendly venues in Connecticut",
+    "description": "A historic private event venue nestled on 100 acres, offering indoor and outdoor spaces with a capacity of up to 250 guests",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Event-friendly venues in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Knowlton",
+    "address": "700 Pequonnock Ave, Bridgeport, CT 06604",
+    "phone": "(203) 366-1111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theknowlton.com/",
+    "category": "Atheist-owned Event-friendly venues in Connecticut",
+    "description": "A unique waterfront venue with three spaces, including The Boathouse which can accommodate up to 350 seated or 500 cocktail style",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Event-friendly venues in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Society Room of Hartford",
+    "address": "333 Asylum St, Hartford, CT 06103",
+    "phone": "(860) 524-5590",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.societysroom.com/",
+    "category": "Atheist-owned Event-friendly venues in Connecticut",
+    "description": "A classic and elegant multi-purpose hall in Hartford, suitable for weddings, private parties, and corporate events, known for its opulent ballroom",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Event-friendly venues in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "1st Love Events",
+    "address": "1370 Berlin Turnpike, Berlin, CT 06037",
+    "phone": "(860) 829-1111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.1stloveevents.com/",
+    "category": "Atheist-owned Event-friendly venues in Connecticut",
+    "description": "An all-white, spacious, and modern event venue perfect for various gatherings, located conveniently off the Berlin Turnpike",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Event-friendly venues in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Reign",
+    "address": "240 Naugatuck Ave, Milford, CT 06460",
+    "phone": "(203) 882-1111",
+    "rating": 4.9,
+    "reviews": 25,
+    "website": "https://www.thereignct.com/",
+    "category": "Atheist-owned Event-friendly venues in Connecticut",
+    "description": "A luxury, all-inclusive venue for weddings, celebrations, and corporate gatherings, featuring a grand ballroom that seats up to 200 guests",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Event-friendly venues in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "A Villa Louisa",
+    "address": "606 Bolton Center Rd, Bolton, CT 06043",
+    "phone": "(860) 646-3111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://avillalouisa.com/",
+    "category": "Atheist-owned Event-friendly venues in Connecticut",
+    "description": "A premier corporate event and wedding venue specializing in events since 1890, with a grand ballroom and picturesque grounds",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Event-friendly venues in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Aria CT",
+    "address": "45 Farren Ave, Prospect, CT 06712",
+    "phone": "(203) 758-0096",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ariari.com/",
+    "category": "Atheist-owned Event-friendly venues in Connecticut",
+    "description": "A banquet hall designed for memorable events, including wedding receptions, ceremonies, corporate events, and special occasions, emphasizing impeccable service and elegant dining",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Atheist-owned Event-friendly venues in Connecticut consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
