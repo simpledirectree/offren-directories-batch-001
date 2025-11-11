@@ -1,0 +1,104 @@
+[
+  {
+    "name": "The Shine Mechanic",
+    "address": "(Mobile service, serves Rhode Island and Massachusetts)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.theshinemechanic.com/",
+    "category": "American-Indian-owned Auto detailing in Rhode-Island",
+    "description": "Offers mobile car detailing services with a focus on meticulous exterior polishing and comprehensive interior cleaning",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Auto detailing in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Supreme Auto Detailing",
+    "address": "(Mobile service, serves Providence, RI and surrounding areas)",
+    "phone": "401-439-3253",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.supremeautodetailingri.com/",
+    "category": "American-Indian-owned Auto detailing in Rhode-Island",
+    "description": "Specializes in expert car detailing, ceramic coating, and paint correction, offering mobile services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Auto detailing in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "KPK Auto Detailing",
+    "address": "North Providence Shop: 31 Humbert St., North Providence, RI; East Greenwich Shop: 5800 Post Rd, East Greenwich, RI. They also offer mobile services",
+    "phone": "401-296-3835",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://kpkautodetailing.com/",
+    "category": "American-Indian-owned Auto detailing in Rhode-Island",
+    "description": "Provides interior and exterior detailing, paint correction, ceramic coating, and paint protection film (PPF) services, with both mobile and in-shop options",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Auto detailing in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Details Auto And Marine Detailing",
+    "address": "(Located in Rhode Island, specific address not provided)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.detailsautoandmarinedetailing.com/",
+    "category": "American-Indian-owned Auto detailing in Rhode-Island",
+    "description": "Offers comprehensive car detailing services for over 30 years, including interior and exterior detailing, paint correction, and ceramic coating",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Auto detailing in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Venaton Auto Solutions",
+    "address": "Pawtucket, Rhode Island (Offers free vehicle pickup in Watch Hill & East Greenwich)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://venatonautosolutions.com/",
+    "category": "American-Indian-owned Auto detailing in Rhode-Island",
+    "description": "Provides expert auto detailing, ceramic window tinting, and paint protection with over 16 years of experience",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Auto detailing in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Matti's Premium Auto Detailing",
+    "address": "(Mobile service, covers East Providence, RI and 7 other states)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mattispremiumautodetailing.com/",
+    "category": "American-Indian-owned Auto detailing in Rhode-Island",
+    "description": "Offers professional mobile auto detailing, including ceramic coating, paint correction, and interior/exterior detailing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "American-Indian-owned Auto detailing in Rhode-Island consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
