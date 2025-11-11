@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Jillyanna's Woodfired Cooking School",
+    "address": "Cape Porpoise, Maine (Specific address not publicly listed for classes)",
+    "phone": "(207) 200-8006",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.jillyannas.com/",
+    "category": "Baby-Boomer-owned In-home cooking in Maine",
+    "description": "Offers hands-on cooking classes focusing on wood-fired oven techniques, pizza, pasta, and more. Classes can be held in their teaching kitchen or on their patio",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned In-home cooking in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bravo Maine!",
+    "address": "Portland, Maine (Specific class locations may vary)",
+    "phone": "(207) 977-6332",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.bravomaine.com/",
+    "category": "Baby-Boomer-owned In-home cooking in Maine",
+    "description": "Offers a variety of cooking and baking classes, including French, Italian, and Japanese cuisines. They also host private team-building workshops",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned In-home cooking in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Armand's Kitchen",
+    "address": "Windham, ME",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.armandkitchen.com/",
+    "category": "Baby-Boomer-owned In-home cooking in Maine",
+    "description": "Offers intimate, hands-on cooking classes tailored to students of all ages, emphasizing skill development and the joy of cooking",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned In-home cooking in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Salt Water Farm Cooking School",
+    "address": "Lincolnville, ME",
+    "phone": "(207) 706-2432",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.saltwaterfarm.com/",
+    "category": "Baby-Boomer-owned In-home cooking in Maine",
+    "description": "Emphasizes in-person culinary education with classes focusing on the full sensory experience of cooking, using fresh, local ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned In-home cooking in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Maine Tasting Center",
+    "address": "506 Old Bath Rd, Wiscasset, ME 04578",
+    "phone": "(207) 558-5772",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mainetastingcenter.org/",
+    "category": "Baby-Boomer-owned In-home cooking in Maine",
+    "description": "Offers drop-in introductory programs and class series focusing on local ingredients and various cuisines, including Indian cooking",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned In-home cooking in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Spoondrift Kitchen",
+    "address": "Southern Maine and surrounding areas (operates in clients' homes)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.spoondriftkitchen.com/",
+    "category": "Baby-Boomer-owned In-home cooking in Maine",
+    "description": "Offers personal chef services, meal preparation, dinner parties, and private cooking classes in clients' homes, with a focus on local and globally inspired cuisines",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned In-home cooking in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mangia Kitchen Maine",
+    "address": "Not publicly listed, but offers private cooking classes",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mangia-kitchen-maine.com/",
+    "category": "Baby-Boomer-owned In-home cooking in Maine",
+    "description": "Offers private cooking classes with a focus on pasta-making, classic cooking techniques, and themed classes like \"Taste of Maine seafood.\"",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned In-home cooking in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Experience Maine Culinary",
+    "address": "Classes can be held in your home or at a local venue",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.experience-maine-culinary.com/",
+    "category": "Baby-Boomer-owned In-home cooking in Maine",
+    "description": "Connects clients with private chefs for tailor-made cooking classes, which can be held in homes or at venues, focusing on various culinary experiences from pasta making to seafood preparation",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned In-home cooking in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Central Lincoln County Adult Education (Cooking with BoomerTech Adventures)",
+    "address": "767 Main Street, Damariscotta, ME 04543",
+    "phone": "(207) 563-2811",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.clc.aos93.org/courses/cooking-with-boomertech-adventures/",
+    "category": "Baby-Boomer-owned In-home cooking in Maine",
+    "description": "Offers an online cooking class with instructors Chris, Jill, and Ed, covering various cuisines and techniques, including stir-fries, pasta, gnocchi, and desserts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned In-home cooking in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Chef & The Dish",
+    "address": "Offers private cooking classes via Skype, accessible to people in Portland, Maine",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.thechefandthedish.com/",
+    "category": "Baby-Boomer-owned In-home cooking in Maine",
+    "description": "Provides private cooking classes via Skype, allowing participants to learn from chefs worldwide in their own kitchens, covering a vast range of international cuisines",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned In-home cooking in Maine consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
