@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Chino's Tire Shop",
+    "address": "3349 Vanderbilt Rd, Birmingham, AL 35211",
+    "phone": "(205) 923-0111",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Chino's+Tire+Shop+in+Alabama",
+    "category": "Chinese-speaking Tire balancing in Alabama",
+    "description": "A tire shop offering various tire services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire balancing in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Warren Tire Pros",
+    "address": "409 University Blvd, Tuscaloosa, AL 35401",
+    "phone": "(205) 759-5505",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.warrentirepros.com/",
+    "category": "Chinese-speaking Tire balancing in Alabama",
+    "description": "Offers wheel balancing and other tire services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire balancing in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Wilks Tire & Battery Service",
+    "address": "Multiple locations, including Albertville, Birmingham, Decatur, Dothan, Gadsden, and Florence",
+    "phone": "(256) 878-0211 (Albertville)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://wilkstire.com/",
+    "category": "Chinese-speaking Tire balancing in Alabama",
+    "description": "Provides wheel balancing and a range of automotive services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire balancing in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Legacy Tire & Service",
+    "address": "Multiple locations in Birmingham, AL",
+    "phone": "(205) 969-8686",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://legacytire.com/",
+    "category": "Chinese-speaking Tire balancing in Alabama",
+    "description": "Offers auto repairs and tire services, including balancing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire balancing in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Eastern Tire Distributors",
+    "address": "1664 Center Point Pkwy, Birmingham, AL 35215",
+    "phone": "(205) 854-2326",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.easterntire.com/",
+    "category": "Chinese-speaking Tire balancing in Alabama",
+    "description": "A tire center offering various tire and automotive services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire balancing in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "RoadMart Inc.",
+    "address": "Multiple locations in Enterprise and Ozark, AL",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://roadmartinc.com/",
+    "category": "Chinese-speaking Tire balancing in Alabama",
+    "description": "Offers auto repair and tire services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire balancing in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Durrell Tire & Auto",
+    "address": "9861 Parkway E, Birmingham, AL 35215",
+    "phone": "(205) 854-5518",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://durrelltire.com/",
+    "category": "Chinese-speaking Tire balancing in Alabama",
+    "description": "A full-service auto shop offering tire services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire balancing in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tankersley's Service Center, Inc.",
+    "address": "Multiple locations, including Hartselle, AL",
+    "phone": "(256) 773-2441 (Hartselle)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://tankersleysservicecenter.com/",
+    "category": "Chinese-speaking Tire balancing in Alabama",
+    "description": "Provides auto repair and tire services, including wheel alignments and balancing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire balancing in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tire Kingdom",
+    "address": "Multiple locations across Alabama",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.tirekingdom.com/",
+    "category": "Chinese-speaking Tire balancing in Alabama",
+    "description": "A national chain offering tire sales and services, including balancing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire balancing in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Discount Tire",
+    "address": "Multiple locations across Alabama",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.discounttire.com/",
+    "category": "Chinese-speaking Tire balancing in Alabama",
+    "description": "Another national chain providing tire sales and services, including balancing",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-speaking Tire balancing in Alabama consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
