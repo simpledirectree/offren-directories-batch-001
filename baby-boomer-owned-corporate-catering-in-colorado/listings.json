@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Savory Catering Company",
+    "address": "2727 30th St, Boulder, CO 80301",
+    "phone": "(303) 440-0350",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.savorycatering.com/",
+    "category": "Baby-Boomer-owned Corporate catering in Colorado",
+    "description": "Full-service catering and event planning company offering flawless service, culinary delights, and presentations for various occasions, including corporate events",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Corporate catering in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Footers Catering & Events",
+    "address": "4450 E 49th Ave, Denver, CO 80216",
+    "phone": "(303) 762-1410",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.footerscatering.com/",
+    "category": "Baby-Boomer-owned Corporate catering in Colorado",
+    "description": "Premier catering and events team in Colorado, experienced in corporate events, offering full event coordination and on-site cooking",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Corporate catering in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Lunch Wired",
+    "address": "7200 E Hampden Ave, Denver, CO 80237",
+    "phone": "(303) 777-8444",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.lunchwired.com/",
+    "category": "Baby-Boomer-owned Corporate catering in Colorado",
+    "description": "Specializes in corporate catering and boxed lunches in the Denver Tech Center and surrounding areas, offering diverse menu options and timely delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Corporate catering in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Modern Catering",
+    "address": "3033 Blake St, Denver, CO 80205",
+    "phone": "(303) 296-0025",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.moderncatering.com/",
+    "category": "Baby-Boomer-owned Corporate catering in Colorado",
+    "description": "Offers award-winning corporate catering services across Denver's Front Range, with customized solutions for events of all sizes and a focus on quality and professionalism",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Corporate catering in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Occasions Catering",
+    "address": "500 E 70th Ave, Denver, CO 80229",
+    "phone": "(303) 789-0044",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.occasionscatering.com/",
+    "category": "Baby-Boomer-owned Corporate catering in Colorado",
+    "description": "Creates unforgettable culinary experiences with custom menus using seasonal ingredients, serving Denver, Boulder, and Colorado for weddings, corporate events, and social gatherings",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Corporate catering in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Colorado Catering Company",
+    "address": "10000 E. 47th Ave. Parkway, Denver, CO 80249",
+    "phone": "(303) 307-0000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://coloradocateringcompany.com/",
+    "category": "Baby-Boomer-owned Corporate catering in Colorado",
+    "description": "Denver's trusted catering company for 30 years, delivering incredible food for every taste, diet, and occasion, with professional service and customizable menus",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Corporate catering in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Three Tomatoes Catering",
+    "address": "4000 Adams St, Denver, CO 80216",
+    "phone": "(303) 433-3332",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.threetomatoes.com/",
+    "category": "Baby-Boomer-owned Corporate catering in Colorado",
+    "description": "Trusted choice for thousands of clients across the Denver Metro Area and Colorado since 1977, specializing in weddings, galas, intimate dinners, and large-scale sporting events with exceptional food and service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Corporate catering in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Silver Spoons Catering",
+    "address": "1000 S Jason St, Denver, CO 80223",
+    "phone": "(303) 356-9009",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.silverspoonscatering.com/",
+    "category": "Baby-Boomer-owned Corporate catering in Colorado",
+    "description": "Delivers stress-free catering planning, beautiful presentation, and unforgettable flavor for events ranging from elegant weddings to corporate events, serving Denver, Castle Rock, Littleton, and surrounding areas",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Corporate catering in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gourmet for Good",
+    "address": "3255 W Hampden Ave, Sheridan, CO 80110",
+    "phone": "(303) 762-1212",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.gourmetforgood.com/",
+    "category": "Baby-Boomer-owned Corporate catering in Colorado",
+    "description": "Premier corporate caterer in Denver, offering friendly, professional, and on-time catering services with a focus on fresh, made-from-scratch meals and efficient delivery",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Corporate catering in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Epicurean Catering",
+    "address": "1640 S. Abilene St, Aurora, CO 80012",
+    "phone": "(303) 777-8737",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.epicureancatering.com/",
+    "category": "Baby-Boomer-owned Corporate catering in Colorado",
+    "description": "Provides award-winning catering for corporate and social events, weddings, and sports facilities, with a focus on innovation, quality, and impeccable service for over 40 years",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Baby-Boomer-owned Corporate catering in Colorado consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
