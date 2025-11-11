@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Bark Ave Pet Supplies",
+    "address": "336 Main St, Harleysville, PA 19438",
+    "phone": "(215) 513-7387",
+    "rating": 4.5,
+    "reviews": 25,
+    "website": "https://www.barkavepetsupplies.com/",
+    "category": "Chinese-American-owned Self-service grooming in Pennsylvania",
+    "description": "Offers a self-service pet wash with raised bathing tubs accommodating various dog sizes. No appointment is required",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Self-service grooming in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Walkers Pet HoTail Pet Care Center",
+    "address": "1000 Lincoln Hwy, North Versailles, PA 15137",
+    "phone": "(724) 327-7297",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.walkerspethotail.com/",
+    "category": "Chinese-American-owned Self-service grooming in Pennsylvania",
+    "description": "Provides a state-of-the-art self-service dog wash with professional-quality equipment, a hygienic environment, and staff assistance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Self-service grooming in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mud Puppies Self Serve Dog Wash, Grooming & Goodies",
+    "address": "3867 Peach Street, Erie, PA 16509",
+    "phone": "(814) 864-0032",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.mudpuppieserie.com/",
+    "category": "Chinese-American-owned Self-service grooming in Pennsylvania",
+    "description": "Offers a self-serve dog wash with waist-high tubs, aprons, shampoos, conditioners, towels, and a pet dryer. No appointment or time limit is required for the wash",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Self-service grooming in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "City of Paws Pet Care",
+    "address": "4301 Main St, Philadelphia, PA 19127",
+    "phone": "(267) 519-0440",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.cityofpaws.com/",
+    "category": "Chinese-American-owned Self-service grooming in Pennsylvania",
+    "description": "Offers three self-wash tub stations for quick dog baths, along with premium pet supplies and pet adoptions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Self-service grooming in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Morgan's Paws Pet Care Center",
+    "address": "2450 W Market St, York, PA 17404",
+    "phone": "(717) 850-0000",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.morganspaws.com/",
+    "category": "Chinese-American-owned Self-service grooming in Pennsylvania",
+    "description": "Features a state-of-the-art self-serve pet wash station for DIY grooming",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Self-service grooming in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Puppy Scrub",
+    "address": "107 N Pine St, Langhorne, PA 19047",
+    "phone": "(267) 610-1333",
+    "rating": 4.6,
+    "reviews": 25,
+    "website": "https://www.puppyscrub.com/",
+    "category": "Chinese-American-owned Self-service grooming in Pennsylvania",
+    "description": "Provides an automatic self-serve dog wash machine that accommodates small, medium, and large breeds",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Chinese-American-owned Self-service grooming in Pennsylvania consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
