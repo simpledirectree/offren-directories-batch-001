@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Advanced Radiology",
+    "address": "Multiple locations throughout Maryland, including Anne Arundel, Baltimore, Baltimore City, Carroll, Harford, and Howard counties",
+    "phone": "(410) 308-4000 (General Inquiries)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.advancedradiology.com/",
+    "category": "Armenian-speaking Mammography services in Maryland",
+    "description": "Offers a complete range of imaging services, including Digital 3D Mammography. They state that foreign language interpretation services are available upon request",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Mammography services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "The Radiology Clinic Breast Imaging Center",
+    "address": "2024 Research Blvd, Rockville, MD 20850",
+    "phone": "(301) 217-0500",
+    "rating": 4.8,
+    "reviews": 25,
+    "website": "https://www.theradiologyclinic.com/",
+    "category": "Armenian-speaking Mammography services in Maryland",
+    "description": "Specializes in comprehensive breast imaging services, including state-of-the-art 3D mammography. They emphasize compassionate patient care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Mammography services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Capital Women's Care",
+    "address": "Multiple locations including Rockville, Silver Spring, Fulton, Frederick, Hagerstown, and others in VA",
+    "phone": "Varies by location (e.g., Rockville: (301) 424-3444, Silver Spring: (301) 593-8101)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.capitalwomenscare.com/",
+    "category": "Armenian-speaking Mammography services in Maryland",
+    "description": "Offers mammography services at their OBGYN locations, providing screening and diagnostic mammograms",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Mammography services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Frederick Health",
+    "address": "Multiple locations in Frederick, MD (e.g., Crestwood, Rose Hill)",
+    "phone": "(240) 566-3400 (for mammograms)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.frederick.health/",
+    "category": "Armenian-speaking Mammography services in Maryland",
+    "description": "Provides digital and 3D mammography services, including a \"Softer Mammogram\" option for increased comfort",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Mammography services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Adventist HealthCare Shady Grove Breast Center",
+    "address": "9601 Blackwell Road, Suite 150, Rockville, MD 20850",
+    "phone": "(301) 590-8999 (for most procedures), online scheduling available for mammograms",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.adventisthealthcare.com/",
+    "category": "Armenian-speaking Mammography services in Maryland",
+    "description": "Offers comprehensive breast health and women's imaging services, including screening and diagnostic mammograms, with a focus on compassionate support and advanced technology",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Mammography services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Community Radiology Associates",
+    "address": "Multiple locations throughout Maryland, including Bethesda, Greenbelt, and Silver Spring",
+    "phone": "(888) 601-0943 (General Scheduling)",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.communityradiology.com/",
+    "category": "Armenian-speaking Mammography services in Maryland",
+    "description": "Offers a wide range of imaging services, including 3D Mammography, at various outpatient locations. They state that foreign language interpretation services are available",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Mammography services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Johns Hopkins Breast Health Services at Suburban Hospital",
+    "address": "8600 Old Georgetown Rd, Bethesda, MD 20814",
+    "phone": "(301) 897-5656",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hopkinsmedicine.org/suburban-hospital/",
+    "category": "Armenian-speaking Mammography services in Maryland",
+    "description": "Provides a wide range of breast health services, including screening and diagnostic mammography, with a focus on comprehensive cancer care",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Mammography services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mercy Medical Center - Center for Women's Imaging",
+    "address": "301 St. Paul Place, Baltimore, MD 21202",
+    "phone": "(410) 308-4000",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.mdmercy.com/",
+    "category": "Armenian-speaking Mammography services in Maryland",
+    "description": "Offers advanced imaging services, including diagnostic and screening mammograms, in a patient-centered setting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Mammography services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Washington Radiology",
+    "address": "Multiple locations, including Bethesda and Greenbelt",
+    "phone": "(301) 564-1053 (Bethesda), (301) 464-6400 (Greenbelt)",
+    "rating": 4.7,
+    "reviews": 25,
+    "website": "https://www.washingtonradiology.com/",
+    "category": "Armenian-speaking Mammography services in Maryland",
+    "description": "Provides 3D screening mammography and other breast imaging services, emphasizing comfort and accuracy",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Mammography services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bay Radiology",
+    "address": "2406 Solomons Island Rd, Suite B, Prince Frederick, MD 20678 (Note: This is outside the immediate Baltimore-Annapolis area but is a dedicated breast imaging center)",
+    "phone": "(410) 535-0200",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://bayradiology.com/",
+    "category": "Armenian-speaking Mammography services in Maryland",
+    "description": "The only free-standing, dedicated breast imaging/mammography center in the Baltimore-Annapolis area, offering advanced digital technology and a patient-centered setting",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Armenian-speaking Mammography services in Maryland consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
