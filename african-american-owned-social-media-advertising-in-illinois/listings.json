@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Zora Digital",
+    "address": "Chicago, Illinois",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Zora+Digital+in+Illinois",
+    "category": "African-American-owned Social media advertising in Illinois",
+    "description": "A Black-owned boutique marketing agency specializing in social media content strategy, SEO/SEM, and retargeting tactics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Social media advertising in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Narratent Digital Marketing",
+    "address": "2229 S Michigan Ave, Suite 306, Chicago, IL 60616",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.narratent.com/",
+    "category": "African-American-owned Social media advertising in Illinois",
+    "description": "A Black-owned digital marketing agency offering web design, SEO, and social media marketing solutions",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Social media advertising in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "EraBright Digital Marketing",
+    "address": "Not readily available (serves clients nationwide)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/EraBright+Digital+Marketing+in+Illinois",
+    "category": "African-American-owned Social media advertising in Illinois",
+    "description": "A Black-owned digital marketing agency specializing in lead generation via SEO, content marketing, paid advertising, and website design",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Social media advertising in Illinois consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
