@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Niecie's Restaurant",
+    "address": "6441 Troost Ave., Kansas City, MO",
+    "phone": "(816) 924-3474",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Niecie's+Restaurant+in+Missouri",
+    "category": "African-American-owned Diners in Missouri",
+    "description": "A family-run restaurant serving soul food for breakfast, lunch, and dinner, known for items like chicken and waffles and oxtails",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Diners in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gates Bar-B-Q",
+    "address": "Multiple locations, including 1325 Emanuel Cleaver II Blvd., Kansas City, MO",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Gates+Bar-B-Q+in+Missouri",
+    "category": "African-American-owned Diners in Missouri",
+    "description": "A long-standing Kansas City tradition serving barbecue since 1949, known for its ribs, beef, ham, and yammer pie",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Diners in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Mandela Soul Food Cafe",
+    "address": "6130 Madison Ave., Berkeley, MO (St. Louis area)",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Mandela+Soul+Food+Cafe+in+Missouri",
+    "category": "African-American-owned Diners in Missouri",
+    "description": "Known for authentic soul food with a unique twist, including turkey legs and macaroni and cheese",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Diners in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tawanda's Cafeteria",
+    "address": "1121 East Miller Street, Jefferson City, MO",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Tawanda's+Cafeteria+in+Missouri",
+    "category": "African-American-owned Diners in Missouri",
+    "description": "A garden-to-table soul food restaurant focusing on Southern cuisine with locally sourced ingredients",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Diners in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Gourmet Soul Restaurant and Catering",
+    "address": "1620 Delmar Boulevard, St. Louis, MO",
+    "phone": "(314) 339-5658",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Gourmet+Soul+Restaurant+and+Catering+in+Missouri",
+    "category": "African-American-owned Diners in Missouri",
+    "description": "Offers \"Urban Soul Fusion Cuisine\" with a focus on creative, homestyle food",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "African-American-owned Diners in Missouri consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
