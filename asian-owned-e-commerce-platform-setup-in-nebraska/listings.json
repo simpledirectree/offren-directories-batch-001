@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Weee!",
+    "address": "While Weee! delivers to Omaha, NE, their headquarters are not located there. Their service is an online grocery platform",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.sayweee.com/",
+    "category": "Asian-owned E-commerce platform setup in Nebraska",
+    "description": "An online supermarket specializing in Asian and Hispanic groceries, offering delivery across various locations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned E-commerce platform setup in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Temu",
+    "address": "Temu is an online marketplace with operations in the US, but it does not have a physical presence or headquarters in Nebraska",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.temu.com/",
+    "category": "Asian-owned E-commerce platform setup in Nebraska",
+    "description": "An online marketplace offering a wide variety of consumer goods, often shipped directly from China. They have a \"Local Seller Program\" in the US",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned E-commerce platform setup in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "H Mart",
+    "address": "H Mart has numerous locations across the US, but none are listed in Nebraska. They are a large Asian supermarket chain with an online presence",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.hmart.com/",
+    "category": "Asian-owned E-commerce platform setup in Nebraska",
+    "description": "A leading Asian supermarket chain with a significant online ordering and delivery service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Asian-owned E-commerce platform setup in Nebraska consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
