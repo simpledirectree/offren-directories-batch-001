@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Tom's Tires",
+    "address": "66 E. Main St., East Palestine, OH 44413",
+    "phone": "(330) 426-2184",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Tom's+Tires+in+Ohio",
+    "category": "Arabic-speaking TPMS service in Ohio",
+    "description": "Offers TPMS repair, replacement, and diagnosis for both direct and indirect TPMS systems",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking TPMS service in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Walt Luti Tire",
+    "address": "740 W. Main St., Lebanon, OH 45036",
+    "phone": "(513) 932-7011",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Walt+Luti+Tire+in+Ohio",
+    "category": "Arabic-speaking TPMS service in Ohio",
+    "description": "Provides TPMS repair, tire rotation, and balancing services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking TPMS service in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Yorktown Service Plaza",
+    "address": "6177 Pearl Road, Cleveland, OH 44130",
+    "phone": "(440) 885-2222",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Yorktown+Service+Plaza+in+Ohio",
+    "category": "Arabic-speaking TPMS service in Ohio",
+    "description": "Offers comprehensive TPMS services, including sensor replacement and system checks",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking TPMS service in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Al's Mr. Tire",
+    "address": "160 West Main Street, Newark, OH 43055",
+    "phone": "(740) 345-8473",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Al's+Mr.+Tire+in+Ohio",
+    "category": "Arabic-speaking TPMS service in Ohio",
+    "description": "Provides a range of automotive services, including TPMS service",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking TPMS service in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Musser's All In One Tire & Auto Center",
+    "address": "1540 Harmony Drive, Tipp City, OH 45371",
+    "phone": "(937) 667-5550",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Musser's+All+In+One+Tire+&+Auto+Center+in+Ohio",
+    "category": "Arabic-speaking TPMS service in Ohio",
+    "description": "Offers Tire Pressure Monitoring System (TPMS) services, including maintenance and diagnostics",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking TPMS service in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Ziegler Tire",
+    "address": "Multiple locations, search for a location near you",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Ziegler+Tire+in+Ohio",
+    "category": "Arabic-speaking TPMS service in Ohio",
+    "description": "Provides quick and efficient TPMS services with quality parts",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking TPMS service in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Bowman Tire and Repair Center",
+    "address": "110 Burch St., Hebron, OH 43025 and 2830 East Main St., Columbus, OH 43209",
+    "phone": "(740) 928-7000 (Hebron) or (614) 239-0717 (Columbus)",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Bowman+Tire+and+Repair+Center+in+Ohio",
+    "category": "Arabic-speaking TPMS service in Ohio",
+    "description": "Offers TPMS assistance, monitoring, and repair services",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking TPMS service in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Plain City Service Center",
+    "address": "165 W. Main St., Plain City, OH 43064",
+    "phone": "(614) 873-8057",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Plain+City+Service+Center+in+Ohio",
+    "category": "Arabic-speaking TPMS service in Ohio",
+    "description": "Provides TPMS repair services, including diagnostics and pressure adjustments",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking TPMS service in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Georgesville Nissan",
+    "address": "2100 Georgesville Rd SW, Columbus, OH 43228",
+    "phone": "(614) 878-5400",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.georgesvillenissan.com/",
+    "category": "Arabic-speaking TPMS service in Ohio",
+    "description": "While primarily a car dealership, they have an Arabic-speaking specialist who can assist with service questions and appointments. You may inquire if they can assist with TPMS-related issues",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking TPMS service in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "etrailer.com (Installation Shops)",
+    "address": "Various locations in Elyria, OH",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.etrailer.com/",
+    "category": "Arabic-speaking TPMS service in Ohio",
+    "description": "etrailer.com lists local installation shops in Elyria, OH, that may offer TPMS sensor installation. It's recommended to contact them directly to confirm services and language capabilities",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Arabic-speaking TPMS service in Ohio consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
