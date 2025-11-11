@@ -1,0 +1,19 @@
+[
+  {
+    "name": "ANC Accounting",
+    "address": "101 Dunkel St, Suite 407, Fairbanks, Alaska 99701, USA",
+    "phone": "+1 907-452-2288",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.ancaccounting.com/",
+    "category": "Alaska-Native-owned Management accounting in Massachusetts",
+    "description": "This firm specializes in accounting and management services for Village Corporations, offering support in accounting, bookkeeping, payroll, administrative support, shareholder records, training, and annual meetings. Their core value is to empower their people to become leaders in their own organizations",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Alaska-Native-owned Management accounting in Massachusetts consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
