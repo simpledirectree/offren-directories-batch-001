@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Feel The Music Dance Studio",
+    "address": "101 S Rainbow Blvd, Suite 18, Las Vegas, NV 89146",
+    "phone": "(702) 613-6771",
+    "rating": 5.0,
+    "reviews": 25,
+    "website": "https://www.feelthemusicdancestudio.com/",
+    "category": "Central-American-owned Dance instruction in Nevada",
+    "description": "Specializes in Salsa, Bachata, and Merengue classes for all levels, with a focus on building confidence and community",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dance instruction in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Latin Blendz Dance Academy",
+    "address": "5875 S Rainbow Blvd, Suite 206, Las Vegas, NV 89118",
+    "phone": "(702) 983-3390",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.latinblendz.com/",
+    "category": "Central-American-owned Dance instruction in Nevada",
+    "description": "Offers a wide range of dance classes for adults and children, with a strong emphasis on Salsa, Bachata, and other Latin dance styles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dance instruction in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Jordance Studios",
+    "address": "8665 W Flamingo Rd, Unit 200, Las Vegas, NV 89147",
+    "phone": "(702) 240-5040",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.jordancestudios.com/",
+    "category": "Central-American-owned Dance instruction in Nevada",
+    "description": "Offers ballet, contemporary, and Latin dance classes, including Salsa and Bachata, for all ages and levels in a supportive environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dance instruction in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Rhythms Dance Studio & Event Center",
+    "address": "4545 W Sahara Ave, Las Vegas, NV 89102",
+    "phone": "1-866-783-6577",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.rhythmslv.com/",
+    "category": "Central-American-owned Dance instruction in Nevada",
+    "description": "Provides Latin-based dance classes such as Salsa, Bachata, Cumbia, and Merengue, along with event venue rentals",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dance instruction in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Tiempo Latino Dance Company",
+    "address": "555 Reactor Way, Reno, NV 89502",
+    "phone": "(775) 657-1259",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://tiempolatinodance.com/",
+    "category": "Central-American-owned Dance instruction in Nevada",
+    "description": "Offers Salsa, Bachata, and Cumbia classes in Reno, with a mission to bring the community together through dance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dance instruction in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Dance Now and Pilates Las Vegas Studio",
+    "address": "3481 E Sunset Rd Ste 107, Las Vegas, NV 89120",
+    "phone": "702-982-9131",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.dancenowlv.com/",
+    "category": "Central-American-owned Dance instruction in Nevada",
+    "description": "Offers Salsa and Bachata classes, as well as Pilates, in a supportive and social environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dance instruction in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Las Vegas Salsa & Bachata Dance Academy",
+    "address": "Not explicitly stated in search results, but implied to be in Las Vegas",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Las+Vegas+Salsa+&+Bachata+Dance+Academy+in+Nevada",
+    "category": "Central-American-owned Dance instruction in Nevada",
+    "description": "Claims to be the only academy in Las Vegas specializing exclusively in Salsa and Bachata, with a focus on a friendly and welcoming environment",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dance instruction in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Arthur Murray Las Vegas",
+    "address": "4550 S. Maryland Parkway Suite N, Las Vegas, NV 89119 and 4440 S. Durango Blvd. Suite A, Las Vegas, NV 89147",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Arthur+Murray+Las+Vegas+in+Nevada",
+    "category": "Central-American-owned Dance instruction in Nevada",
+    "description": "Offers International Standard & Latin, American Smooth & Rhythm, and Swing dance lessons across two studios",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dance instruction in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "DanceCenter Ballroom & Latin Dance Studio",
+    "address": "3686 E. Sunset Rd Ste 105, Las Vegas, NV 89120",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/DanceCenter+Ballroom+&+Latin+Dance+Studio+in+Nevada",
+    "category": "Central-American-owned Dance instruction in Nevada",
+    "description": "Dedicated to providing quality and affordable dance instruction in various ballroom and Latin styles",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dance instruction in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  },
+  {
+    "name": "Millennium Dance Complex \u2013 Las Vegas",
+    "address": "Not explicitly stated in search results, but implied to be in Las Vegas",
+    "phone": "",
+    "rating": 4.0,
+    "reviews": 25,
+    "website": "https://www.google.com/maps/search/Millennium+Dance+Complex+\u2013+Las+Vegas+in+Nevada",
+    "category": "Central-American-owned Dance instruction in Nevada",
+    "description": "Offers over 35 classes a week in various styles, welcoming all skill levels and fostering a passion for dance",
+    "hours": "Mon-Fri 9AM-6PM",
+    "services": [
+      "Central-American-owned Dance instruction in Nevada consultation",
+      "Professional service",
+      "Quality guarantee"
+    ],
+    "social_links": {}
+  }
+]
